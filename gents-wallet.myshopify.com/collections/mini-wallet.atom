@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gents-wallet.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gents-wallet.myshopify.com/collections/mini-wallet.atom"/>
+  <title>gents wallet</title>
+  <updated>2021-02-12T11:23:06+05:00</updated>
+  <author>
+    <name>gents wallet</name>
+  </author>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+    <published>2021-02-12T11:23:06+05:00</published>
+    <updated>2021-02-12T11:23:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/slim-wallet-purse-pu-leather-men"/>
+    <title>Slim Wallet Purse PU Leather Men</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1647305888.jpg?v=1613110989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Origin:</strong> CN(Origin)<br><strong>Wallet Length:</strong> Short<br><strong>Item Weight:</strong> 50g<br><strong>Lining Material:</strong> Polyester<br><strong>Item Height:</strong> 2cm<br><strong>Material Composition:</strong> PU leather<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Casual<br><strong>Interior:</strong> Interior Slot Pocket<br><strong>Interior:</strong> Cell Phone Pocket<br><strong>Interior:</strong> Interior Zipper Pocket<br><strong>Interior:</strong> Interior Key Chain Holder<br><strong>Interior:</strong> Interior Compartment<br><strong>Interior:</strong> Zipper Pouch<br><strong>Interior:</strong> Coin Pocket<br><strong>Interior:</strong> Passcard Pocket<br><strong>Interior:</strong> Note Compartment<br><strong>Interior:</strong> Photo Holder<br><strong>Interior:</strong> Card Holder<br><strong>Item Width:</strong> 9cm<br><strong>Gender:</strong> Unisex<br><strong>Item Length:</strong> 12cm<br><strong>Item Type:</strong> Wallet<br><strong>Closure Type:</strong> zipper<br><strong>Wallets:</strong> Standard Wallets<br><strong>Decoration:</strong> NONE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Black / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Sky blue / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Sky blue / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-sky-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Royal blue / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-royal-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Royal blue / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-royal-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Coffee / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-coffee-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258251071660</id>
+      <title>Coffee / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42377104-coffee-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258250776748</id>
+    <published>2021-02-12T11:22:37+05:00</published>
+    <updated>2021-02-12T11:22:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/mini-slim-wallet-male-casual-leather"/>
+    <title>Mini Slim Wallet Male Casual Leather</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1601938294.jpg?v=1613110960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Origin:</strong> CN(Origin)<br><strong>Wallet Length:</strong> Short<br><strong>Item Weight:</strong> 80G<br><strong>Lining Material:</strong> Synthetic Leather<br><strong>Item Height:</strong> 10.8cm<br><strong>Material Composition:</strong> PU<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258250776748</id>
+      <title>Black / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41325907-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258250776748</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41325907-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258250776748</id>
+      <title>Coffee / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41325907-coffee-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258250776748</id>
+      <title>Coffee / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41325907-coffee-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+    <published>2021-02-12T11:22:04+05:00</published>
+    <updated>2021-02-12T11:22:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/aluminum-metal-credit-business-mini-card"/>
+    <title>Aluminum Metal Credit Business Mini Card</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1654395468.jpg?v=1613110933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Origin:</strong> CN(Origin)<br><strong>Interior:</strong> Coin Pocket<br><strong>Interior:</strong> Note Compartment<br><strong>Interior:</strong> Card Holder<br><strong>Wallet Length:</strong> Short<br><strong>Item Width:</strong> 1cm<br><strong>Gender:</strong> Unisex<br><strong>Item Weight:</strong> 0.065kg<br><strong>Lining Material:</strong> Synthetic Leather<br><strong>Item Length:</strong> 6.5inch<br><strong>Item Height:</strong> 9.5inch<br><strong>Closure Type:</strong> No Zipper<br><strong>Wallets:</strong> Standard Wallets<br><strong>Pattern Type:</strong> Other<br><strong>Decoration:</strong> NONE<br><strong>Style:</strong> Fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>K9109 Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-k9109-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>K9109 Coffee</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-k9109-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>K9109 Black</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-k9109-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Black X12A</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-black-x12a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>eyu Black X12C</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-eyu-black-x12c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>K9109 Brown</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-k9109-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>K9109 Red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-k9109-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>eyu Brown X12C</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-eyu-brown-x12c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Red X12A</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-red-x12a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Yellow X12B</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-yellow-x12b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>shepi Gray X12C</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-shepi-gray-x12c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>YM003 Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-ym003-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Apricoot 9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-apricoot-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>YM003 Brown</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-ym003-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>YM003 Gary</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-ym003-gary</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Apricot X12B</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-apricot-x12b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Brown X12A</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-brown-x12a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>X12Ctanxian Black</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-x12ctanxian-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Brown X12B</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-brown-x12b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Green X12B</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-green-x12b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Blue X12B</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-blue-x12b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Coffee X12A</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-coffee-x12a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Blue X12A</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-blue-x12a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Blue 9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-blue-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Coffee 9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-coffee-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Black 9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-black-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Carbon Black 9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-carbon-black-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Red  9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-red-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249859244</id>
+      <title>Gray 9810</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>34475001-gray-9810</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258249695404</id>
+    <published>2021-02-12T11:21:47+05:00</published>
+    <updated>2021-02-12T11:21:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/super-slim-soft-wallet-100-sheepskin"/>
+    <title>Super Slim Soft Wallet 100% Sheepskin</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-842709339.jpg?v=1613110910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> Genuine Leather<br><strong>Genuine Leather Type:</strong> Cow Leather<br><strong>Gender:</strong> WOMEN<br><strong>Origin:</strong> CN(Origin)<br><strong>Pattern Type:</strong> Solid<br><strong>Item Width:</strong> 8.2cm<br><strong>Item Length:</strong> 10.5cm<br><strong>Item Type:</strong> Card &amp; ID Holders<br><strong>Closure Type:</strong> No Zipper<br><strong>Style:</strong> Casual<br><strong>Shape:</strong> Pillow<br><strong>Item Weight:</strong> 0.35kg<br><strong>Use:</strong> Credit Card<br><strong>Material Composition:</strong> PU<br><strong>Support:</strong> Wholesale, Dropshipping, Retail<br><strong>Gender:</strong> Men, Women, Male, Female, Lady, Couple<br><strong>Occasion:</strong> Casual, Daily, Commute, Travel<br><strong>Type1:</strong> Classic Style Wallet<br><strong>Type2:</strong> Short Male Purse<br><strong>Type3:</strong> Fashion Business Card Holder<br><strong>Type4:</strong> High-Quality Mini Card Wallet<br><strong>Type5:</strong> Simple Solid Color Wallets<br><strong>Type6:</strong> Travel Passport Card Holder Case<br><strong>Type7:</strong> Portable Driver License Holder Pouch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249695404</id>
+      <title>Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>21381830-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258249695404</id>
+      <title>coffee</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>21381830-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258248581292</id>
+    <published>2021-02-12T11:20:50+05:00</published>
+    <updated>2021-02-12T11:20:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/vintage-mens-genuine-leather"/>
+    <title>Vintage Men&apos;s Genuine Leather</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-931297383.jpg?v=1613110853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> Genuine Leather<br><strong>Genuine Leather Type:</strong> Cow Leather<br><strong>Gender:</strong> MEN<br><strong>Origin:</strong> CN(Origin)<br><strong>Pattern Type:</strong> Solid<br><strong>Item Width:</strong> 7.5cm<br><strong>Item Length:</strong> 10.5cm<br><strong>Item Type:</strong> Card &amp; ID Holders<br><strong>Closure Type:</strong> No Zipper<br><strong>Style:</strong> vintage<br><strong>Shape:</strong> Pillow<br><strong>Item Weight:</strong> 21g<br><strong>Use:</strong> Credit Card<br><strong>Material Composition:</strong> Cowhide leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248581292</id>
+      <title>Cow leather Coffee</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>24826394-cow-leather-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248581292</id>
+      <title>Sheepskin Black</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>24826394-sheepskin-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248581292</id>
+      <title>Cow leather Brown</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>24826394-cow-leather-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248581292</id>
+      <title>Light Brown</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>24826394-light-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248581292</id>
+      <title>Dark Coffee</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>24826394-dark-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258248286380</id>
+    <published>2021-02-12T11:20:28+05:00</published>
+    <updated>2021-02-12T11:20:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/ultra-thin-men-male-pu-leather-wallet"/>
+    <title>Ultra Thin Men Male PU Leather wallet</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1673458416.jpg?v=1613110829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Origin:</strong> CN(Origin)<br><strong>Wallet Length:</strong> Short<br><strong>Item Weight:</strong> 50g<br><strong>Lining Material:</strong> Synthetic Leather<br><strong>Item Height:</strong> 7.5inch<br><strong>Material Composition:</strong> PU leather<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Fashion<br><strong>Interior:</strong> Zipper Pouch<br><strong>Interior:</strong> Coin Pocket<br><strong>Interior:</strong> Note Compartment<br><strong>Interior:</strong> Card Holder<br><strong>Item Width:</strong> 0.7cm<br><strong>Gender:</strong> MEN<br><strong>Item Length:</strong> 10.5inch<br><strong>Closure Type:</strong> No Zipper<br><strong>Wallets:</strong> Mini Wallets<br><strong>Decoration:</strong> NONE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248286380</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39594457-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248286380</id>
+      <title>Purple</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39594457-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248286380</id>
+      <title>Gray</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39594457-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248286380</id>
+      <title>Brown</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39594457-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258248286380</id>
+      <title>Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39594457-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

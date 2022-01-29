@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rareviewz.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rareviewz.myshopify.com/collections/metal.atom"/>
+  <title>RareViewz</title>
+  <updated>2020-07-14T02:47:39-04:00</updated>
+  <author>
+    <name>RareViewz</name>
+  </author>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+    <published>2020-07-14T02:47:39-04:00</published>
+    <updated>2020-07-14T02:47:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/black-retro-round-steampunk-sunglasses-women"/>
+    <title>Round Steampunk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Long Keeper Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/2019-Black-Retro-Round-Steampunk-Sunglasses-Women-Metal-Frame-Side-Shield-UV400-Sunglasses-Men-Classic-Vintage.jpg?v=1617346279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Long Keeper Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>black grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gun grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gold grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gold brown</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>brown brown</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>silver silver</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>blue silver</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>black red</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381811962011</id>
+    <published>2020-07-14T02:33:25-04:00</published>
+    <updated>2020-07-14T02:33:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/round-sunglasses-men-women-retro-brand-designer-classic"/>
+    <title>Classic Round Shaped Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Shop4377075 Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/Imwete-Round-Sunglasses-Men-Women-Retro-Brand-Designer-Classic-Pink-Sun-Glasses-Small-Circle-Sunglass-Reflective.jpg?v=1617346460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shop4377075 Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rayban</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811962011</id>
+      <title>Blue</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811962011</id>
+      <title>Black</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>71:193</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811962011</id>
+      <title>Pink</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811962011</id>
+      <title>Silver</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>73:350853</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811962011</id>
+      <title>Gold</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>73:350850</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+    <published>2020-07-14T02:33:00-04:00</published>
+    <updated>2020-07-14T02:33:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/round-steampunk-sunglasses-men-women-metal-frame"/>
+    <title>Men Women Metal Frame Round Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>RSSELDN Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/RSSELDN-Round-Steampunk-Sunglasses-Men-Women-Metal-Frame-Vintage-Circle-Clear-Red-Sunglasses-for-Women-Brand.jpg?v=1617346613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RSSELDN Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rayban</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>02</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>08</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>03</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>01</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>04</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>05</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>07</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:350850</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381811273883</id>
+      <title>06</title>
+      <s:price currency="USD">21.58</s:price>
+      <s:sku>73:200002984</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+    <published>2020-07-14T02:21:55-04:00</published>
+    <updated>2020-07-14T02:21:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/classic-polarized-sunglasses-men-women-retro-brand"/>
+    <title>Classic Polarized Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>yooske Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/YOOSKE-Classic-Polarized-Sunglasses-Men-Women-Retro-Brand-Designer-High-Quality-Sun-Glasses-Female-Male-Fashion.jpg?v=1617343309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>yooske Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>polarized</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO1</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO2</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO3</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO4</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO5</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO6</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:29</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO7</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO8</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381782241435</id>
+      <title>NO9</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+</feed>

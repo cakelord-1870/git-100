@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://circle-women.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://circle-women.myshopify.com/collections/baggy.atom"/>
+  <title>Circle Women</title>
+  <updated>2020-07-29T01:44:33-04:00</updated>
+  <author>
+    <name>Circle Women</name>
+  </author>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495387652260</id>
+    <published>2020-07-29T01:44:33-04:00</published>
+    <updated>2020-07-29T01:44:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/big-pockets-straight-baggy-jeans"/>
+    <title>Big Pockets Straight Baggy Jeans</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1161173841.jpg?v=1596001477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Length:</strong> Full Length<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Item Type:</strong> JEANS<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Streetwear<br><strong>Fabric Type:</strong> Softener<br><strong>Waist Type:</strong> High<br><strong>Closure Type:</strong> Button Fly<br><strong>Decoration:</strong> Button<br><strong>Decoration:</strong> Pockets<br><strong>Jeans Style:</strong> Cargo Pants<br><strong>Fit Type:</strong> Loose<br><strong>Wash:</strong> Light</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495387652260</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">43.12</s:price>
+      <s:sku>30744941-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495387652260</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">43.12</s:price>
+      <s:sku>30744941-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495387652260</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">43.12</s:price>
+      <s:sku>30744941-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495382769828</id>
+    <published>2020-07-29T01:43:48-04:00</published>
+    <updated>2020-07-29T01:43:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/vintage-light-blue-denim-high-waist"/>
+    <title>Vintage light blue denim high waist</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1457857549.jpg?v=1596001436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Length:</strong> Ankle-Length Pants<br><strong>Age:</strong> Ages 16-28 Years Old<br><strong>Item Type:</strong> JEANS<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Casual<br><strong>Fabric Type:</strong> Softener<br><strong>Waist Type:</strong> High<br><strong>Closure Type:</strong> Button Fly<br><strong>Decoration:</strong> Embroidery<br><strong>Jeans Style:</strong> Straight<br><strong>Fit Type:</strong> REGULAR<br><strong>Wash:</strong> Medium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495382769828</id>
+      <title>light blue / S</title>
+      <s:price currency="USD">33.18</s:price>
+      <s:sku>38247855-light-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495382769828</id>
+      <title>light blue / M</title>
+      <s:price currency="USD">33.18</s:price>
+      <s:sku>38247855-light-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495382769828</id>
+      <title>light blue / XS</title>
+      <s:price currency="USD">33.18</s:price>
+      <s:sku>38247855-light-blue-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495382769828</id>
+      <title>light blue / L</title>
+      <s:price currency="USD">33.18</s:price>
+      <s:sku>38247855-light-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495382769828</id>
+      <title>light blue / XL</title>
+      <s:price currency="USD">33.18</s:price>
+      <s:sku>38247855-light-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495378509988</id>
+    <published>2020-07-29T01:43:07-04:00</published>
+    <updated>2020-07-29T01:43:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/straight-baggy-blue-jeans"/>
+    <title>Straight Baggy Blue Jeans</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1319942762.jpg?v=1596001396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.94 - 37.86
+            <a href="https://circle-women.myshopify.com/products/straight-baggy-blue-jeans">(56 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Length:</strong> Ankle-Length Pants<br><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Casual<br><strong>Item Type:</strong> JEANS<br><strong>Fabric Type:</strong> Softener<br><strong>Jeans Style:</strong> Straight<br><strong>Fit Type:</strong> Loose<br><strong>Wash:</strong> Light<br><strong>Gender:</strong> WOMEN<br><strong>Waist Type:</strong> High<br><strong>Decoration:</strong> HOLE<br><strong>Decoration:</strong> Ripped<br><strong>Closure Type:</strong> Zipper Fly<br><strong>Size:</strong> 26.27.28.29.30.31.32<br><strong>1:</strong> White jeans<br><strong>2:</strong> Ripped jeans for women<br><strong>3:</strong> boyfriend jeans<br><strong>4:</strong> jeans with high waist<br><strong>5:</strong> Straight jeans<br><strong>6:</strong> Black jeans</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-ripped-black-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-ripped-black-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-ripped-black-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-ripped-black-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-ripped-black-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-ripped-beige-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-ripped-black-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped black / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-ripped-black-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-ripped-retro-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-ripped-retro-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-ripped-retro-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-ripped-retro-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-retro-normal-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-retro-normal-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-ripped-retro-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-retro-normal-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-ripped-beige-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-ripped-beige-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-ripped-beige-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-ripped-beige-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-ripped-retro-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped Retro / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-ripped-retro-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-ripped-beige-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Ripped beige / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-ripped-beige-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-light-blue-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-dark-blue-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-light-blue-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-light-blue-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-dark-blue-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-dark-blue-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-dark-blue-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-dark-blue-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-retro-normal-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-retro-normal-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-retro-normal-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Retro Normal / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-retro-normal-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-light-blue-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-light-blue-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-light-blue-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Light blue / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-light-blue-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-beige-normal-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-beige-normal-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-black-normal-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-beige-normal-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-beige-normal-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-beige-normal-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-beige-normal-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Beige Normal / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-beige-normal-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 32</title>
+      <s:price currency="USD">37.86</s:price>
+      <s:sku>30401625-black-normal-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 31</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-black-normal-31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-dark-blue-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Dark blue / 26</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-dark-blue-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 28</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-black-normal-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 27</title>
+      <s:price currency="USD">33.94</s:price>
+      <s:sku>30401625-black-normal-27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 30</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>30401625-black-normal-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495378509988</id>
+      <title>Black Normal / 29</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>30401625-black-normal-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,45 @@
+/*Back to top*/
+/*Initial wp-smooth-scroll id style without any position*/
+#wp-smooth-scroll
+{
+	opacity: .8;
+	cursor: pointer; 
+	background-image: url('../images/wp-smooth-scroll.png');
+	background-position: 66px 55px;
+	height: 55px; 
+	width: 66px;
+	outline: 0;
+	visibility:visible;
+	z-index:9999;
+}
+/*wp-smooth-scroll id hover effect*/
+#wp-smooth-scroll:hover
+{
+	background-position: 0% 0%;
+	opacity: 1.0;
+}
+/*All three positions*/
+.leftbtt
+{
+	position: fixed; 
+	bottom: 5px; 
+	left: 5px;
+}
+.midbtt
+{
+	position: fixed; 
+	bottom: 5px;  
+	left: 48%;
+}
+.rightbtt
+{
+	position: fixed; 
+	bottom: 5px;  
+	right: 5px;
+}
+/*Hide wp-smooth-scroll in smaller screen*/
+@media only screen and (max-width: 640px) {
+	#wp-smooth-scroll{
+	display: none;	
+	}
+}

@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makeupvion.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makeupvion.myshopify.com/collections/makeup-brush.atom"/>
+  <title>Makeupvion</title>
+  <updated>2021-09-13T11:11:10+05:00</updated>
+  <author>
+    <name>Makeupvion</name>
+  </author>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855111901370</id>
+    <published>2021-09-13T11:11:10+05:00</published>
+    <updated>2021-09-13T11:11:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/professional-makeup-brush-kit"/>
+    <title>Professional Makeup Brush Kit</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-970657330.jpg?v=1631513472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Makeup Brushes<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> Combo<br><strong>Brush Material:</strong> Synthetic Hair<br><strong>Quantity:</strong> 15 Pcs/Set<br><strong>Size:</strong> 15pcs Cosmetic Brush Set<br><strong>Used With:</strong> Sets &amp; Kits<br><strong>Handle Material:</strong> Wood<br><strong>Item Type:</strong> Makeup Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brushes</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855111901370</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26232785-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855111901370</id>
+      <title>Purple / Russian Federation</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26232785-purple-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855111901370</id>
+      <title>Purple / Czech Republic</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26232785-purple-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+    <published>2021-09-13T11:05:13+05:00</published>
+    <updated>2021-09-13T11:05:13+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/cosmetic-brushes-set"/>
+    <title>Cosmetic Brushes set</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1507231589.jpg?v=1631513130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Makeup Brushes<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> Combo<br><strong>Brush Material:</strong> Synthetic Hair<br><strong>Quantity:</strong> 32pcs<br><strong>Size:</strong> regular<br><strong>Used With:</strong> Sets &amp; Kits<br><strong>Handle Material:</strong> Wood<br><strong>Item Type:</strong> Makeup Brush<br><strong>foundation brush lip brush:</strong> soft hair blending color hair</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brushes</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Black / Czech Republic</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-black-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Black / Russian Federation</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-black-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Blue / Czech Republic</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-blue-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Gold / Czech Republic</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-gold-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Gold / Russian Federation</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-gold-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Pink / Russian Federation</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-pink-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Purple / Czech Republic</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-purple-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Purple / Russian Federation</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-purple-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Blue / Russian Federation</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Pink / Czech Republic</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-pink-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855101284538</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>39583763-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+    <published>2021-09-13T10:51:17+05:00</published>
+    <updated>2021-09-13T10:51:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/10pcs-crystal-handle-makeup-brushes"/>
+    <title>10pcs Crystal Handle Makeup Brushes</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1422487422.jpg?v=1631512282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Makeup Brushes<br>
+        <strong>Price: </strong>
+            10.19 - 13.06
+            <a href="https://makeupvion.myshopify.com/products/10pcs-crystal-handle-makeup-brushes">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> Combo<br><strong>Brush Material:</strong> Synthetic Hair<br><strong>Quantity:</strong> 10PCS<br><strong>Size:</strong> normal brush<br><strong>Used With:</strong> Sets &amp; Kits<br><strong>Handle Material:</strong> Plastic<br><strong>Item Type:</strong> Makeup Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brushes</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>white / Russian Federation</title>
+      <s:price currency="USD">10.19</s:price>
+      <s:sku>36034071-white-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Purple / Russian Federation</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-purple-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>white / Czech Republic</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-white-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>white / United States</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Blue / Czech Republic</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-blue-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Blue / Russian Federation</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Purple / Czech Republic</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-purple-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>sky blue / United States</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>sky blue / Czech Republic</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-sky-blue-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Red / Czech Republic</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-red-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>Red / Russian Federation</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-red-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855090503866</id>
+      <title>sky blue / Russian Federation</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>36034071-sky-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855048364218</id>
+    <published>2021-09-13T10:01:50+05:00</published>
+    <updated>2021-09-13T10:01:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/15pcs-womens-makeup-brushes-set"/>
+    <title>15Pcs Women&apos;s Makeup Brushes Set</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1429510535.jpg?v=1631509316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Makeup Brushes<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brush Material:</strong> Synthetic Hair<br><strong>Quantity:</strong> 15 Pcs/Set<br><strong>Size:</strong> 15pcs Cosmetic Brush Set<br><strong>Used With:</strong> Sets &amp; Kits<br><strong>Handle Material:</strong> Wood<br><strong>Item Type:</strong> Makeup Brush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brushes</s:tag>
+    <s:tag>Set</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855048364218</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35013373-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855048364218</id>
+      <title>Purple / Czech Republic</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35013373-purple-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855048364218</id>
+      <title>Purple / SPAIN</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35013373-purple-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855048364218</id>
+      <title>Purple / Russian Federation</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>35013373-purple-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+    <published>2021-09-13T09:58:51+05:00</published>
+    <updated>2021-09-13T09:58:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/24pcs-makeup-brushes-set"/>
+    <title>24Pcs Makeup Brushes Set</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1368996884.jpg?v=1631509141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Makeup Brushes<br>
+        <strong>Price: </strong>
+            12.80 - 16.92
+            <a href="https://makeupvion.myshopify.com/products/24pcs-makeup-brushes-set">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Brush Material:</strong> Synthetic Hair<br><strong>Quantity:</strong> 12/18/24pcs<br><strong>Size:</strong> SILVER BAG<br><strong>Used With:</strong> Sets &amp; Kits<br><strong>Handle Material:</strong> Wood<br><strong>Item Type:</strong> Makeup Brush<br><strong>24pcs Professional Cosmetic brush:</strong> Makeup Brush Set Tool Kit + Pouch Bag<br><strong>Brush Type:</strong> Concealer BrushAngle Brush Powder Brush<br><strong>Eye Shadow Brush:</strong> Angled Brow &amp; Liner Brush<br><strong>PU leather bag includes:</strong> 24 pcs functional brush<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brushes</s:tag>
+    <s:tag>Set</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>Light Yellow / Czech Republic</title>
+      <s:price currency="USD">16.92</s:price>
+      <s:sku>21203609-light-yellow-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>Light Yellow / United States</title>
+      <s:price currency="USD">16.92</s:price>
+      <s:sku>21203609-light-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>k-597BK / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>21203609-k-597bk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>k-597BK / Russian Federation</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>21203609-k-597bk-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>k-597 / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>21203609-k-597-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>k-597 / Russian Federation</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>21203609-k-597-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>k-596WD / United States</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>21203609-k-596wd-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855047446714</id>
+      <title>k-596WD / Russian Federation</title>
+      <s:price currency="USD">12.80</s:price>
+      <s:sku>21203609-k-596wd-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+    <published>2021-09-10T16:48:17+05:00</published>
+    <updated>2021-09-10T16:48:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/32pcs-professional-makeup-brushes"/>
+    <title>32Pcs Professional Makeup Brushes</title>
+    <s:type>Makeup Brushes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1825226729.jpg?v=1631274501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Makeup Brushes<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> Combo<br><strong>Brush Material:</strong> Synthetic Hair<br><strong>Quantity:</strong> 32pcs<br><strong>Size:</strong> brand<br><strong>Used With:</strong> Sets &amp; Kits<br><strong>Handle Material:</strong> Wood<br><strong>Item Type:</strong> Makeup Brush<br><strong>bag color:</strong> black<br><strong>Type:</strong> women makeup brushes kits foundation brushes tool<br><strong>Type 2:</strong> facial power lip eyes brown makeup kits Professional Tools Set<br><strong>weight:</strong> 250g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brushes</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-398LG / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-398lg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>k-395LG / Czech Republic</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-395lg-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>k-395LG / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-395lg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-399LG / Czech Republic</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-399lg-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-396LG / Czech Republic</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-396lg-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-396LG / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-396lg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-399LG / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-399lg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-394LG / Czech Republic</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-394lg-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-397LG / Czech Republic</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-397lg-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-397LG / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-397lg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-394LG / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-394lg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6850427519162</id>
+      <title>K-394LG / Russian Federation</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>19855579-k-394lg-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

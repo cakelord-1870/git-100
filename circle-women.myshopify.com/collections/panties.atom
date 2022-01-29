@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://circle-women.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://circle-women.myshopify.com/collections/panties.atom"/>
+  <title>Circle Women</title>
+  <updated>2020-07-29T03:01:43-04:00</updated>
+  <author>
+    <name>Circle Women</name>
+  </author>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495878746276</id>
+    <published>2020-07-29T03:01:43-04:00</published>
+    <updated>2020-07-29T03:01:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/new-women-safety-shorts-panties"/>
+    <title>New Women Safety Shorts Panties</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1488055205.jpg?v=1596006112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> ModaL<br><strong>Material:</strong> COTTON<br><strong>Feature:</strong> Breathable<br><strong>Item Type:</strong> Safety Short Pants<br><strong>Gender:</strong> WOMEN<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Item Type:</strong> High Waist Control Panties</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black lace edge / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-lace-edge-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black lace edge / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-lace-edge-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White lace edge / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-lace-edge-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White lace edge / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-lace-edge-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin lace edge / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-lace-edge-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin lace edge / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-lace-edge-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin lace edge / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-lace-edge-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black lace edge / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-lace-edge-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black Shorts Pants / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-shorts-pants-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black  Shorts Pants / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-shorts-pants-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black Shorts Pants / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-shorts-pants-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin  Shorts Pants / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-shorts-pants-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black Shorts Pants / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-shorts-pants-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin  Shorts Pants / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-shorts-pants-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White  Shorts Pants / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-shorts-pants-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin  Shorts Pants / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-shorts-pants-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White lace edge / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-lace-edge-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin Shorts Pants / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-shorts-pants-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin Shorts Pants / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-shorts-pants-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Skin Shorts Pants / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-skin-shorts-pants-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White  Shorts Pants 1 / L</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-shorts-pants-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White  Shorts Pants / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-shorts-pants-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black  Shorts Pants / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-shorts-pants-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White  Shorts Pants 1 / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-shorts-pants-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White  Shorts Pants / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-shorts-pants-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>White  Shorts Pants 1 / XXL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-white-shorts-pants-1-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495878746276</id>
+      <title>Black  Shorts Pants / XL</title>
+      <s:price currency="USD">11.47</s:price>
+      <s:sku>39037629-black-shorts-pants-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495872782500</id>
+    <published>2020-07-29T03:00:45-04:00</published>
+    <updated>2020-07-29T03:00:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/women-lace-panties-large-sizes"/>
+    <title>Women Lace Panties Large Sizes</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1236324514.jpg?v=1596006054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Spandex<br><strong>Material:</strong> Polyester<br><strong>Feature:</strong> INVISIBLE<br><strong>Feature:</strong> Seamless<br><strong>Item Type:</strong> Safety Short Pants<br><strong>Gender:</strong> WOMEN<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / L / XXL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-l-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / G / L</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-g-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / G / XL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-g-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / G / XXL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-g-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / B / L</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-b-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / B / XL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / B / XXL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-b-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / R / L</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-r-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / R / XL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-r-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / R / XXL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-r-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / W / L</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-w-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / W / XL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-w-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / W / XXL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-w-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / L / L</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-l-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495872782500</id>
+      <title>United States / L / XL</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>29907330-united-states-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495869571236</id>
+    <published>2020-07-29T03:00:12-04:00</published>
+    <updated>2020-07-29T03:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/women-safety-shorts-panties"/>
+    <title>Women Safety Shorts Panties</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1397717626.jpg?v=1596006016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Spandex<br><strong>Material:</strong> Nylon<br><strong>Feature:</strong> Slimming<br><strong>Feature:</strong> Seamless<br><strong>Feature:</strong> Plus Size<br><strong>Feature:</strong> Breathable<br><strong>Item Type:</strong> Safety Short Pants<br><strong>Gender:</strong> WOMEN<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Size:</strong> M , L , XL<br><strong>Color:</strong> Skin , Black , White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics / L</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics / XL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 1 / L</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 1 / XL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 2 / L</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 2 / XL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-2-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics / XXL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics / XXXL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 1 / XXL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-1-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 1 / XXXL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-1-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 2 / XXL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-2-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495869571236</id>
+      <title>as pics 2 / XXXL</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>36728273-as-pics-2-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495864852644</id>
+    <published>2020-07-29T02:59:26-04:00</published>
+    <updated>2020-07-29T02:59:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/sexy-summer-thin-lace-panties"/>
+    <title>Sexy Summer Thin Lace Panties</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1428946983.jpg?v=1596005973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Spandex<br><strong>Material:</strong> Polyester<br><strong>Item Type:</strong> Safety Short Pants<br><strong>Gender:</strong> WOMEN<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / L</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / M</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>Black / S</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / XL</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / L</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / M</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495864852644</id>
+      <title>White / S</title>
+      <s:price currency="USD">13.69</s:price>
+      <s:sku>33176277-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

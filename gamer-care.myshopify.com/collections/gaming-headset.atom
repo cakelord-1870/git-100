@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gamer-care.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gamer-care.myshopify.com/collections/gaming-headset.atom"/>
+  <title>Gamer care</title>
+  <updated>2021-05-25T11:39:29+05:00</updated>
+  <author>
+    <name>Gamer care</name>
+  </author>
+  <entry>
+    <id>https://gamer-care.myshopify.com/products/6619918008526</id>
+    <published>2021-05-25T11:39:29+05:00</published>
+    <updated>2021-05-25T11:39:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/products/game-wired-headphones"/>
+    <title>Game Wired Headphones</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamer care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/0893/0510/products/product-image-1669945358.jpg?v=1621936380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamer care<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Vocalism Principle:</strong> Dynamic<br><strong>Control Button:</strong> No<br><strong>Active Noise-Cancellation:</strong> No<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 108dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> No<br><strong>Line Length:</strong> 2.2m<br><strong>Support APP:</strong> No<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> Common Headphone<br><strong>Connectors:</strong> USB<br><strong>Earcups Type:</strong> Sealed<br><strong>Waterproof:</strong> No<br><strong>Frequency Response Range:</strong> 20 - 20000Hz<br><strong>With Microphone:</strong> Yes<br><strong>Features:</strong> With Microphone<br><strong>Compatible:</strong> PC/Switch/PS3/4</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:tag>Headphone</s:tag>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619918008526</id>
+      <title>USB Version</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>38433208-usb-version-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619918008526</id>
+      <title>3.5mm Version</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>38433208-3-5mm-version-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamer-care.myshopify.com/products/6619916501198</id>
+    <published>2021-05-25T11:37:42+05:00</published>
+    <updated>2021-05-25T11:37:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/products/driver-usb-wired-gamer-headset"/>
+    <title>Driver USB Wired Gamer Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamer care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/0893/0510/products/product-image-1704331155.jpg?v=1621936412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamer care<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Vocalism Principle:</strong> Dynamic<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> No<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Line Length:</strong> 0.22m<br><strong>Function:</strong> For Internet Bar<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> Common Headphone<br><strong>Number Of Drivers:</strong> 2<br><strong>Plug Type:</strong> Line Type<br><strong>Package List:</strong> User Manual<br><strong>Impedance Range:</strong> from 33 to 100 Ω<br><strong>Connectors:</strong> USB<br><strong>Headphone Pads Material:</strong> Synthetic Leather<br><strong>Support Memory Card:</strong> No<br><strong>Driver Diameter:</strong> 53mm<br><strong>Frequency Response Range:</strong> 20 - 20000Hz<br><strong>With Microphone:</strong> Yes<br><strong>Features:</strong> With Microphone<br><strong>Charging Method:</strong> CABLE<br><strong>Magnet Type:</strong> Ferrite</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:tag>Headphone</s:tag>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619916501198</id>
+      <title>USB Version</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>40118938-usb-version-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619916501198</id>
+      <title>3.5mm Version</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>40118938-3-5mm-version-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamer-care.myshopify.com/products/6619916304590</id>
+    <published>2021-05-25T11:35:54+05:00</published>
+    <updated>2021-05-25T11:35:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/products/gaming-wired-headsets"/>
+    <title>Gaming Wired Headsets</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamer care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/0893/0510/products/product-image-1754185841.jpg?v=1621936456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamer care<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            31.52 - 31.88
+            <a href="https://gamer-care.myshopify.com/products/gaming-wired-headsets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Vocalism Principle:</strong> Balanced Armature<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 104±3dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> Yes<br><strong>Line Length:</strong> 2.0m<br><strong>Support APP:</strong> Yes<br><strong>Function:</strong> Monitor Headphone<br><strong>Function:</strong> for Video Game<br><strong>Connectors:</strong> USB<br><strong>Support Memory Card:</strong> Yes<br><strong>Resistance:</strong> 32Ω<br><strong>Waterproof:</strong> No<br><strong>With Microphone:</strong> Yes<br><strong>Mic Dimension:</strong> 6.0*5.0mm<br><strong>Plug:</strong> 3.5mm plugs for mic and headset/audio</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:tag>Headphone</s:tag>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619916304590</id>
+      <title>red</title>
+      <s:price currency="USD">31.72</s:price>
+      <s:sku>43744174-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619916304590</id>
+      <title>blue</title>
+      <s:price currency="USD">31.52</s:price>
+      <s:sku>43744174-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619916304590</id>
+      <title>white</title>
+      <s:price currency="USD">31.88</s:price>
+      <s:sku>43744174-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamer-care.myshopify.com/products/6619914797262</id>
+    <published>2021-05-25T11:33:53+05:00</published>
+    <updated>2021-05-25T11:33:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/products/portable-gaming-headset"/>
+    <title>Portable Gaming Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamer care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/0893/0510/products/product-image-1704947758.jpg?v=1621936485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamer care<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Vocalism Principle:</strong> Dynamic<br><strong>Control Button:</strong> No<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> No<br><strong>Sensitivity:</strong> /dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> No<br><strong>Line Length:</strong> /m<br><strong>Function:</strong> for Video Game<br><strong>Plug Type:</strong> Line Type<br><strong>Connectors:</strong> 3.5mm<br><strong>Resistance:</strong> /Ω<br><strong>Waterproof:</strong> No<br><strong>With Microphone:</strong> No<br><strong>Wholesale:</strong> Support<br><strong>Feature 1:</strong> wired headphones with microphone<br><strong>Feature 2:</strong> For Internet Bar<br><strong>Feature 3:</strong> Monitor Headphone<br><strong>Feature 4:</strong> for Video Game<br><strong>Feature 5:</strong> Active Noice Cancelling<br><strong>Feature 6:</strong> Wired Headset With Mic Gifts<br><strong>Feature 7:</strong> PS4 Gaming headphones<br><strong>Feature 8:</strong> fones de jogos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:tag>Headphone</s:tag>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914797262</id>
+      <title>White</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43985610-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914797262</id>
+      <title>Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43985610-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914797262</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43985610-dark-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914797262</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43985610-light-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914797262</id>
+      <title>Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43985610-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamer-care.myshopify.com/products/6619914600654</id>
+    <published>2021-05-25T11:31:56+05:00</published>
+    <updated>2021-05-25T11:31:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/products/magnetic-gaming-earphones"/>
+    <title>Magnetic Gaming Earphones</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamer care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/0893/0510/products/product-image-1681821579.jpg?v=1621936516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamer care<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> In-ear<br><strong>Certification:</strong> NONE<br><strong>Vocalism Principle:</strong> Hybrid technology<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wireless<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 103±3dB<br><strong>Wireless Type:</strong> bluetooth<br><strong>Is wireless:</strong> Yes<br><strong>Max Output:</strong> 0mW<br><strong>Line Length:</strong> 0.6m<br><strong>Support APP:</strong> Yes<br><strong>Function:</strong> Sport<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> HiFi Headphone<br><strong>Function:</strong> For Mobile Phone<br><strong>Number Of Drivers:</strong> 2<br><strong>Plug Type:</strong> Line Type<br><strong>Package List:</strong> User Manual<br><strong>Impedance Range:</strong> up to 32 Ω<br><strong>Connectors:</strong> None<br><strong>Earcups Type:</strong> Semi-open<br><strong>Headphone Pads Material:</strong> SILICONE<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Codecs:</strong> Apt-X<br><strong>Support Memory Card:</strong> No<br><strong>Driver Diameter:</strong> 0.6mm<br><strong>Resistance:</strong> 32Ω<br><strong>Waterproof:</strong> Yes<br><strong>Frequency Response Range:</strong> 20 - 2200Hz<br><strong>Total Harmonic Distortion:</strong> 1%<br><strong>With Microphone:</strong> Yes<br><strong>Features:</strong> With Microphone<br><strong>Features:</strong> Active Noice Cancelling<br><strong>Charging Method:</strong> Wireless<br><strong>Magnet Type:</strong> Ferrite<br><strong>Earphones 1:</strong> Inear Wired Control Earbud<br><strong>Earphones 2:</strong> HD Stereo Bass Headphones<br><strong>Earphones 3:</strong> For iphone huawei xiaomi vivo oppo<br><strong>Earphones 4:</strong> for iPhone HTC Redmi Mobile Phone MP3 MP4<br><strong>Earphones 5:</strong> Universal Earphone<br><strong>Earphones 6:</strong> auriculares headphones<br><strong>Earphones 7:</strong> Microphone, Voice control, Portable<br><strong>Earphones 8:</strong> For Samsung S6 Xiaomi Phone Computer<br><strong>Dropshipping:</strong> Support<br><strong>Wholesale:</strong> Support</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:tag>Headphone</s:tag>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914600654</id>
+      <title>Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43347512-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914600654</id>
+      <title>Black Red</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43347512-black-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamer-care.myshopify.com/products/6619914436814</id>
+    <published>2021-05-25T11:29:59+05:00</published>
+    <updated>2021-05-25T11:29:59+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamer-care.myshopify.com/products/noise-reduction-gaming-headsets"/>
+    <title>Noise Reduction Gaming Headsets</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamer care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0572/0893/0510/products/product-image-1686008721.jpg?v=1621936533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamer care<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> In-ear<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 108dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> No<br><strong>Max Output:</strong> 0mW<br><strong>Line Length:</strong> 1.2mm<br><strong>Support APP:</strong> No<br><strong>Function:</strong> For Mobile Phone<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> HiFi Headphone<br><strong>Function:</strong> Common Headphone<br><strong>Number Of Drivers:</strong> 2<br><strong>Plug Type:</strong> L Bending<br><strong>Impedance Range:</strong> up to 32 Ω<br><strong>Connectors:</strong> 3.5mm<br><strong>Earcups Type:</strong> Sealed<br><strong>Headphone Pads Material:</strong> Other<br><strong>Bluetooth Version:</strong> Other<br><strong>Support Memory Card:</strong> No<br><strong>Driver Diameter:</strong> 2mm<br><strong>Resistance:</strong> 32Ω<br><strong>Waterproof:</strong> Yes<br><strong>Frequency Response Range:</strong> 13 - 21500Hz<br><strong>Total Harmonic Distortion:</strong> 1%<br><strong>With Microphone:</strong> Yes<br><strong>Charging Method:</strong> CABLE<br><strong>Magnet Type:</strong> Other<br><strong>is_customized:</strong> No<br><strong>Feature1:</strong> Side-mounted sound guide holet<br><strong>Feature2:</strong> Second generation Memory Foam<br><strong>Feature3:</strong> Magnetic absorption<br><strong>Feature4:</strong> Noise reduction dual microphones, optimized noise reduction</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:tag>Headphone</s:tag>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914436814</id>
+      <title>G6 Red</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43474909-g6-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914436814</id>
+      <title>G6 Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43474909-g6-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914436814</id>
+      <title>G9 Green</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43474909-g9-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914436814</id>
+      <title>G6 Green</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43474909-g6-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamer-care.myshopify.com/products/6619914436814</id>
+      <title>G9 Red</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43474909-g9-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gamingconquer.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gamingconquer.myshopify.com/collections/gaming-headset.atom"/>
+  <title>Gamingconquer</title>
+  <updated>2021-05-26T12:17:54+05:00</updated>
+  <author>
+    <name>Gamingconquer</name>
+  </author>
+  <entry>
+    <id>https://gamingconquer.myshopify.com/products/6811361771679</id>
+    <published>2021-05-26T12:17:54+05:00</published>
+    <updated>2021-05-26T12:17:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/products/gaming-headset-with-microphone"/>
+    <title>Gaming Headset with Microphone</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamingconquer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/1815/5167/products/product-image-1669945353.jpg?v=1622020946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamingconquer<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Control Button:</strong> No<br><strong>Active Noise-Cancellation:</strong> No<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 108dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> No<br><strong>Line Length:</strong> 2.2m<br><strong>Support APP:</strong> No<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> Common Headphone<br><strong>Connectors:</strong> USB<br><strong>Earcups Type:</strong> Sealed<br><strong>Waterproof:</strong> No<br><strong>Frequency Response Range:</strong> 20 - 20000Hz<br><strong>With Microphone:</strong> Yes<br><strong>Features:</strong> With Microphone<br><strong>Compatible:</strong> PC/Switch/PS3/4</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811361771679</id>
+      <title>USB Version</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>38433208-usb-version-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811361771679</id>
+      <title>USB with Holder</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>38433208-usb-with-holder-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811361771679</id>
+      <title>3.5mm Version</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>38433208-3-5mm-version-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811361771679</id>
+      <title>3.5mm with Holder</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>38433208-3-5mm-with-holder-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamingconquer.myshopify.com/products/6811359641759</id>
+    <published>2021-05-26T12:16:04+05:00</published>
+    <updated>2021-05-26T12:16:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/products/microphone-sound-gaming-headset"/>
+    <title>Microphone Sound Gaming headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamingconquer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/1815/5167/products/product-image-1754185841.jpg?v=1622020969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamingconquer<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 104±3dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> Yes<br><strong>Line Length:</strong> 2.0m<br><strong>Support APP:</strong> Yes<br><strong>Function:</strong> Monitor Headphone<br><strong>Function:</strong> for Video Game<br><strong>Connectors:</strong> USB<br><strong>Support Memory Card:</strong> Yes<br><strong>Resistance:</strong> 32Ω<br><strong>Waterproof:</strong> No<br><strong>With Microphone:</strong> Yes<br><strong>Mic Dimension:</strong> 6.0*5.0mm<br><strong>Plug:</strong> 3.5mm plugs for mic and headset/audio</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811359641759</id>
+      <title>blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43744174-blue-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811359641759</id>
+      <title>red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43744174-red-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811359641759</id>
+      <title>white</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43744174-white-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamingconquer.myshopify.com/products/6811355873439</id>
+    <published>2021-05-26T12:12:58+05:00</published>
+    <updated>2021-05-26T12:12:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/products/driver-usb-wired-gamer-headset"/>
+    <title>Driver USB Wired Gamer Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamingconquer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/1815/5167/products/product-image-1704331156.jpg?v=1622021014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamingconquer<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Control Button:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Line Length:</strong> 0.22m<br><strong>Function:</strong> For Internet Bar<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> Common Headphone<br><strong>Plug Type:</strong> Line Type<br><strong>Package List:</strong> User Manual<br><strong>Driver Diameter:</strong> 53mm<br><strong>With Microphone:</strong> Yes<br><strong>Features:</strong> With Microphone<br><strong>Charging Method:</strong> CABLE<br><strong>Magnet Type:</strong> Ferrite</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811355873439</id>
+      <title>3.5mm Version</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>40118938-3-5mm-version-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811355873439</id>
+      <title>USB Version</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>40118938-usb-version-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamingconquer.myshopify.com/products/6811354038431</id>
+    <published>2021-05-26T12:11:30+05:00</published>
+    <updated>2021-05-26T12:11:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/products/noise-reduction-headsets"/>
+    <title>Noise Reduction Headsets</title>
+    <s:type>Earphone</s:type>
+    <s:vendor>Gamingconquer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/1815/5167/products/product-image-1686008721.jpg?v=1622021035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamingconquer<br>
+        <strong>Type: </strong>Earphone<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> In-ear<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 108dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> No<br><strong>Max Output:</strong> 0mW<br><strong>Line Length:</strong> 1.2mm<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> HiFi Headphone<br><strong>Function:</strong> Common Headphone<br><strong>Connectors:</strong> 3.5mm<br><strong>Bluetooth Version:</strong> Other<br><strong>Driver Diameter:</strong> 2mm<br><strong>Resistance:</strong> 32Ω<br><strong>Waterproof:</strong> Yes<br><strong>Frequency Response Range:</strong> 13 - 21500Hz<br><strong>Total Harmonic Distortion:</strong> 1%<br><strong>Magnet Type:</strong> Other<br><strong>is_customized:</strong> No<br><strong>Feature1:</strong> Side-mounted sound guide holet<br><strong>Feature2:</strong> Second generation Memory Foam<br><strong>Feature3:</strong> Magnetic absorption<br><strong>Feature4:</strong> Noise reduction dual microphones, optimized noise reduction</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earphone</s:tag>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811354038431</id>
+      <title>G6 Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43474909-g6-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811354038431</id>
+      <title>G6 Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43474909-g6-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811354038431</id>
+      <title>G9 Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43474909-g9-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811354038431</id>
+      <title>G6 Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43474909-g6-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811354038431</id>
+      <title>G9 Red</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43474909-g9-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamingconquer.myshopify.com/products/6811351580831</id>
+    <published>2021-05-26T12:09:34+05:00</published>
+    <updated>2021-05-26T12:09:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/products/wired-gaming-headset"/>
+    <title>Wired Gaming Headset</title>
+    <s:type>Headset</s:type>
+    <s:vendor>Gamingconquer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/1815/5167/products/product-image-1704947750.jpg?v=1622021069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamingconquer<br>
+        <strong>Type: </strong>Headset<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Control Button:</strong> No<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> No<br><strong>Sensitivity:</strong> /dB<br><strong>Wireless Type:</strong> None<br><strong>Is wireless:</strong> No<br><strong>Line Length:</strong> /m<br><strong>Function:</strong> for Video Game<br><strong>Plug Type:</strong> Line Type<br><strong>Connectors:</strong> 3.5mm<br><strong>Resistance:</strong> /Ω<br><strong>Waterproof:</strong> No<br><strong>With Microphone:</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Headset</s:tag>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811351580831</id>
+      <title>White</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43985610-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811351580831</id>
+      <title>Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43985610-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811351580831</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43985610-dark-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811351580831</id>
+      <title>Light Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43985610-light-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811351580831</id>
+      <title>Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43985610-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gamingconquer.myshopify.com/products/6811350204575</id>
+    <published>2021-05-26T12:08:23+05:00</published>
+    <updated>2021-05-26T12:08:23+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gamingconquer.myshopify.com/products/magnetic-earphone"/>
+    <title>Magnetic Earphone</title>
+    <s:type>Earphone</s:type>
+    <s:vendor>Gamingconquer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/1815/5167/products/product-image-1681821577.jpg?v=1622021109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gamingconquer<br>
+        <strong>Type: </strong>Earphone<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wireless<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 103±3dB<br><strong>Wireless Type:</strong> bluetooth<br><strong>Is wireless:</strong> Yes<br><strong>Max Output:</strong> 0mW<br><strong>Line Length:</strong> 0.6m<br><strong>Support APP:</strong> Yes<br><strong>Function:</strong> Sport<br><strong>Function:</strong> for Video Game<br><strong>Function:</strong> HiFi Headphone<br><strong>Function:</strong> For Mobile Phone<br><strong>Number Of Drivers:</strong> 2<br><strong>Plug Type:</strong> Line Type<br><strong>Package List:</strong> User Manual<br><strong>Impedance Range:</strong> up to 32 Ω<br><strong>Connectors:</strong> None<br><strong>Driver Diameter:</strong> 0.6mm<br><strong>Resistance:</strong> 32Ω<br><strong>Waterproof:</strong> Yes<br><strong>Frequency Response Range:</strong> 20 - 2200Hz<br><strong>Total Harmonic Distortion:</strong> 1%<br><strong>With Microphone:</strong> Yes<br><strong>Features:</strong> With Microphone<br><strong>Features:</strong> Active Noice Cancelling<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earphone</s:tag>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811350204575</id>
+      <title>Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43347512-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gamingconquer.myshopify.com/products/6811350204575</id>
+      <title>Black Red</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43347512-black-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

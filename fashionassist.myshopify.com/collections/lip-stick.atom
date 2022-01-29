@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fashionassist.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fashionassist.myshopify.com/collections/lip-stick.atom"/>
+  <title>FashionAssist</title>
+  <updated>2021-06-10T11:21:05+05:00</updated>
+  <author>
+    <name>FashionAssist</name>
+  </author>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+    <published>2021-06-10T11:21:05+05:00</published>
+    <updated>2021-06-10T11:21:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/matte-liquid-lipstick-nude-lip-gloss-makeup-high-pigment-lip-gloss-waterproof-lasting-moisturizing-cosmetics"/>
+    <title>Matte liquid lipstick</title>
+    <s:type>lipstick</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1342253752.jpg?v=1623306097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>lipstick<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> One Unit<br><strong>Benefit:</strong> Waterproof / Water-Resistant<br><strong>Ingredient:</strong> matte Liquid lipstick<br><strong>NET WT:</strong> 6g<br><strong>Quantity:</strong> 1pc<br><strong>Type:</strong> LIPSTICK<br><strong>advantage:</strong> Long-lasting waterproof, moisturizing, and easy to use</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lipstick</s:tag>
+    <s:tag>long lasting</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>09 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-09-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>08 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-08-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>11 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>10 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>13 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>12 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>15 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-15-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>14 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>01 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-01-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>03 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-03-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>02 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-02-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>05 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-05-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>04 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-04-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>07 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-07-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>06 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-06-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>25 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>24 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>17 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-17-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>16 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-16-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>19 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>18 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>21 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>20 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>23 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828147441831</id>
+      <title>22 / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>35328557-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+    <published>2021-06-10T11:17:18+05:00</published>
+    <updated>2021-06-10T11:17:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/long-lasting-matte-liquid-lipstick"/>
+    <title>long lasting Matte liquid lipstick</title>
+    <s:type>lipstick</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1331020226.jpg?v=1623305864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>lipstick<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> One Unit<br><strong>Benefit:</strong> Waterproof / Water-Resistant<br><strong>Ingredient:</strong> Liquid lipstick<br><strong>NET WT:</strong> 5ml<br><strong>Quantity:</strong> 1pcs<br><strong>Type:</strong> LIPSTICK</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lipstick</s:tag>
+    <s:tag>long lasting</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>01 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-01-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>02 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-02-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>03 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-03-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>04 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-04-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>05 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-05-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>06 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-06-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>07 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-07-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>08 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-08-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>09 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-09-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>10 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>11 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>12 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>14 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>13 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>15 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-15-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>16 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-16-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>17 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-17-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>18 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>19 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>20 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>21 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>22 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>23 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>24 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>25 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>26 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-26-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>27 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-27-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>28 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>29 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-29-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828139675815</id>
+      <title>30 / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33179505-30-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+    <published>2021-06-10T11:12:43+05:00</published>
+    <updated>2021-06-10T11:12:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/waterproof-matte-liquid-lipstick"/>
+    <title>Waterproof Matte liquid lipstick</title>
+    <s:type>lipstick</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1712428413.jpg?v=1623305574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>lipstick<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Benefit:</strong> Waterproof / Water-Resistant<br><strong>Ingredient:</strong> Matte liquid lipstick<br><strong>NET WT:</strong> 4ml<br><strong>Quantity:</strong> 1pc<br><strong>Type:</strong> LIPSTICK<br><strong>Types 1:</strong> liquid lipstick<br><strong>Types 2:</strong> nude lipstick<br><strong>Types 3:</strong> lipstick lip gloss<br><strong>Types 4:</strong> tint lip gloss<br><strong>Types 5:</strong> glitter lipstick<br><strong>Types 6:</strong> metallic lipstick</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lipstick</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+      <title>C1 / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31524776-c1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+      <title>C2 / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31524776-c2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+      <title>C3 / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31524776-c3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+      <title>C4 / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31524776-c4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+      <title>C5 / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31524776-c5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828124930215</id>
+      <title>C6 / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>31524776-c6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+    <published>2021-06-10T11:05:12+05:00</published>
+    <updated>2021-06-10T11:05:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/28-color-liquid-matte-lipstick"/>
+    <title>28 color liquid matte lipstick</title>
+    <s:type>lipstick</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1642745865.jpg?v=1623305119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>lipstick<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> One Unit<br><strong>Benefit:</strong> Moisturizer<br><strong>Benefit:</strong> Hydrating<br><strong>Benefit:</strong> Nutritious<br><strong>Type:</strong> Lip Gloss<br><strong>NET WT:</strong> 5ml<br><strong>Ingredient:</strong> Matte liquid lipstick<br><strong>Quantity:</strong> 1pcs<br><strong>Size:</strong> Full Size<br><strong>Types:</strong> Liquid lipstick<br><strong>efficacy 1:</strong> Waterproof, long-lasting<br><strong>efficacy 2:</strong> Matte, silk</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lipstick</s:tag>
+    <s:tag>matte</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>02 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-02-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>03 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-03-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>04 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-04-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>05 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-05-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>06 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-06-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>07 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-07-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>08 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-08-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>09 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-09-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>10 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>11 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>12 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>13 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>14 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>15 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-15-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>16 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-16-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>17 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-17-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>18 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>19 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>20 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>21 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>22 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>23 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>24 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>25 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>26 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-26-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>27 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-27-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6828108120231</id>
+      <title>28 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42259683-28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

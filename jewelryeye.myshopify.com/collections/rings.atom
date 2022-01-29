@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jewelryeye.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jewelryeye.myshopify.com/collections/rings.atom"/>
+  <title>jewelryeye</title>
+  <updated>2021-08-25T12:37:42+05:00</updated>
+  <author>
+    <name>jewelryeye</name>
+  </author>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+    <published>2021-08-25T12:37:42+05:00</published>
+    <updated>2021-08-25T12:37:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/vintage-frog-rings"/>
+    <title>Vintage Frog Rings</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1676993771.jpg?v=1629889694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Cocktail Ring<br><strong>Shape\pattern:</strong> Animal<br><strong>Surface Width:</strong> 20mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Frog Rings<br><strong>Shape:</strong> Open Cuff Rings<br><strong>Decoration:</strong> Fashion Rings,Gothic Rings<br><strong>Occasion:</strong> Party,Wedding,Engagement,Gifts<br><strong>Feature:</strong> bague,anillos<br><strong>Name1:</strong> Engagement Wedding Rings<br><strong>Name3:</strong> Rings For Women<br><strong>Name4:</strong> Vintage Rings, adjustable Rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / FrogRing / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-frogring-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / FrogRing / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-frogring-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingVintageSilver / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringvintagesilver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingVintageGold / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringvintagegold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingVintageSilver / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringvintagesilver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingSilver / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringsilver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingVintageGold / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringvintagegold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingSilver / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringsilver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingGold / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringgold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947938959543</id>
+      <title>Resizable / HugRingGold / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43210136-resizable-hugringgold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947934503095</id>
+    <published>2021-08-25T12:37:00+05:00</published>
+    <updated>2021-08-25T12:37:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/round-shape-gothic-rings"/>
+    <title>Round Shape Gothic Rings</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1662126906.jpg?v=1629877172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Round<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> Bezel Setting<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Stainless Steel Rings<br><strong>Shape:</strong> Round Rings<br><strong>Decoration:</strong> Fashion Rings<br><strong>Occasion:</strong> Party,Wedding,Engagement,Gifts<br><strong>Feature:</strong> bague,anillos<br><strong>Name1:</strong> Engagement Wedding Rings<br><strong>Name3:</strong> Rings For Women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947934503095</id>
+      <title>8 / Silver / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42792103-8-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947934503095</id>
+      <title>8 / Silver / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42792103-8-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947934503095</id>
+      <title>8 / Gold / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42792103-8-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947934503095</id>
+      <title>8 / Gold / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42792103-8-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947929424055</id>
+    <published>2021-08-25T12:36:24+05:00</published>
+    <updated>2021-08-25T12:36:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/fashion-jewelry-ring"/>
+    <title>Fashion Jewelry Ring</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1830370041.jpg?v=1629877189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Heart<br><strong>Surface Width:</strong> 20mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Wedding Rings For Women<br><strong>Shape:</strong> Heart Rings<br><strong>Decoration:</strong> Vintage Rings<br><strong>Occasion:</strong> Party,Wedding,Engagement,Gifts<br><strong>Feature:</strong> bague,anillos<br><strong>Name1:</strong> Wedding Engagement Rings<br><strong>Name3:</strong> Rings For Women Men<br><strong>Size:</strong> 8,Diamter is 18mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947929424055</id>
+      <title>8 / Gold / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>47146955-8-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947929424055</id>
+      <title>8 / Silver / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>47146955-8-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947929424055</id>
+      <title>8 / Silver / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>47146955-8-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947929424055</id>
+      <title>8 / Gold / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>47146955-8-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+    <published>2021-08-25T12:35:11+05:00</published>
+    <updated>2021-08-25T12:35:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/wildflowers-rings"/>
+    <title>Wildflowers Rings</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1723618860.jpg?v=1630302200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.40 - 13.40
+            <a href="https://jewelryeye.myshopify.com/products/wildflowers-rings">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> You Belong Among The Wildflowers Rings<br><strong>Size:</strong> Flower Rings For Women<br><strong>Decoration:</strong> Vintage Rings<br><strong>Occasion:</strong> Party,Wedding,Engagement,Gifts<br><strong>Feature:</strong> bague,anillos<br><strong>Name1:</strong> Statement Rings For Women<br><strong>Name3:</strong> Rings For Women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>6 / As the pictures / United States</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>44497891-6-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>6 / As the pictures / China</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-6-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>7 / As the pictures / United States</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-7-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>7 / As the pictures / China</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-7-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>8 / As the pictures / United States</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-8-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>8 / As the pictures / China</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-8-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>9 / As the pictures / United States</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-9-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>9 / As the pictures / China</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-9-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>10 / As the pictures / United States</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-10-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947918708919</id>
+      <title>10 / As the pictures / China</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>44497891-10-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947912679607</id>
+    <published>2021-08-25T12:34:25+05:00</published>
+    <updated>2021-08-25T12:34:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/goth-heart-rings"/>
+    <title>Goth Heart Rings</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1659392529.jpg?v=1629877222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Round<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Stainless Steel Rings<br><strong>Shape:</strong> Heart Rings<br><strong>Decoration:</strong> Fashion Rings<br><strong>Occasion:</strong> Party,Wedding,Engagement,Gifts<br><strong>Feature:</strong> bague,anillos<br><strong>Name1:</strong> Engagement Wedding Rings<br><strong>Name3:</strong> Rings For Women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947912679607</id>
+      <title>Resizable / Gold / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42713917-resizable-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947912679607</id>
+      <title>Resizable / Silver / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42713917-resizable-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947912679607</id>
+      <title>Resizable / Gold / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42713917-resizable-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947912679607</id>
+      <title>Resizable / Silver / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>42713917-resizable-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947907141815</id>
+    <published>2021-08-25T12:33:24+05:00</published>
+    <updated>2021-08-25T12:33:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/wedding-heart-rings"/>
+    <title>Wedding Heart Rings</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1661990363.jpg?v=1630303209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Round<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Engagement<br><strong>Item Type:</strong> Rings<br><strong>Shape:</strong> Heart Infinity Rings<br><strong>Size:</strong> 8, Inner Diameter 18mm<br><strong>Color:</strong> Gold, Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947907141815</id>
+      <title>8 / Silver / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42788176-8-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947907141815</id>
+      <title>8 / Silver / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42788176-8-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947907141815</id>
+      <title>8 / Gold / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42788176-8-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947907141815</id>
+      <title>8 / Gold / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42788176-8-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947896918199</id>
+    <published>2021-08-25T12:31:29+05:00</published>
+    <updated>2021-08-25T12:31:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/vintage-stainless-gold-ring"/>
+    <title>Vintage Stainless Gold Ring</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1693095480.jpg?v=1629876694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Round<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Engagement<br><strong>Item Type:</strong> Rings<br><strong>Shape:</strong> Knot Infinity Rings<br><strong>Size:</strong> 8, Inner Diameter 18mm<br><strong>Color:</strong> Gold, Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947896918199</id>
+      <title>8 / Gold / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43673491-8-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947896918199</id>
+      <title>8 / Silver / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43673491-8-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947896918199</id>
+      <title>8 / Gold / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43673491-8-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947896918199</id>
+      <title>8 / Silver / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43673491-8-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jewelryeye.myshopify.com/products/6947886006455</id>
+    <published>2021-08-25T12:29:34+05:00</published>
+    <updated>2021-08-25T12:29:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jewelryeye.myshopify.com/products/flower-vintage-ring"/>
+    <title>Flower Vintage Ring</title>
+    <s:type></s:type>
+    <s:vendor>jewelryeye</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/6704/6839/products/product-image-1698060406.jpg?v=1629876580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>jewelryeye<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> Vintage<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><strong>Type1:</strong> Hollow Out Rings<br><strong>Type2:</strong> Adjustable Finger Rings<br><strong>Type3:</strong> Wedding Rings,Vintage Rings<br><strong>Type4:</strong> Party,Wedding,Engagement,Gifts<br><strong>Type5:</strong> bague,anillos,gothic rings<br><strong>Type6:</strong> Engagement Wedding Rings<br><strong>Type7:</strong> Rings For Women Men<br><strong>Type8:</strong> Vintage Rings, adjustable Rings,hug rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947886006455</id>
+      <title>7 / Silver / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43810127-7-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947886006455</id>
+      <title>7 / Gold / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43810127-7-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947886006455</id>
+      <title>7 / Silver / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43810127-7-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jewelryeye.myshopify.com/products/6947886006455</id>
+      <title>7 / Gold / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>43810127-7-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

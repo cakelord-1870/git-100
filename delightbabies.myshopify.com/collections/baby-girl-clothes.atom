@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://delightbabies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://delightbabies.myshopify.com/collections/baby-girl-clothes.atom"/>
+  <title>delightbabies</title>
+  <updated>2021-06-02T15:26:19+05:00</updated>
+  <author>
+    <name>delightbabies</name>
+  </author>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740998488239</id>
+    <published>2021-06-02T15:26:19+05:00</published>
+    <updated>2021-06-02T15:26:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/cotton-romper-short-sleeve"/>
+    <title>Cotton Romper Short Sleeve</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1239396947.jpg?v=1622629648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Pattern Type:</strong> Letter<br><strong>Gender:</strong> Baby Girls<br><strong>Sleeve Length(cm):</strong> SHORT<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Material Composition:</strong> Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740998488239</id>
+      <title>18M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>33209903-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740998488239</id>
+      <title>6M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>33209903-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740998488239</id>
+      <title>12M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>33209903-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740998488239</id>
+      <title>3M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>33209903-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740996948143</id>
+    <published>2021-06-02T15:25:47+05:00</published>
+    <updated>2021-06-02T15:25:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/summer-letter-short-sleeve"/>
+    <title>Summer Letter Short Sleeve</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1739801828.jpg?v=1622629647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Season:</strong> Summer<br><strong>Gender:</strong> Baby Girls<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> SHORT<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Material Composition:</strong> Cotton Blend<br><strong>Pattern Type:</strong> Print<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740996948143</id>
+      <title>3M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>44873057-3m-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740996948143</id>
+      <title>6M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>44873057-6m-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740996948143</id>
+      <title>12M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>44873057-12m-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740996948143</id>
+      <title>18M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>44873057-18m-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+    <published>2021-06-02T15:24:02+05:00</published>
+    <updated>2021-06-02T15:24:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/baby-girls-long-sleeve-clothes"/>
+    <title>Baby Girls Long Sleeve clothes</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1614397059.jpg?v=1622629452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Female<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Material Composition:</strong> Cotton<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Long sleeve / 6M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-long-sleeve-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Long sleeve / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-long-sleeve-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Long sleeve / 18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-long-sleeve-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Long sleeve / 24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-long-sleeve-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Short sleeve / 6M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-short-sleeve-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Short sleeve / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-short-sleeve-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Short sleeve / 18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-short-sleeve-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740991606959</id>
+      <title>Short sleeve / 24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41541683-short-sleeve-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740986593455</id>
+    <published>2021-06-02T15:22:30+05:00</published>
+    <updated>2021-06-02T15:22:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/infant-baby-girls-clothing"/>
+    <title>Infant Baby Girls Clothing</title>
+    <s:type>Clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1622408575.jpg?v=1622629353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Clothes<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Female<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Pullover<br><strong>Sleeve Length(cm):</strong> SHORT<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> Cotton<br><strong>Pattern Type:</strong> Print</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740986593455</id>
+      <title>3M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41692127-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740986593455</id>
+      <title>6M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41692127-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740986593455</id>
+      <title>12M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41692127-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740986593455</id>
+      <title>24M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41692127-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740978466991</id>
+    <published>2021-06-02T15:18:55+05:00</published>
+    <updated>2021-06-02T15:18:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/infant-baby-girls-letter-clothes"/>
+    <title>Infant Baby Girls Letter Clothes</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1245648309.jpg?v=1622629139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Pullover<br><strong>Material Composition:</strong> Cotton<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Pattern Type:</strong> Letter<br><strong>Sleeve Style:</strong> Regular<br><strong>Gender:</strong> Baby Girls<br><strong>Fabric Type:</strong> Broadcloth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740978466991</id>
+      <title>Yellow / 24M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33434750-yellow-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740978466991</id>
+      <title>Yellow / 18M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33434750-yellow-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740978466991</id>
+      <title>Yellow / 12M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33434750-yellow-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740978466991</id>
+      <title>Yellow / 6M</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>33434750-yellow-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

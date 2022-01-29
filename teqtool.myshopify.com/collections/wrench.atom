@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://teqtool.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://teqtool.myshopify.com/collections/wrench.atom"/>
+  <title>teqtool</title>
+  <updated>2021-08-31T10:26:52+05:00</updated>
+  <author>
+    <name>teqtool</name>
+  </author>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832128688314</id>
+    <published>2021-08-31T10:26:52+05:00</published>
+    <updated>2021-08-31T10:26:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/torque-spanner-wrench"/>
+    <title>Torque Spanner Wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1678424145.jpg?v=1630387616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.37 - 41.24
+            <a href="https://teqtool.myshopify.com/products/torque-spanner-wrench">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Chromium-vanadium Steel<br><strong>Features:</strong> Explosion-proof<br><strong>Features:</strong> INSULATED<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Non-slip<br><strong>Features:</strong> Antimagnetic<br><strong>Type:</strong> Ratchet Handle Wrench</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128688314</id>
+      <title>Australia / 1 Pcs</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>43249073-australia-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128688314</id>
+      <title>China / 1 Pcs</title>
+      <s:price currency="USD">28.37</s:price>
+      <s:sku>43249073-china-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128688314</id>
+      <title>United States / 1 Pcs</title>
+      <s:price currency="USD">41.24</s:price>
+      <s:sku>43249073-united-states-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832128458938</id>
+    <published>2021-08-31T10:25:59+05:00</published>
+    <updated>2021-08-31T10:25:59+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/steel-pneumatic-wrench"/>
+    <title>Steel Pneumatic Wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1752769872.jpg?v=1630387563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.46 - 30.16
+            <a href="https://teqtool.myshopify.com/products/steel-pneumatic-wrench">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Steel<br><strong>Type 1:</strong> Universal Pneumatic Joint<br><strong>Type 2:</strong> Pneumatic Joint<br><strong>Type 3:</strong> Wrench Socket Adapter<br><strong>Item:</strong> Universal Wrench Socket Adapter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>1-2 / Australia</title>
+      <s:price currency="USD">19.96</s:price>
+      <s:sku>43664161-1-2-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>1-2 / United States</title>
+      <s:price currency="USD">20.42</s:price>
+      <s:sku>43664161-1-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>1-2 / China</title>
+      <s:price currency="USD">17.02</s:price>
+      <s:sku>43664161-1-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>1-4 / Australia</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>43664161-1-4-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>1-4 / United States</title>
+      <s:price currency="USD">12.46</s:price>
+      <s:sku>43664161-1-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>1-4 / China</title>
+      <s:price currency="USD">9.46</s:price>
+      <s:sku>43664161-1-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>3-8 / Australia</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>43664161-3-8-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>3-8 / United States</title>
+      <s:price currency="USD">15.30</s:price>
+      <s:sku>43664161-3-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>3-8 / China</title>
+      <s:price currency="USD">9.84</s:price>
+      <s:sku>43664161-3-8-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>3Pcs / Australia</title>
+      <s:price currency="USD">30.16</s:price>
+      <s:sku>43664161-3pcs-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>3Pcs / United States</title>
+      <s:price currency="USD">27.86</s:price>
+      <s:sku>43664161-3pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128458938</id>
+      <title>3Pcs / China</title>
+      <s:price currency="USD">24.46</s:price>
+      <s:sku>43664161-3pcs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832127377594</id>
+    <published>2021-08-31T10:24:36+05:00</published>
+    <updated>2021-08-31T10:24:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/buckle-removal-cutter-wrench"/>
+    <title>Buckle Removal Cutter wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1834485071.jpg?v=1630475961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.70 - 26.93
+            <a href="https://teqtool.myshopify.com/products/buckle-removal-cutter-wrench">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Wrenches<br><strong>Type:</strong> Ratchet<br><strong>Type:</strong> Pliers<br><strong>Application:</strong> Bicycle Repairing Tool Set<br><strong>Type:</strong> Multifunction Tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / 9 Pcs SI</title>
+      <s:price currency="USD">25.53</s:price>
+      <s:sku>47264805-australia-9-pcs-si</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / 9 Pcs BL</title>
+      <s:price currency="USD">25.53</s:price>
+      <s:sku>47264805-australia-9-pcs-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / 3 Pcs</title>
+      <s:price currency="USD">24.15</s:price>
+      <s:sku>47264805-united-states-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / Single chain cutter</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>47264805-united-states-single-chain-cutter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / 9 Pcs SI</title>
+      <s:price currency="USD">26.93</s:price>
+      <s:sku>47264805-united-states-9-pcs-si</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / 9 Pcs BL</title>
+      <s:price currency="USD">26.93</s:price>
+      <s:sku>47264805-united-states-9-pcs-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / Single chain pliers</title>
+      <s:price currency="USD">14.28</s:price>
+      <s:sku>47264805-australia-single-chain-pliers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / Single chain caliper</title>
+      <s:price currency="USD">9.21</s:price>
+      <s:sku>47264805-australia-single-chain-caliper</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / 3 Pcs</title>
+      <s:price currency="USD">23.66</s:price>
+      <s:sku>47264805-australia-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / Single chain cutter</title>
+      <s:price currency="USD">14.28</s:price>
+      <s:sku>47264805-australia-single-chain-cutter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / Single chain pliers</title>
+      <s:price currency="USD">11.27</s:price>
+      <s:sku>47264805-china-single-chain-pliers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / Single chain caliper</title>
+      <s:price currency="USD">5.70</s:price>
+      <s:sku>47264805-china-single-chain-caliper</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / 3 Pcs</title>
+      <s:price currency="USD">17.70</s:price>
+      <s:sku>47264805-china-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / Single chain cutter</title>
+      <s:price currency="USD">11.27</s:price>
+      <s:sku>47264805-china-single-chain-cutter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / 9 Pcs SI</title>
+      <s:price currency="USD">21.09</s:price>
+      <s:sku>47264805-china-9-pcs-si</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / 9 Pcs BL</title>
+      <s:price currency="USD">21.09</s:price>
+      <s:sku>47264805-china-9-pcs-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / Single chain pliers</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>47264805-united-states-single-chain-pliers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / Single chain caliper</title>
+      <s:price currency="USD">9.80</s:price>
+      <s:sku>47264805-united-states-single-chain-caliper</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832126787770</id>
+    <published>2021-08-31T10:23:17+05:00</published>
+    <updated>2021-08-31T10:23:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/torque-wrench"/>
+    <title>Torque Wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1828938111.jpg?v=1630390600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.68 - 49.16
+            <a href="https://teqtool.myshopify.com/products/torque-wrench">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Chromium-vanadium Steel<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Explosion-proof<br><strong>Features:</strong> Antimagnetic<br><strong>Type:</strong> Torque Wrench</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832126787770</id>
+      <title>China / Silver</title>
+      <s:price currency="USD">39.24</s:price>
+      <s:sku>47104466-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832126787770</id>
+      <title>United States / Silver</title>
+      <s:price currency="USD">49.16</s:price>
+      <s:sku>47104466-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832126787770</id>
+      <title>Australia / Silver</title>
+      <s:price currency="USD">44.82</s:price>
+      <s:sku>47104466-australia-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832126787770</id>
+      <title>France / Silver</title>
+      <s:price currency="USD">24.68</s:price>
+      <s:sku>47104466-france-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

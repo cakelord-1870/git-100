@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://the-smartgadgets.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://the-smartgadgets.myshopify.com/collections/home-gadget.atom"/>
+  <title>the SmartGadgets</title>
+  <updated>2021-02-02T09:45:19+05:00</updated>
+  <author>
+    <name>the SmartGadgets</name>
+  </author>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+    <published>2021-02-02T09:45:19+05:00</published>
+    <updated>2021-02-02T09:45:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/kitchen-accessories-bathroom-multi-function"/>
+    <title>Kitchen Accessories Bathroom Multi-function</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1529144940.jpg?v=1612241125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Fruit &amp; Vegetable Tools Type:</strong> Garnishes<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Plastic<br><strong>Plastic Type:</strong> PP</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Brown</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Pink</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>White</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Blue</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 2</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Blue 1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-blue-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 3</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>White 1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-white-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 4</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Stainless Steel</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-stainless-steel</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Stainless Steel 1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-stainless-steel-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Nano Sponge Wipe</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-nano-sponge-wipe</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>10 Inch</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-10-inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Stainless Steel 2</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-stainless-steel-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 5</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Blue 2</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-blue-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 2</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Stainless Steel 3</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-stainless-steel-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 6</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 3</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>10 Pieces</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-10-pieces</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 7</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 4</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 5</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 8</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 9</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>BBQ Mat</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-bbq-mat</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 10</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 11</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>BBQ Mat 1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-bbq-mat-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 12</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 6</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Silver</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 7</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 8</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Green 9</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-green-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Random Color 13</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-random-color-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445706407</id>
+      <title>Set Of Three</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>37030536-set-of-three</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248445247655</id>
+    <published>2021-02-02T09:45:08+05:00</published>
+    <updated>2021-02-02T09:45:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/kitchen-gadgets-accessories-mute-door-1"/>
+    <title>Kitchen Gadgets Accessories Mute Door</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1405915323.jpg?v=1612247690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.26 - 5.40
+            <a href="https://the-smartgadgets.myshopify.com/products/kitchen-gadgets-accessories-mute-door-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fruit &amp; Vegetable Tools Type:</strong> Home Protective Pad<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Silicone Rubber<br><strong>Type:</strong> Fruit &amp; Vegetable Tools<br><strong>Creative Kitchen tools:</strong> Bathroom accessories<br><strong>Kitchen Accessories Organizer:</strong> Kitchen bar supplies<br><strong>household products:</strong> Furniture protection<br><strong>Color:</strong> White / Pink / Blue/ Purple<br><strong>Size:</strong> about 5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445247655</id>
+      <title>Random Color</title>
+      <s:price currency="USD">5.26</s:price>
+      <s:sku>32504443-random-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445247655</id>
+      <title>White</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>32504443-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445247655</id>
+      <title>Pink</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>32504443-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445247655</id>
+      <title>Blue</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>32504443-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248445247655</id>
+      <title>Purple</title>
+      <s:price currency="USD">5.40</s:price>
+      <s:sku>32504443-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+    <published>2021-02-02T09:44:57+05:00</published>
+    <updated>2021-02-02T09:44:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/stainless-steel-fried-food-fishing-oil"/>
+    <title>Stainless Steel Fried Food Fishing Oil</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1453393951.jpg?v=1612241100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.12 - 5.36
+            <a href="https://the-smartgadgets.myshopify.com/products/stainless-steel-fried-food-fishing-oil">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Fruit &amp; Vegetable Tools Type:</strong> Oil spoon<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> STAINLESS STEEL<br><strong>Type:</strong> Fruit &amp; Vegetable Tools<br><strong>1:</strong> Kitchen accessories<br><strong>2:</strong> Gadget<br><strong>3:</strong> kitchen<br><strong>4:</strong> For kitchen<br><strong>5:</strong> vegetable<br><strong>6:</strong> Accesorios de cocina<br><strong>7:</strong> Protection hand tools<br><strong>8:</strong> Kitchen tools<br><strong>9:</strong> Cozinha<br><strong>10:</strong> Fruit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>27343253-as-picture</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 6</title>
+      <s:price currency="USD">4.70</s:price>
+      <s:sku>27343253-as-picture-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 1</title>
+      <s:price currency="USD">4.06</s:price>
+      <s:sku>27343253-as-picture-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 2</title>
+      <s:price currency="USD">5.36</s:price>
+      <s:sku>27343253-as-picture-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 3</title>
+      <s:price currency="USD">4.70</s:price>
+      <s:sku>27343253-as-picture-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 4</title>
+      <s:price currency="USD">4.70</s:price>
+      <s:sku>27343253-as-picture-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 5</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>27343253-as-picture-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 7</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>27343253-as-picture-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 9</title>
+      <s:price currency="USD">5.36</s:price>
+      <s:sku>27343253-as-picture-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 10</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>27343253-as-picture-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 11</title>
+      <s:price currency="USD">2.12</s:price>
+      <s:sku>27343253-as-picture-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 12</title>
+      <s:price currency="USD">5.36</s:price>
+      <s:sku>27343253-as-picture-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 13</title>
+      <s:price currency="USD">5.36</s:price>
+      <s:sku>27343253-as-picture-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 14</title>
+      <s:price currency="USD">5.36</s:price>
+      <s:sku>27343253-as-picture-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248444887207</id>
+      <title>as  picture 8</title>
+      <s:price currency="USD">5.36</s:price>
+      <s:sku>27343253-as-picture-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248442626215</id>
+    <published>2021-02-02T09:43:48+05:00</published>
+    <updated>2021-02-02T09:43:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/newest-umbrella-style-food-cover"/>
+    <title>Newest Umbrella Style Food Cover</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1654223541.jpg?v=1612241030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Plastic<br><strong>Speciality Tools Type:</strong> Food Covers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248442626215</id>
+      <title>United States / random color</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>28637877-united-states-random-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248442626215</id>
+      <title>China / random color</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>28637877-china-random-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248441774247</id>
+    <published>2021-02-02T09:43:21+05:00</published>
+    <updated>2021-02-02T09:43:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/vegetable-slicer-manual-kitchen-accessories"/>
+    <title>Vegetable Slicer Manual Kitchen Accessories</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1656239020.jpg?v=1612247469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Metal<br><strong>Metal Type:</strong> STAINLESS STEEL<br><strong>Type:</strong> Fruit &amp; Vegetable Tools<br><strong>Feature 1:</strong> Kitchen Novel Kitchen Accessories<br><strong>Use for:</strong> Vegetable, Cheese,Potato,Meat and so on<br><strong>Feature 4:</strong> Manual and Multifunction Slicer<br><strong>Feature 6:</strong> Hand Crank Vegetable Cutter<br><strong>Feature 7:</strong> Manual &amp; Multifunction<br><strong>Feature 2:</strong> Home Gadget</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248441774247</id>
+      <title>Green</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>38679343-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248441774247</id>
+      <title>Blue</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>38679343-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248441774247</id>
+      <title>Red</title>
+      <s:price currency="USD">38.99</s:price>
+      <s:sku>38679343-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248440987815</id>
+    <published>2021-02-02T09:43:01+05:00</published>
+    <updated>2021-02-02T09:43:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/kitchen-accessories-multifunction-window"/>
+    <title>Kitchen Accessories Multifunction Window</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1433169854.jpg?v=1612240983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Plastic<br><strong>Type:</strong> Fruit &amp; Vegetable Tools<br><strong>Utensilio De Cozinha:</strong> kitchen tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440987815</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>36008399-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+    <published>2021-02-02T09:42:34+05:00</published>
+    <updated>2021-02-02T09:42:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/kitchen-accessories-tools-mini-portable"/>
+    <title>Kitchen Accessories Tools Mini Portable</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1381882246.jpg?v=1612246987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Fruit &amp; Vegetable Tools Type:</strong> Garnishes<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Plastic<br><strong>Plastic Type:</strong> PP<br><strong>Type:</strong> Fruit &amp; Vegetable Tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Random color</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-random-color</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Random color 5pc</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-random-color-5pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Random color 1pc</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-random-color-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Purple</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>White</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Yellow</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>White2</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-white2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Slicer 1pc</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-slicer-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Green</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248440365223</id>
+      <title>Beige</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>33484391-beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248439644327</id>
+    <published>2021-02-02T09:42:11+05:00</published>
+    <updated>2021-02-02T09:42:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/plastic-egg-separator-white-yolk-sifting"/>
+    <title>Plastic Egg Separator White Yolk Sifting</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1484362972.jpg?v=1612240935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Fruit &amp; Vegetable Tools Type:</strong> Garnishes<br><strong>Feature:</strong> Eco-Friendly<br><strong>Feature:</strong> Stocked<br><strong>Material:</strong> Plastic<br><strong>Plastic Type:</strong> PP<br><strong>1:</strong> kitchen accessories<br><strong>2:</strong> kitchen<br><strong>3:</strong> kitchen gadgets<br><strong>4:</strong> accesorios de cocina<br><strong>6:</strong> kitchen tools<br><strong>7:</strong> for kitchen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248439644327</id>
+      <title>Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>38107241-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248439644327</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>38107241-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248439644327</id>
+      <title>Khaki</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>38107241-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248439644327</id>
+      <title>Pink</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>38107241-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248439644327</id>
+      <title>1Pcs White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>38107241-1pcs-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+    <published>2021-02-02T09:40:27+05:00</published>
+    <updated>2021-02-02T09:40:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/hot-high-quality-carrot-spiral-slicer"/>
+    <title>Hot High Quality Carrot Spiral Slicer</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1413383828.jpg?v=1612240831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fruit &amp; Vegetable Tools Type:</strong> Shredders &amp; Slicers<br><strong>Feature:</strong> Eco-Friendly<br><strong>Material:</strong> Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+      <title>China / A</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12091910-china-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+      <title>Russian Federation / A</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12091910-russian-federation-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+      <title>China / B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12091910-china-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+      <title>Russian Federation / B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12091910-russian-federation-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+      <title>China / C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12091910-china-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248437383335</id>
+      <title>Russian Federation / C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12091910-russian-federation-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+    <published>2021-02-02T09:40:08+05:00</published>
+    <updated>2021-02-02T09:40:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/rotation-perpetual-motion-swing-celestial"/>
+    <title>Rotation Perpetual Motion Swing Celestial</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1427179934.jpg?v=1612240811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.97 - 13.96
+            <a href="https://the-smartgadgets.myshopify.com/products/rotation-perpetual-motion-swing-celestial">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Is Smart Device:</strong> No<br><strong>is_customized:</strong> No<br><strong>Theme:</strong> Mascot<br><strong>Style:</strong> Modern<br><strong>Material:</strong> Plastic<br><strong>Item:</strong> Rotation Perpetual Motion Swing Celestial Globe Newton<br><strong>Quantity:</strong> 1PCS Rotation Perpetual Motion<br><strong>Battery:</strong> 4*AA(1.5V)(not included)<br><strong>Color:</strong> silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Silver</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>32731878-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Maroon</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>32731878-maroon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Mottled</title>
+      <s:price currency="USD">9.76</s:price>
+      <s:sku>32731878-mottled</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Creamy White</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>32731878-creamy-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Multi-Colored</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-multi-colored</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-burgundy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Chocolate</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-chocolate</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Clear</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Dark Gray</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Plum</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-plum</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Light Grey</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-light-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Light Green</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-light-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248436695207</id>
+      <title>Dark Khaki</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>32731878-dark-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://enlightentoys.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://enlightentoys.myshopify.com/collections/novelty-toys.atom"/>
+  <title>EnlightenToys</title>
+  <updated>2021-08-28T13:04:31+05:00</updated>
+  <author>
+    <name>EnlightenToys</name>
+  </author>
+  <entry>
+    <id>https://enlightentoys.myshopify.com/products/7047930216610</id>
+    <published>2021-08-28T13:04:31+05:00</published>
+    <updated>2021-08-28T13:04:31+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/products/toys-beach-party"/>
+    <title>Toys Beach Party</title>
+    <s:type>Toy</s:type>
+    <s:vendor>EnlightenToys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3342/7874/products/product-image-1733321368.jpg?v=1630299724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EnlightenToys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            7.46 - 9.80
+            <a href="https://enlightentoys.myshopify.com/products/toys-beach-party">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Recommend Age:</strong> 25-36m<br><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Feature1:</strong> pool accessories<br><strong>Feature2:</strong> bouee gonflable piscine<br><strong>Feature3:</strong> inflatable<br><strong>Feature4:</strong> pool float<br><strong>Feature5:</strong> zwembad accessoires<br><strong>Feature6:</strong> flotador piscina</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047930216610</id>
+      <title>A / United States</title>
+      <s:price currency="USD">7.46</s:price>
+      <s:sku>44741979-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047930216610</id>
+      <title>A / China</title>
+      <s:price currency="USD">9.80</s:price>
+      <s:sku>44741979-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+    <published>2021-08-28T13:02:30+05:00</published>
+    <updated>2021-08-28T13:02:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/products/music-mobile-phone-baby-toys"/>
+    <title>Music Mobile Phone Baby Toys</title>
+    <s:type>Toy</s:type>
+    <s:vendor>EnlightenToys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3342/7874/products/product-image-1722855785.jpg?v=1630299685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EnlightenToys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            11.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Recommend Age:</strong> 0-6m<br><strong>Recommend Age:</strong> 7-12m<br><strong>Recommend Age:</strong> 13-24m<br><strong>Recommend Age:</strong> 25-36m<br><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Material:</strong> Plastic<br><strong>Plastic Type:</strong> ABS<br><strong>Features:</strong> Battery Operated<br><strong>Features:</strong> Educational<br><strong>Features:</strong> Flashing<br><strong>Features:</strong> Sounding<br><strong>Features:</strong> Interactive</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>United States / Dark Blue</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-united-states-dark-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>China / Dark Blue</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-china-dark-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>United States / Mint Green</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-united-states-mint-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>China / Mint Green</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-china-mint-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>United States / Pink</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-united-states-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>China / Pink</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-china-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>United States / Red</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-united-states-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>China / Red</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-china-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>United States / Yellow</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-united-states-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047927955618</id>
+      <title>China / Yellow</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>44478675-china-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+    <published>2021-08-28T13:00:12+05:00</published>
+    <updated>2021-08-28T13:00:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/products/modelling-toy-for-kids"/>
+    <title>Modelling Toy For Kids</title>
+    <s:type>Toy</s:type>
+    <s:vendor>EnlightenToys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3342/7874/products/product-image-1803562632.jpg?v=1630299618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EnlightenToys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            7.58 - 9.60
+            <a href="https://enlightentoys.myshopify.com/products/modelling-toy-for-kids">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Amount of color plasticine:</strong> Solid Color<br><strong>Warning:</strong> can not eat<br><strong>Type:</strong> Plasticine<br><strong>Gender:</strong> Unisex</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>46423975-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">7.58</s:price>
+      <s:sku>46423975-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+      <title>White / China</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>46423975-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+      <title>White / United States</title>
+      <s:price currency="USD">7.58</s:price>
+      <s:sku>46423975-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+      <title>Red / China</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>46423975-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047925629090</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">7.58</s:price>
+      <s:sku>46423975-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://enlightentoys.myshopify.com/products/7047921369250</id>
+    <published>2021-08-28T12:56:29+05:00</published>
+    <updated>2021-08-28T12:56:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/products/5pcs-montessori-toys"/>
+    <title>5Pcs Montessori Toys</title>
+    <s:type>Toy</s:type>
+    <s:vendor>EnlightenToys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3342/7874/products/product-image-1757996159.jpg?v=1630317170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EnlightenToys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Recommend Age:</strong> 13-24m<br><strong>Recommend Age:</strong> 25-36m<br><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Warning:</strong> Keep away from fire</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047921369250</id>
+      <title>United States / 5pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45206068-united-states-5pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047921369250</id>
+      <title>China / 5pcs</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45206068-china-5pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://enlightentoys.myshopify.com/products/7047919698082</id>
+    <published>2021-08-28T12:55:02+05:00</published>
+    <updated>2021-08-28T12:55:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/products/floating-pool-toys"/>
+    <title>Floating Pool Toys</title>
+    <s:type>Toy</s:type>
+    <s:vendor>EnlightenToys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3342/7874/products/product-image-1778465174.jpg?v=1630299854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EnlightenToys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            13.24 - 18.54
+            <a href="https://enlightentoys.myshopify.com/products/floating-pool-toys">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Warning:</strong> /<br><strong>Theme:</strong> Sports<br><strong>Feature1:</strong> pool accessories<br><strong>Feature2:</strong> zwembad accessoires<br><strong>Feature3:</strong> piscine gonflable<br><strong>Feature4:</strong> bouee gonflable piscine</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047919698082</id>
+      <title>A / China</title>
+      <s:price currency="USD">18.54</s:price>
+      <s:sku>45751099-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047919698082</id>
+      <title>A / United States</title>
+      <s:price currency="USD">13.24</s:price>
+      <s:sku>45751099-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+    <published>2021-08-28T12:53:05+05:00</published>
+    <updated>2021-08-28T12:53:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://enlightentoys.myshopify.com/products/animals-growth-cycle-model-toys"/>
+    <title>Animals Growth Cycle Model Toys</title>
+    <s:type>Toy</s:type>
+    <s:vendor>EnlightenToys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/3342/7874/products/9.jpg?v=1630387683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EnlightenToys<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            14.99 - 17.99
+            <a href="https://enlightentoys.myshopify.com/products/animals-growth-cycle-model-toys">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Unisex<br><strong>Dimensions:</strong> 6CM<br><strong>Remote Control:</strong> No<br><strong>Version Type:</strong> First Edition<br><strong>Age Range:</strong> &gt; 3 years old<br><strong>Certification:</strong> NONE<br><strong>Condition:</strong> In-Stock Items<br><strong>Completion Degree:</strong> Finished Goods<br><strong>Theme:</strong> Animals<br><strong>Animals:</strong> Insects<br><strong>Material:</strong> Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>A / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>47210556-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>B / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>47210556-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>A / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>47210556-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>C / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>47210556-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>B / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>47210556-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>D / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>47210556-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>C / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>47210556-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>E / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>47210556-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>D / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>47210556-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://enlightentoys.myshopify.com/products/7047917830306</id>
+      <title>E / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>47210556-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

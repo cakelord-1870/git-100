@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jeweljane.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jeweljane.myshopify.com/collections/rings.atom"/>
+  <title>Jeweljane</title>
+  <updated>2021-09-08T15:12:35+05:00</updated>
+  <author>
+    <name>Jeweljane</name>
+  </author>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+    <published>2021-09-08T15:12:35+05:00</published>
+    <updated>2021-09-08T15:12:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/fidget-beads-ring"/>
+    <title>Fidget Beads Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1779685147.jpg?v=1631100708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> Bezel Setting<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Fidget Beads Fidget Ring<br><strong>Shape:</strong> Fidget toy for adults<br><strong>Decoration:</strong> anxiety relief toys<br><strong>Occasion:</strong> fidget spinners</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beads Ring</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 3PearlBeadsRing / Silver, United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-3pearlbeadsring-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 3PearlBeadsRing / Gold, China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-3pearlbeadsring-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 3PearlBeadsRing / RoseGold, China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-3pearlbeadsring-rosegold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 4PearlBeadsRing / Gold, United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-4pearlbeadsring-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 4PearlBeadsRing / Silver, United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-4pearlbeadsring-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 4PearlBeadsRing / RoseGold, United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-4pearlbeadsring-rosegold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 5PearlBeadsRing / Silver, United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-5pearlbeadsring-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 5PearlBeadsRing / Gold, China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-5pearlbeadsring-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002191954072</id>
+      <title>Resizable / 5PearlBeadsRing / RoseGold, China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45783803-resizable-5pearlbeadsring-rosegold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+    <published>2021-09-08T15:07:56+05:00</published>
+    <updated>2021-09-08T15:07:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/eye-of-evil-ring"/>
+    <title>Eye of Evil Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1683372215.jpg?v=1631100754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Round<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eye of Evil</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Silver-EYE / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-silver-eye-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Silver-EYE / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-silver-eye-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Silver-Round / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-silver-round-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Silver-Round / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-silver-round-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Gold-EYE / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-gold-eye-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Gold-EYE / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-gold-eye-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Gold-Round / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-gold-round-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002187595928</id>
+      <title>Resizable / Gold-Round / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43393463-resizable-gold-round-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+    <published>2021-09-08T15:05:47+05:00</published>
+    <updated>2021-09-08T15:05:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/vintage-wildflowers-rings"/>
+    <title>Vintage Wildflowers Rings</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1723618857.jpg?v=1631095553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> You Belong Among The Wildflowers Rings<br><strong>Size:</strong> Flower Rings For Women<br><strong>Decoration:</strong> Vintage Rings<br><strong>Occasion:</strong> Party, Wedding,Engagement, Gifts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>6 / As the pictures / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-6-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>7 / As the pictures / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-7-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>7 / As the pictures / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-7-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>6 / As the pictures / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-6-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>10 / As the pictures / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-10-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>9 / As the pictures / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-9-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>10 / As the pictures / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-10-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>8 / As the pictures / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-8-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>8 / As the pictures / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-8-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002185433240</id>
+      <title>9 / As the pictures / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>44497891-9-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002183401624</id>
+    <published>2021-09-08T15:04:07+05:00</published>
+    <updated>2021-09-08T15:04:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/gothic-carved-hand-shaped-rings"/>
+    <title>Gothic Carved Hand Shaped Rings</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1748139150.jpg?v=1631095454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Heart<br><strong>Surface Width:</strong> 20mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Hand Rings<br><strong>Shape:</strong> Open Cuff Rings<br><strong>Decoration:</strong> Fashion Rings, Gothic Rings<br><strong>Occasion:</strong> Party, Wedding, Engagement, Gifts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Shaped</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002183401624</id>
+      <title>Resizable / As the pictures / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44947052-resizable-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002183401624</id>
+      <title>Resizable / As the pictures / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44947052-resizable-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002180649112</id>
+    <published>2021-09-08T15:01:15+05:00</published>
+    <updated>2021-09-08T15:01:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/stainless-steel-heart-rings"/>
+    <title>Stainless Steel Heart Rings</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1661990374.jpg?v=1631100884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Round<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Engagement<br><strong>Item Type:</strong> Rings<br><strong>Shape:</strong> Heart Infinity Rings<br><strong>Size:</strong> 8, Inner Diameter 18mm<br><strong>Color:</strong> Gold, Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002180649112</id>
+      <title>8 / Silver / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42788176-8-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002180649112</id>
+      <title>8 / Silver / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42788176-8-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002180649112</id>
+      <title>8 / Gold / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42788176-8-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002180649112</id>
+      <title>8 / Gold / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42788176-8-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+    <published>2021-09-08T12:54:05+05:00</published>
+    <updated>2021-09-08T12:54:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/hug-muscle-hands-rings"/>
+    <title>Hug Muscle Hands Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1676694872.jpg?v=1631100936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Cocktail Ring<br><strong>Shape\pattern:</strong> Animal<br><strong>Surface Width:</strong> 20mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Hand Rings<br><strong>Shape:</strong> Open Cuff Rings<br><strong>Decoration:</strong> Fashion Rings, Gothic Rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / Gold / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / Gold / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / Silver / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / Silver / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / VintageSilver / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-vintagesilver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / VintageSilver / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-vintagesilver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / VintageGold / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-vintagegold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002050035864</id>
+      <title>Resizable / VintageGold / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42767581-resizable-vintagegold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7002049249432</id>
+    <published>2021-09-08T12:52:54+05:00</published>
+    <updated>2021-09-08T12:52:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/butterfly-couple-ring-set"/>
+    <title>Butterfly Couple Ring Set</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1811600329.jpg?v=1631087576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Animal<br><strong>Surface Width:</strong> 10mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Butterfly Rings<br><strong>Shape:</strong> Open Cuff Rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Couple</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002049249432</id>
+      <title>Resizable / Silver / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44221843-resizable-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002049249432</id>
+      <title>Resizable / Silver / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44221843-resizable-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002049249432</id>
+      <title>Resizable / Gold / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44221843-resizable-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7002049249432</id>
+      <title>Resizable / Gold / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44221843-resizable-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweljane.myshopify.com/products/7001993576600</id>
+    <published>2021-09-08T12:09:04+05:00</published>
+    <updated>2021-09-08T12:09:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweljane.myshopify.com/products/hollow-out-lotus-flower-ring"/>
+    <title>Hollow Out Lotus Flower Ring</title>
+    <s:type>Ring</s:type>
+    <s:vendor>Jeweljane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/7019/3560/products/product-image-1698060418.jpg?v=1631100970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweljane<br>
+        <strong>Type: </strong>Ring<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> Vintage<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding<br><strong>Item Type:</strong> Rings<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7001993576600</id>
+      <title>7 / Silver / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43810127-7-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7001993576600</id>
+      <title>7 / Silver / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43810127-7-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7001993576600</id>
+      <title>7 / Gold / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43810127-7-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweljane.myshopify.com/products/7001993576600</id>
+      <title>7 / Gold / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43810127-7-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

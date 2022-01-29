@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://the-rc-hub.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://the-rc-hub.myshopify.com/collections/all.atom"/>
+  <title>The RC Hub</title>
+  <updated>2021-03-22T15:36:22+05:00</updated>
+  <author>
+    <name>The RC Hub</name>
+  </author>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+    <published>2021-03-22T15:36:22+05:00</published>
+    <updated>2021-03-22T15:36:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/remote-control-off-road-drift-car"/>
+    <title>RC Off-Road Drift Toy Car</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1502724535.jpg?v=1617867479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            73.16 - 77.12
+            <a href="https://the-rc-hub.myshopify.com/products/remote-control-off-road-drift-car">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal, Plastic<br><strong>Dimensions:</strong> 31x17x9cm<br><strong>Design:</strong> Cars<br><strong>Features:</strong> Remote Control<br><strong>Charging Voltage:</strong> 5V<br><strong>Remote Distance:</strong> 30-50m<br><strong>Warning:</strong> be careful<br><strong>Controller Mode:</strong> MODE1 MODE2<br><strong>Warranty:</strong> NO<br><strong>Type:</strong> Car<br><strong>Wheelbase:</strong> as shown<br><strong>Control Channels:</strong> 4 Channels<br><strong>Package Includes:</strong></p>
+<ul>
+<li>Original Box</li>
+<li>Batteries</li>
+<li>Operating Instructions</li>
+<li>Remote Controller</li>
+<li>USB Cable</li>
+</ul>
+<p><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> &gt; 8 years old<br><strong>Steering servo:</strong> as shown<br><strong>Power:</strong> 3.7V 1500mah<br><strong>Scale:</strong> 1:16<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Tire Track:</strong> as shown<br><strong>Flight Time:</strong> about 30 minutes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>BLUE 1 Remote / United States</title>
+      <s:price currency="USD">73.16</s:price>
+      <s:sku>38800050-blue-1-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>BLUE 2 Remote / United States</title>
+      <s:price currency="USD">77.12</s:price>
+      <s:sku>38800050-blue-2-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>Orange 1 Remote / United States</title>
+      <s:price currency="USD">73.16</s:price>
+      <s:sku>38800050-orange-1-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>Orange 2 Remote / United States</title>
+      <s:price currency="USD">77.12</s:price>
+      <s:sku>38800050-orange-2-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>Green 1 Remote / United States</title>
+      <s:price currency="USD">73.16</s:price>
+      <s:sku>38800050-green-1-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>Yellow 2 Remote / United States</title>
+      <s:price currency="USD">77.12</s:price>
+      <s:sku>38800050-yellow-2-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>Green 2 Remote / United States</title>
+      <s:price currency="USD">77.12</s:price>
+      <s:sku>38800050-green-2-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6583885988010</id>
+      <title>Red 2 Remote / United States</title>
+      <s:price currency="USD">77.12</s:price>
+      <s:sku>38800050-red-2-remote-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554248773802</id>
+    <published>2021-03-06T15:09:27+05:00</published>
+    <updated>2021-03-06T15:09:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/rc-excavator-toy-for-kids"/>
+    <title>RC Excavator Toy For Kids</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1671219358.jpg?v=1620020917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Features:</strong> Remote Control<br><strong>Type:</strong> Car<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554248773802</id>
+      <title>1027 alloy / United States</title>
+      <s:price currency="USD">15.38</s:price>
+      <s:sku>42151858-1027-alloy-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554248773802</id>
+      <title>1028 plastic / United States</title>
+      <s:price currency="USD">15.38</s:price>
+      <s:sku>42151858-1028-plastic-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554247725226</id>
+    <published>2021-03-06T15:07:24+05:00</published>
+    <updated>2021-03-06T15:07:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/racing-rc-car-4wd-high-speed-remote-control-vehicle-models-toys-for-children"/>
+    <title>High Speed Racing RC Car</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1241807456.jpg?v=1620020733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Material:</strong> Plastic<br><strong>Dimensions:</strong> 31*20.5*11cm<br><strong>Design:</strong> Cars<br><strong>Features:</strong> Remote Control<br><strong>Remote Distance:</strong> 100 meters<br><strong>Warning:</strong> Be careful<br><strong>Controller Mode:</strong> Two Modes<br><strong>Type:</strong> Car<br><strong>Control Channels:</strong> 4 Channels<br><strong>Package Includes:</strong></p>
+<ul>
+<li>Original Box</li>
+<li>Charger</li>
+<li>Remote Controller</li>
+</ul>
+<p><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> &gt; 6 years old<br><strong>Steering servo:</strong> As shown<br><strong>Certification:</strong> CE<br><strong>CE:</strong> Certificate<br><strong>Power:</strong> Brush 550<br><strong>Scale:</strong> 1:14<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> Yes<br><strong>Tire Track:</strong> As shown<br><strong>Flight Time:</strong> 7 minutes<br><strong>Speed:</strong> 60km/h<br><strong>Frequency:</strong> 2.4G<br><strong>Charge time:</strong> 3h<br><strong>Weight:</strong> 1800g<br><strong>Color:</strong> Silver Red &amp; Green Blue<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554247725226</id>
+      <title>green 1 battery / United States</title>
+      <s:price currency="USD">190.80</s:price>
+      <s:sku>33297067-green-1-battery-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554247725226</id>
+      <title>red 1 battery / United States</title>
+      <s:price currency="USD">190.80</s:price>
+      <s:sku>33297067-red-1-battery-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554245529770</id>
+    <published>2021-03-06T15:04:39+05:00</published>
+    <updated>2021-03-06T15:04:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/4wd-off-road-electric-vehicle-monster-buggy-remote-control-car"/>
+    <title>Off-road RC Monster Buggy</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1591870920.jpg?v=1620020938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            104.86 - 106.38
+            <a href="https://the-rc-hub.myshopify.com/products/4wd-off-road-electric-vehicle-monster-buggy-remote-control-car">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal<br><strong>Material:</strong> Plastic<br><strong>Dimensions:</strong> 50x29x26cm<br><strong>Design:</strong> Dirt Bike<br><strong>Features:</strong> Remote Control<br><strong>Controller Mode:</strong> Two Modes<br><strong>Type:</strong> Car<br><strong>Package Includes:</strong></p>
+<ul>
+<li>Original Box</li>
+<li>Batteries</li>
+<li>Operating Instructions</li>
+<li>Remote Controller</li>
+</ul>
+<p><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> 8&gt; 14 years old<br><strong>Scale:</strong> 1:8<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Flight Time:</strong> 20 mins<br><strong>Remote Control:</strong> 2.4G<br><strong>Charge time:</strong> About 2-3 Hours<br><strong>Function:</strong> Forward, Backward, Turn Left, Turn Right</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554245529770</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">104.86</s:price>
+      <s:sku>41065925-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554245529770</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">106.38</s:price>
+      <s:sku>41065925-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554243104938</id>
+    <published>2021-03-06T15:02:01+05:00</published>
+    <updated>2021-03-06T15:02:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/rc-wall-climbing-car-toy-remote-control-anti-gravity-ceiling-racing-car"/>
+    <title>Anti Gravity Ceiling Racing Car</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1194266314.jpg?v=1620020618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Design:</strong> Cars<br><strong>Controller Mode:</strong> Two Modes<br><strong>Control Channels:</strong> 4 Channels<br><strong>Package Includes:</strong> Operating Instructions<br><strong>Package Includes:</strong> Remote Controller<br><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> &gt; 6 years old<br><strong>Scale:</strong> 1:4<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>Charging Voltage:</strong> 12V<br><strong>Package Includes:</strong> RC car<br><strong>Dimensions:</strong> 14*5.5*8 cm<br><strong>Remote Distance:</strong> 10 meters<br><strong>Flight Time:</strong> 7-9 min</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554243104938</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>31941285-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554243104938</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>31941285-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554243104938</id>
+      <title>purple / United States</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>31941285-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554243104938</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>31941285-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554222330026</id>
+    <published>2021-03-06T14:31:40+05:00</published>
+    <updated>2021-03-06T14:31:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/wall-racing-car-toys-remote-control-anti-gravity-ceiling-racing-car"/>
+    <title>Remote Control Wall Racing Car</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1429259202.jpg?v=1617867441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Dimensions:</strong> 15 * 8 * 5cm / 5.91 * 3.15 * 1.97in<br><strong>Throttle servo:</strong> Normal<br><strong>Torque:</strong> no<br><strong>Design:</strong> Cars<br><strong>Charging Voltage:</strong> via remote control<br><strong>Remote Distance:</strong> 10~13m<br><strong>Warning:</strong> not for children under 3 years<br><strong>Controller Mode:</strong> TWO MODES<br><strong>Warranty:</strong> 1 week<br><strong>Wheelbase:</strong> no<br><strong>Control Channels:</strong> 4 Channels<br><strong>Package Includes:</strong></p>
+<ul>
+<li>Operating Instructions</li>
+<li>Remote Controller</li>
+<li>USB Cable</li>
+</ul>
+<p><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> &gt; 6 years old<br><strong>Steering servo:</strong> no<br><strong>Certification:</strong> 3C<br><strong>Power:</strong> rechargeable lithium battery<br><strong>Scale:</strong> 1:32<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Flight Time:</strong> 7~9mins<br><strong>Features:</strong> Mini, Flashing, Cruise<br><strong>Battery for car:</strong> 3.7V; 200mAh<br><strong>Charging type:</strong> USB<br><strong>Remote controller batteries:</strong> 3 AA Batteries(Not Included)<br><strong>Charging time:</strong> 30mins<br><strong>Playing time:</strong> 7~9mins<br><strong>Remote type:</strong> Infrared<br><strong>Dual Mode:</strong> Wall climbing&amp;Floor racing<br><strong>Working on:</strong> Ceiling floor wall glass and so on</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554222330026</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>31688750-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554222330026</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>31688750-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554222330026</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>31688750-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554219610282</id>
+    <published>2021-03-06T14:28:46+05:00</published>
+    <updated>2021-03-06T14:28:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/new-dinosaur-transforming-car-led-flashing-car-toy-transformation-rc-car-with-music"/>
+    <title>Dinosaur Transforming RC Car</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1397359628.jpg?v=1615022928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Dimensions:</strong> 9.7 cm x 22 cm<br><strong>Design:</strong> Cars<br><strong>Remote Distance:</strong> 1-15m<br><strong>Controller Mode:</strong></p>
+<ul>
+<li>MODE1</li>
+<li>MODE2</li>
+</ul>
+<p><strong>Control Channels:</strong> 4 Channels<br><strong>Package Includes:</strong></p>
+<ul>
+<li>Original Box</li>
+<li>Operating Instructions</li>
+<li>Remote Controller</li>
+<li>Remote Controller</li>
+</ul>
+<p><strong>Remote Control:</strong> Yes<br><strong>Scale:</strong> 1:18<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Feature:</strong> Transformation car toy<br><strong>For:</strong> Children's Day Gifts<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554219610282</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>32756092-1pcs-random-color-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554216726698</id>
+    <published>2021-03-06T14:25:02+05:00</published>
+    <updated>2021-03-06T14:25:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/mini-cute-rc-car-inductive-toy-for-children"/>
+    <title>Mini Cute RC Car Inductive Toy</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1379982578.jpg?v=1620020786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Metal, Plastic<br><strong>Dimensions:</strong> RC Cars 128*65*40mm<br><strong>Throttle servo:</strong> radio-controlled cars<br><strong>Torque:</strong> Cars on the remote control<br><strong>Design:</strong> Cars<br><strong>Features:</strong> Remote Control<br><strong>Charging Voltage:</strong> 5V<br><strong>Remote Distance:</strong> 50m<br><strong>Warning:</strong> RC drift car<br><strong>Controller Mode:</strong></p>
+<ul>
+<li>MODE1</li>
+<li>MODE2</li>
+</ul>
+<p><strong>Warranty:</strong> no<br><strong>Type:</strong> Car<br><strong>Wheelbase:</strong> mini RC car<br><strong>Control Channels:</strong></p>
+<ul>
+<li>3.5 Channels</li>
+<li>Original Box</li>
+<li>Batteries</li>
+<li>Operating Instructions</li>
+<li>Remote Controller</li>
+<li>USB Cable</li>
+</ul>
+<p><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> &gt; 3 years old<br><strong>Certificate Number:</strong> RC toys for boys<br><strong>Power:</strong> Ready-to-Go<br><strong>Scale:</strong> 1:10<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>Tire Track:</strong> remote control car<br><strong>Flight Time:</strong> 25mins<br><strong>Frequency:</strong> 2.4GHZ<br><strong>Feature:</strong></p>
+<ul>
+<li>360 Degree Rotation</li>
+<li>With fog lights</li>
+<li>Music mode</li>
+</ul>
+<p><strong>Age Range:</strong> 3 years old<br><strong>Color:</strong> Blue/ Yellow</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554216726698</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">43.18</s:price>
+      <s:sku>36262807-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554216726698</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">43.18</s:price>
+      <s:sku>36262807-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554213712042</id>
+    <published>2021-03-06T14:21:20+05:00</published>
+    <updated>2021-03-06T14:21:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/eachine-ec07-rc-car-2-4g-4ch-stunt-drift-deformation-remote-control-rock-crawler-roll-flip-kids-robot-auto-toy"/>
+    <title>Stunt Drift Deformation Remote Control</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1397770333.jpg?v=1617867250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.98 - 37.48
+            <a href="https://the-rc-hub.myshopify.com/products/eachine-ec07-rc-car-2-4g-4ch-stunt-drift-deformation-remote-control-rock-crawler-roll-flip-kids-robot-auto-toy">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> Metal, </span><span>Plastic</span><br><span><strong>Design:</strong> Dirt Bike</span><br><span><strong>Features:</strong> Remote Control</span><br><span><strong>Charging Voltage:</strong> 5V</span><br><span><strong>Remote Distance:</strong> as shown</span><br><span><strong>Warning:</strong> as shown</span><br><span><strong>Controller Mode:</strong> MODE2</span><br><span><strong>Warranty:</strong> NO</span><br><span><strong>Type:</strong> Car</span><br><span><strong>Wheelbase:</strong> 10-25cm</span><br><span><strong>Control Channels:</strong> 4 Channels</span><br><span><strong>Package Includes:</strong> </span></p>
+<ul>
+<li><span>Original Box</span></li>
+<li><span>Operating Instructions</span></li>
+<li><span>Remote Controller</span></li>
+<li><span>Cable</span></li>
+</ul>
+<p><span><strong>Remote Control:</strong> Yes</span><br><span><strong>Age Range:</strong> &gt; 6 years old</span><br><span><strong>Steering servo:</strong> as shown</span><br><span><strong>Certification:</strong> CE</span><br><span><strong>Power:</strong> Li-poly batteries</span><br><span><strong>Scale:</strong> 1:24</span><br><span><strong>State of Assembly:</strong> Ready-to-Go</span><br><span><strong>Barcode:</strong> No</span><br><span><strong>Tire Track:</strong> 10-20cm</span><br><span><strong>Flight Time:</strong> 15-30 mins</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213712042</id>
+      <title>EC07 / United States</title>
+      <s:price currency="USD">31.98</s:price>
+      <s:sku>36729533-ec07-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213712042</id>
+      <title>EC07 / China</title>
+      <s:price currency="USD">37.48</s:price>
+      <s:sku>36729533-ec07-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213712042</id>
+      <title>EC07 / Czech Republic</title>
+      <s:price currency="USD">31.98</s:price>
+      <s:sku>36729533-ec07-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213712042</id>
+      <title>EC07 / Russian Federation</title>
+      <s:price currency="USD">31.98</s:price>
+      <s:sku>36729533-ec07-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213712042</id>
+      <title>EC07 / SPAIN</title>
+      <s:price currency="USD">31.98</s:price>
+      <s:sku>36729533-ec07-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+    <published>2021-03-06T14:20:47+05:00</published>
+    <updated>2021-03-06T14:20:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/remote-controlled-truck-car-radio-control-toys-car-for-kids-c"/>
+    <title>RC Monster Truck for Kids</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1695711646.jpg?v=1615022450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Plastic<br><strong>Dimensions:</strong> 15.7x10x12cm<br><strong>Throttle servo:</strong> Toy for children<br><strong>Torque:</strong> RC car<br><strong>Design:</strong> Cars<br><strong>Features:</strong> Remote Control<br><strong>Charging Voltage:</strong> 220v<br><strong>Remote Distance:</strong> kids car<br><strong>Control Channels:</strong> 2 Channels<br><strong>Package Includes:</strong> Remote Controller<br><strong>Package Includes:</strong> RC car<br><strong>Remote Control:</strong> Yes<br><strong>Age Range:</strong> &gt; 6 years old<br><strong>Steering servo:</strong> Toy for children<br><strong>Power:</strong> Toy for children<br><strong>Scale:</strong> 1:12<br><strong>State of Assembly:</strong> Almost Ready</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">9.94</s:price>
+      <s:sku>43745786-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">9.94</s:price>
+      <s:sku>43745786-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+      <title>green / United States</title>
+      <s:price currency="USD">9.94</s:price>
+      <s:sku>43745786-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">9.94</s:price>
+      <s:sku>43745786-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+      <title>Light Green / United States</title>
+      <s:price currency="USD">9.94</s:price>
+      <s:sku>43745786-light-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554213318826</id>
+      <title>Watermelon red / United States</title>
+      <s:price currency="USD">9.94</s:price>
+      <s:sku>43745786-watermelon-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-rc-hub.myshopify.com/products/6554103808170</id>
+    <published>2021-03-06T12:32:19+05:00</published>
+    <updated>2021-03-06T12:32:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-rc-hub.myshopify.com/products/new-rc-car-wall-climbing-car-toys-remote-control-car-drift-flashing-race-toys-anti-gravity-car-mini-stunt-rc-toy-gifts-for-kid"/>
+    <title>New RC Car Wall Climbing Car</title>
+    <s:type></s:type>
+    <s:vendor>The RC Hub</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2851/4986/products/product-image-1249763080.jpg?v=1615015941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The RC Hub<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.32 - 29.18
+            <a href="https://the-rc-hub.myshopify.com/products/new-rc-car-wall-climbing-car-toys-remote-control-car-drift-flashing-race-toys-anti-gravity-car-mini-stunt-rc-toy-gifts-for-kid">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> Metal, </span><span>Plastic, </span><span>Rubber</span><br><span><strong>Dimensions:</strong> 19*24.5*8cm</span><br><span><strong>Design:</strong> Cars</span><br><span><strong>Features:</strong> Remote Control</span><br><span><strong>Remote Distance:</strong> 8-10m</span><br><span><strong>Controller Mode:</strong></span></p>
+<ul>
+<li><span>MODE1</span></li>
+<li><span>MODE2</span></li>
+</ul>
+<p> </p>
+<p><span><strong>Type:</strong> Car</span><br><span><strong>Control Channels:</strong> 4 Channels</span><br><span><strong>Package Includes:</strong> Operating Instructions</span><br><span><strong>Package Includes:</strong> Remote Controller</span><br><span><strong>Remote Control:</strong> Yes</span><br><span><strong>Age Range:</strong> &gt; 3 years old</span><br><span><strong>Certification:</strong> 3C</span><br><span><strong>Power:</strong> electric</span><br><span><strong>Scale:</strong> 1:22</span><br><span><strong>State of Assembly:</strong> Ready-to-Go</span><br><span><strong>Barcode:</strong> No</span><br><span><strong>Charging Voltage:</strong> 12V</span><br><span><strong>Package Includes:</strong> RC car</span><br><span><strong>Dimensions:</strong> 14*5.5*8 cm</span><br><span><strong>Model Number:</strong> RC car</span><br><span><strong>Remote Distance:</strong> 10 meters</span><br><span><strong>Flight Time:</strong> 7-9 min</span><br><span><strong>for:</strong> Christmas gift / New Year gift</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554103808170</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">29.18</s:price>
+      <s:sku>33592259-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554103808170</id>
+      <title>purple / United States</title>
+      <s:price currency="USD">29.18</s:price>
+      <s:sku>33592259-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554103808170</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>33592259-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-rc-hub.myshopify.com/products/6554103808170</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">29.18</s:price>
+      <s:sku>33592259-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

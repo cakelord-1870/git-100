@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://circle-women.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://circle-women.myshopify.com/collections/swim-shorts.atom"/>
+  <title>Circle Women</title>
+  <updated>2020-07-29T02:26:21-04:00</updated>
+  <author>
+    <name>Circle Women</name>
+  </author>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495673684132</id>
+    <published>2020-07-29T02:26:21-04:00</published>
+    <updated>2020-07-29T02:26:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/high-waisted-bikini-swim-shorts"/>
+    <title>High Waisted Bikini Swim Shorts</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1108185431.jpg?v=1596003987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> flower<br><strong>Material:</strong> Polyester<br><strong>Fit:</strong> Fits true to size, take your normal size<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Stripe / XXL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-stripe-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Stripe / XL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-stripe-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Red / M</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Red / S</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Stripe / S</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-stripe-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Stripe / L</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-stripe-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Stripe / M</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-stripe-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Green / L</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-green-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Green / M</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-green-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Green / XXL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-green-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-green-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Red / L</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Green / S</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-green-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Black / M</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Black / S</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495673684132</id>
+      <title>Black / L</title>
+      <s:price currency="USD">12.86</s:price>
+      <s:sku>28890353-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

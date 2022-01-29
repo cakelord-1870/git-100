@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rareviewz.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rareviewz.myshopify.com/collections/oversize.atom"/>
+  <title>RareViewz</title>
+  <updated>2020-07-14T02:56:39-04:00</updated>
+  <author>
+    <name>RareViewz</name>
+  </author>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+    <published>2020-07-14T02:56:39-04:00</published>
+    <updated>2020-07-14T02:56:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/oversized-square-sunglasses-women-designer"/>
+    <title>Oversized Square Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>DCM Sunglass Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/Oversized-Square-Sunglasses-Women-Designer-Brand-Big-one-lens-mans-black-Sun-Glasses-female-uv400-transparent_0e67bf5b-b669-4915-af1e-e4da26c0d95c.jpg?v=1594709810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DCM Sunglass Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+      <title>Black</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+      <title>Clear</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+      <title>Bleopard</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+      <title>Leopard</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+      <title>White</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874024603</id>
+      <title>Lblue</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>73:29</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+    <published>2020-07-14T02:47:39-04:00</published>
+    <updated>2020-07-14T02:47:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/black-retro-round-steampunk-sunglasses-women"/>
+    <title>Round Steampunk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Long Keeper Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/2019-Black-Retro-Round-Steampunk-Sunglasses-Women-Metal-Frame-Side-Shield-UV400-Sunglasses-Men-Classic-Vintage.jpg?v=1617346279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Long Keeper Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>black grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gun grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gold grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gold brown</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>brown brown</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>silver silver</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>blue silver</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>black red</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381839257755</id>
+    <published>2020-07-14T02:43:46-04:00</published>
+    <updated>2020-07-14T02:43:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/oversized-sunglasses-men-vintage-brand-driving-sun-glasses"/>
+    <title>Men Vintage Oversized Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Topglasses Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/YOOSKE-Oversized-Sunglasses-Men-Vintage-Brand-Driving-Sun-Glasses-Women-Flat-Top-Big-Frame-Sunglass-Retro_3e7e3420-e24d-454f-93bd-0592809d0dc3.jpg?v=1617356448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Topglasses Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>retro</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381839257755</id>
+      <title>C1 BLACK</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381839257755</id>
+      <title>C2 BROWN</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381839257755</id>
+      <title>C3 BLUE</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381839257755</id>
+      <title>C4 LEOPARD</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381839257755</id>
+      <title>C5 SILVER</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+    <published>2020-07-14T02:43:32-04:00</published>
+    <updated>2020-07-14T02:43:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/oversized-sunglasses-women-men-vintage-cat-eye"/>
+    <title>Vintage Cat Eye Oversized Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Shop4377075 Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/Imwete-Oversized-Sunglasses-Women-Men-Vintage-Cat-Eye-Brand-Designer-Cateye-Sun-Glasses-Big-Glasses-Ladies.jpg?v=1594709026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shop4377075 Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>retro</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+      <title>C1</title>
+      <s:price currency="USD">38.58</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+      <title>C2</title>
+      <s:price currency="USD">38.58</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+      <title>C3</title>
+      <s:price currency="USD">38.58</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+      <title>C4</title>
+      <s:price currency="USD">38.58</s:price>
+      <s:sku>73:350853</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+      <title>C7</title>
+      <s:price currency="USD">38.58</s:price>
+      <s:sku>73:365458</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381838799003</id>
+      <title>C8</title>
+      <s:price currency="USD">38.58</s:price>
+      <s:sku>73:100018786</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://babysine.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://babysine.myshopify.com/collections/rompers.atom"/>
+  <title>Babysine</title>
+  <updated>2021-09-01T12:36:48+05:00</updated>
+  <author>
+    <name>Babysine</name>
+  </author>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7083084054677</id>
+    <published>2021-09-01T12:36:48+05:00</published>
+    <updated>2021-09-01T12:36:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/rabbit-ear-baby-rompers"/>
+    <title>Rabbit Ear Baby Rompers</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1645112491.jpg?v=1630481821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.20 - 16.32
+            <a href="https://babysine.myshopify.com/products/rabbit-ear-baby-rompers">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Fashion<br><strong>Pattern Type:</strong> Solid<br><strong>Collar:</strong> Hooded<br><strong>Sleeve Length(cm):</strong> Full</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42322707-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">15.48</s:price>
+      <s:sku>42322707-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>42322707-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>42322707-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">7.82</s:price>
+      <s:sku>42322707-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>42322707-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>42322707-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42322707-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>42322707-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">15.48</s:price>
+      <s:sku>42322707-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>42322707-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>42322707-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">7.82</s:price>
+      <s:sku>42322707-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>42322707-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>42322707-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083084054677</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>42322707-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7083075829909</id>
+    <published>2021-09-01T12:33:18+05:00</published>
+    <updated>2021-09-01T12:33:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/baby-girls-summer-romper"/>
+    <title>Baby Girls Summer Romper</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1731546930.jpg?v=1630481607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.08 - 18.72
+            <a href="https://babysine.myshopify.com/products/baby-girls-summer-romper">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 13-24m<br><strong>Collar:</strong> O-Neck<br><strong>Department Name:</strong> Baby<br><strong>Pattern Type:</strong> Solid<br><strong>Season:</strong> Four Seasons<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Closure Type:</strong> Covered Button<br><strong>Material Composition:</strong> Cotton<br><strong>Item Type:</strong> Rompers<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 4T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-b-4t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 4T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-b-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 5T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-b-5t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 5T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-b-5t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 3T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-b-3t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 3T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-b-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 6T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-b-6t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>B / 6T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-b-6t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 5T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-a-5t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 5T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-a-5t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 6T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-a-6t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 6T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-a-6t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 3T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-a-3t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 3T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-a-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 4T / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>41693536-a-4t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083075829909</id>
+      <title>A / 4T / United States</title>
+      <s:price currency="USD">16.08</s:price>
+      <s:sku>41693536-a-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7083072094357</id>
+    <published>2021-09-01T12:31:32+05:00</published>
+    <updated>2021-09-01T12:31:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/newborn-baby-short-sleeve-clothes"/>
+    <title>Newborn Baby Short Sleeve Clothes</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1286902471.jpg?v=1630558804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.96 - 19.14
+            <a href="https://babysine.myshopify.com/products/newborn-baby-short-sleeve-clothes">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Style:</strong> Fashion<br><strong>Pattern Type:</strong> Print<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Collar:</strong> O-Neck</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">17.16</s:price>
+      <s:sku>33271519-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>33271519-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 9M / China</title>
+      <s:price currency="USD">17.82</s:price>
+      <s:sku>33271519-a-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 9M / United States</title>
+      <s:price currency="USD">13.89</s:price>
+      <s:sku>33271519-a-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>33271519-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">14.76</s:price>
+      <s:sku>33271519-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">19.14</s:price>
+      <s:sku>33271519-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">15.69</s:price>
+      <s:sku>33271519-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">17.16</s:price>
+      <s:sku>33271519-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>33271519-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 9M / China</title>
+      <s:price currency="USD">17.82</s:price>
+      <s:sku>33271519-b-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 9M / United States</title>
+      <s:price currency="USD">13.89</s:price>
+      <s:sku>33271519-b-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>33271519-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">14.76</s:price>
+      <s:sku>33271519-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">19.14</s:price>
+      <s:sku>33271519-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083072094357</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">15.69</s:price>
+      <s:sku>33271519-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7083068391573</id>
+    <published>2021-09-01T12:29:35+05:00</published>
+    <updated>2021-09-01T12:29:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/kids-baby-girl-romper"/>
+    <title>Kids Baby Girl Romper</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1471433192.jpg?v=1630481386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.97 - 18.48
+            <a href="https://babysine.myshopify.com/products/kids-baby-girl-romper">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Pattern Type:</strong> Floral<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Gender:</strong> Baby Girls<br><strong>Sleeve Length(cm):</strong> Three Quarter<br><strong>Material Composition:</strong> Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 5T / United States</title>
+      <s:price currency="USD">15.12</s:price>
+      <s:sku>38588728-pink-5t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 4T / United States</title>
+      <s:price currency="USD">14.32</s:price>
+      <s:sku>38588728-pink-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 5T / China</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>38588728-pink-5t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 3T / United States</title>
+      <s:price currency="USD">13.55</s:price>
+      <s:sku>38588728-pink-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 4T / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>38588728-pink-4t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 24M / United States</title>
+      <s:price currency="USD">12.74</s:price>
+      <s:sku>38588728-pink-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 3T / China</title>
+      <s:price currency="USD">17.47</s:price>
+      <s:sku>38588728-pink-3t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 12M / United States</title>
+      <s:price currency="USD">11.97</s:price>
+      <s:sku>38588728-pink-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 24M / China</title>
+      <s:price currency="USD">17.01</s:price>
+      <s:sku>38588728-pink-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083068391573</id>
+      <title>Pink / 12M / China</title>
+      <s:price currency="USD">16.52</s:price>
+      <s:sku>38588728-pink-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

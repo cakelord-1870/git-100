@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://silverfox-bags.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://silverfox-bags.myshopify.com/collections/shoulder-bags.atom"/>
+  <title>SilverFox Bags</title>
+  <updated>2020-12-03T01:45:08-05:00</updated>
+  <author>
+    <name>SilverFox Bags</name>
+  </author>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6154877632663</id>
+    <published>2020-12-03T01:45:08-05:00</published>
+    <updated>2020-12-03T01:45:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/chain-shoulder-bag"/>
+    <title>Chain  shoulder bag</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1433421219.jpg?v=1606977910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Flap<br><strong>Handbags Type:</strong> Shoulder Bags<br><strong>Types of bags:</strong> Shoulder Bags<br><strong>Main Material:</strong> PU<br><strong>Closure Type:</strong> Hasp<br><strong>Hardness:</strong> SOFT<br><strong>Exterior:</strong> NONE<br><strong>Style:</strong> Fashion<br><strong>Lining Material:</strong> Polyester<br><strong>Occasion:</strong> Versatile<br><strong>Gender:</strong> WOMEN<br><strong>Pattern Type:</strong> GEOMETRIC<br><strong>Number of Handles/Straps:</strong> Single<br><strong>Interior:</strong> Cell Phone Pocket<br><strong>Decoration:</strong> Sequined<br><strong>Item Type:</strong> Handbags</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154877632663</id>
+      <title>white</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>36980277-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154877632663</id>
+      <title>Silver</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>36980277-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154877632663</id>
+      <title>black</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>36980277-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+    <published>2020-12-03T01:42:27-05:00</published>
+    <updated>2020-12-03T01:42:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/shoulder-messenger-bag"/>
+    <title>Shoulder Messenger Bag</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1338880374.jpg?v=1606977751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.18 - 44.12
+            <a href="https://silverfox-bags.myshopify.com/products/shoulder-messenger-bag">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Flap<br><strong>Handbags Type:</strong> Shoulder Bags<br><strong>Types of bags:</strong> Shoulder &amp; Crossbody Bags<br><strong>Main Material:</strong> PU<br><strong>Closure Type:</strong> zipper<br><strong>Hardness:</strong> SOFT<br><strong>Exterior:</strong> NONE<br><strong>Style:</strong> Fashion<br><strong>Lining Material:</strong> Polyester<br><strong>Occasion:</strong> Versatile<br><strong>Gender:</strong> WOMEN<br><strong>Pattern Type:</strong> Solid<br><strong>Number of Handles/Straps:</strong> Single<br><strong>Interior:</strong> Cell Phone Pocket<br><strong>Decoration:</strong> NONE<br><strong>Item Type:</strong> Handbags</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>brown</title>
+      <s:price currency="USD">44.12</s:price>
+      <s:sku>31563995-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>green</title>
+      <s:price currency="USD">44.12</s:price>
+      <s:sku>31563995-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>black</title>
+      <s:price currency="USD">44.12</s:price>
+      <s:sku>31563995-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>khiki</title>
+      <s:price currency="USD">44.12</s:price>
+      <s:sku>31563995-khiki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>Lattice wine red</title>
+      <s:price currency="USD">43.74</s:price>
+      <s:sku>31563995-lattice-wine-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>Lattice blue</title>
+      <s:price currency="USD">43.74</s:price>
+      <s:sku>31563995-lattice-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>brown A</title>
+      <s:price currency="USD">34.18</s:price>
+      <s:sku>31563995-brown-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>khiki A</title>
+      <s:price currency="USD">34.18</s:price>
+      <s:sku>31563995-khiki-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>black A</title>
+      <s:price currency="USD">34.18</s:price>
+      <s:sku>31563995-black-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>gray A</title>
+      <s:price currency="USD">34.18</s:price>
+      <s:sku>31563995-gray-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154871734423</id>
+      <title>green A</title>
+      <s:price currency="USD">34.18</s:price>
+      <s:sku>31563995-green-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+    <published>2020-12-03T01:40:55-05:00</published>
+    <updated>2020-12-03T01:40:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/gold-chains-shoulder-bag"/>
+    <title>Gold chains shoulder bag</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1458097189.jpg?v=1606977660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Hobos<br><strong>Handbags Type:</strong> Shoulder Bags<br><strong>Types of bags:</strong> Shoulder &amp; Crossbody Bags<br><strong>Main Material:</strong> PU<br><strong>Closure Type:</strong> COVER<br><strong>Hardness:</strong> SOFT<br><strong>Exterior:</strong> NONE<br><strong>Style:</strong> Fashion<br><strong>Lining Material:</strong> Polyester<br><strong>Occasion:</strong> Versatile<br><strong>Gender:</strong> WOMEN<br><strong>Pattern Type:</strong> Solid<br><strong>Number of Handles/Straps:</strong> Single<br><strong>Interior:</strong> Interior Slot Pocket<br><strong>Interior:</strong> Interior Zipper Pocket<br><strong>Interior:</strong> Interior Compartment<br><strong>Decoration:</strong> Rivet<br><strong>Item Type:</strong> Handbags<br><strong>Large Capacity:</strong> Magazine / Phone / Cosme<br><strong>Source Category:</strong> Magazine / Phone / Cosmetic / key / wallet<br><strong>Season:</strong> Spring Summer Autumn Winter Style<br><strong>Style:</strong> Women's Single Shoulder Bag<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>Khaki / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-khaki-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>Green / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-green-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>orange / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-orange-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>Black / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-black-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>Yellow / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-yellow-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>Blue / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-blue-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>White / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-white-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>New Green / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-new-green-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154868785303</id>
+      <title>New Purple / 28cmx14cmx10cm</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>38254121-new-purple-28cmx14cmx10cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+    <published>2020-12-03T01:38:58-05:00</published>
+    <updated>2020-12-03T01:38:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/canvas-cloth-shoulder-bag"/>
+    <title>Canvas Cloth Shoulder Bag</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1545628519.jpg?v=1606977541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Casual Tote<br><strong>Handbags Type:</strong> Shoulder Bags<br><strong>Types of bags:</strong> Shoulder Bags<br><strong>Main Material:</strong> Corduroy<br><strong>Closure Type:</strong> Hasp<br><strong>Hardness:</strong> SOFT<br><strong>Exterior:</strong> NONE<br><strong>Style:</strong> Fashion<br><strong>Lining Material:</strong> None<br><strong>Occasion:</strong> Business<br><strong>Gender:</strong> WOMEN<br><strong>Pattern Type:</strong> Solid<br><strong>Number of Handles/Straps:</strong> Single<br><strong>Interior:</strong> No Pocket<br><strong>Decoration:</strong> NONE<br><strong>Colours:</strong> Black,white, pink</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+      <title>White / 34x30x12cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29853197-white-34x30x12cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+      <title>Pink / 34x30x12cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29853197-pink-34x30x12cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+      <title>Green / 34x30x12cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29853197-green-34x30x12cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+      <title>Yellow / 34x30x12cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29853197-yellow-34x30x12cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+      <title>Black / 34x30x12cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29853197-black-34x30x12cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6154864984215</id>
+      <title>Brown / 34x30x12cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29853197-brown-34x30x12cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

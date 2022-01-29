@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://economy-shoes.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://economy-shoes.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://economy-shoes.myshopify.com/collections/indoor-slippers.atom"/>
+  <title>Economy Shoes</title>
+  <updated>2020-12-16T00:18:30-05:00</updated>
+  <author>
+    <name>Economy Shoes</name>
+  </author>
+  <entry>
+    <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+    <published>2020-12-16T00:18:30-05:00</published>
+    <updated>2020-12-16T00:18:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://economy-shoes.myshopify.com/products/winter-indoor-slippers-cute-cat-paw"/>
+    <title>Winter Indoor Slippers Cute Cat paw</title>
+    <s:type></s:type>
+    <s:vendor>Economy Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0517/6786/9613/products/product-image-1591922928.jpg?v=1608095917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Economy Shoes<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Fur<br><strong>Origin:</strong> CN(Origin)<br><strong>Outsole Material:</strong> PVC<br><strong>Heel Height:</strong> Low (1cm-3cm)<br><strong>With Platforms:</strong> No<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Insole Material:</strong> Short Plush<br><strong>Shoe Type:</strong> Basic<br><strong>Fashion Element:</strong> Faux Fur<br><strong>Pattern Type:</strong> Cartoon Animation<br><strong>Season:</strong> Winter<br><strong>Applicable Place:</strong> Indoor<br><strong>Heel Type:</strong> Flat with<br><strong>Lining Material:</strong> Plush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>brown / 42-43</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-brown-42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>brown / 44-45</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-brown-44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>brown / 38-39</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-brown-38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>brown / 40-41</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-brown-40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>brown / 36-37</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-brown-36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Grey / 38-39</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-grey-38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Grey / 40-41</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-grey-40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Coffee / 44-45</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-coffee-44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Grey / 36-37</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-grey-36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Coffee / 40-41</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-coffee-40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Coffee / 42-43</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-coffee-42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Coffee / 36-37</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-coffee-36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Coffee / 38-39</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-coffee-38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Pink / 44-45</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-pink-44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Yellow / 36-37</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-yellow-36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Pink / 40-41</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-pink-40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Pink / 42-43</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-pink-42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Pink / 36-37</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-pink-36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Pink / 38-39</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-pink-38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Grey / 42-43</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-grey-42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Grey / 44-45</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-grey-44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Khaki / 40-41</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-khaki-40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Khaki / 42-43</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-khaki-42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Khaki / 36-37</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-khaki-36-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Khaki / 38-39</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-khaki-38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Yellow / 42-43</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-yellow-42-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Yellow / 44-45</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-yellow-44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Yellow / 38-39</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-yellow-38-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Yellow / 40-41</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-yellow-40-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141859496109</id>
+      <title>Khaki / 44-45</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>41067230-khaki-44-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+    <published>2020-12-16T00:17:38-05:00</published>
+    <updated>2020-12-16T00:17:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://economy-shoes.myshopify.com/products/slipper-fashion-winter-women"/>
+    <title>Slipper Fashion Winter Women</title>
+    <s:type></s:type>
+    <s:vendor>Economy Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0517/6786/9613/products/product-image-1640116896.jpg?v=1608097046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Economy Shoes<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Flock<br><strong>Origin:</strong> CN(Origin)<br><strong>Outsole Material:</strong> Fabric<br><strong>Item Type:</strong> Slippers<br><strong>Heel Height:</strong> Flat (≤1cm)<br><strong>With Platforms:</strong> No<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Insole Material:</strong> Short Plush<br><strong>Shoes Type:</strong> Basic<br><strong>Fashion Element:</strong> Faux Fur<br><strong>Pattern Type:</strong> striped<br><strong>Season:</strong> Winter<br><strong>Applicable Place:</strong> Indoor<br><strong>Department Name:</strong> Adult<br><strong>Heel Type:</strong> Flat with<br><strong>Lining Material:</strong> Short Plush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Rose red / 45</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-rose-red-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Rose red / 43</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-rose-red-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Rose red / 37</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-rose-red-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Pink / 45</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-pink-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Rose red / 41</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-rose-red-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Rose red / 39</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-rose-red-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Pink / 39</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-pink-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Pink / 37</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-pink-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Pink / 43</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-pink-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Pink / 41</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-pink-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Yellow / 41</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-yellow-41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Yellow / 39</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-yellow-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Yellow / 45</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-yellow-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Yellow / 43</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-yellow-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858971821</id>
+      <title>Yellow / 37</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42191685-yellow-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+    <published>2020-12-16T00:15:33-05:00</published>
+    <updated>2020-12-16T00:15:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://economy-shoes.myshopify.com/products/winter-fashion-women-home-slippers"/>
+    <title>Winter Fashion Women Home Slippers</title>
+    <s:type></s:type>
+    <s:vendor>Economy Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0517/6786/9613/products/product-image-1433725667.jpg?v=1608095747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Economy Shoes<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.50 - 18.12
+            <a href="https://economy-shoes.myshopify.com/products/winter-fashion-women-home-slippers">(70 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Fur<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Slippers<br><strong>Heel Height:</strong> Flat (≤1cm)<br><strong>With Platforms:</strong> Yes<br><strong>Platform Height:</strong> 0-3cm<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Insole Material:</strong> Short Plush<br><strong>Shoes Type:</strong> Basic<br><strong>Fashion Element:</strong> Butterfly-knot<br><strong>Pattern Type:</strong> Solid<br><strong>Season:</strong> Winter<br><strong>Applicable Place:</strong> Indoor<br><strong>Department Name:</strong> Adult<br><strong>Heel Type:</strong> Flat with<br><strong>Lining Material:</strong> Plush<br><strong>color:</strong> red pink black gray beige<br><strong>shoe US size:</strong> 4,4.5,5,5.5,6,6.5,7,7.5,8,8.5,9,9.5,10<br><strong>shoe EUR size:</strong> 35,36,37,38,39,40,41,42,43,44,45<br><strong>occasion:</strong> casual fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 4</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>11538468-black-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 4</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 4</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 4</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 4</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 8</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 7</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 4</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 9</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 6</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 5</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Gray / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-gray-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Deep Blue / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-deep-blue-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-black-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Army Green / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-army-green-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Pink / 13</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-pink-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Lavender / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-lavender-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 11</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 12</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141858054317</id>
+      <title>Beige / 10</title>
+      <s:price currency="USD">18.12</s:price>
+      <s:sku>11538468-beige-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+    <published>2020-12-16T00:13:53-05:00</published>
+    <updated>2020-12-16T00:13:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://economy-shoes.myshopify.com/products/women-casual-floral-indoor-slippers"/>
+    <title>Women Casual Floral Indoor Slippers</title>
+    <s:type></s:type>
+    <s:vendor>Economy Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0517/6786/9613/products/product-image-1532558863.jpg?v=1608096602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Economy Shoes<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Hemp<br><strong>Origin:</strong> CN(Origin)<br><strong>Outsole Material:</strong> EVA<br><strong>Item Type:</strong> Slippers<br><strong>Heel Height:</strong> Low (1cm-3cm)<br><strong>With Platforms:</strong> No<br><strong>Fit:</strong> Fits smaller than usual. Please check this store's sizing info<br><strong>Insole Material:</strong> EVA<br><strong>Shoe Type:</strong> Basic<br><strong>Fashion Element:</strong> Cross-tied<br><strong>Pattern Type:</strong> striped<br><strong>Season:</strong> Summer<br><strong>Applicable Place:</strong> Indoor<br><strong>Department Name:</strong> Adult<br><strong>Heel Type:</strong> Flat with<br><strong>Lining Material:</strong> None<br><strong>Outsole Material:</strong> PVC/EVA<br><strong>Size:</strong> Asia size 37/38, 39/40, 42/43, 44/45<br><strong>Type:</strong> Lovers Women Men Slippers<br><strong>Feature:</strong> PVC Slippers, EVA Slippers<br><strong>High-Quality Men Home Slippers:</strong> Women and Men Linen Slippers<br><strong>Unisex Lovers' Slippers:</strong> Home Slippers Indoor Floor<br><strong>Plus Size Women Shoes:</strong> Autumn Men Slippers<br><strong>Japanese-style Slippers:</strong> Spring slippers, winter linen</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 37</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 43</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 44</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 45</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 37</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 39</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Snowflake-EVA / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-snowflake-eva-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 43</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 44</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 45</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 37</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 39</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Sailboat-EVA / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-sailboat-eva-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 43</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 44</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 45</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 37</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 39</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tree-EVA / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tree-eva-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 44</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 45</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 43</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 39</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 37</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Cat-EVA / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-cat-eva-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 43</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 44</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 45</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 37</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 39</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Flower-EVA / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-flower-eva-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 44</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 45</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 42</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 43</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 39</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 40</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://economy-shoes.myshopify.com/products/6141857202349</id>
+      <title>Tower-EVA / 38</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36349942-tower-eva-38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

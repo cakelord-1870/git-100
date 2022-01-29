@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lilywomen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lilywomen.myshopify.com/collections/tank-tops.atom"/>
+  <title>lilywomen</title>
+  <updated>2021-04-27T11:12:16+05:00</updated>
+  <author>
+    <name>lilywomen</name>
+  </author>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+    <published>2021-04-27T11:12:16+05:00</published>
+    <updated>2021-04-27T11:12:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/adjustable-strap-ribbed-tops-set"/>
+    <title>Adjustable Strap Ribbed Tops Set</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1667180610.jpg?v=1619509270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bra Style:</strong> Padded<br><strong>Support Type:</strong> Wire Free<br><strong>Obscene Picture:</strong> No<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Cup Shape:</strong> Three Quarters(3/4 Cup)<br><strong>Closure Type:</strong> NONE<br><strong>Pattern Type:</strong> Solid<br><strong>Gender:</strong> WOMEN<br><strong>Strap Type:</strong> Non-Convertible Straps<br><strong>Strap Type:</strong> Adjusted-straps<br><strong>Style:</strong> everyday<br><strong>Item Type:</strong> Bra &amp; Brief Sets<br><strong>Decoration:</strong> NONE<br><strong>Item:</strong> Wireless Bra Set For Women<br><strong>Features:</strong> Zero Pressure, Zero Constraint,Gather Bra<br><strong>Color:</strong> Black,Beige,White,Khaki,Wine red<br><strong>Feel:</strong> Comfortable Silky<br><strong>Shoulder Strap:</strong> Adjustable Shoulder Strap<br><strong>Drop Shipping:</strong> Drop Shipping Accept<br><strong>Occasion:</strong> Party,Wedding,Birthday,Anniversary,Gift,Daily</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women Tanktop</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Black / M-L</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-black-m-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Black / XL-XXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-black-xl-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Wine red / M-L</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-wine-red-m-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Wine red / XL-XXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-wine-red-xl-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>White / M-L</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-white-m-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>White / XL-XXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-white-xl-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Khaki / M-L</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-khaki-m-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Khaki / XL-XXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-khaki-xl-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Beige / M-L</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-beige-m-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635886757</id>
+      <title>Beige / XL-XXL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>42937554-beige-xl-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+    <published>2021-04-27T11:10:40+05:00</published>
+    <updated>2021-04-27T11:10:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/fitness-push-up-women-tops"/>
+    <title>Fitness Push Up Women Tops</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1541991970.jpg?v=1619509101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            11.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Bra Style:</strong> Seamless<br><strong>Bra Style:</strong> Push Up<br><strong>Bra Style:</strong> Padded<br><strong>Material:</strong> Spandex<br><strong>Material:</strong> Nylon<br><strong>Gender:</strong> WOMEN<br><strong>Closure Type:</strong> Front Closure<br><strong>Closure Type:</strong> Three Hook-and-eye<br><strong>Decoration:</strong> NONE<br><strong>Style:</strong> everyday<br><strong>Pattern Type:</strong> Solid<br><strong>Item Type:</strong> Bras<br><strong>Support Type:</strong> Wire Free<br><strong>Cup Shape:</strong> Three Quarters(3/4 Cup)<br><strong>Solid Color:</strong> Black / Apricot<br><strong>Size:</strong> M / L / XL / XXL / XXXL<br><strong>Plus Size Bra:</strong> Seamless Bralette<br><strong>Women's Bra:</strong> Wireless Bra<br><strong>Female Underwear:</strong> Female Lingerie</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women Tanktop</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Apricot / M</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-apricot-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Black / L</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Apricot / XXL</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-apricot-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Black / M</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Apricot / L</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-apricot-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Apricot / XL</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-apricot-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-black-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635493541</id>
+      <title>Apricot / XXXL</title>
+      <s:price currency="USD">11.18</s:price>
+      <s:sku>40446842-apricot-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698635067557</id>
+    <published>2021-04-27T11:09:09+05:00</published>
+    <updated>2021-04-27T11:09:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/pad-underwear-female-top"/>
+    <title>Pad Underwear Female Top</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1622295345.jpg?v=1619509314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> Solid<br><strong>Decoration:</strong> NONE<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Gender:</strong> WOMEN<br><strong>Item Type:</strong> Camisoles &amp; Tanks<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Color:</strong> black/khaki/blue/green<br><strong>Free Size:</strong> for 40-60kg<br><strong>Tank Crop Tops:</strong> Sleeveless Camis<br><strong>Women Tops:</strong> Sexy Camisole<br><strong>For:</strong> Women/Female/Girls/Ladies<br><strong>Usage:</strong> Daily/School/Party/Club</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women Tanktop</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635067557</id>
+      <title>Green / 40-60KG</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41688770-green-40-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635067557</id>
+      <title>Blue / 40-60KG</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41688770-blue-40-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635067557</id>
+      <title>Purple / 40-60KG</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41688770-purple-40-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635067557</id>
+      <title>Black / 40-60KG</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41688770-black-40-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698635067557</id>
+      <title>Khaki / 40-60KG</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41688770-khaki-40-60kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698634576037</id>
+    <published>2021-04-27T11:07:51+05:00</published>
+    <updated>2021-04-27T11:07:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/tops-streetwear-women-tank"/>
+    <title>Tops Streetwear Women Tank</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1637375302.jpg?v=1619503674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Pattern Type:</strong> Solid<br><strong>Gender:</strong> WOMEN<br><strong>Item Type:</strong> Camisoles &amp; Tanks<br><strong>Decoration:</strong> NONE<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>color:</strong> black,blue,green,red,apricot<br><strong>size:</strong> one size,for 40-70kgs<br><strong>cup:</strong> for Cup ABCD<br><strong>style:</strong> everyday<br><strong>occasion:</strong> daily,party,holiday</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women Tanktop</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634576037</id>
+      <title>black / 40-70KG</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>40099152-black-40-70kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634576037</id>
+      <title>green / 40-70KG</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>40099152-green-40-70kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634576037</id>
+      <title>blue / 40-70KG</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>40099152-blue-40-70kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634576037</id>
+      <title>apricot / 40-70KG</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>40099152-apricot-40-70kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634576037</id>
+      <title>red / 40-70KG</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>40099152-red-40-70kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+    <published>2021-04-27T11:06:59+05:00</published>
+    <updated>2021-04-27T11:06:59+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/girls-stretchy-tank-top"/>
+    <title>Girls Stretchy Tank Top</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1625015274.jpg?v=1619509357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bra Style:</strong> Seamless<br><strong>Bra Style:</strong> One-Piece<br><strong>Bra Style:</strong> Plunge<br><strong>Support Type:</strong> Wire Free<br><strong>Obscene Picture:</strong> No<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Cup Shape:</strong> Three Quarters(3/4 Cup)<br><strong>Closure Type:</strong> NONE<br><strong>Pattern Type:</strong> Solid<br><strong>Gender:</strong> WOMEN<br><strong>Strap Type:</strong> Adjusted-straps<br><strong>Strap Type:</strong> Non-Convertible Straps<br><strong>Style:</strong> Sexy<br><strong>Item Type:</strong> Bra &amp; Brief Sets<br><strong>Decoration:</strong> NONE<br><strong>6 Solid Color:</strong> Apricot / Blue / Wine red / Khaki / Black / White<br><strong>For:</strong> Women / Ladies / Female / Girls<br><strong>Metarial Details:</strong> 92% Polyester + 8% Spandex<br><strong>Occassion:</strong> Daily Life<br><strong>Feature 1:</strong> Briefs / Thong G-String / High Waist Panties<br><strong>Feature 2:</strong> Ribbed / Ribbing<br><strong>Dropshipping:</strong> Fast Drop Shipping</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Tank Top</s:tag>
+    <s:tag>women Tanktop</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style APRICOT / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-apricot-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style BLACK / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-black-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style KHAKI / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-khaki-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style KHAKI / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-khaki-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style WINE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-wine-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style WINE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-wine-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style BLUE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-blue-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style BLUE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-blue-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style APRICOT / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-apricot-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style WINE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-wine-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style BLUE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-blue-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style BLUE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-blue-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style APRICOT / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-apricot-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style APRICOT / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-apricot-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style WHITE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-white-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style WHITE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-white-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style BLACK / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-black-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist APRICOT / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-apricot-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style BLUE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-blue-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style WHITE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-white-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style APRICOT / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-apricot-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style WHITE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-white-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style KHAKI / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-khaki-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style BLACK / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-black-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style WINE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-wine-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style BLACK / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-black-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style WHITE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-white-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style KHAKI / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-khaki-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Briefs Style BLACK / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-briefs-style-black-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style KHAKI / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-khaki-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style BLUE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-blue-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style WINE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-wine-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style APRICOT / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-apricot-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style KHAKI / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-khaki-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style WINE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-wine-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style WHITE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-white-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>Thong Style BLACK / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-thong-style-black-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist BLUE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-blue-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist APRICOT / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-apricot-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist KHAKI / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-khaki-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist WINE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-wine-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist WHITE / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-white-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist BLACK / Bra M Panties XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-black-bra-m-panties-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist BLACK / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-black-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist KHAKI / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-khaki-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist KHAKI / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-khaki-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist WINE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-wine-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist WINE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-wine-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist BLUE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-blue-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist BLUE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-blue-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist APRICOT / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-apricot-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist WHITE / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-white-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist WHITE / S-M</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-white-s-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698634051749</id>
+      <title>High Waist BLACK / L-XL</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>41764664-high-waist-black-l-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698631430309</id>
+    <published>2021-04-27T11:05:10+05:00</published>
+    <updated>2021-04-27T11:05:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/women-fashion-top"/>
+    <title>Women Fashion Top</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734368265.jpg?v=1619509377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> Solid<br><strong>Decoration:</strong> NONE<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Gender:</strong> WOMEN<br><strong>Item Type:</strong> Camisoles &amp; Tanks<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>4 Solid Color:</strong> White / Black / Caramel / Coffee<br><strong>Free Size:</strong> for cup ABCD<br><strong>Tank Crop Tops:</strong> Sleeveless Camis<br><strong>Women Tops:</strong> Solid Color<br><strong>For:</strong> Women/Female/Girls/Ladies<br><strong>Usage:</strong> Daily/School/Party/Club<br><strong>Female Underwear:</strong> Sexy Camisole</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women Tanktop</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698631430309</id>
+      <title>White / ONE SIZE</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41211903-white-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698631430309</id>
+      <title>Caramel / ONE SIZE</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41211903-caramel-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698631430309</id>
+      <title>Coffee / ONE SIZE</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41211903-coffee-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698631430309</id>
+      <title>Black / ONE SIZE</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>41211903-black-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

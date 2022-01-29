@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iconicdigital.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iconicdigital.myshopify.com/collections/all.atom"/>
+  <title>IconicDigital</title>
+  <updated>2021-05-07T12:37:52+05:00</updated>
+  <author>
+    <name>IconicDigital</name>
+  </author>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+    <published>2021-05-07T12:37:52+05:00</published>
+    <updated>2021-05-07T12:37:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/portable-bluetooth-speaker"/>
+    <title>Portable Bluetooth Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1708481034.jpg?v=1620373078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            19.72 - 31.76
+            <a href="https://iconicdigital.myshopify.com/products/portable-bluetooth-speaker">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> NONE<br><strong>Output Power:</strong> Other<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> Radio<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> Other<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 10W<br><strong>Support APP:</strong> No<br><strong>Impedance:</strong> 4-6 Ohm<br><strong>Feature:</strong> Play Video<br><strong>Frequency Range:</strong> 100Hz-20KHz<br><strong>Bluetooth version:</strong> V5.0<br><strong>Wireless transmission range:</strong> 10M<br><strong>Normal volume playback:</strong> 8-10H<br><strong>Support 1:</strong> Support Bluetooth, L2CAP / A2DP (AVDTP / AVRCP), HAP / HFP<br><strong>Support 2:</strong> Support FM radio, TF card, U disk, LINE IN audio input</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>TF 32GB card</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>44079466-tf-32gb-card</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-red-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red B 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-red-b-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>blue 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-blue-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>green 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-green-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>sky blue 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-sky-blue-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>black 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-black-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>green 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-green-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>blue 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-blue-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red B 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-red-b-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>black 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-black-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>sky blue 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-sky-blue-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-red-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+    <published>2021-05-07T12:35:00+05:00</published>
+    <updated>2021-05-07T12:35:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/men-smart-watch"/>
+    <title>Men Smart Watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1702893376.jpg?v=1620372947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> On Wrist<br><strong>Compatibility:</strong> All Compatible<br><strong>ROM:</strong> &lt;128MB<br><strong>Function:</strong> Passometer<br><strong>Function:</strong> Sleep Tracker<br><strong>Function:</strong> Message Reminder<br><strong>Function:</strong> Power Reserve<br><strong>Function:</strong> Week<br><strong>Function:</strong> Month<br><strong>Function:</strong> Heart Rate Tracker<br><strong>Rear Camera:</strong> None<br><strong>Language:</strong> english<br><strong>Waterproof Grade:</strong> Life Waterproof<br><strong>Multiple Dials:</strong> Yes<br><strong>Certification:</strong> CE<br><strong>Battery Capacity:</strong> 120-180mAh<br><strong>Style:</strong> SPORT<br><strong>Movement Type:</strong> Electronic<br><strong>Screen Shape:</strong> Square<br><strong>Resolution:</strong> 240*240<br><strong>APP Download Available:</strong> No<br><strong>Case Material:</strong> Alloy<br><strong>Display Size:</strong> 1.4inch<br><strong>Band Material:</strong> Silica gel<br><strong>Application Age Group:</strong> Adult<br><strong>Battery Detachable:</strong> No<br><strong>Band Detachable:</strong> Yes<br><strong>waterproof:</strong> IP67<br><strong>weather:</strong> support<br><strong>APP map:</strong> support<br><strong>APP GPS:</strong> support</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digital Watch</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackadd020812strap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackadd020812strap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackadd4straps</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackadd4straps-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackadd5strap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackadd5strap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackrubber</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackrubber-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>bluerubber</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-bluerubber-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>goldrubber</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-goldrubber-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>grayrubber</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-grayrubber-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackaddpinkstrap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackaddpinkstrap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackadd0812strap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackadd0812strap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackadd0506strap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackadd0506strap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackadd020506strap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackadd020506strap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>pinkrubber</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-pinkrubber-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977075806377</id>
+      <title>blackaddblackstrap</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>33019919-blackaddblackstrap-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+    <published>2021-05-06T14:15:54+05:00</published>
+    <updated>2021-05-06T14:15:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/surveillance-security-audio-monitor-camera"/>
+    <title>Security Audio Monitor Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1625597187.jpg?v=1620292576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            33.22 - 92.78
+            <a href="https://iconicdigital.myshopify.com/products/surveillance-security-audio-monitor-camera">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>High Definition:</strong> 1080P(Full-HD)<br><strong>Lens (mm):</strong> 3.6mm<br><strong>Connectivity:</strong> IP/Network Wireless<br><strong>Installation:</strong> Ceiling<br><strong>Color:</strong> White<br><strong>Megapixels:</strong> 2MP<br><strong>Special Features:</strong> Vandal-proof<br><strong>Storage:</strong> None<br><strong>Alarm Action:</strong> Local Alarm<br><strong>Video Compression Format:</strong> H.264<br><strong>IR Distance(m):</strong> 10-15M<br><strong>Power Supply(V):</strong> DC5V / 1.6A<br><strong>Viewing Angle :</strong> 90°<br><strong>Technology:</strong> Pan Tilt Zoom<br><strong>Dimensions (L x W x D)(mm):</strong> 14 * 12* 11cm<br><strong>Supported Mobile Systems:</strong> Android<br><strong>Material:</strong> ABS plastic, for indoor use<br><strong>Onvif:</strong> Support<br><strong>Night vision:</strong> 10-15M<br><strong>SD card slot:</strong> 16/32 / 64/128GB<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>digital cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 32G Card / EU plug</title>
+      <s:price currency="USD">47.60</s:price>
+      <s:sku>35465958-720p-with-32g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 64G Card / EU plug</title>
+      <s:price currency="USD">57.42</s:price>
+      <s:sku>35465958-720p-with-64g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P / EU plug</title>
+      <s:price currency="USD">44.86</s:price>
+      <s:sku>35465958-1080p-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 16G Card / EU plug</title>
+      <s:price currency="USD">53.28</s:price>
+      <s:sku>35465958-1080p-with-16g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P / EU plug</title>
+      <s:price currency="USD">33.22</s:price>
+      <s:sku>35465958-720p-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 16G Card / EU plug</title>
+      <s:price currency="USD">43.98</s:price>
+      <s:sku>35465958-720p-with-16g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 32G Card / EU plug</title>
+      <s:price currency="USD">57.94</s:price>
+      <s:sku>35465958-1080p-with-32g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 64G Card / EU plug</title>
+      <s:price currency="USD">69.74</s:price>
+      <s:sku>35465958-1080p-with-64g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 128G Card / EU plug</title>
+      <s:price currency="USD">92.78</s:price>
+      <s:sku>35465958-1080p-with-128g-card-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P / US plug</title>
+      <s:price currency="USD">33.22</s:price>
+      <s:sku>35465958-720p-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 16G Card / US plug</title>
+      <s:price currency="USD">43.98</s:price>
+      <s:sku>35465958-720p-with-16g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 32G Card / US plug</title>
+      <s:price currency="USD">47.60</s:price>
+      <s:sku>35465958-720p-with-32g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 64G Card / US plug</title>
+      <s:price currency="USD">57.42</s:price>
+      <s:sku>35465958-720p-with-64g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P / UK Plug</title>
+      <s:price currency="USD">44.86</s:price>
+      <s:sku>35465958-1080p-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 16G Card / UK Plug</title>
+      <s:price currency="USD">53.28</s:price>
+      <s:sku>35465958-1080p-with-16g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 32G Card / UK Plug</title>
+      <s:price currency="USD">57.94</s:price>
+      <s:sku>35465958-1080p-with-32g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 64G Card / UK Plug</title>
+      <s:price currency="USD">69.74</s:price>
+      <s:sku>35465958-1080p-with-64g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P / UK Plug</title>
+      <s:price currency="USD">33.22</s:price>
+      <s:sku>35465958-720p-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 16G Card / UK Plug</title>
+      <s:price currency="USD">43.98</s:price>
+      <s:sku>35465958-720p-with-16g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 32G Card / UK Plug</title>
+      <s:price currency="USD">47.60</s:price>
+      <s:sku>35465958-720p-with-32g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 64G Card / UK Plug</title>
+      <s:price currency="USD">57.42</s:price>
+      <s:sku>35465958-720p-with-64g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 128G Card / UK Plug</title>
+      <s:price currency="USD">92.78</s:price>
+      <s:sku>35465958-1080p-with-128g-card-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 128G Card / US plug</title>
+      <s:price currency="USD">92.78</s:price>
+      <s:sku>35465958-1080p-with-128g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P / US plug</title>
+      <s:price currency="USD">44.86</s:price>
+      <s:sku>35465958-1080p-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 16G Card / US plug</title>
+      <s:price currency="USD">53.28</s:price>
+      <s:sku>35465958-1080p-with-16g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 32G Card / US plug</title>
+      <s:price currency="USD">57.94</s:price>
+      <s:sku>35465958-1080p-with-32g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 64G Card / US plug</title>
+      <s:price currency="USD">69.74</s:price>
+      <s:sku>35465958-1080p-with-64g-card-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P / AU Plug</title>
+      <s:price currency="USD">33.22</s:price>
+      <s:sku>35465958-720p-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 16G Card / AU Plug</title>
+      <s:price currency="USD">43.98</s:price>
+      <s:sku>35465958-720p-with-16g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 32G Card / AU Plug</title>
+      <s:price currency="USD">57.94</s:price>
+      <s:sku>35465958-1080p-with-32g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 64G Card / AU Plug</title>
+      <s:price currency="USD">69.74</s:price>
+      <s:sku>35465958-1080p-with-64g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 128G Card / AU Plug</title>
+      <s:price currency="USD">92.78</s:price>
+      <s:sku>35465958-1080p-with-128g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 32G Card / AU Plug</title>
+      <s:price currency="USD">47.60</s:price>
+      <s:sku>35465958-720p-with-32g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>720P With 64G Card / AU Plug</title>
+      <s:price currency="USD">57.42</s:price>
+      <s:sku>35465958-720p-with-64g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P / AU Plug</title>
+      <s:price currency="USD">44.86</s:price>
+      <s:sku>35465958-1080p-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975667044521</id>
+      <title>1080P With 16G Card / AU Plug</title>
+      <s:price currency="USD">53.28</s:price>
+      <s:sku>35465958-1080p-with-16g-card-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+    <published>2021-05-06T14:13:34+05:00</published>
+    <updated>2021-05-06T14:13:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/hd-cloud-smart-home-cam"/>
+    <title>HD Cloud Smart home Cam</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1657973834.jpg?v=1620363245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            29.86 - 50.54
+            <a href="https://iconicdigital.myshopify.com/products/hd-cloud-smart-home-cam">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> ip camera<br><strong>Supported Operating Systems:</strong> Windows 7<br><strong>Supported Operating Systems:</strong> windows 8<br><strong>Supported Operating Systems:</strong> windows 10<br><strong>High Definition:</strong> 1080P(Full-HD)<br><strong>Lens (mm):</strong> 3.6mm<br><strong>Style:</strong> Box Camera<br><strong>Connectivity:</strong> WiFi<br><strong>Installation:</strong> Normal<br><strong>Wall Bracket:</strong> Ceiling<br><strong>Power Consumption(W):</strong> 12w<br><strong>Color:</strong> Black<br><strong>Minimum Illumination(Lux):</strong> 10A<br><strong>Sensor:</strong> CMOS<br><strong>Megapixels:</strong> 2MP<br><strong>Sensor Brand:</strong> SONY<br><strong>Special Features:</strong> Vandal-proof<br><strong>Storage:</strong> None<br><strong>Alarm Action:</strong> telefon Alarm<br><strong>Video Compression Format:</strong> H.264<br><strong>Power Supply:</strong> Normal<br><strong>TF Card:</strong> None<br><strong>IR Distance(m):</strong> 10m<br><strong>is_customized:</strong> Yes<br><strong>Power Supply(V):</strong> 120W<br><strong>Viewing Angle :</strong> 360°<br><strong>Technology:</strong> Infrared<br><strong>Supported Mobile Systems:</strong> Android<br><strong>Supported Mobile Systems:</strong> ios<br><strong>Network Interface:</strong> Wi-Fi/802.11/b/g<br><strong>Audio Output:</strong> 1CH BNC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>digital cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 32G / AU Plug</title>
+      <s:price currency="USD">38.54</s:price>
+      <s:sku>42596812-1080p-white-add-32g-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 128G / AU Plug</title>
+      <s:price currency="USD">50.54</s:price>
+      <s:sku>42596812-1080p-white-add-128g-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 32G / US plug</title>
+      <s:price currency="USD">38.54</s:price>
+      <s:sku>42596812-1080p-white-add-32g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 128G / US plug</title>
+      <s:price currency="USD">50.54</s:price>
+      <s:sku>42596812-1080p-white-add-128g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 32G / EU plug</title>
+      <s:price currency="USD">38.54</s:price>
+      <s:sku>42596812-1080p-white-add-32g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P Black / AU Plug</title>
+      <s:price currency="USD">29.86</s:price>
+      <s:sku>42596812-1080p-black-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 128G / EU plug</title>
+      <s:price currency="USD">50.54</s:price>
+      <s:sku>42596812-1080p-white-add-128g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P Black / US plug</title>
+      <s:price currency="USD">29.86</s:price>
+      <s:sku>42596812-1080p-black-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P Black / EU plug</title>
+      <s:price currency="USD">29.86</s:price>
+      <s:sku>42596812-1080p-black-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P Black / UK Plug</title>
+      <s:price currency="USD">29.86</s:price>
+      <s:sku>42596812-1080p-black-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 32G / UK Plug</title>
+      <s:price currency="USD">38.54</s:price>
+      <s:sku>42596812-1080p-white-add-32g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 128G / UK Plug</title>
+      <s:price currency="USD">50.54</s:price>
+      <s:sku>42596812-1080p-white-add-128g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 64G / EU plug</title>
+      <s:price currency="USD">42.30</s:price>
+      <s:sku>42596812-1080p-white-add-64g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 64G / US plug</title>
+      <s:price currency="USD">42.30</s:price>
+      <s:sku>42596812-1080p-white-add-64g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 64G / AU Plug</title>
+      <s:price currency="USD">42.30</s:price>
+      <s:sku>42596812-1080p-white-add-64g-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975663145129</id>
+      <title>1080P White Add 64G / UK Plug</title>
+      <s:price currency="USD">42.30</s:price>
+      <s:sku>42596812-1080p-white-add-64g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+    <published>2021-05-06T14:11:26+05:00</published>
+    <updated>2021-05-06T14:11:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/auto-tracking-wireless-security-cam"/>
+    <title>Auto Tracking Wireless Security Cam</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1512487194.jpg?v=1620363444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            55.38 - 124.30
+            <a href="https://iconicdigital.myshopify.com/products/auto-tracking-wireless-security-cam">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> IP Camera<br><strong>Supported Operating Systems:</strong> Windows Vista<br><strong>Supported Operating Systems:</strong> windows 8<br><strong>Supported Operating Systems:</strong> Windows 7<br><strong>Supported Operating Systems:</strong> Windows 98<br><strong>Supported Operating Systems:</strong> windows xp<br><strong>High Definition:</strong> 1080P(Full-HD)<br><strong>Lens (mm):</strong> 4mm<br><strong>Style:</strong> Dome Camera<br><strong>Connectivity:</strong> IP/Network Wireless<br><strong>Installation:</strong> Ceiling<br><strong>Wall Bracket:</strong> Ceiling<br><strong>Power Consumption(W):</strong> Rated power 2.7W/Maximum power 4.5W<br><strong>Color:</strong> Black<br><strong>Minimum Illumination(Lux):</strong> 0.3 to 0.5Lux(Color mode),0Lux (B and W Mode)<br><strong>Sensor:</strong> CMOS<br><strong>Special Features:</strong> 1080P Full HD<br><strong>Video Compression Format:</strong> MJPEG<br><strong>Video Compression Format:</strong> H.264<br><strong>Power Supply:</strong> Normal<br><strong>IR Distance(m):</strong> 10 Meters<br><strong>is_customized:</strong> Yes<br><strong>Power Supply(V):</strong> 110V-220V<br><strong>Viewing Angle :</strong> 100°<br><strong>Supported Mobile Systems:</strong> ios<br><strong>Supported Mobile Systems:</strong> Android<br><strong>Network Interface:</strong> Wi-Fi/802.11/b/g<br><strong>Online visitor:</strong> Support 4 visitors at the same time<br><strong>Maximum frame rate:</strong> 15fps<br><strong>Wireless LAN:</strong> IEEE802.11b/g/n<br><strong>Wireless LAN Frequency:</strong> Only support 2.4GHz<br><strong>Wireless LAN security:</strong> 64/128-bit WEP/WPA-PSK /WPA2-PSK data encryption<br><strong>Pan-tilt:</strong> Pan:355 degree,tilt:110 degree<br><strong>Socket:</strong> TF Push-push socket,Maximum support 128GB(Not include in package)<br><strong>Alarm Trigger:</strong> Motion detection<br><strong>Humanoid Detection:</strong> Support<br><strong>Auto Tracking:</strong> Support<br><strong>Operating condition:</strong> Temperature:-10 ~ 50 degree,humidity: under 90%</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>digital cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>C29S Camera / AU Plug, 4mm</title>
+      <s:price currency="USD">69.42</s:price>
+      <s:sku>2567443-c29s-camera-china-au-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 128GB SD Card / AU Plug, 4mm</title>
+      <s:price currency="USD">124.30</s:price>
+      <s:sku>2567443-add-128gb-sd-card-china-au-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 16GB SD Card / AU Plug, 4mm</title>
+      <s:price currency="USD">81.74</s:price>
+      <s:sku>2567443-add-16gb-sd-card-china-au-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 32GB SD Card / AU Plug, 4mm</title>
+      <s:price currency="USD">65.10</s:price>
+      <s:sku>2567443-add-32gb-sd-card-china-au-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 64GB SD Card / AU Plug, 4mm</title>
+      <s:price currency="USD">96.30</s:price>
+      <s:sku>2567443-add-64gb-sd-card-china-au-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 8GB SD Card / AU Plug, 4mm</title>
+      <s:price currency="USD">55.38</s:price>
+      <s:sku>2567443-add-8gb-sd-card-china-au-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>C29S Camera / EU plug, 4mm</title>
+      <s:price currency="USD">69.42</s:price>
+      <s:sku>2567443-c29s-camera-china-eu-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 128GB SD Card / EU plug, 4mm</title>
+      <s:price currency="USD">124.30</s:price>
+      <s:sku>2567443-add-128gb-sd-card-china-eu-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 16GB SD Card / EU plug, 4mm</title>
+      <s:price currency="USD">81.74</s:price>
+      <s:sku>2567443-add-16gb-sd-card-china-eu-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 32GB SD Card / EU plug, 4mm</title>
+      <s:price currency="USD">85.10</s:price>
+      <s:sku>2567443-add-32gb-sd-card-china-eu-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 64GB SD Card / EU plug, 4mm</title>
+      <s:price currency="USD">96.30</s:price>
+      <s:sku>2567443-add-64gb-sd-card-china-eu-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 8GB SD Card / EU plug, 4mm</title>
+      <s:price currency="USD">78.38</s:price>
+      <s:sku>2567443-add-8gb-sd-card-china-eu-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>C29S Camera / UK Plug, 4mm</title>
+      <s:price currency="USD">69.42</s:price>
+      <s:sku>2567443-c29s-camera-china-uk-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 128GB SD Card / UK Plug, 4mm</title>
+      <s:price currency="USD">124.30</s:price>
+      <s:sku>2567443-add-128gb-sd-card-china-uk-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 16GB SD Card / UK Plug, 4mm</title>
+      <s:price currency="USD">81.74</s:price>
+      <s:sku>2567443-add-16gb-sd-card-china-uk-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 32GB SD Card / UK Plug, 4mm</title>
+      <s:price currency="USD">85.10</s:price>
+      <s:sku>2567443-add-32gb-sd-card-china-uk-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 64GB SD Card / UK Plug, 4mm</title>
+      <s:price currency="USD">96.30</s:price>
+      <s:sku>2567443-add-64gb-sd-card-china-uk-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 8GB SD Card / UK Plug, 4mm</title>
+      <s:price currency="USD">78.38</s:price>
+      <s:sku>2567443-add-8gb-sd-card-china-uk-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>C29S Camera / US plug, 4mm</title>
+      <s:price currency="USD">69.42</s:price>
+      <s:sku>2567443-c29s-camera-china-us-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 128GB SD Card / US plug, 4mm</title>
+      <s:price currency="USD">124.30</s:price>
+      <s:sku>2567443-add-128gb-sd-card-china-us-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 16GB SD Card / US plug, 4mm</title>
+      <s:price currency="USD">81.74</s:price>
+      <s:sku>2567443-add-16gb-sd-card-china-us-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 32GB SD Card / US plug, 4mm</title>
+      <s:price currency="USD">85.10</s:price>
+      <s:sku>2567443-add-32gb-sd-card-china-us-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 64GB SD Card / US plug, 4mm</title>
+      <s:price currency="USD">96.30</s:price>
+      <s:sku>2567443-add-64gb-sd-card-china-us-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975661047977</id>
+      <title>Add 8GB SD Card / US plug, 4mm</title>
+      <s:price currency="USD">78.38</s:price>
+      <s:sku>2567443-add-8gb-sd-card-china-us-plug-4mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+    <published>2021-05-06T14:06:18+05:00</published>
+    <updated>2021-05-06T14:06:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/full-hd-wireless-network-camera"/>
+    <title>Full HD Wireless Network Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1642277329.jpg?v=1620363493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            19.74 - 47.92
+            <a href="https://iconicdigital.myshopify.com/products/full-hd-wireless-network-camera">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> ip camera<br><strong>Supported Operating Systems:</strong> Windows 98<br><strong>Supported Operating Systems:</strong> Windows 7<br><strong>Supported Operating Systems:</strong> windows 8<br><strong>High Definition:</strong> 2.0 Megapixels<br><strong>Lens (mm):</strong> 3.6mm<br><strong>Style:</strong> Box Camera<br><strong>Certification:</strong> FCC<br><strong>Certification:</strong> RoHS<br><strong>Connectivity:</strong> IP/Network Wireless<br><strong>Installation:</strong> Side<br><strong>Wall Bracket:</strong> Side<br><strong>Power Consumption(W):</strong> 5W<br><strong>Color:</strong> White<br><strong>Color:</strong> Black<br><strong>Minimum Illumination(Lux):</strong> 0.1LUX<br><strong>Sensor:</strong> CMOS<br><strong>Megapixels:</strong> 2MP<br><strong>Sensor Brand:</strong> SONY<br><strong>Special Features:</strong> Vandal-proof<br><strong>Storage:</strong> None<br><strong>Alarm Action:</strong> Local Alarm<br><strong>Video Compression Format:</strong> H.264<br><strong>Power Supply:</strong> Normal<br><strong>TF Card:</strong> None<br><strong>IR Distance(m):</strong> 10M<br><strong>is_customized:</strong> Yes<br><strong>Power Supply(V):</strong> 5V<br><strong>Model Number:</strong> YCC365 plus<br><strong>Viewing Angle :</strong> 360°<br><strong>Technology:</strong> Infrared<br><strong>Supported Mobile Systems:</strong> Windows Mobile<br><strong>Supported Mobile Systems:</strong> Android<br><strong>Supported Mobile Systems:</strong> ios<br><strong>Network Interface:</strong> RJ-45 10/100Mb Ethernet Slot<br><strong>Audio Output:</strong> 1CH BNC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>digital cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black / US plug</title>
+      <s:price currency="USD">34.76</s:price>
+      <s:sku>42248054-1080-black-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 32G / US plug</title>
+      <s:price currency="USD">42.28</s:price>
+      <s:sku>42248054-1080-black-add-32g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 16G / US plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-white-add-16g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 16G / US plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-black-add-16g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white / US plug</title>
+      <s:price currency="USD">34.76</s:price>
+      <s:sku>42248054-1080-white-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 64G / US plug</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>42248054-1080-white-add-64g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 64G / US plug</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>42248054-1080-black-add-64g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 32G / US plug</title>
+      <s:price currency="USD">42.28</s:price>
+      <s:sku>42248054-1080-white-add-32g-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 32G / EU plug</title>
+      <s:price currency="USD">42.28</s:price>
+      <s:sku>42248054-1080-black-add-32g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 16G / EU plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-white-add-16g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 16G / EU plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-black-add-16g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white / EU plug</title>
+      <s:price currency="USD">34.76</s:price>
+      <s:sku>42248054-1080-white-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 64G / EU plug</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>42248054-1080-white-add-64g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 64G / EU plug</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>42248054-1080-black-add-64g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 32G / EU plug</title>
+      <s:price currency="USD">42.30</s:price>
+      <s:sku>42248054-1080-white-add-32g-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black / EU plug</title>
+      <s:price currency="USD">34.76</s:price>
+      <s:sku>42248054-1080-black-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black / UK Plug</title>
+      <s:price currency="USD">34.76</s:price>
+      <s:sku>42248054-1080-black-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 32G / UK Plug</title>
+      <s:price currency="USD">42.28</s:price>
+      <s:sku>42248054-1080-black-add-32g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 16G / UK Plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-white-add-16g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 16G / UK Plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-black-add-16g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white / UK Plug</title>
+      <s:price currency="USD">34.76</s:price>
+      <s:sku>42248054-1080-white-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 64G / UK Plug</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>42248054-1080-white-add-64g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 64G / UK Plug</title>
+      <s:price currency="USD">47.92</s:price>
+      <s:sku>42248054-1080-black-add-64g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 32G / UK Plug</title>
+      <s:price currency="USD">42.28</s:price>
+      <s:sku>42248054-1080-white-add-32g-united-states-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 32G / AU Plug</title>
+      <s:price currency="USD">42.28</s:price>
+      <s:sku>42248054-1080-black-add-32g-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white add 16G / AU Plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-white-add-16g-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 black add 16G / AU Plug</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>42248054-1080-black-add-16g-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975656263849</id>
+      <title>1080 white / AU Plug</title>
+      <s:price currency="USD">19.74</s:price>
+      <s:sku>42248054-1080-white-united-states-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+    <published>2021-05-06T14:01:21+05:00</published>
+    <updated>2021-05-06T14:01:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/night-vision-surveillance-security"/>
+    <title>Night Vision Surveillance Security</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1619910704.jpg?v=1620363585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            40.54 - 104.26
+            <a href="https://iconicdigital.myshopify.com/products/night-vision-surveillance-security">(25 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Supported Operating Systems:</strong> No<br><strong>High Definition:</strong> 1080P(Full-HD)<br><strong>Lens (mm):</strong> 3.6mm<br><strong>Style:</strong> Dome Camera<br><strong>Connectivity:</strong> IP/Network Wireless<br><strong>Installation:</strong> Side<br><strong>Wall Bracket:</strong> Ceiling<br><strong>Power Consumption(W):</strong> 6W<br><strong>Color:</strong> White<br><strong>Minimum Illumination(Lux):</strong> 0.01LUX<br><strong>Sensor:</strong> CMOS<br><strong>Megapixels:</strong> 2MP<br><strong>Special Features:</strong> Vandal-proof<br><strong>Storage:</strong> 128G<br><strong>Alarm Action:</strong> telefon Alarm<br><strong>Alarm Action:</strong> Local Alarm<br><strong>Video Compression Format:</strong> H.264<br><strong>Power Supply:</strong> Normal<br><strong>TF Card:</strong> None<br><strong>IR Distance(m):</strong> 10-15M<br><strong>is_customized:</strong> Yes<br><strong>Power Supply(V):</strong> 110-240V<br><strong>Viewing Angle :</strong> 85°<br><strong>Technology:</strong> Infrared<br><strong>Dimensions (L x W x D)(mm):</strong> 22*8*18CM<br><strong>Supported Mobile Systems:</strong> Android<br><strong>Supported Mobile Systems:</strong> ios<br><strong>Network Interface:</strong> Wi-Fi/802.11/b/g<br><strong>Audio Output:</strong> Audio<br><strong>Technology:</strong> Pan/tilt/ZOOM, IR Infrared<br><strong>P2P:</strong> P2P Plug and Play<br><strong>Type:</strong> IP Camera security/baby monitor<br><strong>Feature:</strong> wireless wifi camera<br><strong>Audio:</strong> Support two way talk audio<br><strong>Night vision:</strong> Support infrared night vision<br><strong>Alarm:</strong> Support motion detection alarm<br><strong>Baby Monitor:</strong> Baby Camera<br><strong>ip camera wifi:</strong> security camera wifi<br><strong>Surveillance camera:</strong> video surveillance camera<br><strong>Network:</strong> 2.4G router, not for 5G or dual router<br><strong>Cloud:</strong> Its optional, NOT for free</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>digital cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 128G Card / EU plug</title>
+      <s:price currency="USD">104.26</s:price>
+      <s:sku>41424873-1080p-add-128g-card-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Camera / US plug</title>
+      <s:price currency="USD">40.54</s:price>
+      <s:sku>41424873-720p-camera-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 32G Card / US plug</title>
+      <s:price currency="USD">59.74</s:price>
+      <s:sku>41424873-720p-add-32g-card-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 64G Card / US plug</title>
+      <s:price currency="USD">71.96</s:price>
+      <s:sku>41424873-720p-add-64g-card-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 128G Card / US plug</title>
+      <s:price currency="USD">95.96</s:price>
+      <s:sku>41424873-720p-add-128g-card-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Camera / US plug</title>
+      <s:price currency="USD">54.46</s:price>
+      <s:sku>41424873-1080p-camera-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 32G Card / US plug</title>
+      <s:price currency="USD">71.98</s:price>
+      <s:sku>41424873-1080p-add-32g-card-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 64G Card / US plug</title>
+      <s:price currency="USD">81.08</s:price>
+      <s:sku>41424873-1080p-add-64g-card-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 128G Card / US plug</title>
+      <s:price currency="USD">104.26</s:price>
+      <s:sku>41424873-1080p-add-128g-card-china-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Camera / EU plug</title>
+      <s:price currency="USD">40.54</s:price>
+      <s:sku>41424873-720p-camera-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 32G Card / EU plug</title>
+      <s:price currency="USD">59.74</s:price>
+      <s:sku>41424873-720p-add-32g-card-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 64G Card / EU plug</title>
+      <s:price currency="USD">71.96</s:price>
+      <s:sku>41424873-720p-add-64g-card-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 128G Card / EU plug</title>
+      <s:price currency="USD">95.96</s:price>
+      <s:sku>41424873-720p-add-128g-card-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Camera / EU plug</title>
+      <s:price currency="USD">54.46</s:price>
+      <s:sku>41424873-1080p-camera-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 32G Card / EU plug</title>
+      <s:price currency="USD">71.98</s:price>
+      <s:sku>41424873-1080p-add-32g-card-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 64G Card / EU plug</title>
+      <s:price currency="USD">81.08</s:price>
+      <s:sku>41424873-1080p-add-64g-card-china-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Camera / UK Plug</title>
+      <s:price currency="USD">40.54</s:price>
+      <s:sku>41424873-720p-camera-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 32G Card / UK Plug</title>
+      <s:price currency="USD">59.74</s:price>
+      <s:sku>41424873-720p-add-32g-card-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 64G Card / UK Plug</title>
+      <s:price currency="USD">71.96</s:price>
+      <s:sku>41424873-720p-add-64g-card-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>720P Add 128G Card / UK Plug</title>
+      <s:price currency="USD">95.96</s:price>
+      <s:sku>41424873-720p-add-128g-card-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Camera / UK Plug</title>
+      <s:price currency="USD">54.46</s:price>
+      <s:sku>41424873-1080p-camera-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 32G Card / UK Plug</title>
+      <s:price currency="USD">71.98</s:price>
+      <s:sku>41424873-1080p-add-32g-card-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 64G Card / UK Plug</title>
+      <s:price currency="USD">81.08</s:price>
+      <s:sku>41424873-1080p-add-64g-card-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 128G Card / UK Plug</title>
+      <s:price currency="USD">104.26</s:price>
+      <s:sku>41424873-1080p-add-128g-card-china-uk-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975651807401</id>
+      <title>1080P Add 128G Card / AU Plug</title>
+      <s:price currency="USD">104.26</s:price>
+      <s:sku>41424873-1080p-add-128g-card-china-au-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+    <published>2021-05-06T13:53:17+05:00</published>
+    <updated>2021-05-06T13:53:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/waterproof-night-vision-security-cam"/>
+    <title>Waterproof Night Vision Security cam</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1747648500.jpg?v=1620363646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> ip camera<br><strong>Supported Operating Systems:</strong> windows xp<br><strong>Supported Operating Systems:</strong> Mac OS<br><strong>Supported Operating Systems:</strong> windows 8<br><strong>High Definition:</strong> 1080P(Full-HD)<br><strong>Connectivity:</strong> IP/Network Wireless<br><strong>Installation:</strong> Ceiling<br><strong>Wall Bracket:</strong> Ceiling<br><strong>Color:</strong> White<br><strong>Sensor:</strong> CMOS<br><strong>Megapixels:</strong> 2MP<br><strong>Sensor Brand:</strong> SmartSens<br><strong>Special Features:</strong> Waterproof / Weatherproof<br><strong>Storage:</strong> None<br><strong>Alarm Action:</strong> Local Alarm<br><strong>Video Compression Format:</strong> H.264<br><strong>Power Supply:</strong> Normal<br><strong>TF Card:</strong> None<br><strong>is_customized:</strong> No<br><strong>Viewing Angle :</strong> 110°<br><strong>Technology:</strong> Infrared<br><strong>Dimensions (L x W x D)(mm):</strong> 132x68(Diameter of mount is 70mm)<br><strong>Supported Mobile Systems:</strong> Android<br><strong>Supported Mobile Systems:</strong> ios<br><strong>Network Interface:</strong> Wi-Fi/802.11/b/g<br><strong>Audio Output:</strong> None<br><strong>Weight:</strong> 252g (camera/mount/cable)<br><strong>Smart Functions 1:</strong> Deterrent Alarm,Intelligent motion warning,Area warning<br><strong>Smart Functions 2:</strong> APP/PC multi device previewing,Device/Account sharing<br><strong>Storage:</strong> YI Cloud,Local storage (8-32GB, supports back up to MI Hardware Router<br><strong>PC/Mac:</strong> YI PC APP (Download at official yitechnology.com)<br><strong>Outdoor camera power Supply:</strong> DC5V1A Temparature: -15~50 IP: IP65<br><strong>Smart Feature 1:</strong> Two-way audio - 360° noise<br><strong>Language:</strong> Integrated Microphone/Speaker<br><strong>Weather-resistant feature:</strong> waterproof<br><strong>Cloud Storage:</strong> YI cloud with 1-month free trial</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>digital cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+      <title>7Day Record 6month / US plug</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>13485160-7day-record-6month-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+      <title>7Day Record 3month / US plug</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>13485160-7day-record-3month-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+      <title>Camera only / US plug</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>13485160-camera-only-united-states-us-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+      <title>7Day Record 6month / EU plug</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>13485160-7day-record-6month-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+      <title>7Day Record 3month / EU plug</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>13485160-7day-record-3month-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975644139689</id>
+      <title>Camera only / EU plug</title>
+      <s:price currency="USD">82.99</s:price>
+      <s:sku>13485160-camera-only-united-states-eu-plug</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+    <published>2021-05-06T13:45:40+05:00</published>
+    <updated>2021-05-06T13:45:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/voice-assistant-deep-bass-speaker"/>
+    <title>Voice Assistant Deep Bass Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1623534510.jpg?v=1620363707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 3 (2.1)<br><strong>Input Power(W):</strong> 50-99 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 60W<br><strong>Tweeter material:</strong> Other<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Other<br><strong>Acoustic enclosure:</strong> Other<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> Yes<br><strong>Sabwoofer cabinet material:</strong> Plastic<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Sensivity:</strong> 90dB<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Mid-range material:</strong> Other<br><strong>Built-in Microphone:</strong> Yes<br><strong>Support APP:</strong> Yes<br><strong>Impedance:</strong> Other<br><strong>Feature:</strong> None<br><strong>Tweeter type:</strong> HORN<br><strong>Frequency Range:</strong> 100Hz-20KHz<br><strong>Color:</strong> Blue/Red/Black<br><strong>Size:</strong> 220*95*72(mm)<br><strong>Weight:</strong> 860g<br><strong>Occassion:</strong> Work/Party/Picnic/Daliy life/Festival<br><strong>Materials:</strong> Plastic<br><strong>Function1:</strong> IPX5 wireless bluetooth speaker<br><strong>Function2:</strong> Waterproof bluetooth speaker<br><strong>Function3:</strong> caixa de som<br><strong>Function4:</strong> portable speaker<br><strong>Function5:</strong> caixa de som bluetooth<br><strong>Function6:</strong> Portable speakers<br><strong>Function7:</strong> music Center<br><strong>Function8:</strong> Deep Bass Soundbar<br><strong>Function9:</strong> Bass Soundbar<br><strong>Function10:</strong> Home Theater System<br><strong>Function11:</strong> Christmas gift<br><strong>Function12:</strong> Thanksgiving gift</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+      <title>Red</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>38184622-spain-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+      <title>Black</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>38184622-spain-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+      <title>Blue</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>38184622-spain-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975636078761</id>
+    <published>2021-05-06T13:43:11+05:00</published>
+    <updated>2021-05-06T13:43:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/output-power-bluetooth-speaker"/>
+    <title>Output Power Bluetooth Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1621785288.jpg?v=1620363722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> AUX<br><strong>Communication:</strong> USB<br><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Certification:</strong> RoHS<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> 25-49 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 40W<br><strong>Tweeter material:</strong> Polymer<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Other<br><strong>Acoustic enclosure:</strong> Other<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> FLAC<br><strong>Playback Function:</strong> APE<br><strong>Playback Function:</strong> Other<br><strong>Playback Function:</strong> ALAC<br><strong>Playback Function:</strong> WAV<br><strong>Display Screen:</strong> Yes<br><strong>Voice Control:</strong> Yes<br><strong>Sabwoofer cabinet material:</strong> Metal<br><strong>Total Harmonic Distortion:</strong> 6%<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 80W<br><strong>Control:</strong> Volume control<br><strong>Support APP:</strong> No<br><strong>Feature:</strong> Phone Function<br><strong>Feature:</strong> Play Video<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975636078761</id>
+      <title>Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>41674074-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+    <published>2021-05-06T13:40:51+05:00</published>
+    <updated>2021-05-06T13:40:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/speakers-bass-with-subwoofer"/>
+    <title>Speakers Bass with Subwoofer</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1725390109.jpg?v=1620363755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Certification:</strong> CE<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> 50-99 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 60W<br><strong>Tweeter material:</strong> Metal<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Metal<br><strong>Acoustic enclosure:</strong> Sealed<br><strong>Remote Control:</strong> No<br><strong>Codecs:</strong> sbc<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> FLAC<br><strong>Playback Function:</strong> APE<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> Yes<br><strong>Sabwoofer cabinet material:</strong> Metal<br><strong>Total Harmonic Distortion:</strong> 1%<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Wi-Fi Music:</strong> Apple Music<br><strong>Sensivity:</strong> 90dB<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Mid-range material:</strong> Metal<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 60W<br><strong>Control:</strong> Volume control<br><strong>Support APP:</strong> Yes<br><strong>Impedance:</strong> 4-6 Ohm<br><strong>Feature:</strong> Phone Function<br><strong>Tweeter type:</strong> HORN<br><strong>Frequency Range:</strong> 100Hz-20KHz<br><strong>Color:</strong> Red / Black / Blue<br><strong>Size:</strong> 220*95*72(mm)<br><strong>Weight:</strong> 860g<br><strong>Occassion:</strong> Party/ Work/ Picnic/ Outing/ Daily life<br><strong>Function1:</strong> IPX5 Waterproof Bluetooth Speaker<br><strong>Function2:</strong> bluetooth speakers with subwoofer<br><strong>Function3:</strong> Portable bluetooth speaker<br><strong>Function4:</strong> Voice Assistant Extra bass<br><strong>Function5:</strong> 8-15 hours playing time speaker<br><strong>Playtime:</strong> up to 12 hours(varies by volume level and audio content)<br><strong>Function6:</strong> Christmas gift<br><strong>Function7:</strong> Thanksgiving gift</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+      <title>Black</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>36488936-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+      <title>Red</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>36488936-united-states-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+      <title>Blue</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>36488936-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+    <published>2021-05-06T13:38:39+05:00</published>
+    <updated>2021-05-06T13:38:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/loudspeaker-sound-system"/>
+    <title>Loudspeaker Sound System</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1434255760.jpg?v=1620290338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> AUX<br><strong>Communication:</strong> Bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Certification:</strong> FCC<br><strong>Certification:</strong> RoHS<br><strong>Cabinet Material:</strong> Metal<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> None<br><strong>Output Power:</strong> 10W<br><strong>Tweeter material:</strong> Polymer<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Polymer<br><strong>Acoustic enclosure:</strong> Sealed<br><strong>Remote Control:</strong> No<br><strong>Codecs:</strong> sbc<br><strong>Codecs:</strong> AAC<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> APE<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> Other<br><strong>Playback Function:</strong> FLAC<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Sabwoofer cabinet material:</strong> Metal<br><strong>Total Harmonic Distortion:</strong> 3%<br><strong>Material:</strong> Metal<br><strong>Support Apt-x:</strong> No<br><strong>Sensivity:</strong> 90dB<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Mid-range material:</strong> Polymer<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 30W<br><strong>Control:</strong> Volume control<br><strong>Control:</strong> Playback<br><strong>Control:</strong> Input selector<br><strong>Support APP:</strong> No<br><strong>Impedance:</strong> 4 Ohm<br><strong>Feature:</strong> Phone Function<br><strong>Tweeter type:</strong> planar-magnetic<br><strong>Frequency Range:</strong> 50Hz-20KHz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Camouflage</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-camouflage</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Red-Graffiti</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-red-graffiti</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Black-Graffiti</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-black-graffiti</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Red</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Black</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+    <published>2021-05-06T13:37:17+05:00</published>
+    <updated>2021-05-06T13:37:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/wireless-stereo-speaker"/>
+    <title>Wireless Stereo Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1630676558.jpg?v=1620363813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> AUX<br><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Cabinet Material:</strong> Metal<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 1<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 5W<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Material:</strong> Metal<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> No<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 8W<br><strong>Support APP:</strong> No<br><strong>Feature:</strong> None<br><strong>Frequency Range:</strong> 100Hz-20KHz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>SILVER</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975629033641</id>
+    <published>2021-05-06T13:36:22+05:00</published>
+    <updated>2021-05-06T13:36:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/portable-protective-speakers-case"/>
+    <title>Portable Protective speakers case</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1578249136.jpg?v=1620363817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Speaker Cases<br><strong>Package:</strong> Yes<br><strong>Material:</strong> TPU+Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975629033641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>27867329-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+    <published>2021-05-06T13:33:27+05:00</published>
+    <updated>2021-05-06T13:33:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/waterproof-mini-bluetooth-speakers"/>
+    <title>Waterproof Mini Bluetooth Speakers</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1726971106.jpg?v=1620363875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            29.04 - 32.24
+            <a href="https://iconicdigital.myshopify.com/products/waterproof-mini-bluetooth-speakers">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Cabinet Material:</strong> Metal<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 1<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 3W<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> No<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> Other<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Material:</strong> Metal<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Built-in Microphone:</strong> No<br><strong>PMPO:</strong> 5W<br><strong>Support APP:</strong> No<br><strong>Feature:</strong> None<br><strong>Frequency Range:</strong> 60Hz-23KHz<br><strong>Color:</strong> Silver Back Gray Red Rosegold<br><strong>Key words:</strong> MINI Waterproof portable Wireless Bluetooth Speaker Box<br><strong>Name:</strong> EWA Bluetooth Speaker<br><strong>Size:</strong> 4.8 cm* 3.9 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Red</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Rosegold</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Silver</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Gray</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A109mini-Silver</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a109mini-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A109mini-Gray</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a109mini-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A107s-Silver</title>
+      <s:price currency="USD">32.24</s:price>
+      <s:sku>25515724-belgium-a107s-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A107s-Gray</title>
+      <s:price currency="USD">32.24</s:price>
+      <s:sku>25515724-belgium-a107s-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A106pro-Rosegold</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a106pro-rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A106pro-Silver</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a106pro-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A106pro-Black</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a106pro-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975611469993</id>
+    <published>2021-05-06T13:19:27+05:00</published>
+    <updated>2021-05-06T13:19:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/gps-5g-transmission-professional-drone"/>
+    <title>GPS 5G transmission professional drone</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1689119509.jpg?v=1620364119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            138.74 - 176.34
+            <a href="https://iconicdigital.myshopify.com/products/gps-5g-transmission-professional-drone">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> 2000M<br><strong>Video Capture Resolution:</strong> 1080p FHD<br><strong>Video Capture Resolution:</strong> 4K UHD<br><strong>Aerial Photography:</strong> Yes<br><strong>Control Channels:</strong> 4 Channels<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Original Box<br><strong>Age Range:</strong> 8-11 Years<br><strong>Age Range:</strong> 12-15 Years<br><strong>Age Range:</strong> Grownups<br><strong>Age Range:</strong> &gt; 8 years old<br><strong>Age Range:</strong> &gt; 14 years old<br><strong>Material:</strong> Plastic<br><strong>Controller Battery:</strong> 3 x 1.5 AAA(not included)<br><strong>Indoor/Outdoor Use:</strong> Indoor-Outdoor<br><strong>Dimensions:</strong> 34cm * 34cm * 8cm<br><strong>Warning:</strong> no<br><strong>Warranty:</strong> 15 day<br><strong>Motor:</strong> Brush Motor<br><strong>Charging Voltage:</strong> 3.7V<br><strong>Plugs Type:</strong> USB<br><strong>Charging Time:</strong> About 120 minutes<br><strong>Power Source:</strong> electric<br><strong>Camera Mount Type:</strong> Fixed Camera Mount<br><strong>Camera Mount Type:</strong> Other<br><strong>Type:</strong> HELICOPTER<br><strong>Operator Skill Level:</strong> Beginner<br><strong>Operator Skill Level:</strong> Intermediate<br><strong>Operator Skill Level:</strong> Expert<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>3C:</strong> Type<br><strong>Flight Time:</strong> 25 min<br><strong>Features:</strong> App-Controlled<br><strong>Features:</strong> Auto Return<br><strong>Features:</strong> Follow Me<br><strong>Features:</strong> FPV Capable<br><strong>Features:</strong> GPS<br><strong>Features:</strong> Integrated Camera<br><strong>Features:</strong> Wi-Fi<br><strong>Features:</strong> Other</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drone Cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975611469993</id>
+      <title>F10-GPS-1080P-2B</title>
+      <s:price currency="USD">148.14</s:price>
+      <s:sku>40498731-f10-gps-1080p-2b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975611469993</id>
+      <title>F10-GPS-1080P-3B</title>
+      <s:price currency="USD">166.94</s:price>
+      <s:sku>40498731-f10-gps-1080p-3b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975611469993</id>
+      <title>F10-GPS-4K-2B</title>
+      <s:price currency="USD">157.54</s:price>
+      <s:sku>40498731-f10-gps-4k-2b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975611469993</id>
+      <title>F10-GPS-4K-1B</title>
+      <s:price currency="USD">138.74</s:price>
+      <s:sku>40498731-f10-gps-4k-1b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975611469993</id>
+      <title>F10-GPS-4K-3B</title>
+      <s:price currency="USD">176.34</s:price>
+      <s:sku>40498731-f10-gps-4k-3b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975606915241</id>
+    <published>2021-05-06T13:13:29+05:00</published>
+    <updated>2021-05-06T13:13:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/professional-4k-rc-quadcopter-drone"/>
+    <title>Professional 4K RC Quadcopter Drone</title>
+    <s:type></s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1735396743.jpg?v=1620364141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> 80-100m<br><strong>Video Capture Resolution:</strong> 4K UHD<br><strong>Aerial Photography:</strong> Yes<br><strong>Control Channels:</strong> 6 Channels<br><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Original Box<br><strong>Material:</strong> Plastic<br><strong>Controller Battery:</strong> 2 x AAA<br><strong>Indoor/Outdoor Use:</strong> Indoor-Outdoor<br><strong>Dimensions:</strong> 19x15x6cm<br><strong>Warning:</strong> NO<br><strong>Warranty:</strong> NO<br><strong>Motor:</strong> Brush Motor<br><strong>Charging Voltage:</strong> 3.7V 650MA<br><strong>Plugs Type:</strong> USB<br><strong>Charging Time:</strong> 60 minutes<br><strong>Power Source:</strong> electric<br><strong>Camera Mount Type:</strong> Fixed Camera Mount<br><strong>Camera Mount Type:</strong> Other<br><strong>Type:</strong> HELICOPTER<br><strong>Operator Skill Level:</strong> Beginner<br><strong>Operator Skill Level:</strong> Intermediate<br><strong>Operator Skill Level:</strong> Expert<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>3C:</strong> Type<br><strong>Flight Time:</strong> 15mins<br><strong>Features:</strong> App-Controlled<br><strong>drones:</strong> mini drone<br><strong>Drone:</strong> Drone 4k<br><strong>drone:</strong> kk1 mini drone</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drone Cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975606915241</id>
+      <title>4K 3B</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>44799443-4k-3b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975606915241</id>
+      <title>4K dual camera 2B</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>44799443-4k-dual-camera-2b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975606915241</id>
+      <title>4K 2B</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>44799443-4k-2b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975606915241</id>
+      <title>4K dual camera 3B</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>44799443-4k-dual-camera-3b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+    <published>2021-05-06T13:07:48+05:00</published>
+    <updated>2021-05-06T13:07:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/wifi-supporter-rc-drone"/>
+    <title>Wifi supporter Rc Drone</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1718955356.jpg?v=1620364202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            89.64 - 168.84
+            <a href="https://iconicdigital.myshopify.com/products/wifi-supporter-rc-drone">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> 2000m<br><strong>Video Capture Resolution:</strong> 1080p FHD<br><strong>Video Capture Resolution:</strong> 4K UHD<br><strong>Aerial Photography:</strong> Yes<br><strong>Control Channels:</strong> 4 Channels<br><strong>Recommend Age:</strong> 4-6y<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Batteries<br><strong>Package Includes:</strong> Operating Instructions<br><strong>Package Includes:</strong> Charger<br><strong>Package Includes:</strong> Remote Controller<br><strong>Package Includes:</strong> Camera<br><strong>Package Includes:</strong> USB Cable<br><strong>Material:</strong> Plastic<br><strong>Controller Battery:</strong> 3X1.5vaa<br><strong>Indoor/Outdoor Use:</strong> Indoor-Outdoor<br><strong>Dimensions:</strong> 34 * 34 * 8 cm<br><strong>Warning:</strong> NO<br><strong>Warranty:</strong> 30day<br><strong>Motor:</strong> Brush Motor<br><strong>Charging Voltage:</strong> 7.4v<br><strong>Model Number:</strong> F10 drone<br><strong>Plugs Type:</strong> USB<br><strong>Charging Time:</strong> 120 minutes<br><strong>Power Source:</strong> electric<br><strong>Camera Mount Type:</strong> Fixed Camera Mount<br><strong>Camera Mount Type:</strong> Other<br><strong>Type:</strong> HELICOPTER<br><strong>Operator Skill Level:</strong> Beginner<br><strong>Operator Skill Level:</strong> Intermediate<br><strong>Operator Skill Level:</strong> Expert<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>Flight Time:</strong> 25 min<br><strong>Features:</strong> App-Controlled<br><strong>Features:</strong> Auto Return<br><strong>Features:</strong> Follow Me<br><strong>Features:</strong> GPS<br><strong>Features:</strong> Wi-Fi<br><strong>Features:</strong> Other<br><strong>5G WiFi:</strong> stand by<br><strong>Control frequency:</strong> 2.4 Hz<br><strong>Lens parameter:</strong> 1080p/4k<br><strong>follow me:</strong> stand by<br><strong>GPS:</strong> stand by</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drone Cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-1080P-2B-bag</title>
+      <s:price currency="USD">89.64</s:price>
+      <s:sku>36899046-f10-1080p-2b-bag-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-1080P-3B-bag</title>
+      <s:price currency="USD">104.04</s:price>
+      <s:sku>36899046-f10-1080p-3b-bag-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-4K-2B-bag</title>
+      <s:price currency="USD">98.64</s:price>
+      <s:sku>36899046-f10-4k-2b-bag-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-4K-3B-bag</title>
+      <s:price currency="USD">113.04</s:price>
+      <s:sku>36899046-f10-4k-3b-bag-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-GPS-1080P-2B</title>
+      <s:price currency="USD">141.84</s:price>
+      <s:sku>36899046-f10-gps-1080p-2b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-GPS-1080P-3B</title>
+      <s:price currency="USD">159.84</s:price>
+      <s:sku>36899046-f10-gps-1080p-3b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-GPS-4K-2B</title>
+      <s:price currency="USD">150.84</s:price>
+      <s:sku>36899046-f10-gps-4k-2b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975603540137</id>
+      <title>F10-GPS-4K-3B</title>
+      <s:price currency="USD">168.84</s:price>
+      <s:sku>36899046-f10-gps-4k-3b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+    <published>2021-05-06T13:05:54+05:00</published>
+    <updated>2021-05-06T13:05:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/mini-drone-4k-hd-double-camera"/>
+    <title>Mini Drone 4K HD Double Camera</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1603963950.jpg?v=1620364430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            23.98 - 69.96
+            <a href="https://iconicdigital.myshopify.com/products/mini-drone-4k-hd-double-camera">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> 100 meters<br><strong>Video Capture Resolution:</strong> 1080p FHD<br><strong>Video Capture Resolution:</strong> 720P HD<br><strong>Video Capture Resolution:</strong> 4K UHD<br><strong>Aerial Photography:</strong> Yes<br><strong>Control Channels:</strong> 4 Channels<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Original Box<br><strong>Age Range:</strong> 8-11 Years<br><strong>Age Range:</strong> 12-15 Years<br><strong>Age Range:</strong> Grownups<br><strong>Age Range:</strong> &gt; 8 years old<br><strong>Age Range:</strong> &gt; 14 years old<br><strong>Age Range:</strong> &gt; 6 years old<br><strong>Material:</strong> Plastic<br><strong>Controller Battery:</strong> 3*AAA<br><strong>Indoor/Outdoor Use:</strong> Indoor-Outdoor<br><strong>Dimensions:</strong> 21.5*11*7 CM<br><strong>Warning:</strong> NO<br><strong>Warranty:</strong> NO<br><strong>Motor:</strong> Brush Motor<br><strong>Charging Voltage:</strong> 3.7v<br><strong>Plugs Type:</strong> usb<br><strong>Charging Time:</strong> about60 minutes<br><strong>Power Source:</strong> electric<br><strong>Camera Mount Type:</strong> Fixed Camera Mount<br><strong>Camera Mount Type:</strong> Other<br><strong>Type:</strong> HELICOPTER<br><strong>Operator Skill Level:</strong> Beginner<br><strong>Operator Skill Level:</strong> Intermediate<br><strong>Operator Skill Level:</strong> Expert<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>CE:</strong> Certificate<br><strong>Flight Time:</strong> about15min<br><strong>Features:</strong> App-Controlled<br><strong>Features:</strong> Auto Return<br><strong>Features:</strong> Follow Me<br><strong>Features:</strong> FPV Capable<br><strong>Features:</strong> Integrated Camera<br><strong>Features:</strong> Wi-Fi<br><strong>Features:</strong> Other</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drone Cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Pro Bag 2B</title>
+      <s:price currency="USD">63.96</s:price>
+      <s:sku>41371536-4k-pro-bag-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Pro Bag 3B</title>
+      <s:price currency="USD">69.96</s:price>
+      <s:sku>41371536-4k-pro-bag-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Pro box 3B</title>
+      <s:price currency="USD">67.96</s:price>
+      <s:sku>41371536-4k-pro-box-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Pro Bag 1B</title>
+      <s:price currency="USD">57.96</s:price>
+      <s:sku>41371536-4k-pro-bag-1b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Pro box 2B</title>
+      <s:price currency="USD">61.96</s:price>
+      <s:sku>41371536-4k-pro-box-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Bag 3B</title>
+      <s:price currency="USD">67.96</s:price>
+      <s:sku>41371536-4k-bag-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Pro box 1B</title>
+      <s:price currency="USD">55.96</s:price>
+      <s:sku>41371536-4k-pro-box-1b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Bag 2B</title>
+      <s:price currency="USD">61.96</s:price>
+      <s:sku>41371536-4k-bag-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K color box 3B</title>
+      <s:price currency="USD">61.96</s:price>
+      <s:sku>41371536-4k-color-box-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K Bag 1B</title>
+      <s:price currency="USD">55.96</s:price>
+      <s:sku>41371536-4k-bag-1b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K color box 1B</title>
+      <s:price currency="USD">49.96</s:price>
+      <s:sku>41371536-4k-color-box-1b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>4K color box 2B</title>
+      <s:price currency="USD">55.96</s:price>
+      <s:sku>41371536-4k-color-box-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>1080P Bag 3B</title>
+      <s:price currency="USD">55.96</s:price>
+      <s:sku>41371536-1080p-bag-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>1080P Bag 1B</title>
+      <s:price currency="USD">43.96</s:price>
+      <s:sku>41371536-1080p-bag-1b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>1080P Bag 2B</title>
+      <s:price currency="USD">49.98</s:price>
+      <s:sku>41371536-1080p-bag-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975602262185</id>
+      <title>No camera</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>41371536-no-camera-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+    <published>2021-05-06T12:57:39+05:00</published>
+    <updated>2021-05-06T12:57:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/height-keeps-rc-drone"/>
+    <title>Height keeps RC drone</title>
+    <s:type>Camera</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1748826139.jpg?v=1620364311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Camera<br>
+        <strong>Price: </strong>
+            54.70 - 66.70
+            <a href="https://iconicdigital.myshopify.com/products/height-keeps-rc-drone">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> 100M<br><strong>Video Capture Resolution:</strong> 4K UHD<br><strong>Aerial Photography:</strong> Yes<br><strong>Control Channels:</strong> 4 Channels<br><strong>Recommend Age:</strong> 7-12y<br><strong>Recommend Age:</strong> 12+y<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Original Box<br><strong>Package Includes:</strong> Batteries<br><strong>Package Includes:</strong> Operating Instructions<br><strong>Package Includes:</strong> Remote Controller<br><strong>Package Includes:</strong> Camera<br><strong>Package Includes:</strong> USB Cable<br><strong>Material:</strong> Plastic<br><strong>Controller Battery:</strong> AAA<br><strong>Indoor/Outdoor Use:</strong> Indoor-Outdoor<br><strong>Dimensions:</strong> 16*19*5CM<br><strong>Warning:</strong> on<br><strong>Warranty:</strong> 15 day<br><strong>Motor:</strong> Brush Motor<br><strong>Charging Voltage:</strong> 3.7V<br><strong>Plugs Type:</strong> usb<br><strong>Charging Time:</strong> 2H<br><strong>Power Source:</strong> electric<br><strong>Camera Mount Type:</strong> Fixed Camera Mount<br><strong>Type:</strong> HELICOPTER<br><strong>Operator Skill Level:</strong> Beginner<br><strong>Operator Skill Level:</strong> Intermediate<br><strong>Operator Skill Level:</strong> Expert<br><strong>State of Assembly:</strong> Ready-to-Go<br><strong>Barcode:</strong> No<br><strong>Features:</strong> App-Controlled</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drone Cam</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 2B</title>
+      <s:price currency="USD">58.30</s:price>
+      <s:sku>43253599-4k-2b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 1B</title>
+      <s:price currency="USD">54.70</s:price>
+      <s:sku>43253599-4k-1b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 3B</title>
+      <s:price currency="USD">66.70</s:price>
+      <s:sku>43253599-4k-dual-camera-3b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 2B</title>
+      <s:price currency="USD">60.70</s:price>
+      <s:sku>43253599-4k-dual-camera-2b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 1B</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>43253599-4k-dual-camera-1b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 3B</title>
+      <s:price currency="USD">63.10</s:price>
+      <s:sku>43253599-4k-3b-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 2B 3</title>
+      <s:price currency="USD">58.30</s:price>
+      <s:sku>43253599-4k-2b-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 3B 3</title>
+      <s:price currency="USD">66.70</s:price>
+      <s:sku>43253599-4k-dual-camera-3b-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 1B 3</title>
+      <s:price currency="USD">54.70</s:price>
+      <s:sku>43253599-4k-1b-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 2B 3</title>
+      <s:price currency="USD">60.70</s:price>
+      <s:sku>43253599-4k-dual-camera-2b-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 1B 3</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>43253599-4k-dual-camera-1b-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 2B 2</title>
+      <s:price currency="USD">58.30</s:price>
+      <s:sku>43253599-4k-2b-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 3B 3</title>
+      <s:price currency="USD">63.10</s:price>
+      <s:sku>43253599-4k-3b-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 1B 2</title>
+      <s:price currency="USD">55.06</s:price>
+      <s:sku>43253599-4k-1b-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 3B 2</title>
+      <s:price currency="USD">66.34</s:price>
+      <s:sku>43253599-4k-dual-camera-3b-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 1B 2</title>
+      <s:price currency="USD">55.90</s:price>
+      <s:sku>43253599-4k-dual-camera-1b-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K dual camera 2B 2</title>
+      <s:price currency="USD">60.82</s:price>
+      <s:sku>43253599-4k-dual-camera-2b-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975595315369</id>
+      <title>4K 3B 2</title>
+      <s:price currency="USD">63.10</s:price>
+      <s:sku>43253599-4k-3b-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+    <published>2021-05-06T12:41:18+05:00</published>
+    <updated>2021-05-06T12:41:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/heart-rate-counter-smart-watch"/>
+    <title>Heart Rate counter Smart Watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1522514830.jpg?v=1620364495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Touch Screen:</strong> Yes<br><strong>Screen Type:</strong> Color LCD<br><strong>Compatibility:</strong> All Compatible<br><strong>Band Material:</strong> Rubber<br><strong>Function:</strong> Passometer<br><strong>Function:</strong> Fitness Tracker<br><strong>Function:</strong> Sleep Tracker<br><strong>Function:</strong> Message Reminder<br><strong>Function:</strong> Call Reminder<br><strong>Function:</strong> Push Message<br><strong>Function:</strong> Blood Pressure<br><strong>Function:</strong> Alarm Clock<br><strong>Function:</strong> Social Media Notifications<br><strong>Function:</strong> Blood Oxygen<br><strong>Function:</strong> Week<br><strong>Function:</strong> Heart Rate Tracker<br><strong>Function:</strong> Activity Tracker<br><strong>Certification:</strong> CE<br><strong>Language:</strong> Chinese<br><strong>Language:</strong> english<br><strong>Waterproof Grade:</strong> Life Waterproof<br><strong>Application Age Group:</strong> Adult<br><strong>Screen Style:</strong> Rectangle/Square-shape<br><strong>Band Detachable:</strong> Yes<br><strong>Case Material:</strong> Plastic<br><strong>Style:</strong> Fashion<br><strong>Fitness bracelet 1:</strong> Smart fitness bracelet<br><strong>Fitness bracelet 2:</strong> Fitness bracelet ip67 waterproof<br><strong>Smart bracelet 3:</strong> Smart bracelet watch<br><strong>Fitness tracker 4:</strong> Fitness tracker watch<br><strong>Fitness tracker 5:</strong> Fitness tracker smart watch<br><strong>Fitness tracker 6:</strong> Fitness tracker bracelet<br><strong>Fitness tracker 7:</strong> Fitness tracker band<br><strong>Fitness tracker 8:</strong> Fitness tracker blood pressure<br><strong>Smart band 9:</strong> Smart band watch<br><strong>Smart band 10:</strong> APP Name: DayBand<br><strong>Smart band 11:</strong> 1 year warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digital Watch</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>C5S Blue</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-c5s-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>C5S Black</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-c5s-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>C5S Red</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-c5s-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>C5S Purple</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-c5s-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>Black add a blue</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-black-add-a-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>C5S Pink</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-c5s-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>Black add a red</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-black-add-a-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>Black add a purple</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-black-add-a-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>Black add 4 straps</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-black-add-4-straps-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975584272553</id>
+      <title>Black add a pink</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>39722942-black-add-a-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+    <published>2021-05-06T12:39:20+05:00</published>
+    <updated>2021-05-06T12:39:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/sport-smart-watch"/>
+    <title>Sport Smart Watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1746309158.jpg?v=1620364528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Touch Screen:</strong> Yes<br><strong>Screen Type:</strong> Color LCD<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Passometer<br><strong>Function:</strong> Fitness Tracker<br><strong>Function:</strong> Sleep Tracker<br><strong>Function:</strong> Message Reminder<br><strong>Function:</strong> Call Reminder<br><strong>Function:</strong> Push Message<br><strong>Function:</strong> Social Media Notifications<br><strong>Certification:</strong> none<br><strong>Language:</strong> english<br><strong>Waterproof Grade:</strong> Life Waterproof<br><strong>Application Age Group:</strong> Adult<br><strong>Screen Style:</strong> Rectangle/Square-shape<br><strong>Band Detachable:</strong> Yes<br><strong>Style:</strong> SPORT<br><strong>Function:</strong> Music control<br><strong>Case Material:</strong> Other<br><strong>Life time:</strong> Use 2-3 days, standby 5 days<br><strong>Screen size:</strong> 0.96 inches<br><strong>Bluetooth:</strong> Bluetooth 4.0<br><strong>M5 Compatible systems:</strong> For Android 5.0 (above), IOS8.0 (inclusive) and above<br><strong>M4 Compatible systems:</strong> For Android 4.3 or IOS8.0 or higher mobile phones<br><strong>Capacity:</strong> 80mAh<br><strong>Charging method:</strong> USB<br><strong>Support:</strong> wholesale/dropshipping<br><strong>Type 1:</strong> Smart Wristbands<br><strong>Type 2:</strong> Smart Wrist bands<br><strong>Dropshipping/Wholelsale:</strong> Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digital Watch</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>02 Navy blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-02-navy-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>Pink</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>sky blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>Purple</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>01 black</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-01-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>03 red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-03-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583453353</id>
+      <title>random</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>43601269-random-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+    <published>2021-05-06T12:37:57+05:00</published>
+    <updated>2021-05-06T12:37:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/fitness-bracelet-smart-band"/>
+    <title>Fitness Bracelet Smart Band</title>
+    <s:type>Watch</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1686013671.jpg?v=1620365472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            33.99 - 37.99
+            <a href="https://iconicdigital.myshopify.com/products/fitness-bracelet-smart-band">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Touch Screen:</strong> Yes<br><strong>Screen Type:</strong> Color LCD<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Passometer<br><strong>Language:</strong> Chinese<br><strong>Waterproof Grade:</strong> Life Waterproof<br><strong>Application Age Group:</strong> Adult<br><strong>Screen Style:</strong> Rectangle/Square-shape<br><strong>Case Material:</strong> Plastic<br><strong>Style:</strong> SPORT<br><strong>Fitness bracelet 1:</strong> Smart fitness bracelet<br><strong>Fitness bracelet 2:</strong> Fitness bracelet blood pressure measurement<br><strong>Fitness bracelet 3:</strong> Fitness bracelet watch<br><strong>Smart bracelet 1:</strong> Smart bracelet women<br><strong>Smart bracelet 2:</strong> Smart bracelet men<br><strong>Smart bracelet 3:</strong> Fitness tracker waterproof<br><strong>Fitness tracker 1:</strong> Fitness tracker watch<br><strong>Fitness tracker 2:</strong> Smart band blood pressure<br><strong>Smart band 1:</strong> APP name: DayBand<br><strong>Smart band 2:</strong> 1 Year warranty<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digital Watch</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Black</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Deep blue</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-deep-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Add a white strap</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-add-a-white-strap</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Add 5 straps</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>43475041-add-5-straps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Add a gray strap</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-add-a-gray-strap</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Add a pink strap</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-add-a-pink-strap</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Add a deep blue</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-add-a-deep-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Add a light blue</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-add-a-light-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Pink</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>White</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Light blue</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-light-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975583060137</id>
+      <title>Gray</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>43475041-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+    <published>2021-05-06T12:36:19+05:00</published>
+    <updated>2021-05-06T12:36:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/music-control-smart-watch"/>
+    <title>Music Control smart watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1650827750.jpg?v=1620364536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mechanism:</strong> No<br><strong>SIM Card Available:</strong> No<br><strong>System:</strong> None<br><strong>GPS:</strong> No<br><strong>Type:</strong> On Wrist<br><strong>Compatibility:</strong> All Compatible<br><strong>ROM:</strong> &lt;128MB<br><strong>Function:</strong> Passometer<br><strong>Function:</strong> Fitness Tracker<br><strong>Function:</strong> Sleep Tracker<br><strong>Function:</strong> Message Reminder<br><strong>Function:</strong> Call Reminder<br><strong>Function:</strong> Answer Call<br><strong>Function:</strong> Dial Call<br><strong>Function:</strong> Remote control<br><strong>Function:</strong> Push Message<br><strong>Function:</strong> 24 hour instruction<br><strong>Function:</strong> Alarm Clock<br><strong>Function:</strong> Power Reserve<br><strong>Function:</strong> Week<br><strong>Function:</strong> Month<br><strong>Function:</strong> Heart Rate Tracker<br><strong>Function:</strong> Interactive Music<br><strong>Function:</strong> Noctilucent<br><strong>Rear Camera:</strong> None<br><strong>Language:</strong> english<br><strong>RAM:</strong> &lt;128MB<br><strong>Waterproof Grade:</strong> Life Waterproof<br><strong>Multiple Dials:</strong> Yes<br><strong>Certification:</strong> none<br><strong>Battery Capacity:</strong> 120-180mAh<br><strong>Network Mode:</strong> None<br><strong>Style:</strong> Fashion<br><strong>Movement Type:</strong> Electronic<br><strong>Screen Shape:</strong> Square<br><strong>Resolution:</strong> Smart Watch 240*240<br><strong>APP Download Available:</strong> No<br><strong>Case Material:</strong> Alloy<br><strong>Display Size:</strong> 1.54 inch Smartwatch<br><strong>Band Material:</strong> Silica gel<br><strong>Application Age Group:</strong> Adult<br><strong>Battery Detachable:</strong> No<br><strong>Band Detachable:</strong> Yes<br><strong>Smart Watch 1:</strong> Smart Watch CPU: PHY6202<br><strong>Smart Watch 2:</strong> Compatible OS: Android 5.0 or above , iOS 9.0 or above<br><strong>Smart Watch 3:</strong> Smart Watch Waterproof: IP67<br><strong>Smartwacth 4:</strong> Smartwacth APP Name: Tfit<br><strong>Smartwacth 5:</strong> Smartwacth 1 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digital Watch</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>Pink</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-pink-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>White</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-white-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>Add pink strap</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-add-pink-strap-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>Add white strap</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-add-white-strap-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>Black add 2 strap</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-black-add-2-strap-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>Pink add 2 strap</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-pink-add-2-strap-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582601385</id>
+      <title>Black</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>42471785-black-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+    <published>2021-05-06T12:34:36+05:00</published>
+    <updated>2021-05-06T12:34:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/android-ios-smart-watch"/>
+    <title>Android ios smart watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1722329222.jpg?v=1620364587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            52.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mechanism:</strong> No<br><strong>SIM Card Available:</strong> No<br><strong>System:</strong> None<br><strong>GPS:</strong> No<br><strong>Type:</strong> On Wrist<br><strong>Compatibility:</strong> All Compatible<br><strong>ROM:</strong> &lt;128MB<br><strong>Function:</strong> Passometer<br><strong>Function:</strong> Fitness Tracker<br><strong>Function:</strong> Sleep Tracker<br><strong>Function:</strong> Message Reminder<br><strong>Function:</strong> Call Reminder<br><strong>Function:</strong> Remote control<br><strong>Function:</strong> Push Message<br><strong>Function:</strong> 24 hour instruction<br><strong>Function:</strong> Alarm Clock<br><strong>Function:</strong> Power Reserve<br><strong>Function:</strong> Week<br><strong>Function:</strong> Month<br><strong>Function:</strong> Heart Rate Tracker<br><strong>Function:</strong> Interactive Music<br><strong>Function:</strong> Noctilucent<br><strong>Rear Camera:</strong> None<br><strong>Language:</strong> english<br><strong>Language:</strong> Russian<br><strong>Language:</strong> Spanish<br><strong>Language:</strong> Portuguese<br><strong>Language:</strong> Italian<br><strong>Language:</strong> French<br><strong>Language:</strong> German<br><strong>RAM:</strong> &lt;128MB<br><strong>Waterproof Grade:</strong> Life Waterproof<br><strong>Multiple Dials:</strong> Yes<br><strong>Certification:</strong> none<br><strong>Battery Capacity:</strong> 180-220mAh<br><strong>Network Mode:</strong> None<br><strong>Style:</strong> Fashion<br><strong>Movement Type:</strong> Electronic<br><strong>Screen Shape:</strong> Round<br><strong>Resolution:</strong> 240*240 smartwatch<br><strong>APP Download Available:</strong> No<br><strong>Case Material:</strong> Alloy<br><strong>CPU Manufacturer:</strong> Mediatek<br><strong>Display Size:</strong> 1.28inch smart watches<br><strong>Band Material:</strong> Silica gel<br><strong>Application Age Group:</strong> Adult<br><strong>Battery Detachable:</strong> No<br><strong>Band Detachable:</strong> Yes<br><strong>smart watch 1:</strong> Operating Mode: Full Touch<br><strong>smart watch 2:</strong> Resolution: 240*240 pixels<br><strong>smart watch 3:</strong> Screen Size: 1.28inch TFT<br><strong>smart watch 4:</strong> APP Name: Jyoupro<br><strong>smart watch 5:</strong> 1 year warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Digital Watch</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-gold</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-add-a-blue</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-add-a-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-add-a-pink</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-add-a-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-add-a-gold</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-add-a-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-blue</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-pink</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-add-3-colors</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-add-3-colors-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-bl-add-black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-bl-add-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975582109865</id>
+      <title>ZL02-pk-add-black</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>44462439-zl02-pk-add-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://delightbabies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://delightbabies.myshopify.com/collections/baby-boy-clothes.atom"/>
+  <title>delightbabies</title>
+  <updated>2021-06-02T15:28:50+05:00</updated>
+  <author>
+    <name>delightbabies</name>
+  </author>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741004452015</id>
+    <published>2021-06-02T15:28:50+05:00</published>
+    <updated>2021-06-02T15:28:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/baby-boy-short-sleeve-clothes"/>
+    <title>Baby Boy Short Sleeve clothes</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1253692866.jpg?v=1622629733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Material Composition:</strong> Cotton<br><strong>Sleeve Length(cm):</strong> SHORT<br><strong>Pattern Type:</strong> Letter<br><strong>Sleeve Style:</strong> Regular<br><strong>Gender:</strong> Unisex<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741004452015</id>
+      <title>9M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33753463-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741004452015</id>
+      <title>6M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33753463-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741004452015</id>
+      <title>18M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33753463-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741004452015</id>
+      <title>12M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33753463-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+    <published>2021-06-02T15:20:19+05:00</published>
+    <updated>2021-06-02T15:20:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/mew-born-baby-clothes"/>
+    <title>Mew born Baby Clothes</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1588071577.jpg?v=1622634777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Unisex<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Pullover<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Material Composition:</strong> Cotton<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>A / 18M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>A / 12M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>B / 6M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>A / 24M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>A / 6M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>C / 18M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-c-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>C / 12M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-c-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>D / 6M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-d-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>C / 24M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-c-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>B / 18M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>B / 12M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>C / 6M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-c-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>B / 24M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>D / 18M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-d-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>D / 12M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-d-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740980957359</id>
+      <title>D / 24M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>40985588-d-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740973322415</id>
+    <published>2021-06-02T15:17:18+05:00</published>
+    <updated>2021-06-02T15:17:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/baby-boy-fashion-clothes"/>
+    <title>Baby boy fashion Clothes</title>
+    <s:type>Baby clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1158464190.jpg?v=1622629041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby clothes<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul class="tabs">
+<li class="active">Tab 1</li>
+<li class="active">&gt;Tab 2</li>
+<li class="active">&gt;Tab 3</li>
+</ul>
+<ul class="tabs-content">
+<li class="active">
+<p>Tab 1 content goes here.</p>
+</li>
+<li>
+<p>Tab 2 content goes here.</p>
+</li>
+<li>
+<p>Tab 3 content goes here.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740973322415</id>
+      <title>White / 2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30649565-white-2t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740973322415</id>
+      <title>White / 3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30649565-white-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740973322415</id>
+      <title>White / 4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30649565-white-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740973322415</id>
+      <title>White / 5T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30649565-white-5t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740973322415</id>
+      <title>White / 6T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>30649565-white-6t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740966539439</id>
+    <published>2021-06-02T15:15:22+05:00</published>
+    <updated>2021-06-02T15:15:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/flower-bow-baby-jumpsuit"/>
+    <title>Flower Bow baby Jumpsuit</title>
+    <s:type>Clothes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1259506125.jpg?v=1622628925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Clothes<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Pattern Type:</strong> Print<br><strong>Gender:</strong> Baby Girls<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Belt</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Clothes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740966539439</id>
+      <title>6M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33935484-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740966539439</id>
+      <title>3M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33935484-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740966539439</id>
+      <title>18M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33935484-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740966539439</id>
+      <title>12M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>33935484-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

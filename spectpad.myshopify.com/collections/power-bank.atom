@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spectpad.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spectpad.myshopify.com/collections/power-bank.atom"/>
+  <title>Spectpad</title>
+  <updated>2021-09-08T15:07:03+05:00</updated>
+  <author>
+    <name>Spectpad</name>
+  </author>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972650946721</id>
+    <published>2021-09-08T15:07:03+05:00</published>
+    <updated>2021-09-08T15:07:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/ini-power-bank-10000mah-fast-charg"/>
+    <title>ini Power Bank 10000mAh Fast Charg</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1833165808.png?v=1631164535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.42 - 30.70
+            <a href="https://spectpad.myshopify.com/products/ini-power-bank-10000mah-fast-charg">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Battery Type:</strong> Li-polymer Battery<br><strong>Features:</strong> Built in Cables<br><strong>Output Interface:</strong> Double USB<br><strong>Certification:</strong> CE<br><strong>Input Interface:</strong> Micro USB<br><strong>Input Interface:</strong> USB Type C<br><strong>Shell Material:</strong> Plastic<br><strong>Type:</strong> Portable Power Bank<br><strong>Support Quick Charge Technology:</strong> No<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>China / Black</title>
+      <s:price currency="USD">30.70</s:price>
+      <s:sku>30593250-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>Belgium / White</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-belgium-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>United States / White</title>
+      <s:price currency="USD">27.63</s:price>
+      <s:sku>30593250-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>China / White</title>
+      <s:price currency="USD">30.70</s:price>
+      <s:sku>30593250-china-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>GERMANY / White</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-germany-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>United Kingdom / White</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-united-kingdom-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>Australia / White</title>
+      <s:price currency="USD">27.63</s:price>
+      <s:sku>30593250-australia-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>SPAIN / White</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-spain-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>France / White</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-france-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>Russian Federation / White</title>
+      <s:price currency="USD">18.42</s:price>
+      <s:sku>30593250-russian-federation-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>United Kingdom / Black</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-united-kingdom-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>SPAIN / Black</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-spain-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>GERMANY / Black</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-germany-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>Russian Federation / Black</title>
+      <s:price currency="USD">18.42</s:price>
+      <s:sku>30593250-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>Australia / Black</title>
+      <s:price currency="USD">27.63</s:price>
+      <s:sku>30593250-australia-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>Belgium / Black</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-belgium-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972650946721</id>
+      <title>France / Black</title>
+      <s:price currency="USD">26.10</s:price>
+      <s:sku>30593250-france-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972639772833</id>
+    <published>2021-09-08T15:04:10+05:00</published>
+    <updated>2021-09-08T15:04:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/quick-charge-powerbank-portable-external-battery-led"/>
+    <title>Quick Charge Powerbank Portable External Battery LED</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1840761356.jpg?v=1631166572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.68 - 50.83
+            <a href="https://spectpad.myshopify.com/products/quick-charge-powerbank-portable-external-battery-led">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Battery Type:</strong> Li-polymer Battery<br><strong>Features:</strong> Digital Display<br><strong>Output Interface:</strong> Double USB<br><strong>Output Interface:</strong> USB-Type C<br><strong>Certification:</strong> CE<strong>Input Interface:</strong> Micro USB<br><strong>Input Interface:</strong> USB Type C<br><strong>Input Interface:</strong> Lighting<br><strong>Shell Material:</strong> Plastic<br><strong>Type:</strong> Portable Power Bank</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>France</title>
+      <s:price currency="USD">39.68</s:price>
+      <s:sku>30830926-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>Australia</title>
+      <s:price currency="USD">47.11</s:price>
+      <s:sku>30830926-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>SPAIN</title>
+      <s:price currency="USD">39.68</s:price>
+      <s:sku>30830926-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>Belgium</title>
+      <s:price currency="USD">39.68</s:price>
+      <s:sku>30830926-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>GERMANY</title>
+      <s:price currency="USD">39.68</s:price>
+      <s:sku>30830926-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>United States</title>
+      <s:price currency="USD">47.11</s:price>
+      <s:sku>30830926-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972639772833</id>
+      <title>China</title>
+      <s:price currency="USD">50.83</s:price>
+      <s:sku>30830926-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972621226145</id>
+    <published>2021-09-08T14:59:03+05:00</published>
+    <updated>2021-09-08T14:59:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/power-bank-30000mah-fast-charging"/>
+    <title>Power Bank 30000mAh Fast Charging</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1700258947.jpg?v=1631594762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.35 - 41.78
+            <a href="https://spectpad.myshopify.com/products/power-bank-30000mah-fast-charging">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Battery Type:</strong> Li-polymer Battery<br><strong>Features:</strong> With LED Lamp<br><strong>Output Interface:</strong> Double USB<br><strong>Output Interface:</strong> USB-Type C<br><strong>Certification:</strong> CE<br><strong>Input Interface:</strong> Micro USB<br><strong>Input Interface:</strong> USB Type C<br><strong>Input Interface:</strong> Lighting<br><strong>Shell Material:</strong> Plastic<br><strong>Type:</strong> Portable Power Bank<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>United Kingdom</title>
+      <s:price currency="USD">32.75</s:price>
+      <s:sku>21771993-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>GERMANY</title>
+      <s:price currency="USD">32.75</s:price>
+      <s:sku>21771993-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>China</title>
+      <s:price currency="USD">41.78</s:price>
+      <s:sku>21771993-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>United States</title>
+      <s:price currency="USD">38.39</s:price>
+      <s:sku>21771993-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>Russian Federation</title>
+      <s:price currency="USD">29.35</s:price>
+      <s:sku>21771993-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>France</title>
+      <s:price currency="USD">32.75</s:price>
+      <s:sku>21771993-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>SPAIN</title>
+      <s:price currency="USD">32.75</s:price>
+      <s:sku>21771993-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972621226145</id>
+      <title>Australia</title>
+      <s:price currency="USD">38.39</s:price>
+      <s:sku>21771993-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972617031841</id>
+    <published>2021-09-08T14:57:40+05:00</published>
+    <updated>2021-09-08T14:57:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/power-bank-30000mah-quick-charge"/>
+    <title>Power Bank 30000mAh Quick Charge</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1840153838.jpg?v=1631165792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.85 - 45.99
+            <a href="https://spectpad.myshopify.com/products/power-bank-30000mah-quick-charge">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Battery Type:</strong> Li-polymer Battery</span><br><span><strong>Features:</strong> Digital Display</span><br><span><strong>Output Interface:</strong> Double USB</span><br><span><strong>Output Interface:</strong> USB-Type C</span><br><span><strong>Certification:</strong> CE</span><br><span><strong>Input Interface:</strong> Micro USB</span><br><span><strong>Input Interface:</strong> USB Type C</span><br><span><strong>Shell Material:</strong> Plastic</span><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>China</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>33253931-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>Russian Federation</title>
+      <s:price currency="USD">31.85</s:price>
+      <s:sku>33253931-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>Australia</title>
+      <s:price currency="USD">42.46</s:price>
+      <s:sku>33253931-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>France</title>
+      <s:price currency="USD">35.37</s:price>
+      <s:sku>33253931-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>United Kingdom</title>
+      <s:price currency="USD">35.37</s:price>
+      <s:sku>33253931-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>United States</title>
+      <s:price currency="USD">42.46</s:price>
+      <s:sku>33253931-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>SPAIN</title>
+      <s:price currency="USD">35.37</s:price>
+      <s:sku>33253931-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972617031841</id>
+      <title>GERMANY</title>
+      <s:price currency="USD">35.37</s:price>
+      <s:sku>33253931-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972614246561</id>
+    <published>2021-09-08T14:56:46+05:00</published>
+    <updated>2021-09-08T14:56:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/power-bank-20000mah-usb-type-c"/>
+    <title>Power Bank 20000mAh USB Type-C</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1840759279.jpg?v=1631165497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.29 - 35.08
+            <a href="https://spectpad.myshopify.com/products/power-bank-20000mah-usb-type-c">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Battery Type:</strong> Li-polymer Battery<br><strong>Features:</strong> Digital Display<br><strong>Output Interface:</strong> Double USB<br><strong>Output Interface:</strong> USB-Type C<br><strong>Certification:</strong> CE<br><strong>Input Interface:</strong> Micro USB<br><strong>Input Interface:</strong> USB Type C<br><strong>Input Interface:</strong> Lighting<br><strong>Shell Material:</strong> Plastic<br><strong>Type:</strong> Portable Power Bank<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>Russian Federation</title>
+      <s:price currency="USD">24.29</s:price>
+      <s:sku>26112977-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>Australia</title>
+      <s:price currency="USD">32.38</s:price>
+      <s:sku>26112977-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>SPAIN</title>
+      <s:price currency="USD">29.69</s:price>
+      <s:sku>26112977-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>GERMANY</title>
+      <s:price currency="USD">29.69</s:price>
+      <s:sku>26112977-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>United Kingdom</title>
+      <s:price currency="USD">29.69</s:price>
+      <s:sku>26112977-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>United States</title>
+      <s:price currency="USD">32.38</s:price>
+      <s:sku>26112977-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>China</title>
+      <s:price currency="USD">35.08</s:price>
+      <s:sku>26112977-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>Belgium</title>
+      <s:price currency="USD">29.69</s:price>
+      <s:sku>26112977-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972614246561</id>
+      <title>France</title>
+      <s:price currency="USD">29.69</s:price>
+      <s:sku>26112977-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

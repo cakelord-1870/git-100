@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlinegaming-co.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlinegaming-co.myshopify.com/collections/cables.atom"/>
+  <title>OnlineGaming.co </title>
+  <updated>2021-04-24T12:19:36+05:00</updated>
+  <author>
+    <name>OnlineGaming.co </name>
+  </author>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+    <published>2021-04-24T12:19:36+05:00</published>
+    <updated>2021-04-24T12:19:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/displayport-cable"/>
+    <title>Displayport Cable</title>
+    <s:type>Cable</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1416244941.jpg?v=1619249263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Cable<br>
+        <strong>Price: </strong>
+            13.98 - 29.38
+            <a href="https://onlinegaming-co.myshopify.com/products/displayport-cable">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Connector B:</strong> HDMI<br><strong>Gender:</strong> Male-Male<br><strong>Type:</strong> HDMI Cables-compatible<br><strong>Connector A:</strong> Mini Displayport(Mini DP)<br><strong>Bundle:</strong> Bundle 1<br><strong>Packing:</strong> Polybag<br><strong>Package:</strong> Yes<br><strong>Shielding:</strong> Braid<br><strong>Feature:</strong> HDMI2.0-compatible<br><strong>Application:</strong> Projector<br><strong>Application:</strong> For iPod<br><strong>Application:</strong> Camera<br><strong>Application:</strong> Computer<br><strong>Application:</strong> Multimedia<br><strong>Application:</strong> Monitor<br><strong>Application:</strong> Television<br><strong>Outer Diameter:</strong> 5.5mm<br><strong>Gague:</strong> 32AWG<br><strong>Connector Color:</strong> Gold<br><strong>Gender:</strong> Male-Male<br><strong>Connector Type:</strong> Mini DP(Male) to HDMI(Male)<br><strong>Type:</strong> DP/Mini DP Cables, HDMI Cables<br><strong>Resolution:</strong> 1080P/4K@60HZ<br><strong>Feature1:</strong> mini dp to hdmi<br><strong>Feature2:</strong> mini dp to hdmi adaptor<br><strong>Feature3:</strong> mini dp to hdmi cable<br><strong>Feature4:</strong> mini dp to hdmi cable with audio<br><strong>Feature5:</strong> HDMI Splitter Adapter<br><strong>Feature6:</strong> Cable HDMI 4K<br><strong>Feature7:</strong> HDMI Cable Male to Male<br><strong>Feature8:</strong> 4K HDMI Video Cable<br><strong>Feature9:</strong> Mini DP to HDMI Video Cable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cable</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>LED 4K 60hz / 1.8m</title>
+      <s:price currency="USD">29.38</s:price>
+      <s:sku>29833818-led-4k-60hz-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>LED 4K 60hz / 1m</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>29833818-led-4k-60hz-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>LED 4K 60hz / 3m</title>
+      <s:price currency="USD">29.38</s:price>
+      <s:sku>29833818-led-4k-60hz-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>LED 4K 30hz / 1.8m</title>
+      <s:price currency="USD">23.38</s:price>
+      <s:sku>29833818-led-4k-30hz-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>LED 4K 30hz / 3m</title>
+      <s:price currency="USD">25.38</s:price>
+      <s:sku>29833818-led-4k-30hz-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 4K 60hz / 1.8m</title>
+      <s:price currency="USD">25.36</s:price>
+      <s:sku>29833818-white-4k-60hz-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>LED 4K 30hz / 1m</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>29833818-led-4k-30hz-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 4K 60hz / 3m</title>
+      <s:price currency="USD">25.36</s:price>
+      <s:sku>29833818-white-4k-60hz-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 4K 30hz / 3m</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>29833818-white-4k-30hz-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 4K 30hz / 1.8m</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>29833818-white-4k-30hz-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 4K 60hz / 1m</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku>29833818-white-4k-60hz-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 1080 HD / 3m</title>
+      <s:price currency="USD">21.38</s:price>
+      <s:sku>29833818-white-1080-hd-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 4K 30hz / 1m</title>
+      <s:price currency="USD">18.58</s:price>
+      <s:sku>29833818-white-4k-30hz-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>Black 4K 30hz / 3m</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>29833818-black-4k-30hz-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 1080 HD / 1.8m</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>29833818-white-1080-hd-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>White 1080 HD / 1m</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>29833818-white-1080-hd-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>Black 4K 30hz / 1m</title>
+      <s:price currency="USD">18.58</s:price>
+      <s:sku>29833818-black-4k-30hz-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>Black 1080 HD / 3m</title>
+      <s:price currency="USD">21.38</s:price>
+      <s:sku>29833818-black-1080-hd-united-states-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>Black 4K 30hz / 1.8m</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>29833818-black-4k-30hz-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>Black 1080 HD / 1m</title>
+      <s:price currency="USD">13.98</s:price>
+      <s:sku>29833818-black-1080-hd-united-states-1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6675961610417</id>
+      <title>Black 1080 HD / 1.8m</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>29833818-black-1080-hd-united-states-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+    <published>2021-04-22T11:58:08+05:00</published>
+    <updated>2021-04-22T11:58:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/led-usb-cable-for-mobile"/>
+    <title>LED USB Cable For Mobile</title>
+    <s:type>Cable</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1701035278.jpg?v=1619243752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Cable<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> FCC<br><strong>Certification:</strong> RoHS<br><strong>Connector B:</strong> Lightning<br><strong>Maximum Current:</strong> 2.4A<br><strong>Connector A:</strong> USB A<br><strong>Features:</strong> With LED Indicator<br><strong>Has Retail Package:</strong> Yes<br><strong>Item Name:</strong> Mobile Phone Charger for iPhone<br><strong>Color:</strong> Green, Black<br><strong>Lenght:</strong> 1.2m (3.9ft) / 1.8m(5.9ft)<br><strong>Material:</strong> Aluminum Alloy<br><strong>Highlight:</strong> With LED indicator<br><strong>Working life:</strong> 15,000 times pull and plug<br><strong>Type:</strong> USB Cable for iPhone<br><strong>Function:</strong> Data Transmission Cord &amp; Fast Charger<br><strong>Phone Model:</strong> For iPhone 12 mini 11 Pro Max Xs XR X 8 7 6 6s Plus 5 5s 5C SE 2020<br><strong>For iPad:</strong> For iPad Air 2 mini 2 3 4 Pro Macbook Pro</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cable</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+      <title>Green / 1.2m (3.9ft)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40095792-green-1-2m-3-9ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+      <title>Black / 1.8m (5.9ft)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40095792-black-1-8m-5-9ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+      <title>Black / 1.2m (3.9ft)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40095792-black-1-2m-3-9ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+      <title>Green / 1.8m (5.9ft)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40095792-green-1-8m-5-9ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+      <title>Orange / 1.2m (3.9ft)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40095792-orange-1-2m-3-9ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672400777393</id>
+      <title>Orange / 1.8m (5.9ft)</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40095792-orange-1-8m-5-9ft</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+    <published>2021-04-22T11:56:48+05:00</published>
+    <updated>2021-04-22T11:56:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/mcdodo-led-usb-cable"/>
+    <title>Mcdodo LED USB Cable</title>
+    <s:type>Cable</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/3.jpg?v=1619244516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Cable<br>
+        <strong>Price: </strong>
+            16.06 - 25.42
+            <a href="https://onlinegaming-co.myshopify.com/products/mcdodo-led-usb-cable">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong> With LED Indicator<br><strong>Has Retail Package:</strong> Yes<br><strong>Item Name:</strong> 90 Degree USB Cable<br><strong>Length:</strong> 0.5m / 1.2m / 1.8m / 3m<br><strong>Working life:</strong> 15,000 Times Pull and Plug<br><strong>For iPhone:</strong> For iPhone 12 mini 11 Pro Xs Max Xr X 6 6s Plus 5 5s SE<br><strong>For Samsung:</strong> For Samsung Galaxy A70 A50 S20 S10 S8 S9 Plus Note 20 10 9 8<br><strong>For Xiaomi:</strong> For Xiaomi Mi 11 10 9 8 SE 7 6 Mi A1 A2 Mi Max 3 2 MIX 2S PocoPhone F1<br><strong>For Huawei:</strong> For Huawei Mate 40 30 20 pro P40 P30 P20 P10 P9<br><strong>For Redmi:</strong> For Redmi Note 10 9s 8 7 6 Pro 5 4 Plus 5a 4X 4a<br><strong>For Others:</strong> For Macbook iPad Air Oppo Oneplus 8t 7t</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cable</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For iPhone / 3m</title>
+      <s:price currency="USD">25.42</s:price>
+      <s:sku>17293375-united-states-for-iphone-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Type C / 0.5m</title>
+      <s:price currency="USD">16.06</s:price>
+      <s:sku>17293375-united-states-for-type-c-0-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Type C / 3m</title>
+      <s:price currency="USD">25.42</s:price>
+      <s:sku>17293375-united-states-for-type-c-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Micro / 0.5m</title>
+      <s:price currency="USD">16.06</s:price>
+      <s:sku>17293375-united-states-for-micro-0-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Micro / 3m</title>
+      <s:price currency="USD">25.42</s:price>
+      <s:sku>17293375-united-states-for-micro-3m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For iPhone / 0.5m</title>
+      <s:price currency="USD">16.06</s:price>
+      <s:sku>17293375-united-states-for-iphone-0-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For iPhone / 1.8m</title>
+      <s:price currency="USD">22.52</s:price>
+      <s:sku>17293375-united-states-for-iphone-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Type C / 1.2m</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>17293375-united-states-for-type-c-1-2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For iPhone / 1.2m</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>17293375-united-states-for-iphone-1-2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Micro / 1.8m</title>
+      <s:price currency="USD">22.52</s:price>
+      <s:sku>17293375-united-states-for-micro-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Type C / 1.8m</title>
+      <s:price currency="USD">22.52</s:price>
+      <s:sku>17293375-united-states-for-type-c-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672398024881</id>
+      <title>For Micro / 1.2m</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>17293375-united-states-for-micro-1-2m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672393470129</id>
+    <published>2021-04-22T11:54:27+05:00</published>
+    <updated>2021-04-22T11:54:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/fast-charging-three-in-one-cable"/>
+    <title>Fast Charging Three in One Cable</title>
+    <s:type>Cable</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/2.jpg?v=1619244447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Cable<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Has Retail Package:</strong> Yes<br><strong>Item:</strong> 3 in 1 USB Cable<br><strong>Length:</strong> 1.2m USB Cable<br><strong>Color:</strong> Black, Orange, Green<br><strong>Current:</strong> 3A Max. Fast charger For Micro USB Type C &amp; For iPhone<br><strong>Working life:</strong> 15,000 times pull and plug 3 in 1 USB Cable<br><strong>For iP:</strong> For iPhone 12 mini 11 Pro Xs Max Xr X 8 7 6 6s Plus 5 5s SE<br><strong>For Samsung A:</strong> For Samsung A30 A40 A50 A70 A71 A51 A20<br><strong>For Samsung:</strong> For Galaxy S21 S20 S10 S10e S10 S9 S8 Plus S7 S6 Note 20 10 9 8 7 6<br><strong>For Xiaomi:</strong> For Xiaomi mi 11 10 pro 9 8 se 6 Redmi 5 Plus 4X 4a 5a PocoPhone F1<br><strong>For Redmi:</strong> For Xiaomi redmi note 10 9s 8 7 note 4 4X 6 7 Pro<br><strong>For Huawei:</strong> For Huawei mate 40 30 20 pro P40 P30 P20 P10 P9</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cable</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672393470129</id>
+      <title>Green</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>36494972-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672393470129</id>
+      <title>Orange</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>36494972-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672393470129</id>
+      <title>Black</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku>36494972-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rareviewz.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rareviewz.myshopify.com/collections/trending.atom"/>
+  <title>RareViewz</title>
+  <updated>2020-07-18T01:04:55-04:00</updated>
+  <author>
+    <name>RareViewz</name>
+  </author>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+    <published>2020-07-18T01:04:55-04:00</published>
+    <updated>2020-07-18T01:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/fashion-large-diamond-crystal-sunglasses-women-luxury"/>
+    <title>Large Sunglasses For Women</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1243341617.jpg?v=1617354987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Square<br><strong>Department Name:</strong> Adult<br><strong>Frame Material:</strong> Alloy<br><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Lenses Optical Attribute:</strong> UV400<br><strong>Eyewear Type:</strong> Sunglasses<br><strong>Lens Height:</strong> 52mm<br><strong>Lenses Material:</strong> Polycarbonate<br><strong>Item Type:</strong> Eyewear<br><strong>Lens Width:</strong> 48mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>9</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>10</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>7</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>8</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>5</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>6</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>3</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>4</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>1</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>2</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397447835803</id>
+      <title>11</title>
+      <s:price currency="USD">24.89</s:price>
+      <s:sku>33350866-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+    <published>2020-07-18T00:54:24-04:00</published>
+    <updated>2020-07-18T00:54:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/butterfly-cat-eye-sunglasses-women-brand-designer"/>
+    <title>Cat Eye Sunglasses Women</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1427812841.jpg?v=1595048068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Eyewear Type:</strong> Sunglasses<br><strong>Item Type:</strong> Eyewear<br><strong>Style:</strong> Cat Eye<br><strong>Lenses Optical Attribute:</strong> UV400<br><strong>Lenses Optical Attribute:</strong> Anti-Reflective<br><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Frame Material:</strong> Plastic<br><strong>Gender:</strong> WOMEN<br><strong>Department Name:</strong> Adult<br><strong>Lenses Material:</strong> Polycarbonate<br><strong>Lens Height:</strong> 61MM<br><strong>Lens Width:</strong> 51MM<br><strong>Style:</strong> Butterfly Cat Eye Sunglasses<br><strong>Type:</strong> Fashion,Personality,Stylish,Unique<br><strong>Feature:</strong> Mirror, Gradient, Shade, Goggle<br><strong>For gender:</strong> Women,Men,Female,Male,Ladies<br><strong>Frame Feature:</strong> Stylish comfortable and not easily deformed<br><strong>Color:</strong> 6 Colors</p>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>1</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>2</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>3</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>4</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>5</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>7</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>10</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>6</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397422473371</id>
+      <title>8</title>
+      <s:price currency="USD">33.58</s:price>
+      <s:sku>17841207-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+    <published>2020-07-14T02:47:39-04:00</published>
+    <updated>2020-07-14T02:47:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/black-retro-round-steampunk-sunglasses-women"/>
+    <title>Round Steampunk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Long Keeper Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/2019-Black-Retro-Round-Steampunk-Sunglasses-Women-Metal-Frame-Side-Shield-UV400-Sunglasses-Men-Classic-Vintage.jpg?v=1617346279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Long Keeper Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>black grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gun grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gold grey</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>gold brown</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>brown brown</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>silver silver</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>blue silver</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381850202267</id>
+      <title>black red</title>
+      <s:price currency="USD">23.07</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+    <published>2020-07-14T02:47:28-04:00</published>
+    <updated>2020-07-14T02:47:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/fashion-round-metal-frame-sunglasses-men-women"/>
+    <title>Metal Frame Sunglasses For Men&amp;Women</title>
+    <s:type></s:type>
+    <s:vendor>SHOWA GLASSES Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/Fashion-Round-Metal-Frame-Sunglasses-Men-Women-Retro-Classic-Prince-Mirror-Circle-Round-Sunglasses-Muti-Colors.jpg?v=1594709267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SHOWA GLASSES Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Gold-Blue</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Silver-Blue</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Gold-Green</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Silver-Green</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Gold-Red</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Silver-Red</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:29</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Multicolor</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:691</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Brown</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:1052</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381849677979</id>
+      <title>Silver</title>
+      <s:price currency="USD">27.58</s:price>
+      <s:sku>73:350853</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+</feed>

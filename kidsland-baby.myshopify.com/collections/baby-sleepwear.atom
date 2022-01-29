@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kidsland-baby.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kidsland-baby.myshopify.com/collections/baby-sleepwear.atom"/>
+  <title>KidsLand Baby</title>
+  <updated>2021-03-30T16:11:01+05:00</updated>
+  <author>
+    <name>KidsLand Baby</name>
+  </author>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+    <published>2021-03-30T16:11:01+05:00</published>
+    <updated>2021-03-30T16:11:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/baby-long-sleeve-sleepwear-outfits"/>
+    <title>Baby Long Sleeve Sleepwear Outfits</title>
+    <s:type>Baby Sleepwear</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1386179317.jpg?v=1617102667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Baby Sleepwear<br>
+        <strong>Price: </strong>
+            8.14 - 15.44
+            <a href="https://kidsland-baby.myshopify.com/products/baby-long-sleeve-sleepwear-outfits">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> Turn-down Collar<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Single Breasted<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Material Composition:</strong> Cotton<br><strong>Pattern Type:</strong> Cartoon<br><strong>Department Name:</strong> baby<br><strong>Decoration:</strong> Pocket<br><strong>Occasion:</strong> Daily, Casual</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Sleepwear</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>Blue / 3T / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-blue-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>Blue / 24M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-blue-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>Blue / 18M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-blue-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>Blue / 12M / United States</title>
+      <s:price currency="USD">8.14</s:price>
+      <s:sku>30888363-blue-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>green / 3T / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-green-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>green / 24M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-green-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>green / 18M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-green-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>green / 12M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-green-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>White / 3T / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-white-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>White / 24M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-white-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>White / 18M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-white-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595711172798</id>
+      <title>White / 12M / United States</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>30888363-white-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+    <published>2021-03-30T15:57:34+05:00</published>
+    <updated>2021-03-30T15:57:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/bathrobe-baby-girl-sleepwear"/>
+    <title>Bathrobe Baby Girl Sleepwear</title>
+    <s:type>Baby Sleepwear</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1643010559.jpg?v=1617101860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Baby Sleepwear<br>
+        <strong>Price: </strong>
+            8.42 - 15.22
+            <a href="https://kidsland-baby.myshopify.com/products/bathrobe-baby-girl-sleepwear">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Silk, Cotton Blend<br><strong>Item Type:</strong> Robes<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Season:</strong> Spring &amp; Autumn<br><strong>Gender:</strong> Girls<br><strong>Pattern Type:</strong> Letter<br><strong>Department Name:</strong> Children<br><strong>Occasion:</strong> Home, Sleepwear</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Sleep Wear</s:tag>
+    <s:tag>Baby Sleepwear</s:tag>
+    <s:tag>Bathrobe</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>A / 90 / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>42266162-a-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>D / 120 / United States</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>42266162-d-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>D / 110 / United States</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>42266162-d-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>D / 130 / United States</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>42266162-d-130-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>C / 130 / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42266162-c-130-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>C / 120 / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42266162-c-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>D / 100 / United States</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>42266162-d-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>D / 90 / United States</title>
+      <s:price currency="USD">8.42</s:price>
+      <s:sku>42266162-d-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>C / 90 / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42266162-c-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>B / 130 / United States</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42266162-b-130-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>C / 110 / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42266162-c-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>C / 100 / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42266162-c-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>B / 100 / United States</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42266162-b-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>B / 90 / United States</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42266162-b-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>B / 120 / United States</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42266162-b-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>B / 110 / United States</title>
+      <s:price currency="USD">15.06</s:price>
+      <s:sku>42266162-b-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>A / 110 / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>42266162-a-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>A / 100 / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>42266162-a-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>A / 130 / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>42266162-a-130-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595685777598</id>
+      <title>A / 120 / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>42266162-a-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+    <published>2021-03-30T15:40:25+05:00</published>
+    <updated>2021-03-30T15:40:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/baby-kids-pajamas-sets"/>
+    <title>Baby Kids Pajamas Sets</title>
+    <s:type>Baby Sleepwear</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1658151935.jpg?v=1617100830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Baby Sleepwear<br>
+        <strong>Price: </strong>
+            12.87 - 26.01
+            <a href="https://kidsland-baby.myshopify.com/products/baby-kids-pajamas-sets">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Children<br><strong>Collar:</strong> Turn-down Collar<br><strong>Item Type:</strong> Pajamas<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Size:</strong> 1-6Year Old<br><strong>Style:</strong> Casual<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Sleep Wear</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Gray / 6Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-gray-6y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Pink / 1Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-pink-1y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Gray / 4Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-gray-4y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Gray / 5Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-gray-5y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Gray / 2Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-gray-2y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Gray / 3Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-gray-3y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Blue / 6Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-blue-6y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Gray / 1Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-gray-1y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Blue / 4Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-blue-4y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Blue / 5Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-blue-5y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Blue / 2Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-blue-2y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Blue / 3Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-blue-3y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Blue / 1Y / United States</title>
+      <s:price currency="USD">12.87</s:price>
+      <s:sku>42676281-blue-1y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Pink / 6Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-pink-6y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Pink / 4Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-pink-4y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Pink / 2Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-pink-2y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595644784830</id>
+      <title>Pink / 3Y / United States</title>
+      <s:price currency="USD">26.01</s:price>
+      <s:sku>42676281-pink-3y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+    <published>2021-03-30T15:34:16+05:00</published>
+    <updated>2021-03-30T15:34:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/baby-jumpsuit-sleepwear"/>
+    <title>Baby Jumpsuit Sleepwear</title>
+    <s:type>Baby Sleepwear</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1713082097.jpg?v=1617100463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Baby Sleepwear<br>
+        <strong>Price: </strong>
+            12.32 - 15.74
+            <a href="https://kidsland-baby.myshopify.com/products/baby-jumpsuit-sleepwear">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Pattern Type:</strong> Print<br><strong>Collar:</strong> V-Neck<br><strong>Closure Type:</strong> Belt<br><strong>Gender:</strong> Baby Girls<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Material Composition:</strong> Cotton blend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Jumpsuit</s:tag>
+    <s:tag>Baby Sleepwear</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>C / 18M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-c-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>C / 12M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-c-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>C / 24M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-c-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>D / 12M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-d-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>D / 6M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-d-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>D / 24M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-d-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>D / 18M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-d-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>B / 3M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-b-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>C / 6M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-c-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>C / 3M / United States</title>
+      <s:price currency="USD">12.32</s:price>
+      <s:sku>44205607-c-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>E / 6M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-e-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>E / 3M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-e-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>E / 18M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-e-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>E / 12M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-e-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>E / 24M / United States</title>
+      <s:price currency="USD">15.40</s:price>
+      <s:sku>44205607-e-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6595633971390</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>44205607-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

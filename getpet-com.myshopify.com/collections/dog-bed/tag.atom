@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://getpet-com.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://getpet-com.myshopify.com/collections/dog-bed.atom"/>
+  <title>Getpet.com</title>
+  <updated>2021-04-30T10:40:58+05:00</updated>
+  <author>
+    <name>Getpet.com</name>
+  </author>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+    <published>2021-04-30T10:40:58+05:00</published>
+    <updated>2021-04-30T10:40:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/nest-kennel-dog-bed"/>
+    <title>Nest Kennel Dog Bed</title>
+    <s:type>Bed</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1222543733.jpg?v=1619761307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Bed<br>
+        <strong>Price: </strong>
+            27.98 - 47.98
+            <a href="https://getpet-com.myshopify.com/products/nest-kennel-dog-bed">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Mechanical Wash<br><strong>Feature:</strong> waterproof<br><strong>Pattern:</strong> Solid<br><strong>Item Type:</strong> Beds &amp; Sofas<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Corduroy<br><strong>Weight:</strong> S 600G/M 750G/L 1000G/ XL 1450G<br><strong>Color:</strong> Red/Brown/Blue/Gray<br><strong>Size:</strong> S/M/L/XL<br><strong>Featurs2:</strong> Breathable<br><strong>Featurs3:</strong> Plush satiny soft faux fur sleep surface<br><strong>Featurs4:</strong> Eco-Friendly<br><strong>Suit for:</strong> Small medium and large dogs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>Dog Bed</s:tag>
+    <s:tag>Pet Bed</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Red / S 45X35X17CM</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>30713629-red-s-45x35x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Red / M 50X40X17CM</title>
+      <s:price currency="USD">37.98</s:price>
+      <s:sku>30713629-red-m-50x40x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Red / L 60X45X18CM</title>
+      <s:price currency="USD">47.98</s:price>
+      <s:sku>30713629-red-l-60x45x18cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Blue / S 45X35X17CM</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>30713629-blue-s-45x35x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Blue / M 50X40X17CM</title>
+      <s:price currency="USD">37.98</s:price>
+      <s:sku>30713629-blue-m-50x40x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Blue / L 60X45X18CM</title>
+      <s:price currency="USD">47.98</s:price>
+      <s:sku>30713629-blue-l-60x45x18cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Brown / S 45X35X17CM</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>30713629-brown-s-45x35x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Brown / M 50X40X17CM</title>
+      <s:price currency="USD">37.98</s:price>
+      <s:sku>30713629-brown-m-50x40x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Brown / L 60X45X18CM</title>
+      <s:price currency="USD">47.98</s:price>
+      <s:sku>30713629-brown-l-60x45x18cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Gray / S 45X35X17CM</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>30713629-gray-s-45x35x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Gray / M 50X40X17CM</title>
+      <s:price currency="USD">37.98</s:price>
+      <s:sku>30713629-gray-m-50x40x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549497551</id>
+      <title>Gray / L 60X45X18CM</title>
+      <s:price currency="USD">47.98</s:price>
+      <s:sku>30713629-gray-l-60x45x18cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+    <published>2021-04-30T10:38:25+05:00</published>
+    <updated>2021-04-30T10:38:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/soft-cotton-waterproof-dog-bed"/>
+    <title>Soft Cotton Waterproof Dog Bed</title>
+    <s:type>Bed</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1140147606.jpg?v=1619761368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Bed<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Hand Wash<br><strong>Feature:</strong> waterproof<br><strong>Pattern:</strong> Animal<br><strong>Item Type:</strong> Beds &amp; Sofas<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Spandex<br><strong>Weight:</strong> 440-820g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>Dog Bed</s:tag>
+    <s:tag>Pet Bed</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>coffee / 60x45x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-coffee-60x45x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>coffee / 50x38x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-coffee-50x38x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>coffee / 45x28.5x12cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-coffee-45x28-5x12cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Blue / 70X52X15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-blue-70x52x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Blue / 60x45x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-blue-60x45x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Blue / 50x38x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-blue-50x38x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Gray / 60x45x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-gray-60x45x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Gray / 50x38x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-gray-50x38x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Gray / 45x28.5x12cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-gray-45x28-5x12cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Blue / 45x28.5x12cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-blue-45x28-5x12cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>Gray / 70X52X15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-gray-70x52x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>brown / 45x28.5x12cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-brown-45x28-5x12cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>coffee / 70X52X15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-coffee-70x52x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>brown / 70X52X15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-brown-70x52x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>brown / 60x45x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-brown-60x45x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549399247</id>
+      <title>brown / 50x38x15cm</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30000647-brown-50x38x15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+    <published>2021-04-30T10:36:25+05:00</published>
+    <updated>2021-04-30T10:36:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/removable-cover-pet-bed"/>
+    <title>Removable Cover Pet Bed</title>
+    <s:type>Bed</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1365934338.jpg?v=1619761394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Bed<br>
+        <strong>Price: </strong>
+            52.99 - 59.99
+            <a href="https://getpet-com.myshopify.com/products/removable-cover-pet-bed">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Mechanical Wash<br><strong>Feature:</strong> Eco-Friendly<br><strong>Pattern:</strong> Solid<br><strong>Item Type:</strong> Beds &amp; Sofas<br><strong>Material:</strong> Coral Fleece<br><strong>Weight:</strong> 700-1200g<br><strong>Season:</strong> Four Seasons<br><strong>Pet Sofa:</strong> Pet Sofa<br><strong>Memory Cotton:</strong> Memory Cotton<br><strong>SKU:</strong> DB852</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>Dog Bed</s:tag>
+    <s:tag>Pet Bed</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+      <title>Pink / 55cmX45cmX20cm</title>
+      <s:price currency="USD">52.99</s:price>
+      <s:sku>29637541-pink-55cmx45cmx20cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+      <title>Pink / 70cmX60cmX20cm</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>29637541-pink-70cmx60cmx20cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+      <title>Blue / 55cmX45cmX20cm</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>29637541-blue-55cmx45cmx20cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+      <title>Blue / 70cmX60cmX20cm</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>29637541-blue-70cmx60cmx20cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+      <title>Gray / 55cmX45cmX20cm</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>29637541-gray-55cmx45cmx20cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549235407</id>
+      <title>Gray / 70cmX60cmX20cm</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>29637541-gray-70cmx60cmx20cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+    <published>2021-04-30T10:34:14+05:00</published>
+    <updated>2021-04-30T10:34:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/soft-foldable-warm-dog-house"/>
+    <title>Soft Foldable Warm Dog House</title>
+    <s:type>Bed</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1359088339.jpg?v=1619761431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Bed<br>
+        <strong>Price: </strong>
+            45.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wash Style:</strong> Mechanical Wash<br><strong>Feature:</strong> Removable Cover<br><strong>Pattern:</strong> striped<br><strong>Item Type:</strong> Beds &amp; Sofas<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Coral Fleece<br><strong>Weight:</strong> 900<br><strong>indoor dog house:</strong> pet cat dog house kennel puppy cave sleeping bed<br><strong>dog houses extra large dogs:</strong> cama perro</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bed</s:tag>
+    <s:tag>Dog Bed</s:tag>
+    <s:tag>Pet Bed</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>1 / 75X57X55cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-1-75x57x55cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>1 / 60X48X43cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-1-60x48x43cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>2 / 45X38X36cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-2-45x38x36cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>2 / 35X32X28cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-2-35x32x28cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>2 / 75X57X55cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-2-75x57x55cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>2 / 60X48X43cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-2-60x48x43cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>3 / 45X38X36cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-3-45x38x36cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>3 / 35X32X28cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-3-35x32x28cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>1 / 45X38X36cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-1-45x38x36cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>1 / 35X32X28cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-1-35x32x28cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>5 / 75X57X55cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-5-75x57x55cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>5 / 60X48X43cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-5-60x48x43cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>6 / 45X38X36cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-6-45x38x36cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>6 / 35X32X28cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-6-35x32x28cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>6 / 75X57X55cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-6-75x57x55cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>6 / 60X48X43cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-6-60x48x43cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>3 / 75X57X55cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-3-75x57x55cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>3 / 60X48X43cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-3-60x48x43cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>4 / 45X38X36cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-4-45x38x36cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>4 / 35X32X28cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-4-35x32x28cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>4 / 75X57X55cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-4-75x57x55cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>4 / 60X48X43cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-4-60x48x43cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>5 / 45X38X36cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-5-45x38x36cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671549071567</id>
+      <title>5 / 35X32X28cm</title>
+      <s:price currency="USD">45.55</s:price>
+      <s:sku>29464532-5-35x32x28cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

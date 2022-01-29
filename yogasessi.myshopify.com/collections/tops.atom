@@ -1,0 +1,3597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yogasessi.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yogasessi.myshopify.com/collections/tops.atom"/>
+  <title>Yogasessi</title>
+  <updated>2021-09-14T15:55:46+05:00</updated>
+  <author>
+    <name>Yogasessi</name>
+  </author>
+  <entry>
+    <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+    <published>2021-09-14T15:55:46+05:00</published>
+    <updated>2021-09-14T15:55:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/products/yoga-push-up-hollow-crop-top"/>
+    <title>Yoga Push Up Hollow Crop Top</title>
+    <s:type></s:type>
+    <s:vendor>Yogasessi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/4134/6739/products/product-image-1714369657.jpg?v=1631616959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogasessi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.75 - 23.70
+            <a href="https://yogasessi.myshopify.com/products/yoga-push-up-hollow-crop-top">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Oxford<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Quick Dry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Gray Blue / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-gray-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Gray Blue / M / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-gray-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Gray Blue / L / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-gray-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Gray Blue / L / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-gray-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Gray Blue / S / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-gray-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Gray Blue / S / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-gray-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Yellow / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Yellow / L / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Lake Green / L / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-lake-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Lake Green / L / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-lake-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Yellow / S / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Lake Green / S / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-lake-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Lake Green / S / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-lake-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Lake Green / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-lake-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Lake Green / M / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-lake-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Orange / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-orange-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Orange / M / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-orange-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Orange / L / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-orange-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Orange / L / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-orange-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Light Grey / L / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-light-grey-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Light Grey / L / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-light-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Orange / S / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-orange-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Orange / S / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-orange-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Light Grey / S / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-light-grey-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Light Grey / S / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-light-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Light Grey / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-light-grey-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Light Grey / M / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-light-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>44243831-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900875329715</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>44243831-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+    <published>2021-09-14T15:53:42+05:00</published>
+    <updated>2021-09-14T15:53:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/products/women-yoga-workout-tops"/>
+    <title>Women Yoga Workout Tops</title>
+    <s:type></s:type>
+    <s:vendor>Yogasessi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/4134/6739/products/product-image-1797324055.jpg?v=1631700857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogasessi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Quick Dry<br><strong>Item Type:</strong> Shirts<br><strong>Sport Type:</strong> Yoga<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Sky blue / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-sky-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Ink color / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-ink-color-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Rainbow color / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-rainbow-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and Purple / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue and White / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-and-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black and Yellow / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-and-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Yellow / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Purple / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900869726387</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">22.88</s:price>
+      <s:sku>40834227-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+    <published>2021-09-14T15:47:49+05:00</published>
+    <updated>2021-09-14T15:47:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/products/fitness-womens-workout-yoga-tank-top"/>
+    <title>Fitness Women&apos;s Workout Yoga Tank Top</title>
+    <s:type></s:type>
+    <s:vendor>Yogasessi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/4134/6739/products/product-image-1697306799.jpg?v=1631683101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogasessi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.01 - 39.56
+            <a href="https://yogasessi.myshopify.com/products/fitness-womens-workout-yoga-tank-top">(96 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Oxford<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Black / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Black / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Gray / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Gray / L / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Gray / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Gray / M / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Gray / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Gray / S / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Black / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Black / L / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Black / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Pink / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Pink / L / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Pink / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Pink / M / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Pink / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Pink / S / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Lake Green / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-lake-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Lake Green / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-lake-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Lake Green / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-lake-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Lake Green / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-lake-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Orange / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-orange-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Orange / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-orange-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Orange / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-orange-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Orange / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-orange-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Orange / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-orange-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Orange / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-orange-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Light Grey / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-light-grey-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Light Grey / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-light-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Light Grey / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-light-grey-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Light Grey / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-light-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Light Grey / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-light-grey-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Light Grey / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-light-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Yellow / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Yellow / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Yellow / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Yellow / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Yellow / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Yellow / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Lake Green / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-lake-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Lake Green / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-lake-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Red / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Red / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Red / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Red / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Purple / L / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Purple / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Purple / M / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Purple / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Purple / S / China</title>
+      <s:price currency="USD">39.56</s:price>
+      <s:sku>40834209-top-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Top Purple / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-top-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Yellow / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Yellow / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Gray / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Gray / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Gray / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Gray / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Gray / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Gray / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Red / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Red / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Black and Yellow / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-black-and-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Black and Yellow / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-black-and-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and White / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-and-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and White / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-and-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and White / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-and-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and White / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-and-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and White / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-and-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and White / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-and-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and Purple / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-and-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and Purple / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-and-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and Purple / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-and-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and Purple / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-and-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and Purple / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-blue-and-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Blue and Purple / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-blue-and-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Sky blue / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-bra-sky-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Sky blue / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Dark Pink / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-dark-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Dark Pink / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-dark-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Dark Pink / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-dark-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Dark Pink / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-dark-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Dark Pink / S / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-dark-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Dark Pink / S / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-dark-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Gray Blue / L / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-gray-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Gray Blue / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-gray-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Gray Blue / M / China</title>
+      <s:price currency="USD">35.96</s:price>
+      <s:sku>40834209-vest-gray-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Vest Gray Blue / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-vest-gray-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Black and Yellow / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-black-and-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Ink color / L / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-ink-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900852555955</id>
+      <title>Bra Ink color / M / United States</title>
+      <s:price currency="USD">22.01</s:price>
+      <s:sku>40834209-bra-ink-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+    <published>2021-09-14T15:40:45+05:00</published>
+    <updated>2021-09-14T15:40:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/products/womens-workout-sports-yogatank-top"/>
+    <title>Women&apos;s Workout Sports YogaTank Top</title>
+    <s:type></s:type>
+    <s:vendor>Yogasessi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/4134/6739/products/product-image-1750617026.jpg?v=1631684548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogasessi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Oxford<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Quick Dry<br><strong>Item Type:</strong> Shirts<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Yellow / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-yellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Light Pink / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-light-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Pink-2 / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-pink-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>White / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Wine Red / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-wine-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Grey / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-grey-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Fluorescence Pink / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-fluorescence-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Army Green / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-army-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / L / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / XL / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Dark Green-2 / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-dark-green-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black-2 / XL / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black-2 / L / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Red-2 / M / China</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-red-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black-2 / M / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900831453363</id>
+      <title>Black-2 / S / United States</title>
+      <s:price currency="USD">22.91</s:price>
+      <s:sku>43869687-black-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+    <published>2021-09-14T15:34:22+05:00</published>
+    <updated>2021-09-14T15:34:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/products/hot-fitness-womens-yoga-top"/>
+    <title>Hot Fitness Women&apos;s Yoga Top</title>
+    <s:type></s:type>
+    <s:vendor>Yogasessi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/4134/6739/products/product-image-1759130546.jpg?v=1631683229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogasessi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.77 - 21.80
+            <a href="https://yogasessi.myshopify.com/products/hot-fitness-womens-yoga-top">(64 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> WOMEN<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Oxford<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Quick Dry<br><strong>Item Type:</strong> Shirts<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / L / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / M / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / M / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / S / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / S / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Pink-2 / L / China</title>
+      <s:price currency="USD">21.80</s:price>
+      <s:sku>17291424-pink-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Pink-2 / L / United States</title>
+      <s:price currency="USD">21.80</s:price>
+      <s:sku>17291424-pink-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / S / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / S / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / L / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / M / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / M / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>White / XS / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-white-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Light Pink / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-light-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black / XS / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-black-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / S / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / XS / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / L / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / M / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / L / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / M / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / M / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / XS / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Pink / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / M / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / S / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Dark Green / XS / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-dark-green-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Yellow / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Pink / XS / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-pink-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / XL / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / L / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / M / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / M / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Grey / S / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Pink / XL / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Pink / L / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Pink / L / China</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Fluorescence Pink / XS / United States</title>
+      <s:price currency="USD">20.77</s:price>
+      <s:sku>17291424-fluorescence-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black-2 / L / United States</title>
+      <s:price currency="USD">21.80</s:price>
+      <s:sku>17291424-black-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900814512307</id>
+      <title>Black-2 / M / United States</title>
+      <s:price currency="USD">21.80</s:price>
+      <s:sku>17291424-black-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+    <published>2021-09-14T15:30:55+05:00</published>
+    <updated>2021-09-14T15:30:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasessi.myshopify.com/products/women-yoga-underwear-push-up-sports-tops"/>
+    <title>Women Yoga Underwear Push Up Sports Tops</title>
+    <s:type></s:type>
+    <s:vendor>Yogasessi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/4134/6739/products/product-image-1690886191.jpg?v=1631684783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogasessi<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> WOMEN<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Feature:</strong> Breathable<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Purple / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Yellow / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Rainbow color / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-rainbow-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Ink color / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-ink-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Rainbow color / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-rainbow-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Rainbow color / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-rainbow-color-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Sky blue / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-sky-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Rainbow color / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-rainbow-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Rainbow color / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-rainbow-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Black and Yellow / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-black-and-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / S / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / M / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / M / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / L / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and Purple / L / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and Purple / XL / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and Purple / XL / United States</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasessi.myshopify.com/products/6900803797171</id>
+      <title>Blue and White / S / China</title>
+      <s:price currency="USD">22.78</s:price>
+      <s:sku>43612994-blue-and-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

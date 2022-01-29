@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gents-wallet.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gents-wallet.myshopify.com/collections/key-wallet.atom"/>
+  <title>gents wallet</title>
+  <updated>2021-02-12T11:42:33+05:00</updated>
+  <author>
+    <name>gents wallet</name>
+  </author>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258268569772</id>
+    <published>2021-02-12T11:42:33+05:00</published>
+    <updated>2021-02-12T11:42:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/cow-leather-men-women-key-bag-small"/>
+    <title>Cow Leather Men Women Key Bag Small</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1681535069.jpg?v=1613113074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Main Material:</strong> Split Leather<br><strong>Gender:</strong> Unisex<br><strong>Item Width:</strong> 0.78inch<br><strong>Item Length:</strong> 2.36inch<br><strong>Item Type:</strong> Key Wallets<br><strong>Style:</strong> Business<br><strong>Shape:</strong> Pillow<br><strong>Material Composition:</strong> Cowhide<br><strong>Pattern Type:</strong> Solid<br><strong>color1:</strong> red,black,blue,coffee</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268569772</id>
+      <title>red</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339044-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268569772</id>
+      <title>blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339044-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268569772</id>
+      <title>coffee</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339044-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268569772</id>
+      <title>black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339044-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258268045484</id>
+    <published>2021-02-12T11:42:04+05:00</published>
+    <updated>2021-02-12T11:42:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/pu-leather-car-key-wallets-men-key"/>
+    <title>PU Leather Car Key Wallets Men Key</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1403362701.jpg?v=1613112127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Main Material:</strong> PU<br><strong>Gender:</strong> Unisex<br><strong>Item Width:</strong> 5cm<br><strong>Item Length:</strong> 8cm<br><strong>Item Type:</strong> Key Wallets<br><strong>Style:</strong> Fashion<br><strong>Shape:</strong> Box<br><strong>Material Composition:</strong> PU Leather<br><strong>Pattern Type:</strong> Solid<br><strong>Item Type:</strong> Key Wallets<br><strong>Product Type:</strong> Key Wallets<br><strong>Place of Original:</strong> Made in China<br><strong>Colour:</strong> Black<br><strong>Length*Wide*Height:</strong> 8*5*1.8cm<br><strong>Unit Type:</strong> piece<br><strong>Package Weight:</strong> 0.06kg (0.13lb.)<br><strong>Package Size:</strong> 8cm x 8cm x 3cm (3.15in x 3.15in x 1.18in)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268045484</id>
+      <title>Black</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>36873504-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268045484</id>
+      <title>779620</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>36873504-779620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268045484</id>
+      <title>779623</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>36873504-779623</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268045484</id>
+      <title>779621</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>36873504-779621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258268045484</id>
+      <title>779622</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>36873504-779622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+    <published>2021-02-12T11:41:43+05:00</published>
+    <updated>2021-02-12T11:41:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/pu-leather-housekeeper-key-holders"/>
+    <title>PU Leather Housekeeper Key Holders</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1104329071.jpg?v=1613112106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Gender:</strong> Unisex<br><strong>Origin:</strong> CN(Origin)<br><strong>Style:</strong> Fashion<br><strong>Item Width:</strong> 6cm<br><strong>Item Length:</strong> 10.4cm<br><strong>Item Type:</strong> Key Wallets<br><strong>Material Composition:</strong> PU<br><strong>Pattern Type:</strong> Solid<br><strong>Shape:</strong> Pillow</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Orange</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Blue</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Khaki</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Coffee</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-coffee</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Rose red</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-rose-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267553964</id>
+      <title>Red</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>24998569-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258267357356</id>
+    <published>2021-02-12T11:41:30+05:00</published>
+    <updated>2021-02-12T11:41:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/premium-soft-genuine-leather-house"/>
+    <title>Premium Soft Genuine Leather House</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1115561510.jpg?v=1613112092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Key Wallets<br><strong>Gender:</strong> Unisex<br><strong>Main Material:</strong> Genuine Leather<br><strong>Genuine Leather Type:</strong> Cow Leather<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Fashion<br><strong>Material Composition:</strong> Cowhide Leather<br><strong>Item Length:</strong> 12<br><strong>Shape:</strong> Pillow<br><strong>Item Width:</strong> 7.6<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267357356</id>
+      <title>black</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>29150326-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267357356</id>
+      <title>brown</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>29150326-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267357356</id>
+      <title>purple</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>29150326-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258267357356</id>
+      <title>red</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>29150326-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+    <published>2021-02-12T11:41:06+05:00</published>
+    <updated>2021-02-12T11:41:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/access-card-cover-keychain-pocket"/>
+    <title>Access Card Cover Keychain Pocket</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1681535315.jpg?v=1613112075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Main Material:</strong> PU<br><strong>Gender:</strong> Unisex<br><strong>Item Width:</strong> 7.6cm<br><strong>Item Length:</strong> 12cm<br><strong>Item Type:</strong> Key Wallets<br><strong>Style:</strong> Fashion<br><strong>Shape:</strong> Pillow<br><strong>Material Composition:</strong> PU leather<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-D / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-D / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-D / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-D / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-C / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-C / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-C / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-C / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-D / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-D / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-B / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-D / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-A / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-D / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-B / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Coffee-D / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-coffee-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Coffee-D / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-coffee-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Green-B / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-green-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-A / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-A / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Yellow-B / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-yellow-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-B / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-A / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-A / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Red-B / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-red-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-A / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-A / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-B / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-B / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Coffee-B / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-coffee-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Green-A / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-green-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Green-A / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-green-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Green-B / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-green-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Coffee-C / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-coffee-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Coffee-C / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-coffee-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-C / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-C / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-C / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Navy-C / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-navy-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Green-C / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-green-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Green-C / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-green-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-B / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Coffee-B / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-coffee-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266833068</id>
+      <title>Black-A / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43339051-black-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+    <published>2021-02-12T11:40:44+05:00</published>
+    <updated>2021-02-12T11:40:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gents-wallet.myshopify.com/products/100-genuine-leather-key-wallet"/>
+    <title>100% Genuine Leather Key Wallet</title>
+    <s:type></s:type>
+    <s:vendor>gents wallet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0537/6481/7068/products/product-image-1431378803.jpg?v=1613112046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>gents wallet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Main Material:</strong> Genuine Leather<br><strong>Genuine Leather Type:</strong> Cow Leather<br><strong>Gender:</strong> MEN<br><strong>Item Width:</strong> 7cm<br><strong>Item Length:</strong> 12cm<br><strong>Item Type:</strong> Key Wallets<br><strong>Style:</strong> vintage<br><strong>Shape:</strong> Pillow<br><strong>Material Composition:</strong> cowhide leather<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+      <title>black / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23299950-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+      <title>black / Russian Federation</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23299950-black-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+      <title>brown / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23299950-brown-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+      <title>brown / Russian Federation</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23299950-brown-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+      <title>coffee / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23299950-coffee-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gents-wallet.myshopify.com/products/6258266669228</id>
+      <title>coffee / Russian Federation</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23299950-coffee-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

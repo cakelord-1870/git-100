@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yogavie.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yogavie.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yogavie.myshopify.com/collections/yoga-accessories.atom"/>
+  <title>Yogavie</title>
+  <updated>2021-09-03T12:37:55+05:00</updated>
+  <author>
+    <name>Yogavie</name>
+  </author>
+  <entry>
+    <id>https://yogavie.myshopify.com/products/6990920679576</id>
+    <published>2021-09-03T12:37:55+05:00</published>
+    <updated>2021-09-03T12:37:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogavie.myshopify.com/products/4-tubes-yoga-resistance-bands"/>
+    <title>4 Tubes Yoga Resistance Bands</title>
+    <s:type>Resistance Bands</s:type>
+    <s:vendor>Yogavie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/4846/0440/products/product-image-1396414847.jpg?v=1630654796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogavie<br>
+        <strong>Type: </strong>Resistance Bands<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Resistance Bands</s:tag>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Purple / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>yellow / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>yellow / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990920679576</id>
+      <title>Red / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>36698741-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogavie.myshopify.com/products/6990918385816</id>
+    <published>2021-09-03T12:36:33+05:00</published>
+    <updated>2021-09-03T12:36:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogavie.myshopify.com/products/yoga-training-brick"/>
+    <title>Yoga Training Brick</title>
+    <s:type>Yoga Training Brick</s:type>
+    <s:vendor>Yogavie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/4846/0440/products/product-image-1836986864.jpg?v=1630654607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogavie<br>
+        <strong>Type: </strong>Yoga Training Brick<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size:</strong> 23x15x8cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Training Brick</s:tag>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>Purple / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>green / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>green / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990918385816</id>
+      <title>gray / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47334610-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogavie.myshopify.com/products/6990915829912</id>
+    <published>2021-09-03T12:34:40+05:00</published>
+    <updated>2021-09-03T12:34:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogavie.myshopify.com/products/headband-for-yoga-girl"/>
+    <title>Headband For Yoga Girl</title>
+    <s:type>Headband</s:type>
+    <s:vendor>Yogavie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/4846/0440/products/product-image-1836986883.jpg?v=1630654485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogavie<br>
+        <strong>Type: </strong>Headband<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Towel Glue<br><strong>Thickness:</strong> Thin (Summer)<br><strong>Grip Damping:</strong> Dry</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headband</s:tag>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>O / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-o-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>O / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-o-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>P / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>P / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-p-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>TL / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-tl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>TL / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-tl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>QG / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-qg-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>QG / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-qg-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>BH / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-bh-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990915829912</id>
+      <title>BH / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>47334611-bh-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogavie.myshopify.com/products/6990912487576</id>
+    <published>2021-09-03T12:32:46+05:00</published>
+    <updated>2021-09-03T12:32:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogavie.myshopify.com/products/yoga-stretch-strap"/>
+    <title>Yoga Stretch Strap</title>
+    <s:type>Yoga Stretch Strap</s:type>
+    <s:vendor>Yogavie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/4846/0440/products/product-image-1836986951.jpg?v=1630654801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogavie<br>
+        <strong>Type: </strong>Yoga Stretch Strap<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Function:</strong> Body<br><strong>Application:</strong> Pull Rope<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Stretch Strap</s:tag>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990912487576</id>
+      <title>G / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>47334613-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990912487576</id>
+      <title>G / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>47334613-g-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990912487576</id>
+      <title>H / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>47334613-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990912487576</id>
+      <title>H / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>47334613-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990912487576</id>
+      <title>Z / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>47334613-z-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogavie.myshopify.com/products/6990912487576</id>
+      <title>Z / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>47334613-z-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

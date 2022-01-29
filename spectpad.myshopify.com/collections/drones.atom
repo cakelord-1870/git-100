@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spectpad.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spectpad.myshopify.com/collections/drones.atom"/>
+  <title>Spectpad</title>
+  <updated>2021-09-13T12:11:05+05:00</updated>
+  <author>
+    <name>Spectpad</name>
+  </author>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6982675792033</id>
+    <published>2021-09-13T12:11:05+05:00</published>
+    <updated>2021-09-13T12:11:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/whoopv-racing-drone-caddx-eos2-camera"/>
+    <title>Whoop Racing Drone Caddx Eos2 Camera</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1407734582.jpg?v=1631517217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> as show<br><strong>Video Capture Resolution:</strong> 2K QHD<br><strong>Aerial Photography:</strong> Yes<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Original Box<br><strong>Age Range:</strong> Grownups<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982675792033</id>
+      <title>Frsky Non-EU / China</title>
+      <s:price currency="USD">124.74</s:price>
+      <s:sku>21827308-frsky-non-eu-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982675792033</id>
+      <title>Frsky Non-EU / United States</title>
+      <s:price currency="USD">124.74</s:price>
+      <s:sku>21827308-frsky-non-eu-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6982650691745</id>
+    <published>2021-09-13T11:55:06+05:00</published>
+    <updated>2021-09-13T11:55:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/quadcopter-mini-droneremote-control"/>
+    <title>Quadcopter Mini DroneRemote Control</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1682895520.jpg?v=1631516456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.53 - 40.49
+            <a href="https://spectpad.myshopify.com/products/quadcopter-mini-droneremote-control">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camera Mount Type:</strong> Other<br><strong>Material:</strong> Plastic<br><strong>Material:</strong> Metal<br><strong>Video Capture Resolution:</strong> Other<br><strong>Remote Distance:</strong> About 50 meters<br><strong>Aerial Photography:</strong> No<br><strong>Control Channels:</strong> 4 Channels<br><strong>Package Includes:</strong> Batteries<br><strong>State of Assembly:</strong> Ready-to-Go<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 1 Battery / Czech Republic</title>
+      <s:price currency="USD">34.01</s:price>
+      <s:sku>43379207-green-1-battery-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 2 Batteries / United States</title>
+      <s:price currency="USD">27.53</s:price>
+      <s:sku>43379207-blue-2-batteries-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 2 Batteries / Czech Republic</title>
+      <s:price currency="USD">37.25</s:price>
+      <s:sku>43379207-blue-2-batteries-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 2 Batteries / China</title>
+      <s:price currency="USD">28.91</s:price>
+      <s:sku>43379207-blue-2-batteries-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 3 Batteries / United States</title>
+      <s:price currency="USD">32.39</s:price>
+      <s:sku>43379207-green-3-batteries-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 3 Batteries / Czech Republic</title>
+      <s:price currency="USD">40.49</s:price>
+      <s:sku>43379207-green-3-batteries-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 3 Batteries / SPAIN</title>
+      <s:price currency="USD">32.39</s:price>
+      <s:sku>43379207-green-3-batteries-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 3 Batteries / China</title>
+      <s:price currency="USD">32.06</s:price>
+      <s:sku>43379207-green-3-batteries-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 3 Batteries / Czech Republic</title>
+      <s:price currency="USD">40.49</s:price>
+      <s:sku>43379207-blue-3-batteries-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 3 Batteries / China</title>
+      <s:price currency="USD">32.06</s:price>
+      <s:sku>43379207-blue-3-batteries-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 3 Batteries / United States</title>
+      <s:price currency="USD">32.39</s:price>
+      <s:sku>43379207-blue-3-batteries-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Blue 3 Batteries / SPAIN</title>
+      <s:price currency="USD">32.39</s:price>
+      <s:sku>43379207-blue-3-batteries-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 2 Batteries / Czech Republic</title>
+      <s:price currency="USD">37.25</s:price>
+      <s:sku>43379207-green-2-batteries-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 2 Batteries / China</title>
+      <s:price currency="USD">28.91</s:price>
+      <s:sku>43379207-green-2-batteries-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6982650691745</id>
+      <title>Green 2 Batteries / United States</title>
+      <s:price currency="USD">27.53</s:price>
+      <s:sku>43379207-green-2-batteries-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6977804861601</id>
+    <published>2021-09-10T15:58:09+05:00</published>
+    <updated>2021-09-10T15:58:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/quadcopter-wide-angle-hd-1080p-camera-hight"/>
+    <title>Quadcopter Wide Angle HD 1080P Camera Hight</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1796806596_4667058e-7d44-4bd8-a9bd-b202d1f8f647.jpg?v=1631271656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.35 - 108.36
+            <a href="https://spectpad.myshopify.com/products/quadcopter-wide-angle-hd-1080p-camera-hight">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Remote Distance:</strong> 80-100m<br><strong>Video Capture Resolution:</strong> 2K QHD<br><strong>Aerial Photography:</strong> No<br><strong>Controller Mode:</strong> MODE2<br><strong>Control Channels:</strong> 4 Channels<br><strong>Recommend Age:</strong> 12+y<br><strong>Remote Control:</strong> Yes<br><strong>Package Includes:</strong> Original Box<br><strong>Package Includes:</strong> Batteries<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>B 1080P 1B with bag / Czech Republic</title>
+      <s:price currency="USD">98.48</s:price>
+      <s:sku>46251817-b-1080p-1b-with-bag-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>B 1080P 1B with bag / Russian Federation</title>
+      <s:price currency="USD">71.27</s:price>
+      <s:sku>46251817-b-1080p-1b-with-bag-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>B 1080P 1B with bag / SPAIN</title>
+      <s:price currency="USD">71.27</s:price>
+      <s:sku>46251817-b-1080p-1b-with-bag-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>480P2Batterywithbag / Russian Federation</title>
+      <s:price currency="USD">45.35</s:price>
+      <s:sku>46251817-480p2batterywithbag-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>720P2Batterywith bag / Russian Federation</title>
+      <s:price currency="USD">49.24</s:price>
+      <s:sku>46251817-720p2batterywith-bag-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>720P2Batterywith bag / SPAIN</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>46251817-720p2batterywith-bag-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>1080P 1 Battery / Russian Federation</title>
+      <s:price currency="USD">64.79</s:price>
+      <s:sku>46251817-1080p-1-battery-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>1080P 1 Battery / United States</title>
+      <s:price currency="USD">99.36</s:price>
+      <s:sku>46251817-1080p-1-battery-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>B 1080P 1B with bag / China</title>
+      <s:price currency="USD">108.36</s:price>
+      <s:sku>46251817-b-1080p-1b-with-bag-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977804861601</id>
+      <title>1080P 2 Battery / Russian Federation</title>
+      <s:price currency="USD">67.38</s:price>
+      <s:sku>46251817-1080p-2-battery-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6977792049313</id>
+    <published>2021-09-10T15:47:16+05:00</published>
+    <updated>2021-09-10T15:47:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/quadcopter-drone-helicopter-with-4k-profesional-hd-camera"/>
+    <title>Quadcopter Drone Helicopter with 4K Profesional HD Camera</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1551038299_be015659-d171-4fab-bbb7-68b7cd2e4d32.jpg?v=1631271775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.23 - 128.47
+            <a href="https://spectpad.myshopify.com/products/quadcopter-drone-helicopter-with-4k-profesional-hd-camera">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Camera Mount Type:</strong> Other<br><strong>Material:</strong> Plastic<br><strong>Material:</strong> Metal<br><strong>Controller Battery:</strong> 4 x 1.5 AAA Battery (not included)<br><strong>Indoor/Outdoor Use:</strong> Indoor-Outdoor<br><strong>Video Capture Resolution:</strong> 4K UHD<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 1080P 3B / Russian Federation</title>
+      <s:price currency="USD">78.57</s:price>
+      <s:sku>27983681-e520s-5g-1080p-3b-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 3Batteries / China</title>
+      <s:price currency="USD">121.72</s:price>
+      <s:sku>27983681-e520s-4k-3batteries-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 1080P 3B / China</title>
+      <s:price currency="USD">119.46</s:price>
+      <s:sku>27983681-e520s-5g-1080p-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 1Battery / China</title>
+      <s:price currency="USD">105.93</s:price>
+      <s:sku>27983681-e520s-4k-1battery-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 1Battery / SPAIN</title>
+      <s:price currency="USD">68.23</s:price>
+      <s:sku>27983681-e520s-4k-1battery-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 1Battery / Russian Federation</title>
+      <s:price currency="USD">90.98</s:price>
+      <s:sku>27983681-e520s-4k-1battery-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 1B / SPAIN</title>
+      <s:price currency="USD">78.06</s:price>
+      <s:sku>27983681-e520s-1080p-1b-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 1B / Russian Federation</title>
+      <s:price currency="USD">83.74</s:price>
+      <s:sku>27983681-e520s-1080p-1b-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 1B / China</title>
+      <s:price currency="USD">100.30</s:price>
+      <s:sku>27983681-e520s-1080p-1b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 2Batteries / Russian Federation</title>
+      <s:price currency="USD">93.05</s:price>
+      <s:sku>27983681-e520s-4k-2batteries-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 2Batteries / China</title>
+      <s:price currency="USD">110.44</s:price>
+      <s:sku>27983681-e520s-4k-2batteries-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 4K 2B / China</title>
+      <s:price currency="USD">116.07</s:price>
+      <s:sku>27983681-e520s-5g-4k-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>SliverE520S 5G 4K 2B / China</title>
+      <s:price currency="USD">116.07</s:price>
+      <s:sku>27983681-slivere520s-5g-4k-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>SliverE520S 5G 4K 2B / Russian Federation</title>
+      <s:price currency="USD">107.53</s:price>
+      <s:sku>27983681-slivere520s-5g-4k-2b-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 1080P 2B / Russian Federation</title>
+      <s:price currency="USD">76.51</s:price>
+      <s:sku>27983681-e520s-5g-1080p-2b-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 4K 3B / China</title>
+      <s:price currency="USD">127.35</s:price>
+      <s:sku>27983681-e520s-5g-4k-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 1080P 2B / SPAIN</title>
+      <s:price currency="USD">85.81</s:price>
+      <s:sku>27983681-e520s-5g-1080p-2b-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 1080P 2B / China</title>
+      <s:price currency="USD">108.19</s:price>
+      <s:sku>27983681-e520s-5g-1080p-2b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>SliverE520S 5G 4K 3B / China</title>
+      <s:price currency="USD">128.47</s:price>
+      <s:sku>27983681-slivere520s-5g-4k-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 3B / Russian Federation</title>
+      <s:price currency="USD">88.91</s:price>
+      <s:sku>27983681-e520s-1080p-3b-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 3B / SPAIN</title>
+      <s:price currency="USD">88.91</s:price>
+      <s:sku>27983681-e520s-1080p-3b-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 3B / China</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>27983681-e520s-1080p-3b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>SliverE520S 5G 4K 2B / United States</title>
+      <s:price currency="USD">107.53</s:price>
+      <s:sku>27983681-slivere520s-5g-4k-2b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 3Batteries / United States</title>
+      <s:price currency="USD">112.70</s:price>
+      <s:sku>27983681-e520s-4k-3batteries-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 5G 1080P 2B / United States</title>
+      <s:price currency="USD">100.29</s:price>
+      <s:sku>27983681-e520s-5g-1080p-2b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 3B / Czech Republic</title>
+      <s:price currency="USD">106.49</s:price>
+      <s:sku>27983681-e520s-1080p-3b-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 1080P 3B / United States</title>
+      <s:price currency="USD">106.49</s:price>
+      <s:sku>27983681-e520s-1080p-3b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 1Battery / United States</title>
+      <s:price currency="USD">98.22</s:price>
+      <s:sku>27983681-e520s-4k-1battery-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>E520S 4K 2Batteries / United States</title>
+      <s:price currency="USD">102.36</s:price>
+      <s:sku>27983681-e520s-4k-2batteries-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6977792049313</id>
+      <title>SliverE520S 5G 4K 3B / United States</title>
+      <s:price currency="USD">118.90</s:price>
+      <s:sku>27983681-slivere520s-5g-4k-3b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

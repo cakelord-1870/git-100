@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thebabygrace.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thebabygrace.myshopify.com/collections/baby-shoes.atom"/>
+  <title>theBabygrace</title>
+  <updated>2021-04-14T14:50:42+05:00</updated>
+  <author>
+    <name>theBabygrace</name>
+  </author>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+    <published>2021-04-14T14:50:42+05:00</published>
+    <updated>2021-04-14T14:50:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/summer-baby-beach-shoes"/>
+    <title>Summer Baby Beach Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/shoes.jpg?v=1618468311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Unisex<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Upper Material:</strong> PVC<br><strong>Heel Type:</strong> Flat with<br><strong>Item Type:</strong> Sandals<br><strong>Outsole Material:</strong> EVA<br><strong>Season:</strong> Summer<br><strong>baby sandals:</strong> sandale plage baby fille<br><strong>baby boy shoes:</strong> sandalias<br><strong>baby sandals boys:</strong> baby girl sandals<br><strong>shoes ergo:</strong> baby girl summer shoes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby shoes</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 21</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 22</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 23</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 24</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 25</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 26</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-26-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 27</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-27-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 28</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 29</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-29-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 18</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 19</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 20</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 21</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 22</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 23</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 24</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 18</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 19</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 20</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 21</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 22</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 23</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 24</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 25</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 26</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-26-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 27</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-27-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 28</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Blue / 29</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-blue-29-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 18</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 19</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Green / 20</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-green-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 29</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-29-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 25</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 26</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-26-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 27</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-27-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 28</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Pink / 29</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-pink-29-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 18</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 19</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 20</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-20-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 21</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 22</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 23</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 24</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-24-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 25</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-25-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 26</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-26-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 27</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-27-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651275968670</id>
+      <title>Yellow / 28</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35574444-yellow-28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+    <published>2021-04-14T14:49:17+05:00</published>
+    <updated>2021-04-14T14:49:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/winter-warm-boy-girl-boots"/>
+    <title>Winter Warm Boy Girl Boots</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1676205987.jpg?v=1618468335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> PU<br><strong>Fashion Element:</strong> Shallow<br><strong>Season:</strong> Winter<br><strong>Closure Type:</strong> Slip-On<br><strong>Pattern Type:</strong> Solid<br><strong>Gender:</strong> Unisex<br><strong>Outsole Material:</strong> PU<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby shoes</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>DH / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-dh-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>DH / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-dh-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>P / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-p-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>P / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-p-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>QH / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-qh-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>P / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-p-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>QH / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-qh-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>QH / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-qh-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>Y / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-y-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>Y / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-y-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>Z / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-z-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>Y / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-y-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>Z / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-z-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>Z / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-z-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>B / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>B / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>B / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>C / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-c-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>C / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-c-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>DH / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-dh-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651274461342</id>
+      <title>C / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43187760-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+    <published>2021-04-14T14:48:24+05:00</published>
+    <updated>2021-04-14T14:48:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/cotton-soft-baby-shoes"/>
+    <title>Cotton soft Baby shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1614064175.jpg?v=1618468378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Summer<br><strong>Gender:</strong> Baby Girls<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Upper Material:</strong> Fur<br><strong>Fashion Element:</strong> Butterfly-knot<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> PU<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby shoes</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>H2 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>H2 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>H2 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>B2 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>B2 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>R1 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>B2 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>R1 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>R1 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>Y1 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>Y1 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>Y1 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>P1 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>P1 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>P1 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>H1 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>H1 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>H1 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>Y2 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>Y2 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>Y2 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>W2 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>W2 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>R2 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>W2 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>R2 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>R2 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>P2 / 6-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>P2 / 12-18 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651273511070</id>
+      <title>P2 / 0-6 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+    <published>2021-04-14T14:47:12+05:00</published>
+    <updated>2021-04-14T14:47:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/soft-sole-baby-shoes"/>
+    <title>Soft Sole Baby Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1336757066.jpg?v=1618468415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Suede<br><strong>Fashion Element:</strong> Fringe<br><strong>Season:</strong> All seasons<br><strong>Closure Type:</strong> Slip-On<br><strong>Pattern Type:</strong> Solid<br><strong>Gender:</strong> Unisex<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> PU<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Color:</strong> coffee/khaki/purple/red/rose/pink/dark blue/blue/yellow/gray/black<br><strong>Age Range:</strong> 0-18M</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby shoes</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>G / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-g-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>G / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-g-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>H / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-h-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>H / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-h-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>F / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-f-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>F / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-f-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>F / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-f-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>G / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-g-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>J / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-j-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>J / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-j-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>J / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-j-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>K / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-k-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>H / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-h-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>I / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-i-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>I / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-i-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>I / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-i-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>B / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>B / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>B / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>C / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-c-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>A / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-a-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>A / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-a-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>A / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-a-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>D / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-d-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>E / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-e-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>E / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-e-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>E / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-e-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>C / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-c-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>C / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-c-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>D / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-d-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>D / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-d-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>L / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-l-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>M / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-m-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>M / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-m-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>M / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-m-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>K / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-k-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>K / 13-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-k-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>L / 0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-l-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651272200350</id>
+      <title>L / 7-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>29831194-l-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

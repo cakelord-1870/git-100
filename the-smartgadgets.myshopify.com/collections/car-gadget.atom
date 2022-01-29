@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://the-smartgadgets.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://the-smartgadgets.myshopify.com/collections/car-gadget.atom"/>
+  <title>the SmartGadgets</title>
+  <updated>2021-02-02T09:52:24+05:00</updated>
+  <author>
+    <name>the SmartGadgets</name>
+  </author>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248459632807</id>
+    <published>2021-02-02T09:52:24+05:00</published>
+    <updated>2021-02-02T09:52:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-mini-anti-eliminate-static-electricity"/>
+    <title>Car Mini Anti Eliminate Static Electricity</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1615722593.jpg?v=1612241547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Origin:</strong> CN(Origin)</span><br><span><strong>Item Length:</strong> 1.38inch</span><br><span><strong>Material Type:</strong> Abs</span><br><span><strong>Item Type:</strong> Key Rings</span><br><span><strong>Special Features:</strong> car keychain</span><br><span><strong>Item Weight:</strong> 20g</span><br><span><strong>Item Width:</strong> 0.24inch</span><br><span><strong>Item Diameter:</strong> 0.24inch</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248459632807</id>
+      <title>Blue</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>41570353-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248459632807</id>
+      <title>Pink</title>
+      <s:price currency="USD">42.99</s:price>
+      <s:sku>41570353-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+    <published>2021-02-02T09:51:20+05:00</published>
+    <updated>2021-02-02T09:51:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-accessories-creative-mobile-phone"/>
+    <title>Car Accessories Creative Mobile Phone</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1584098883.jpg?v=1612241484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Main Material:</strong> Glass</span><br><span><strong>Item Weight:</strong> 30g</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>China / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>Russian Federation / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-russian-federation-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>China / Pink</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-china-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>Russian Federation / Silver</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-russian-federation-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>Russian Federation / Pink</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-russian-federation-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>China / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>China / Gold</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248457601191</id>
+      <title>Russian Federation / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>40867806-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+    <published>2021-02-02T09:51:03+05:00</published>
+    <updated>2021-02-02T09:51:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-polisher-scratch-repair-auto"/>
+    <title>Car Polisher Scratch Repair Auto</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1431117199.jpg?v=1612241466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.98 - 32.38
+            <a href="https://the-smartgadgets.myshopify.com/products/car-polisher-scratch-repair-auto">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> ABS/PC/Sponge<br><strong>Size:</strong> 110*110*92mm<br><strong>Color:</strong> Dark green/Black<br><strong>Feature 1:</strong> Car Polish,Auto Polisher<br><strong>Feature 2:</strong> Car Wax, Auto Clean Waxing Tools<br><strong>Feature 3:</strong> Care Scratch Remover,Auto Scratch Remover<br><strong>Feature 4:</strong> Car Paint Repair,Car Repair<br><strong>Feature 5:</strong> Car Polisher Scratch Repair<br><strong>Package include:</strong> Waxing Machine*1,Car Wax*1,Towel*1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>Poland / Black</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-poland-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>France / Dark Green</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-france-dark-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>Russian Federation / Dark Green</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-russian-federation-dark-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>Spain / Dark Green</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-spain-dark-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>Poland / Dark Green</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-poland-dark-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>China / Dark Green</title>
+      <s:price currency="USD">32.38</s:price>
+      <s:sku>34619372-china-dark-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>Spain / Black</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-spain-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>France / Black</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-france-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>China / Black</title>
+      <s:price currency="USD">32.38</s:price>
+      <s:sku>34619372-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456978599</id>
+      <title>Russian Federation / Black</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>34619372-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+    <published>2021-02-02T09:50:42+05:00</published>
+    <updated>2021-02-02T09:50:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/super-bright-led-car-light-auto"/>
+    <title>Super Bright LED Car Light Auto</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1655967279.jpg?v=1612241445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.68 - 6.86
+            <a href="https://the-smartgadgets.myshopify.com/products/super-bright-led-car-light-auto">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Item Type:</strong> Hub Lamp<br><strong>Size:</strong> 30cm<br><strong>Support:</strong> Dropshipping<br><strong>Socket Base Type:</strong> T15 / W16W<br><strong>LED Type:</strong> 4014 Led chip<br><strong>Number of LED chips:</strong> 45pcs<br><strong>LED Color:</strong> white<br><strong>Beam Angle:</strong> 360 degree<br><strong>Operating Voltage:</strong> DC12V<br><strong>Type:</strong> LED Replacement Bulb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+      <title>1 PC / Other / France, T15</title>
+      <s:price currency="USD">0.68</s:price>
+      <s:sku>42617399-1-pc-other-france-t15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+      <title>4 PCS / Other / France, T15</title>
+      <s:price currency="USD">2.22</s:price>
+      <s:sku>42617399-4-pcs-other-france-t15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+      <title>1 PC / Other / China, T15</title>
+      <s:price currency="USD">2.32</s:price>
+      <s:sku>42617399-1-pc-other-china-t15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+      <title>2 PCS / Other / France, T15</title>
+      <s:price currency="USD">1.10</s:price>
+      <s:sku>42617399-2-pcs-other-france-t15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+      <title>4 PCS / Other / China, T15</title>
+      <s:price currency="USD">6.86</s:price>
+      <s:sku>42617399-4-pcs-other-china-t15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248456192167</id>
+      <title>2 PCS / Other / China, T15</title>
+      <s:price currency="USD">3.74</s:price>
+      <s:sku>42617399-2-pcs-other-china-t15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248454520999</id>
+    <published>2021-02-02T09:49:44+05:00</published>
+    <updated>2021-02-02T09:49:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-seat-organizer-metal-auto-storage"/>
+    <title>Car Seat Organizer Metal Auto Storage</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1450922889.jpg?v=1612241386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Type:</strong> Seat Crevice Storage Box / Bag<br><strong>Material Type:</strong> Metal+ABS<br><strong>Modle:</strong> Car organizer,Car Storage Accessories<br><strong>Power Input:</strong> 5V/2A</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248454520999</id>
+      <title>Silver</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>38072811-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248454520999</id>
+      <title>Black</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>38072811-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248453800103</id>
+    <published>2021-02-02T09:49:21+05:00</published>
+    <updated>2021-02-02T09:49:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-mp3-player-bluetooth-u-disc-radio"/>
+    <title>Car MP3 Player Bluetooth U Disc Radio</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1631051615.jpg?v=1612241364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.52 - 36.92
+            <a href="https://the-smartgadgets.myshopify.com/products/car-mp3-player-bluetooth-u-disc-radio">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material Type:</strong> Hardware and Plastics<br><strong>Voltage:</strong> 12V<br><strong>Item Weight:</strong> 0.4kg<br><strong>Item Size:</strong> 21cmX17cmX8cm<br><strong>Colour:</strong> Black<br><strong>Out Power:</strong> 240W<br><strong>Radio Response Bandwidth:</strong> PM1/PM2/PM3</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248453800103</id>
+      <title>China / short ISO NO Remoter</title>
+      <s:price currency="USD">36.92</s:price>
+      <s:sku>41935609-china-short-iso-no-remoter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248453800103</id>
+      <title>United States / long PIN NO Remoter</title>
+      <s:price currency="USD">21.02</s:price>
+      <s:sku>41935609-united-states-long-pin-no-remoter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248453800103</id>
+      <title>United States / short ISO NO Remoter</title>
+      <s:price currency="USD">20.52</s:price>
+      <s:sku>41935609-united-states-short-iso-no-remoter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248453800103</id>
+      <title>China / long PIN NO Remoter</title>
+      <s:price currency="USD">36.92</s:price>
+      <s:sku>41935609-china-long-pin-no-remoter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248452915367</id>
+    <published>2021-02-02T09:48:51+05:00</published>
+    <updated>2021-02-02T09:48:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/anti-slip-mat-for-phone-in-car-dashboard"/>
+    <title>Anti-Slip Mat for Phone in Car Dashboard</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1424704219.jpg?v=1612241334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material Type:</strong> Silica Gel</span><br><span><strong>Type:</strong> Honeycomb / Chinoiserie</span><br><span><strong>Size:</strong> 280mm*170mm Approx</span><br><span><strong>Package includes:</strong> 1 * Anti-slip Dashboard Mat</span><br><span><strong>Fitment:</strong> Fit for all cars</span><br><span><strong>Feature1:</strong> Non-slip</span><br><span><strong>Feature2:</strong> Cars GPS mat</span><br><span><strong>Feature3:</strong> Car Gadget</span><br><span><strong>Feature4:</strong> Car interior</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248452915367</id>
+      <title>China / Chinoiserie</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>31566920-china-chinoiserie</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248452915367</id>
+      <title>China / Honeycomb</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>31566920-china-honeycomb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248451276967</id>
+    <published>2021-02-02T09:48:03+05:00</published>
+    <updated>2021-02-02T09:48:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-door-handle-decoration-lights"/>
+    <title>Car Door Handle Decoration Lights</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1600364482.jpg?v=1612247878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Item Type:</strong> Atmosphere Lamp<br><strong>Colour:</strong> Blue Ice Blue Red Orange White<br><strong>Install:</strong> Interior car door bowl<br><strong>Package:</strong> 1 set ( 4 lights for 2 doors)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248451276967</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">19.62</s:price>
+      <s:sku>41286161-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248451276967</id>
+      <title>White / China</title>
+      <s:price currency="USD">19.62</s:price>
+      <s:sku>41286161-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248451276967</id>
+      <title>Ice Blue / China</title>
+      <s:price currency="USD">19.62</s:price>
+      <s:sku>41286161-ice-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248450424999</id>
+    <published>2021-02-02T09:47:36+05:00</published>
+    <updated>2021-02-02T09:47:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/mini-car-storage-net-black-automotive"/>
+    <title>Mini Car Storage Net Black Automotive</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1641525579.jpg?v=1612241259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Main Material:</strong> Plastic Fiber<br><strong>Item Weight:</strong> 40g<br><strong>Material:</strong> ABS<br><strong>Size:</strong> 15x8x1CM<br><strong>Colour:</strong> Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248450424999</id>
+      <title>China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>31527390-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248450424999</id>
+      <title>Russian Federation</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>31527390-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248449769639</id>
+    <published>2021-02-02T09:47:15+05:00</published>
+    <updated>2021-02-02T09:47:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-accessories-cute-spring-green"/>
+    <title>Car Accessories Cute Spring Green</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1515285099.jpg?v=1612241238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> Resin<br><strong>Main Material:</strong> Gypsum<br><strong>Item Weight:</strong> 50G<br><strong>Material Types:</strong> Plastic, Resin<br><strong>Function:</strong> Decoration<br><strong>Material:</strong> Synthetic Resin<br><strong>Modelling:</strong> Plant<br><strong>Category:</strong> Resin Crafts<br><strong>Shape:</strong> Animals and Plants</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248449769639</id>
+      <title>4</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>39820289-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248449769639</id>
+      <title>3</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>39820289-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248449769639</id>
+      <title>2</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>39820289-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248449769639</id>
+      <title>1</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>39820289-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

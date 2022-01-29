@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kitttyfur.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kitttyfur.myshopify.com/collections/pet-harness-and-leashes.atom"/>
+  <title>kitttyfur</title>
+  <updated>2021-08-25T10:47:05+05:00</updated>
+  <author>
+    <name>kitttyfur</name>
+  </author>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+    <published>2021-08-25T10:47:05+05:00</published>
+    <updated>2021-08-25T10:47:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/dog-leashes-training-chain"/>
+    <title>Dog Leashes Training Chain</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1775940346.jpg?v=1629873930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Material:</strong> Nylon<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Reflective<br><strong>Feature:</strong> Quick Release<br><strong>Feature:</strong> Personalized<br><strong>Material:</strong> Nylon+Metal<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>Black / 1.5M / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-1-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>Black / 1.5M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-1-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>black with red / 1.5M / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-with-red-1-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>black with red / 1.5M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-with-red-1-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>Yellow / 1.5M / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-yellow-1-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>Yellow / 1.5M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-yellow-1-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>red with black / 1.5M / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-red-with-black-1-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>red with black / 1.5M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-red-with-black-1-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>black with green / 1.5M / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-with-green-1-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>black with green / 1.5M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-with-green-1-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>black with blue / 1.5M / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-with-blue-1-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068143157397</id>
+      <title>black with blue / 1.5M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45688874-black-with-blue-1-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+    <published>2021-08-25T10:41:39+05:00</published>
+    <updated>2021-08-25T10:41:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/dog-harness-reflective-breathable"/>
+    <title>Dog Harness Reflective Breathable</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1689524026.jpg?v=1629873694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Harness:</strong> Leash Set<br><strong>Reflective:</strong> Nylon<br><strong>SKU:</strong> DD191</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Rose Red / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-rose-red-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Purple / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-purple-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / XS / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / XS / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Black / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / XL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / XL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / XXL / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / XXL / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Green Camouflage / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-green-camouflage-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Fallen Leaves / M / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-fallen-leaves-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Fallen Leaves / M / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-fallen-leaves-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Fallen Leaves / L / China</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-fallen-leaves-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068129984661</id>
+      <title>Fallen Leaves / L / United States</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>43574576-fallen-leaves-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+    <published>2021-08-25T10:39:54+05:00</published>
+    <updated>2021-08-25T10:39:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/dog-leash-durable-nylon"/>
+    <title>Dog Leash Durable Nylon</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1809927415.jpg?v=1629882890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.92 - 23.62
+            <a href="https://kitttyfur.myshopify.com/products/dog-leash-durable-nylon">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> cats<br><strong>Feature:</strong> Breakaway<br><strong>Is Smart Device:</strong> No<br><strong>is_customized:</strong> No<br><strong>SKU:</strong> DP030<br><strong>Item Type:</strong> Nylon Dog Tracking Leash<br><strong>Item Color:</strong> Black<br><strong>Unit Type:</strong> piece<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Orange / L-15m / United States</title>
+      <s:price currency="USD">23.62</s:price>
+      <s:sku>44408108-orange-l-15m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Orange / L-15m / China</title>
+      <s:price currency="USD">23.62</s:price>
+      <s:sku>44408108-orange-l-15m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Orange / M-10m / United States</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>44408108-orange-m-10m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Black / S-5m / China</title>
+      <s:price currency="USD">13.92</s:price>
+      <s:sku>44408108-black-s-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Black / L-15m / China</title>
+      <s:price currency="USD">23.62</s:price>
+      <s:sku>44408108-black-l-15m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Black / M-10m / United States</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>44408108-black-m-10m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Black / M-10m / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>44408108-black-m-10m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Black / S-5m / United States</title>
+      <s:price currency="USD">13.92</s:price>
+      <s:sku>44408108-black-s-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Orange / M-10m / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>44408108-orange-m-10m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Orange / S-5m / United States</title>
+      <s:price currency="USD">13.92</s:price>
+      <s:sku>44408108-orange-s-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Orange / S-5m / China</title>
+      <s:price currency="USD">13.92</s:price>
+      <s:sku>44408108-orange-s-5m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068125659285</id>
+      <title>Black / L-15m / United States</title>
+      <s:price currency="USD">23.62</s:price>
+      <s:sku>44408108-black-l-15m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+    <published>2021-08-25T10:38:52+05:00</published>
+    <updated>2021-08-25T10:38:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/breathable-mesh-puppy-harnesses"/>
+    <title>Breathable Mesh Puppy Harnesses</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1682184821.jpg?v=1629873044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> cats<br><strong>Feature:</strong> Reflective<br><strong>Is Smart Device:</strong> No<br><strong>is_customized:</strong> No<br><strong>Fature:</strong> mesh,soft ,breathable<br><strong>Color:</strong> Pink, Red, Orange, Blue, Navy, Black<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / XS / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / XS / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Blue / XS / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-blue-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / L / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / M / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / M / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / S / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / S / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / XS / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / XS / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Black / XS / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-black-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / XS / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / XS / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / XS / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Red / XS / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-red-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / XL / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / XL / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Orange / L / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-orange-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068123365525</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43357905-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

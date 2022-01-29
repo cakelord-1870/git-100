@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kitttyfur.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kitttyfur.myshopify.com/collections/pet-bowl.atom"/>
+  <title>kitttyfur</title>
+  <updated>2021-08-25T14:53:05+05:00</updated>
+  <author>
+    <name>kitttyfur</name>
+  </author>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+    <published>2021-08-25T14:53:05+05:00</published>
+    <updated>2021-08-25T14:53:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/cat-bowl-water-dispenser-1"/>
+    <title>Cat Bowl Water Dispenser</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1809773199_fff190ca-b1f6-4556-9877-c99cff192bf8.jpg?v=1629956103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> cats<br><strong>Type:</strong> With Water Dispenser<br><strong>Material:</strong> Stainless Steel<br><strong>Type:</strong> Pet Cat Elevated Bowls<br><strong>dog water bottle:</strong> cat bowl<br><strong>comedero gato:</strong> dog feeder<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>green / United States</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>green / China</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>Black / China</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>White / United States</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7069093396629</id>
+      <title>White / China</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>42168345-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+    <published>2021-08-25T11:07:34+05:00</published>
+    <updated>2021-08-25T11:07:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/cat-bowl-water-dispenser"/>
+    <title>Cat Bowl Water Dispenser</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1830310344.jpg?v=1629884971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> cats<br><strong>Type:</strong> With Water Dispenser<br><strong>Material:</strong> Plastic<br><strong>product name:</strong> Double Cat Bowl<br><strong>Type:</strong> With Water Dispenser<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Green / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Grey / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-grey-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>Grey / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-grey-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>White / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068208267413</id>
+      <title>White / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>42001291-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+    <published>2021-08-25T11:06:00+05:00</published>
+    <updated>2021-08-25T11:06:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/pet-dog-cat-bowl-automatic-feeder-kitten"/>
+    <title>Pet Dog Cat Bowl Automatic Feeder Kitten</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1677176912.jpg?v=1629874205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.92 - 39.98
+            <a href="https://kitttyfur.myshopify.com/products/pet-dog-cat-bowl-automatic-feeder-kitten">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> With Water Dispenser<br><strong>Material:</strong> Stainless Steel<br><strong>Dogs Feeders:</strong> Automatic Cat Bowls<br><strong>Cat Bowl:</strong> Stainless steel<br><strong>Material:</strong> Plastic<br><strong>Size:</strong> 47*12cm<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White 1 / United States</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku>43215227-white-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White S / China</title>
+      <s:price currency="USD">14.92</s:price>
+      <s:sku>43215227-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White 1 / China</title>
+      <s:price currency="USD">39.98</s:price>
+      <s:sku>43215227-white-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White L / United States</title>
+      <s:price currency="USD">16.20</s:price>
+      <s:sku>43215227-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>Transparant L / China</title>
+      <s:price currency="USD">16.20</s:price>
+      <s:sku>43215227-transparant-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White S / United States</title>
+      <s:price currency="USD">14.92</s:price>
+      <s:sku>43215227-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White L / China</title>
+      <s:price currency="USD">16.20</s:price>
+      <s:sku>43215227-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White 2 / United States</title>
+      <s:price currency="USD">18.54</s:price>
+      <s:sku>43215227-white-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>Transparant L / United States</title>
+      <s:price currency="USD">16.20</s:price>
+      <s:sku>43215227-transparant-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068200501397</id>
+      <title>White 2 / China</title>
+      <s:price currency="USD">18.54</s:price>
+      <s:sku>43215227-white-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+    <published>2021-08-25T11:04:38+05:00</published>
+    <updated>2021-08-25T11:04:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kitttyfur.myshopify.com/products/pet-bowl-with-wood-stand"/>
+    <title>Pet Bowl With Wood Stand</title>
+    <s:type></s:type>
+    <s:vendor>kitttyfur</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/2523/5861/products/product-image-1773509249.jpg?v=1629874136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>kitttyfur<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.32 - 36.66
+            <a href="https://kitttyfur.myshopify.com/products/pet-bowl-with-wood-stand">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> cats<br><strong>Type:</strong> Double<br><strong>Material:</strong> Stainless Steel<br><strong>Features:</strong> Pet Feeding Water Bowl<br><strong>Suitable:</strong> Pet Cat,Pet Dog</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Blue Double Bowl / United States</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-blue-double-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Purple Single Bowl / China</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-purple-single-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Purple Single Bowl / United States</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-purple-single-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Purple Double Bowl / China</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-purple-double-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Purple Double Bowl / United States</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-purple-double-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Non-slip mat / China</title>
+      <s:price currency="USD">12.32</s:price>
+      <s:sku>43071583-non-slip-mat-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Non-slip mat / United States</title>
+      <s:price currency="USD">12.32</s:price>
+      <s:sku>43071583-non-slip-mat-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Blue Single Bowl / China</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-blue-single-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Blue Single Bowl / United States</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-blue-single-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Blue Double Bowl / China</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-blue-double-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Silver Double Bowl / China</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-silver-double-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Silver Single Bowl / United States</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-silver-single-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Silver Double Bowl / United States</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-silver-double-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Orange Single Bowl / China</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-orange-single-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Orange Double Bowl / China</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-orange-double-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Orange Single Bowl / United States</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-orange-single-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Silver Single Bowl / China</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-silver-single-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Orange Double Bowl / United States</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-orange-double-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Gold Double Bowl / United States</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-gold-double-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Gold Double Bowl / China</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>43071583-gold-double-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Gold Single Bowl / United States</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-gold-single-bowl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kitttyfur.myshopify.com/products/7068196602005</id>
+      <title>Gold Single Bowl / China</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>43071583-gold-single-bowl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fiscal-tools.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fiscal-tools.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fiscal-tools.myshopify.com/collections/wrench.atom"/>
+  <title>Fiscal Tools</title>
+  <updated>2021-09-02T11:48:08+05:00</updated>
+  <author>
+    <name>Fiscal Tools</name>
+  </author>
+  <entry>
+    <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+    <published>2021-09-02T11:48:08+05:00</published>
+    <updated>2021-09-02T11:48:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fiscal-tools.myshopify.com/products/t-handle-ratchet-tap-wrench"/>
+    <title>T-Handle Ratchet Tap Wrench</title>
+    <s:type></s:type>
+    <s:vendor>Fiscal Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/7285/5714/products/product-image-1313747953.jpg?v=1630565379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiscal Tools<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.05 - 15.20
+            <a href="https://fiscal-tools.myshopify.com/products/t-handle-ratchet-tap-wrench">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Non-slip<br><strong>Features:</strong> cross<br><strong>Features:</strong> Dismountable<br><strong>Features:</strong> Mini<br><strong>is_customized:</strong> Yes<br><strong>Type:</strong> Wrench Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>United States / A</title>
+      <s:price currency="USD">8.05</s:price>
+      <s:sku>32141175-united-states-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>China / C</title>
+      <s:price currency="USD">12.36</s:price>
+      <s:sku>32141175-china-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>China / B</title>
+      <s:price currency="USD">10.63</s:price>
+      <s:sku>32141175-china-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>China / A</title>
+      <s:price currency="USD">6.05</s:price>
+      <s:sku>32141175-china-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>Australia / B</title>
+      <s:price currency="USD">11.75</s:price>
+      <s:sku>32141175-australia-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>Australia / A</title>
+      <s:price currency="USD">7.91</s:price>
+      <s:sku>32141175-australia-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>United States / C</title>
+      <s:price currency="USD">15.20</s:price>
+      <s:sku>32141175-united-states-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>United States / B</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>32141175-united-states-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>Australia / C</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>32141175-australia-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>China / D</title>
+      <s:price currency="USD">11.28</s:price>
+      <s:sku>32141175-china-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>United States / D</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>32141175-united-states-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060939767970</id>
+      <title>Australia / D</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>32141175-australia-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+    <published>2021-09-02T11:47:02+05:00</published>
+    <updated>2021-09-02T11:47:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fiscal-tools.myshopify.com/products/adjustable-universal-extension-wrench"/>
+    <title>Adjustable Universal Extension Wrench</title>
+    <s:type></s:type>
+    <s:vendor>Fiscal Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/7285/5714/products/product-image-1788778090.jpg?v=1630565390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiscal Tools<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.33 - 17.83
+            <a href="https://fiscal-tools.myshopify.com/products/adjustable-universal-extension-wrench">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> stainless steel and plastic<br><strong>Features:</strong> Double End<br><strong>Features:</strong> Mini<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Non-Slip<br><strong>Features:</strong> Dismountable<br><strong>Type:</strong> Wrench Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>China / 2 Pcs Adapters</title>
+      <s:price currency="USD">6.33</s:price>
+      <s:sku>39929019-china-2-pcs-adapters</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>China / 1 Pcs Wrench</title>
+      <s:price currency="USD">9.84</s:price>
+      <s:sku>39929019-china-1-pcs-wrench</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>United States / 1 Set</title>
+      <s:price currency="USD">17.83</s:price>
+      <s:sku>39929019-united-states-1-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>United States / 2 Pcs Adapters</title>
+      <s:price currency="USD">8.61</s:price>
+      <s:sku>39929019-united-states-2-pcs-adapters</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>United States / 1 Pcs Wrench</title>
+      <s:price currency="USD">14.15</s:price>
+      <s:sku>39929019-united-states-1-pcs-wrench</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>China / 1 Set</title>
+      <s:price currency="USD">11.91</s:price>
+      <s:sku>39929019-china-1-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>Australia / 1 Set</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>39929019-australia-1-set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>Australia / 2 Pcs Adapters</title>
+      <s:price currency="USD">9.35</s:price>
+      <s:sku>39929019-australia-2-pcs-adapters</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060937244834</id>
+      <title>Australia / 1 Pcs Wrench</title>
+      <s:price currency="USD">14.01</s:price>
+      <s:sku>39929019-australia-1-pcs-wrench</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fiscal-tools.myshopify.com/products/7060935475362</id>
+    <published>2021-09-02T11:46:12+05:00</published>
+    <updated>2021-09-02T11:46:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fiscal-tools.myshopify.com/products/two-way-precise-ratchet-wrench"/>
+    <title>Two-way Precise Ratchet Wrench</title>
+    <s:type></s:type>
+    <s:vendor>Fiscal Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/7285/5714/products/product-image-1828938095.jpg?v=1630565174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiscal Tools<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.56 - 40.96
+            <a href="https://fiscal-tools.myshopify.com/products/two-way-precise-ratchet-wrench">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Chromium-vanadium Steel<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Explosion-proof<br><strong>Features:</strong> Antimagnetic<br><strong>Type:</strong> Torque Wrench</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060935475362</id>
+      <title>China / Silver</title>
+      <s:price currency="USD">32.70</s:price>
+      <s:sku>47104466-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060935475362</id>
+      <title>United States / Silver</title>
+      <s:price currency="USD">40.96</s:price>
+      <s:sku>47104466-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060935475362</id>
+      <title>Australia / Silver</title>
+      <s:price currency="USD">37.35</s:price>
+      <s:sku>47104466-australia-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060935475362</id>
+      <title>France / Silver</title>
+      <s:price currency="USD">20.56</s:price>
+      <s:sku>47104466-france-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fiscal-tools.myshopify.com/products/7060933902498</id>
+    <published>2021-09-02T11:45:35+05:00</published>
+    <updated>2021-09-02T11:45:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fiscal-tools.myshopify.com/products/adjustable-ratchet-wrench"/>
+    <title>Adjustable Ratchet Wrench</title>
+    <s:type></s:type>
+    <s:vendor>Fiscal Tools</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/7285/5714/products/product-image-1678424145.jpg?v=1630565139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiscal Tools<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.64 - 34.36
+            <a href="https://fiscal-tools.myshopify.com/products/adjustable-ratchet-wrench">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Chromium-vanadium Steel<br><strong>Features:</strong> Explosion-proof<br><strong>Features:</strong> INSULATED<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Non-Slip<br><strong>Features:</strong> Antimagnetic<br><strong>Type:</strong> Ratchet Handle Wrench<br><strong>Universal wrench:</strong> Multifunctional ratchet wrench</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060933902498</id>
+      <title>Australia / 1 Pcs</title>
+      <s:price currency="USD">29.31</s:price>
+      <s:sku>43249073-australia-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060933902498</id>
+      <title>China / 1 Pcs</title>
+      <s:price currency="USD">23.64</s:price>
+      <s:sku>43249073-china-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fiscal-tools.myshopify.com/products/7060933902498</id>
+      <title>United States / 1 Pcs</title>
+      <s:price currency="USD">34.36</s:price>
+      <s:sku>43249073-united-states-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://onlinegaming-co.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://onlinegaming-co.myshopify.com/collections/gaming-remote.atom"/>
+  <title>OnlineGaming.co </title>
+  <updated>2021-04-22T13:52:43+05:00</updated>
+  <author>
+    <name>OnlineGaming.co </name>
+  </author>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672533848241</id>
+    <published>2021-04-22T13:52:43+05:00</published>
+    <updated>2021-04-22T13:52:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/game-controller-fast-charging"/>
+    <title>Game Controller Fast Charging</title>
+    <s:type>Gaming Controller</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1730795117.jpg?v=1619243073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Gaming Controller<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> None<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672533848241</id>
+      <title>Black green</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>44681818-black-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672533848241</id>
+      <title>Black and blue</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>44681818-black-and-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672533848241</id>
+      <title>Black and red</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>44681818-black-and-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672533848241</id>
+      <title>Black powder</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>44681818-black-powder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672533848241</id>
+      <title>black and white</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>44681818-black-and-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672526377137</id>
+    <published>2021-04-22T13:46:31+05:00</published>
+    <updated>2021-04-22T13:46:31+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/bluetooth-wireless-game-controller"/>
+    <title>Bluetooth Wireless Game Controller</title>
+    <s:type>Gaming Controller</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1730795036.jpg?v=1619081194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Gaming Controller<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> None<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Controller</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672526377137</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>44681816</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672523985073</id>
+    <published>2021-04-22T13:44:16+05:00</published>
+    <updated>2021-04-22T13:44:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/pubg-mobile-game-controller"/>
+    <title>PUBG Mobile Game Controller</title>
+    <s:type>Gaming Controller</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1730793260.jpg?v=1619081058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Gaming Controller<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Compatible:</strong> None</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Controller</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672523985073</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.99</s:price>
+      <s:sku>44681771-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672514089137</id>
+    <published>2021-04-22T13:36:10+05:00</published>
+    <updated>2021-04-22T13:36:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/wired-vibration-game-controller"/>
+    <title>Wired Vibration Game Controller</title>
+    <s:type>Gaming Controller</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1458252804.jpg?v=1619243209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Gaming Controller<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Package:</strong> No<br><strong>Type:</strong> Gamepads<br><strong>Interface Type:</strong> USB<br><strong>Type::</strong> Gamepad<br><strong>Interface type:</strong> USB<br><strong>Color::</strong> Black and white<br><strong>Fit for ::</strong> PC<br><strong>Package::</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Controller</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672514089137</id>
+      <title>black</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10006847-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672514089137</id>
+      <title>white</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>10006847-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+    <published>2021-04-22T13:34:24+05:00</published>
+    <updated>2021-04-22T13:34:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/wireless-game-controller"/>
+    <title>Wireless Game Controller</title>
+    <s:type>Gaming Controller</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1489923227.jpg?v=1619243146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Gaming Controller<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Package:</strong> No<br><strong>Type:</strong> Gamepads<br><strong>Interface Type:</strong> USB<br><strong>Type:</strong> Wired Controller<br><strong>Color:</strong> Black<br><strong>Cable Length:</strong> 180cm<br><strong>Iterface Type:</strong> For PS2 Gamepad<br><strong>Platform:</strong> For Sony PlayStation 2<br><strong>Sony Model:</strong> PlayStation2<br><strong>Feature1:</strong> 2 vibrations 1 motor<br><strong>Feature2:</strong> controle ps2<br><strong>Feature3:</strong> For ps2 controller</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Controller</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Black Wired</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-black-wired</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Orange Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-orange-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Red Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-red-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Black Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-black-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>White Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-white-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Green Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-green-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Blue Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-blue-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672512549041</id>
+      <title>Purple Wireless</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>5012446-purple-wireless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://onlinegaming-co.myshopify.com/products/6672511140017</id>
+    <published>2021-04-22T13:32:53+05:00</published>
+    <updated>2021-04-22T13:32:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://onlinegaming-co.myshopify.com/products/wireless-gaming-controller"/>
+    <title>Wireless Gaming Controller</title>
+    <s:type>Gaming Controller</s:type>
+    <s:vendor>OnlineGaming.co </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3812/8817/products/product-image-1730788342.jpg?v=1619080376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OnlineGaming.co <br>
+        <strong>Type: </strong>Gaming Controller<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Package:</strong> No<br><strong>Type:</strong> Gamepads<br><strong>Interface Type:</strong> bluetooth<br><strong>Type:</strong> Gamepad<br><strong>Interface Type:</strong> 2.4GHz<br><strong>Color:</strong> Black<br><strong>Package:</strong> No<br><strong>Platform:</strong> For Sony Playstation 3 For PS2 and PC<br><strong>Sony Model:</strong> PlayStation2<br><strong>Feature1:</strong> for ps2 wireless controller<br><strong>Feature2:</strong> controle ps2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gaming Controller</s:tag>
+    <s:tag>Remote</s:tag>
+    <s:variant>
+      <id>https://onlinegaming-co.myshopify.com/products/6672511140017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>4801885-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

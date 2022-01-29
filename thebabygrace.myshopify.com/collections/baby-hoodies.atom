@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thebabygrace.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thebabygrace.myshopify.com/collections/baby-hoodies.atom"/>
+  <title>theBabygrace</title>
+  <updated>2021-04-15T11:45:55+05:00</updated>
+  <author>
+    <name>theBabygrace</name>
+  </author>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+    <published>2021-04-15T11:45:55+05:00</published>
+    <updated>2021-04-15T11:45:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/baby-bear-hoodie"/>
+    <title>Baby Bear Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1275246335.jpg?v=1618471088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Age Range:</strong> 25-36m<br><strong>Pattern Type:</strong> Solid<br><strong>Collar:</strong> Hooded<br><strong>Closure Type:</strong> zipper<br><strong>Item Type:</strong> Rompers<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Material Composition:</strong> cotton<br><strong>Occasion: Daily:</strong> Pattern Type:Solid<br><strong>Pattern Type:Solid:</strong> Decoration:Bear ears</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Hoodie</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Brown / 3M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-brown-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Brown / 6M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-brown-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Brown / 9M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-brown-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Blue / 3M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-blue-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Blue / 6M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-blue-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Blue / 9M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-blue-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Pink / 3M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-pink-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Pink / 6M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-pink-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Pink / 9M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-pink-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>White / 3M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-white-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>White / 6M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-white-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>White / 9M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-white-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Yellow / 3M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-yellow-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Yellow / 6M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-yellow-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653266591902</id>
+      <title>Yellow / 9M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>26537868-yellow-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6653264822430</id>
+    <published>2021-04-15T11:44:24+05:00</published>
+    <updated>2021-04-15T11:44:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/lovely-sweat-shirt-hoodies"/>
+    <title>Lovely Sweat Shirt Hoodies</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1510083700.jpg?v=1618469068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            23.04 - 24.20
+            <a href="https://thebabygrace.myshopify.com/products/lovely-sweat-shirt-hoodies">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Fashion<br><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Sleeve Style:</strong> Regular<br><strong>Collar:</strong> Hooded<br><strong>Gender:</strong> Baby Girls<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> Cotton<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Pattern Type:</strong> Floral<br><strong>Closure Type:</strong> Pullover</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Hoodie</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653264822430</id>
+      <title>White / 18M</title>
+      <s:price currency="USD">23.84</s:price>
+      <s:sku>39663731-white-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653264822430</id>
+      <title>White / 12M</title>
+      <s:price currency="USD">23.44</s:price>
+      <s:sku>39663731-white-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653264822430</id>
+      <title>White / 24M</title>
+      <s:price currency="USD">24.20</s:price>
+      <s:sku>39663731-white-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653264822430</id>
+      <title>White / 6M</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>39663731-white-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6653263118494</id>
+    <published>2021-04-15T11:42:47+05:00</published>
+    <updated>2021-04-15T11:42:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/newborn-baby-letter-hoodie"/>
+    <title>Newborn Baby Letter Hoodie</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1238956729.jpg?v=1618471129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            19.99 - 22.99
+            <a href="https://thebabygrace.myshopify.com/products/newborn-baby-letter-hoodie">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Pullover<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Corduroy<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> Cotton Blend<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> baby<br><strong>Collar:</strong> Hooded<br><strong>Pattern Type:</strong> Letter<br><strong>Main Color:</strong> As The Picture Show</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Hoodie</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653263118494</id>
+      <title>2-3 Years</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>33194485-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653263118494</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>33194485-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653263118494</id>
+      <title>18-24 Months</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>33194485-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653263118494</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>33194485-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653263118494</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>33194485-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+    <published>2021-04-15T11:40:33+05:00</published>
+    <updated>2021-04-15T11:40:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/kids-baby-hoodie"/>
+    <title>Kids Baby Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1694508966.jpg?v=1618468836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Gender:</strong> Male<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> Hooded<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Pullover<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Combed Cotton<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> Cotton Blend<br><strong>Pattern Type:</strong> Letter<br><strong>Department Name:</strong> baby<br><strong>Combination packages:</strong> Baby clothes set Outfits<br><strong>Clothing fabric:</strong> Soft and comfortable<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Hoodie</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Black / 2-3 Years</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-black-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Black / 3-4 Years</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-black-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Army Green / 6-12 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-army-green-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Army Green / 3-4 Years</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-army-green-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Army Green / 2-3 Years</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-army-green-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Army Green / 18-24 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-army-green-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Army Green / 12-18 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-army-green-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Black / 6-12 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-black-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Black / 18-24 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-black-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6653260890270</id>
+      <title>Black / 12-18 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>32778364-black-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

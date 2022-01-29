@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://puffypetes.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://puffypetes.myshopify.com/collections/feeder.atom"/>
+  <title>puffypetes</title>
+  <updated>2021-09-18T10:13:48+05:00</updated>
+  <author>
+    <name>puffypetes</name>
+  </author>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+    <published>2021-09-18T10:13:48+05:00</published>
+    <updated>2021-09-18T10:13:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/double-bowl-detachable-pet-feeder"/>
+    <title>Double Bowl Detachable Pet Feeder</title>
+    <s:type>Bowl Detachable Pet Feeder</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1514845708.jpg?v=1632202972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Bowl Detachable Pet Feeder<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Volume:</strong> 500ml<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Plastic<br><strong>dog bowl:</strong> pet products<br><strong>dog water bottle:</strong> cat bowl<br><strong>bebedero perro:</strong> dog food<br><strong>comedero perro:</strong> gamelle chien<br><strong>miska dla psa:</strong> gamelle chat<br><strong>comedero gato:</strong> dog feeder<br><strong>cat food bowl:</strong> pet water bottle<br><strong>automatic feeders for cats:</strong> dog water bowl<br><strong>dog bowls:</strong> voerbak hond<br><strong>bowl dog food:</strong> comedero de perro<br><strong>cats food bowl:</strong> goods for dogs bowls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bowl Detachable Pet Feeder</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>gray / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>Red / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>Navy Blue / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-navy-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>Navy Blue / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-navy-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>black / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908798304435</id>
+      <title>black / China</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28947375-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+    <published>2021-09-18T09:54:52+05:00</published>
+    <updated>2021-09-18T09:54:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/pet-training-food-bowl"/>
+    <title>Pet Training Food Bowl</title>
+    <s:type>Pet Training Food Bowl</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1534953444.jpg?v=1632203027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Pet Training Food Bowl<br>
+        <strong>Price: </strong>
+            7.98 - 8.98
+            <a href="https://puffypetes.myshopify.com/products/pet-training-food-bowl">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Volume:</strong> 250g<br><strong>Volume:</strong> 250ml<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Plastic<br><strong>Type:</strong> Dogs<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Material:</strong> PLASTIC<br><strong>Item Type:</strong> Bowls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Training Food Bowl</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>26639642-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku>26639642-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>26639642-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku>26639642-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+      <title>yellow / China</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>26639642-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908786016435</id>
+      <title>yellow / United States</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku>26639642-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+    <published>2021-09-18T09:53:03+05:00</published>
+    <updated>2021-09-18T09:53:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/double-pet-food-bowls"/>
+    <title>Double Pet Food Bowls</title>
+    <s:type>Pet Food Bowls</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1741227047.jpg?v=1632203036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Pet Food Bowls<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Volume:</strong> 200g<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Plastic<br><strong>Type:</strong> Dogs<br><strong>Style1:</strong> Dog Accessories<br><strong>Style2:</strong> Cat Accessories<br><strong>Style3:</strong> Pet Accessories<br><strong>Style4:</strong> cats dog feeder<br><strong>Style5:</strong> water food container<br><strong>Unit Type:</strong> piece<br><strong>Package Weight:</strong> 0.3kg (0.66lb.)<br><strong>Package Size:</strong> 30cm x 20cm x 7cm (11.81in x 7.87in x 2.76in)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Food Bowls</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+      <title>Pink / 21.5cm X31 cm / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>25139098-pink-21-5cm-x31-cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+      <title>Pink / 21.5cm X31 cm / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>25139098-pink-21-5cm-x31-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+      <title>Blue / 21.5cm X31 cm / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>25139098-blue-21-5cm-x31-cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+      <title>Blue / 21.5cm X31 cm / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>25139098-blue-21-5cm-x31-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+      <title>green / 21.5cm X31 cm / China</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>25139098-green-21-5cm-x31-cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908785459379</id>
+      <title>green / 21.5cm X31 cm / United States</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>25139098-green-21-5cm-x31-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+    <published>2021-09-18T09:48:53+05:00</published>
+    <updated>2021-09-18T09:48:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/portable-silicone-pet-food-bowl"/>
+    <title>Portable Silicone Pet Food Bowl</title>
+    <s:type>Pet Food Bowl</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/15971106573603d462ccc0763e46d99b62218aa412.jpg?v=1632203087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Pet Food Bowl<br>
+        <strong>Price: </strong>
+            3.18 - 3.86
+            <a href="https://puffypetes.myshopify.com/products/portable-silicone-pet-food-bowl">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Volume:</strong> 250ml<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pet Food Bowl</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Navy Blue / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-navy-blue-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Navy Blue / ONE SIZE / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-navy-blue-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>yellow / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-yellow-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>yellow / ONE SIZE / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-yellow-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Orange / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-orange-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Orange / ONE SIZE / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-orange-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Pink / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-pink-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Pink / ONE SIZE / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-pink-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Purple / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-purple-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Purple / ONE SIZE / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-purple-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>green / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-green-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>green / ONE SIZE / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-green-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Blue / ONE SIZE / China</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>24416076-blue-one-size-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908784181427</id>
+      <title>Blue / ONE SIZE / United States</title>
+      <s:price currency="USD">3.18</s:price>
+      <s:sku>24416076-blue-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+    <published>2021-09-18T09:47:29+05:00</published>
+    <updated>2021-09-18T09:47:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/no-spill-pet-water-bowl"/>
+    <title>No-Spill Pet Water Bowl</title>
+    <s:type>Water Bowl</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1691585217.jpg?v=1632203386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Water Bowl<br>
+        <strong>Price: </strong>
+            27.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Travel Bowls<br><strong>Volume:</strong> 1.5L<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Plastic<br><strong>feature:</strong> waterproof bottom<br><strong>Non-slip:</strong> Pet bowl<br><strong>Waterproof:</strong> Filtered</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Water Bowl</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>gray / 1.5L / China</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-gray-1-5l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>white / 1.5L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-white-1-5l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>white / 1.5L / China</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-white-1-5l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>Pink / 1.5L / China</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-pink-1-5l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>Blue / 1.5L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-blue-1-5l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>Blue / 1.5L / China</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-blue-1-5l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>gray / 1.5L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-gray-1-5l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6908783788211</id>
+      <title>Pink / 1.5L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>38402177-pink-1-5l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+    <published>2021-09-17T16:12:05+05:00</published>
+    <updated>2021-09-17T16:12:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/portable-drinking-water-feeder-for-pet"/>
+    <title>Portable Drinking Water Feeder For Pet</title>
+    <s:type>Water Feeder</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1809440708.jpg?v=1631877140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Water Feeder<br>
+        <strong>Price: </strong>
+            15.98 - 19.98
+            <a href="https://puffypetes.myshopify.com/products/portable-drinking-water-feeder-for-pet">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Water Bottles<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> ABS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Water Feeder</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>white / 350 ML / CHINA</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-white-350-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>white / 350 ML / United States</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-white-350-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Pink / 350 ML / CHINA</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-pink-350-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Pink / 350 ML / United States</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-pink-350-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Turquoise / 350 ML / CHINA</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-turquoise-350-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Turquoise / 350 ML / United States</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-turquoise-350-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Pink / 550 ML / CHINA</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-pink-550-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Pink / 550 ML / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-pink-550-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Turquoise / 550 ML / CHINA</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-turquoise-550-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>Turquoise / 550 ML / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-turquoise-550-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>white / 550 ML / CHINA</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-white-550-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>white / 550 ML / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-white-550-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>blue / 550 ML / CHINA</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-blue-550-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>blue / 350 ML / United States</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-blue-350-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>blue / 550 ML / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>23959665-blue-550-ml-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907640217779</id>
+      <title>blue / 350 ML / CHINA</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>23959665-blue-350-ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+    <published>2021-09-17T15:57:55+05:00</published>
+    <updated>2021-09-17T15:57:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/bubble-pets-water-dispenser"/>
+    <title>Bubble Pets Water Dispenser</title>
+    <s:type>Water Dispenser</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1000725761.jpg?v=1632203213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Water Dispenser<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Max Output:</strong> 2000g<br><strong>With Water Dispenser:</strong> Yes<br><strong>Min Output:</strong> 250g<br><strong>Material:</strong> Plastic<br><strong>Type:</strong> Cats<br><strong>Package Weight:</strong> 0.7kg (1.54lb.)<br><strong>Package Size:</strong> 20cm x 19cm x 23cm (7.87in x 7.48in x 9.06in)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Pets</s:tag>
+    <s:tag>Water Dispenser</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+      <title>Grey and White / 29 cm X32 cm X18 / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27367778-grey-and-white-29-cm-x32-cm-x18-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+      <title>Grey and White / 29 cm X32 cm X18 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27367778-grey-and-white-29-cm-x32-cm-x18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+      <title>Pink and White / 29 cm X32 cm X18 / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27367778-pink-and-white-29-cm-x32-cm-x18-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+      <title>Pink and White / 29 cm X32 cm X18 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27367778-pink-and-white-29-cm-x32-cm-x18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+      <title>Onion Green / 29 cm X32 cm X18 / China</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27367778-onion-green-29-cm-x32-cm-x18-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907618164915</id>
+      <title>Onion Green / 29 cm X32 cm X18 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27367778-onion-green-29-cm-x32-cm-x18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+    <published>2021-09-17T15:32:43+05:00</published>
+    <updated>2021-09-17T15:32:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://puffypetes.myshopify.com/products/portable-dog-water-bottle"/>
+    <title>Portable Dog Water Bottle</title>
+    <s:type>Dog Water Bottle</s:type>
+    <s:vendor>puffypetes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/2742/8275/products/product-image-1301142731.jpg?v=1632203226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>puffypetes<br>
+        <strong>Type: </strong>Dog Water Bottle<br>
+        <strong>Price: </strong>
+            12.00 - 23.98
+            <a href="https://puffypetes.myshopify.com/products/portable-dog-water-bottle">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Water Bottles<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Type:</strong> Dogs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dog Water Bottle</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>green / China</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>green / United States</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>green filter 2PCS / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-green-filter-2pcs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>green filter 2PCS / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-green-filter-2pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>blue filter 2PCS / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-blue-filter-2pcs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>blue filter 2PCS / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-blue-filter-2pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>yellow / China</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>yellow / United States</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>yellow filter 2PCS / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-yellow-filter-2pcs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>yellow filter 2PCS / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-yellow-filter-2pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>pink filter 2PCS / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-pink-filter-2pcs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>pink filter 2PCS / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>27171478-pink-filter-2pcs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://puffypetes.myshopify.com/products/6907563016371</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>27171478-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

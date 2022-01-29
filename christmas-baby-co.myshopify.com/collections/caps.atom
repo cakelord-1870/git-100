@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://christmas-baby-co.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://christmas-baby-co.myshopify.com/collections/caps.atom"/>
+  <title>Christmas baby.co</title>
+  <updated>2020-12-09T00:23:12-05:00</updated>
+  <author>
+    <name>Christmas baby.co</name>
+  </author>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+    <published>2020-12-09T00:23:12-05:00</published>
+    <updated>2020-12-09T00:23:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/baby-hat-winter-newborn-warm-cute"/>
+    <title>Baby Hat Winter Newborn  Warm Cute</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1541722955.jpg?v=1607491398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.18 - 6.76
+            <a href="https://christmas-baby-co.myshopify.com/products/baby-hat-winter-newborn-warm-cute">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Acrylic<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Cartoon<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Size:</strong> about 40-46cm<br><strong>Use anywhere:</strong> suitable for birthday parties, going to grandparents homes<br><strong>Support Dropshipping:</strong> Support Wholesale<br><strong>Support Epacket/Fast Shipping:</strong> Support Retail</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>01 / Russian Federation / one size</title>
+      <s:price currency="USD">2.18</s:price>
+      <s:sku>40442772-01-russian-federation-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>01 / China / one size</title>
+      <s:price currency="USD">4.56</s:price>
+      <s:sku>40442772-01-china-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>01 / United States / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-01-united-states-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>01 / Spain / one size</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>40442772-01-spain-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>03 / Czech Republic / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-03-czech-republic-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>03 / France / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-03-france-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>04 / Russian Federation / one size</title>
+      <s:price currency="USD">2.18</s:price>
+      <s:sku>40442772-04-russian-federation-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>04 / China / one size</title>
+      <s:price currency="USD">4.56</s:price>
+      <s:sku>40442772-04-china-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>03 / Russian Federation / one size</title>
+      <s:price currency="USD">2.18</s:price>
+      <s:sku>40442772-03-russian-federation-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>03 / China / one size</title>
+      <s:price currency="USD">4.56</s:price>
+      <s:sku>40442772-03-china-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>03 / United States / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-03-united-states-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>03 / Spain / one size</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>40442772-03-spain-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>02 / United States / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-02-united-states-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>02 / Spain / one size</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>40442772-02-spain-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>02 / Czech Republic / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-02-czech-republic-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>02 / France / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-02-france-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>01 / Czech Republic / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-01-czech-republic-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>01 / France / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-01-france-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>02 / Russian Federation / one size</title>
+      <s:price currency="USD">2.18</s:price>
+      <s:sku>40442772-02-russian-federation-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>02 / China / one size</title>
+      <s:price currency="USD">4.56</s:price>
+      <s:sku>40442772-02-china-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>06 / United States / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-06-united-states-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>06 / Spain / one size</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>40442772-06-spain-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>06 / Czech Republic / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-06-czech-republic-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>06 / France / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-06-france-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>05 / Czech Republic / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-05-czech-republic-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>05 / France / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-05-france-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>06 / Russian Federation / one size</title>
+      <s:price currency="USD">2.18</s:price>
+      <s:sku>40442772-06-russian-federation-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>06 / China / one size</title>
+      <s:price currency="USD">4.56</s:price>
+      <s:sku>40442772-06-china-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>05 / Russian Federation / one size</title>
+      <s:price currency="USD">2.18</s:price>
+      <s:sku>40442772-05-russian-federation-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>05 / China / one size</title>
+      <s:price currency="USD">4.56</s:price>
+      <s:sku>40442772-05-china-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>05 / United States / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-05-united-states-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>05 / Spain / one size</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>40442772-05-spain-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>04 / United States / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-04-united-states-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>04 / Spain / one size</title>
+      <s:price currency="USD">5.10</s:price>
+      <s:sku>40442772-04-spain-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>04 / Czech Republic / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-04-czech-republic-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980246573215</id>
+      <title>04 / France / one size</title>
+      <s:price currency="USD">6.76</s:price>
+      <s:sku>40442772-04-france-one-size</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+    <published>2020-12-09T00:10:40-05:00</published>
+    <updated>2020-12-09T00:10:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/adult-kids-christmas-hat-cute-snowman"/>
+    <title>Adult Kids Christmas hat Cute Snowman</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1621427730.jpg?v=1607490644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Acrylic<br><strong>Gender:</strong> Unisex<br><strong>Department Name:</strong> baby<br><strong>Baby Age:</strong> 19-24 months<br><strong>Pattern Type:</strong> Cartoon<br><strong>Strap Type:</strong> Adjustable<br><strong>Colors:</strong> Pink, yellow, blue, red, gray<br><strong>Elasticity:</strong> Yes<br><strong>Material:</strong> Core yarn<br><strong>Age:</strong> 1-5 years old</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Illuminated style / kids</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-illuminated-style-kids</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Not shining 3 / adult</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-not-shining-3-adult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Not shining 3 / kids</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-not-shining-3-kids</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Not shining 2 / adult</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-not-shining-2-adult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Illuminated style 3 / kids</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-illuminated-style-3-kids</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Illuminated style 2 / adult</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-illuminated-style-2-adult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Illuminated style 2 / kids</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-illuminated-style-2-kids</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Illuminated style / adult</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-illuminated-style-adult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Illuminated style 3 / adult</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-illuminated-style-3-adult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Not shining 2 / kids</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-not-shining-2-kids</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Not shining / adult</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-not-shining-adult</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980211413151</id>
+      <title>Not shining / kids</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41664031-not-shining-kids</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+    <published>2020-12-09T00:09:20-05:00</published>
+    <updated>2020-12-09T00:09:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/kids-red-christmas-hat-adult-child-cheer"/>
+    <title>Kids Red Christmas Hat Adult Child Cheer</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1542721397.jpg?v=1607490562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.94 - 3.54
+            <a href="https://christmas-baby-co.myshopify.com/products/kids-red-christmas-hat-adult-child-cheer">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Gender:</strong> Unisex<br><strong>Department Name:</strong> baby<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Pattern Type:</strong> striped<br><strong>Strap Type:</strong> Adjustable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>L</title>
+      <s:price currency="USD">3.54</s:price>
+      <s:sku>40463909-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>B</title>
+      <s:price currency="USD">1.94</s:price>
+      <s:sku>40463909-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>E</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>A</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>H</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>C</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>F</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>G</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>J</title>
+      <s:price currency="USD">3.54</s:price>
+      <s:sku>40463909-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>K</title>
+      <s:price currency="USD">3.54</s:price>
+      <s:sku>40463909-k</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>D</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980206989471</id>
+      <title>I</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>40463909-i</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980205514911</id>
+    <published>2020-12-09T00:08:57-05:00</published>
+    <updated>2020-12-09T00:08:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/christmas-newborn-infant-baby-boy"/>
+    <title>Christmas Newborn Infant Baby Boy</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-828127880.jpg?v=1607490539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Cotton<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Cartoon<br><strong>Baby Age:</strong> 0-3 months<br><strong>Festival:</strong> Christmas<br><strong>Shape:</strong> Deer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980205514911</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.82</s:price>
+      <s:sku>20774939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+    <published>2020-12-09T00:08:32-05:00</published>
+    <updated>2020-12-09T00:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/baby-stuff-accessories-baby-girls-boys"/>
+    <title>Baby Stuff Accessories Baby Girls Boys</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1634349114.jpg?v=1607490515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Cotton<br><strong>Strap Type:</strong> Adjustable<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Solid<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01beige yellow / S</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01beige-yellow-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01brown / M</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01brown-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01pink / S</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01beige yellow / M</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01beige-yellow-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01brown / S</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01brown-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01blue / M</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01gray / S</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01gray-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01pink / M</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01blue / S</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980204400799</id>
+      <title>204M01gray / M</title>
+      <s:price currency="USD">17.38</s:price>
+      <s:sku>42025725-204m01gray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980202631327</id>
+    <published>2020-12-09T00:08:01-05:00</published>
+    <updated>2020-12-09T00:08:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/winter-christmas-family-matching-hats"/>
+    <title>Winter Christmas Family Matching Hats</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1631749030.jpg?v=1607490484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Cotton<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Cartoon<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months<br><strong>handmake:</strong> cotton<br><strong>photography props hat:</strong> baby winter hat<br><strong>toddler girl hat:</strong> baby girl stuff<br><strong>winter hat for kids:</strong> baby boy newborn photography props<br><strong>newborn photography:</strong> newborn accessories<br><strong>girl hat:</strong> newborn baby girl<br><strong>newborn photo outfits:</strong> winter accessories for kids<br><strong>winter children hat:</strong> toddler boy fashion hat<br><strong>Christmas baby:</strong> newborn photography</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980202631327</id>
+      <title>Green With Star / Adult 55-65cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41892120-green-with-star-adult-55-65cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980202631327</id>
+      <title>Green With Star / Child 45-53cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41892120-green-with-star-child-45-53cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980202631327</id>
+      <title>Green / Adult 55-65cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41892120-green-adult-55-65cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980202631327</id>
+      <title>Green / Child 45-53cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41892120-green-child-45-53cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+    <published>2020-12-09T00:07:13-05:00</published>
+    <updated>2020-12-09T00:07:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/christmas-childrens-nylon-knit-hat"/>
+    <title>Christmas Children&apos;s Nylon/knit Hat</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1635503210.jpg?v=1607490437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.58 - 3.98
+            <a href="https://christmas-baby-co.myshopify.com/products/christmas-childrens-nylon-knit-hat">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Animal<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months<br><strong>Support:</strong> Drop shipping/Wholesale<br><strong>Color:</strong> As picture show<br><strong>Material:</strong> Polyester, cotton<br><strong>Gender:</strong> Unisex</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>1 / China</title>
+      <s:price currency="USD">3.58</s:price>
+      <s:sku>42060850-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>12 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-12-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>11 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-11-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>10 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-10-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>9 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-9-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>8 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-8-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>7 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-7-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>6 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-6-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>5 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-5-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>4 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>3 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980200272031</id>
+      <title>2 / China</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>42060850-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+    <published>2020-12-09T00:05:52-05:00</published>
+    <updated>2020-12-09T00:05:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://christmas-baby-co.myshopify.com/products/winter-cute-cartoon-hat-deer-ears-baby"/>
+    <title>Winter Cute Cartoon Hat Deer Ears Baby</title>
+    <s:type></s:type>
+    <s:vendor>Christmas baby.co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0118/7743/products/product-image-1635503280.jpg?v=1607490356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christmas baby.co<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Animal<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months<br><strong>czapka dziecko:</strong> baby girl winter hat<br><strong>baby beanie:</strong> newborn hat<br><strong>baby muts:</strong> czapka niemowlak<br><strong>girls hat:</strong> bonnet enfant<br><strong>baby winter hat:</strong> winter hat for kids</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Red / Russian Federation / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-red-russian-federation-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Black / Russian Federation / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-black-russian-federation-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Khaki / Russian Federation / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-khaki-russian-federation-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Gray / Russian Federation / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-gray-russian-federation-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Black / China / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-black-china-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Red / China / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-red-china-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Gray / China / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-gray-china-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>Khaki / China / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-khaki-china-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>1PC / Russian Federation / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-1pc-russian-federation-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://christmas-baby-co.myshopify.com/products/5980196700319</id>
+      <title>1PC / China / 40-48CM</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42060851-1pc-china-40-48cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

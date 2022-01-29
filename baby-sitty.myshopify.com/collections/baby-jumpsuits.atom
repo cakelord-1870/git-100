@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://baby-sitty.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://baby-sitty.myshopify.com/collections/baby-jumpsuits.atom"/>
+  <title>Baby sitty</title>
+  <updated>2021-09-22T11:44:18+05:00</updated>
+  <author>
+    <name>Baby sitty</name>
+  </author>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+    <published>2021-09-22T11:44:18+05:00</published>
+    <updated>2021-09-22T11:44:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/casual-suit-clothes"/>
+    <title>Casual Suit Clothes</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1651799326.jpg?v=1632293511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.24 - 24.10
+            <a href="https://baby-sitty.myshopify.com/products/casual-suit-clothes">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Unisex<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Material Composition:</strong> Cotton<br><strong>Pattern Type:</strong> striped</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 3M / United States</title>
+      <s:price currency="USD">16.24</s:price>
+      <s:sku>42499807-a-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 3M / China</title>
+      <s:price currency="USD">24.10</s:price>
+      <s:sku>42499807-a-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">16.24</s:price>
+      <s:sku>42499807-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">24.10</s:price>
+      <s:sku>42499807-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">16.24</s:price>
+      <s:sku>42499807-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">24.10</s:price>
+      <s:sku>42499807-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">16.24</s:price>
+      <s:sku>42499807-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">24.10</s:price>
+      <s:sku>42499807-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">16.24</s:price>
+      <s:sku>42499807-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778612613326</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">24.10</s:price>
+      <s:sku>42499807-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+    <published>2021-09-22T11:41:47+05:00</published>
+    <updated>2021-09-22T11:41:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/cotton-ruffle-sleeveless-dress"/>
+    <title>Cotton Ruffle Sleeveless dress</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1496421456.jpg?v=1632293541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.20 - 17.75
+            <a href="https://baby-sitty.myshopify.com/products/cotton-ruffle-sleeveless-dress">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Pattern Type:</strong> striped<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Gender:</strong> Baby Girls<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Material Composition:</strong> Polyester</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 6M / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>39276313-30421a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 6M / China</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>39276313-30421a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 12M / United States</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku>39276313-30421a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 12M / China</title>
+      <s:price currency="USD">17.05</s:price>
+      <s:sku>39276313-30421a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 18M / United States</title>
+      <s:price currency="USD">15.33</s:price>
+      <s:sku>39276313-30421a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 18M / China</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>39276313-30421a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 24M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>39276313-30421a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 24M / China</title>
+      <s:price currency="USD">17.53</s:price>
+      <s:sku>39276313-30421a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 3T / United States</title>
+      <s:price currency="USD">16.45</s:price>
+      <s:sku>39276313-30421a-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421A / 3T / China</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>39276313-30421a-3t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30839A / 12M / United States</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku>39276313-30839a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30839A / 12M / China</title>
+      <s:price currency="USD">16.78</s:price>
+      <s:sku>39276313-30839a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30839A / 18M / United States</title>
+      <s:price currency="USD">15.33</s:price>
+      <s:sku>39276313-30839a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30839A / 18M / China</title>
+      <s:price currency="USD">17.13</s:price>
+      <s:sku>39276313-30839a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 6M / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>39276313-30421b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 6M / China</title>
+      <s:price currency="USD">16.83</s:price>
+      <s:sku>39276313-30421b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 12M / United States</title>
+      <s:price currency="USD">14.75</s:price>
+      <s:sku>39276313-30421b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 12M / China</title>
+      <s:price currency="USD">17.05</s:price>
+      <s:sku>39276313-30421b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 18M / United States</title>
+      <s:price currency="USD">15.33</s:price>
+      <s:sku>39276313-30421b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 18M / China</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>39276313-30421b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 24M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>39276313-30421b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 24M / China</title>
+      <s:price currency="USD">17.53</s:price>
+      <s:sku>39276313-30421b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 3T / United States</title>
+      <s:price currency="USD">16.45</s:price>
+      <s:sku>39276313-30421b-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778607993038</id>
+      <title>30421B / 3T / China</title>
+      <s:price currency="USD">17.75</s:price>
+      <s:sku>39276313-30421b-3t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+    <published>2021-09-22T11:28:32+05:00</published>
+    <updated>2021-09-22T11:28:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/set-off-shoulder-tops"/>
+    <title>Set Off Shoulder Tops</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1158464190.jpg?v=1632292117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.43 - 25.33
+            <a href="https://baby-sitty.myshopify.com/products/set-off-shoulder-tops">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Fashion<br><strong>Item Type:</strong> Sets<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Closure Type:</strong> Pullover<br><strong>Pattern Type:</strong> Solid<br><strong>Collar:</strong> O-Neck<br><strong>Sleeve Style:</strong> Regular<br><strong>Outerwear Type:</strong> Vest<br><strong>Department Name:</strong> Children<br><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Gender:</strong> Girls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 2T / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>30649565-white-2t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 2T / United States</title>
+      <s:price currency="USD">14.43</s:price>
+      <s:sku>30649565-white-2t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 3T / China</title>
+      <s:price currency="USD">22.80</s:price>
+      <s:sku>30649565-white-3t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 3T / United States</title>
+      <s:price currency="USD">14.98</s:price>
+      <s:sku>30649565-white-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 4T / China</title>
+      <s:price currency="USD">23.65</s:price>
+      <s:sku>30649565-white-4t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 4T / United States</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>30649565-white-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 5T / China</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>30649565-white-5t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 5T / United States</title>
+      <s:price currency="USD">16.05</s:price>
+      <s:sku>30649565-white-5t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 6T / China</title>
+      <s:price currency="USD">25.33</s:price>
+      <s:sku>30649565-white-6t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778582106318</id>
+      <title>white / 6T / United States</title>
+      <s:price currency="USD">16.58</s:price>
+      <s:sku>30649565-white-6t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+    <published>2021-09-22T11:26:13+05:00</published>
+    <updated>2021-09-22T11:26:13+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/infant-baby-girls-dress"/>
+    <title>Infant Baby Girls Dress</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1622408575.jpg?v=1632291977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.87 - 17.37
+            <a href="https://baby-sitty.myshopify.com/products/infant-baby-girls-dress">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Female<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Pullover<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> Cotton<br><strong>Pattern Type:</strong> Print</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>3M / United States</title>
+      <s:price currency="USD">15.87</s:price>
+      <s:sku>41692127-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>3M / China</title>
+      <s:price currency="USD">17.37</s:price>
+      <s:sku>41692127-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">15.87</s:price>
+      <s:sku>41692127-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>6M / China</title>
+      <s:price currency="USD">17.37</s:price>
+      <s:sku>41692127-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">15.87</s:price>
+      <s:sku>41692127-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>12M / China</title>
+      <s:price currency="USD">17.37</s:price>
+      <s:sku>41692127-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">15.87</s:price>
+      <s:sku>41692127-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778577748174</id>
+      <title>24M / China</title>
+      <s:price currency="USD">17.37</s:price>
+      <s:sku>41692127-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+    <published>2021-09-22T11:21:01+05:00</published>
+    <updated>2021-09-22T11:21:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/short-sleeve-jumpsuits"/>
+    <title>Short Sleeve jumpsuits</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1253692866.jpg?v=1632291669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.61 - 22.74
+            <a href="https://baby-sitty.myshopify.com/products/short-sleeve-jumpsuits">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Material Composition:</strong> Cotton<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Pattern Type:</strong> Letter<br><strong>Sleeve Style:</strong> Regular<br><strong>Gender:</strong> Unisex<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">14.61</s:price>
+      <s:sku>33753463-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>6M / China</title>
+      <s:price currency="USD">20.88</s:price>
+      <s:sku>33753463-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>9M / United States</title>
+      <s:price currency="USD">15.51</s:price>
+      <s:sku>33753463-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>9M / China</title>
+      <s:price currency="USD">21.48</s:price>
+      <s:sku>33753463-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">16.38</s:price>
+      <s:sku>33753463-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>12M / China</title>
+      <s:price currency="USD">22.11</s:price>
+      <s:sku>33753463-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">17.31</s:price>
+      <s:sku>33753463-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778564804814</id>
+      <title>18M / China</title>
+      <s:price currency="USD">22.74</s:price>
+      <s:sku>33753463-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+    <published>2021-09-22T11:15:32+05:00</published>
+    <updated>2021-09-22T11:15:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/rainbow-printing-jumpsuits"/>
+    <title>Rainbow Printing jumpsuits</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1513208385.jpg?v=1632293666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.85 - 16.23
+            <a href="https://baby-sitty.myshopify.com/products/rainbow-printing-jumpsuits">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Gender:</strong> baby unisex<br><strong>Material:</strong> COTTON<br><strong>Season:</strong> Four Seasons<br><strong>Closure Type:</strong> Belt<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> Round Neck<br><strong>Item Type:</strong> Nightgowns<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+      <title>A / United States</title>
+      <s:price currency="USD">13.85</s:price>
+      <s:sku>39756832-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+      <title>A / China</title>
+      <s:price currency="USD">16.23</s:price>
+      <s:sku>39756832-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+      <title>B / United States</title>
+      <s:price currency="USD">13.85</s:price>
+      <s:sku>39756832-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+      <title>B / China</title>
+      <s:price currency="USD">16.23</s:price>
+      <s:sku>39756832-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+      <title>C / United States</title>
+      <s:price currency="USD">13.85</s:price>
+      <s:sku>39756832-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778556973262</id>
+      <title>C / China</title>
+      <s:price currency="USD">16.23</s:price>
+      <s:sku>39756832-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+    <published>2021-09-22T11:00:44+05:00</published>
+    <updated>2021-09-22T11:00:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/pineapple-romper-jumpsuit"/>
+    <title>Pineapple Romper Jumpsuit</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1371270452.jpg?v=1632290447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.95 - 14.28
+            <a href="https://baby-sitty.myshopify.com/products/pineapple-romper-jumpsuit">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Pattern Type:</strong> Print<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Gender:</strong> Baby Girls<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Material Composition:</strong> Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>36030764-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>6M / China</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>36030764-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">12.70</s:price>
+      <s:sku>36030764-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>12M / China</title>
+      <s:price currency="USD">13.75</s:price>
+      <s:sku>36030764-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">13.43</s:price>
+      <s:sku>36030764-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>18M / China</title>
+      <s:price currency="USD">14.03</s:price>
+      <s:sku>36030764-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>36030764-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778533609678</id>
+      <title>24M / China</title>
+      <s:price currency="USD">14.28</s:price>
+      <s:sku>36030764-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+    <published>2021-09-22T10:58:49+05:00</published>
+    <updated>2021-09-22T10:58:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/floral-printed-jumpsuits"/>
+    <title>Floral Printed Jumpsuits</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1710354187.jpg?v=1632290334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.20 - 16.33
+            <a href="https://baby-sitty.myshopify.com/products/floral-printed-jumpsuits">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Gender:</strong> Female<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Item Type:</strong> Rompers<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Material Composition:</strong> Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>3M / China</title>
+      <s:price currency="USD">16.33</s:price>
+      <s:sku>44131202-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>3M / United States</title>
+      <s:price currency="USD">15.20</s:price>
+      <s:sku>44131202-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>6M / China</title>
+      <s:price currency="USD">16.33</s:price>
+      <s:sku>44131202-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">15.20</s:price>
+      <s:sku>44131202-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>9M / China</title>
+      <s:price currency="USD">16.33</s:price>
+      <s:sku>44131202-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>9M / United States</title>
+      <s:price currency="USD">15.20</s:price>
+      <s:sku>44131202-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>12M / China</title>
+      <s:price currency="USD">16.33</s:price>
+      <s:sku>44131202-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778530922702</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">15.20</s:price>
+      <s:sku>44131202-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jeweln.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jeweln.myshopify.com/collections/rings.atom"/>
+  <title>Jeweln</title>
+  <updated>2021-09-01T11:11:46+05:00</updated>
+  <author>
+    <name>Jeweln</name>
+  </author>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838932471988</id>
+    <published>2021-09-01T11:11:46+05:00</published>
+    <updated>2021-09-01T11:11:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/aesthetic-rings-for-women"/>
+    <title>Aesthetic Rings For Women</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1706101678.jpg?v=1630476720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Geometric<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / A-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-a-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / A-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-a-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / B-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-b-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / B-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-b-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / B-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-b-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / A-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-a-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / C-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-c-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / A-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-a-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / B-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-b-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / C-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-c-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / C-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-c-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / C-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-c-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / G-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-g-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / G-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-g-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / G-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-g-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / D-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-d-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / D-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-d-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / D-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-d-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / D-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-d-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / E-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-e-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / E-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-e-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / E-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-e-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / E-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-e-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / F-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-f-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / F-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-f-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / F-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-f-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / F-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-f-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / H-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-h-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / H-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-h-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / G-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-g-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / I-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-i-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / H-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-h-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / H-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-h-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / J-Rose Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-j-rose-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / J-Rose Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-j-rose-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / J-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-j-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / J-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-j-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / J-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-j-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / J-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-j-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / I-Rose Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-i-rose-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / I-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-i-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / I-Rose Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-i-rose-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / I-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-i-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / I-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-i-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / K-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-k-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / K-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-k-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / K-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-k-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838932471988</id>
+      <title>7 / K-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42579498-7-k-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838931030196</id>
+    <published>2021-09-01T11:10:00+05:00</published>
+    <updated>2021-09-01T11:10:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/stainless-steel-aesthetic-ring"/>
+    <title>Stainless Steel Aesthetic Ring</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1674971127.jpg?v=1630476831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Geometric<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Color:</strong> Gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / C-Silver Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-c-silver-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / C-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-c-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / D-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-d-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / D-Silver Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-d-silver-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / D-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-d-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / D-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-d-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / D-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-d-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / D-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-d-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / A-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-a-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / A-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-a-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / A-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-a-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / A-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-a-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / C-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-c-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / C-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-c-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / C-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-c-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / C-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-c-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / B-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-b-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / B-Silver Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-b-silver-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / B-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-b-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / B-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-b-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / B-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-b-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / B-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-b-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / A-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-a-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838931030196</id>
+      <title>7 / A-Silver Plated / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43153570-7-a-silver-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838929719476</id>
+    <published>2021-09-01T11:08:15+05:00</published>
+    <updated>2021-09-01T11:08:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/minimalist-letter-aesthetic-ring"/>
+    <title>Minimalist Letter Aesthetic Ring</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1704709481.jpg?v=1630476870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Letter<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Occasion:</strong> party<br><strong>Color:</strong> Gold</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / X / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-x-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / W / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-w-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / X / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-x-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / W / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / V / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-v-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / U / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-u-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / V / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-v-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / U / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-u-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / T / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-t-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / S / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / T / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / S / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / R / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-r-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / N / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-n-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / R / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-r-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / N / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-n-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / M / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / L / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / M / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / L / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / K / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-k-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / J / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-j-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / K / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-k-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / J / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-j-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / I / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-i-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / H / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / I / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-i-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / H / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / G / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-g-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / F / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / G / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / F / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / O / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-o-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / O / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-o-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / A / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / A / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / B / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / C / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / B / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / C / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / D / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / E / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / D / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / E / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / P / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-p-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / Q / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-q-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / P / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / Q / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-q-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / Z / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-z-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / Y / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-y-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / Z / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-z-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929719476</id>
+      <title>Resizable / Y / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43854477-resizable-y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838929162420</id>
+    <published>2021-09-01T11:07:02+05:00</published>
+    <updated>2021-09-01T11:07:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/zircon-heart-ring"/>
+    <title>Zircon Heart Ring</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1667801082.jpg?v=1630476894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> Cute/Romantic<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Water Drop<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> Prong Setting<br><strong>Fine or Fashion:</strong> Fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929162420</id>
+      <title>Resizable / Platinum  Plated / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42954357-resizable-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929162420</id>
+      <title>Resizable / Gold Plated / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42954357-resizable-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929162420</id>
+      <title>Resizable / Platinum  Plated / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42954357-resizable-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838929162420</id>
+      <title>Resizable / Gold Plated / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42954357-resizable-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838928441524</id>
+    <published>2021-09-01T11:05:46+05:00</published>
+    <updated>2021-09-01T11:05:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/aesthetic-chain-ring"/>
+    <title>Aesthetic Chain Ring</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1667795924.jpg?v=1630476901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Surface Width:</strong> 5mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> Prong Setting<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>Resizable / A-Platinum  Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-resizable-a-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>Resizable / A-Platinum  Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-resizable-a-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / B-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-b-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / B-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-b-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / B-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-b-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>9 / B-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-9-b-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / B-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-b-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>9 / B-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-9-b-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / B-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-b-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / B-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-b-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / B-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-b-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>9 / B-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-9-b-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / B-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-b-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>9 / B-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-9-b-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / E-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-e-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / F-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-f-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / F-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-f-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / F-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-f-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / F-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-f-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>Resizable / C-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-resizable-c-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>Resizable / C-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-resizable-c-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>Resizable / C-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-resizable-c-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>Resizable / C-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-resizable-c-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / D-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-d-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / D-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-d-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>8 / D-Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-8-d-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / E-Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-e-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / E-Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-e-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838928441524</id>
+      <title>7 / E-Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42954212-7-e-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838926049460</id>
+    <published>2021-09-01T11:02:33+05:00</published>
+    <updated>2021-09-01T11:02:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/delicate-evil-eye-rings"/>
+    <title>Delicate Evil Eye Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1568274108.jpg?v=1630476156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Face<br><strong>Surface Width:</strong> 2mm<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Color:</strong> Gold,Rose gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838926049460</id>
+      <title>7 / Silver Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>40749850-7-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838926049460</id>
+      <title>7 / Silver Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>40749850-7-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838926049460</id>
+      <title>7 / Rose Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>40749850-7-rose-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838926049460</id>
+      <title>7 / Rose Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>40749850-7-rose-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838926049460</id>
+      <title>7 / Gold Plated / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>40749850-7-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838926049460</id>
+      <title>7 / Gold Plated / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>40749850-7-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838924771508</id>
+    <published>2021-09-01T11:00:55+05:00</published>
+    <updated>2021-09-01T11:00:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/minimalist-open-rings"/>
+    <title>Minimalist Open Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1646023813.jpg?v=1630476923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Shape\pattern:</strong> Geometric<br><strong>Surface Width:</strong> 4.5mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings<br><strong>Color:</strong> Gold,Platinum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / B-Gold Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-b-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / A-Platinum Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-a-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / A-Platinum Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-a-platinum-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / A-Platinum Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-a-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / B-Platinum Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-b-platinum-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / B-Platinum Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-b-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / B-Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-b-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / B-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-b-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / B-Platinum Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-b-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / A-Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-a-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / A-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-a-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / A-Gold Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-a-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / C-Gold Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-c-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / C-Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-c-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / C-Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-c-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / C-Platinum Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-c-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / C-Platinum Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-c-platinum-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838924771508</id>
+      <title>Resizable / C-Platinum Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42344486-resizable-c-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838923493556</id>
+    <published>2021-09-01T10:59:41+05:00</published>
+    <updated>2021-09-01T10:59:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/stainless-steel-chain-rings"/>
+    <title>Stainless Steel Chain Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1600619187.jpg?v=1630476950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Shape\pattern:</strong> Geometric<br><strong>Compatibility:</strong> All Compatible<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Color:</strong> Gold,Platinum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>9 / Platinum Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-9-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>9 / Platinum Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-9-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>7 / Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-7-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>7 / Gold Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-7-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>8 / Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-8-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>8 / Gold Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-8-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>9 / Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-9-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>9 / Gold Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-9-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>7 / Platinum Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-7-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>7 / Platinum Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-7-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>8 / Platinum Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-8-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>8 / Platinum Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-8-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>9 / Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-9-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>7 / Platinum Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-7-platinum-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>8 / Platinum Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-8-platinum-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>9 / Platinum Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-9-platinum-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>7 / Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-7-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838923493556</id>
+      <title>8 / Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41292051-8-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838922150068</id>
+    <published>2021-09-01T10:58:27+05:00</published>
+    <updated>2021-09-01T10:58:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/stainless-steel-women-rings"/>
+    <title>Stainless Steel Women Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1665814832.jpg?v=1630476975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Geometric<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Occasion:</strong> party<br><strong>Item Type:</strong> Rings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 713 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-713-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 710 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-710-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 710 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-710-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 710 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-710-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 715 2 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-715-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 710 2 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-710-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 710 2 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-710-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 710 2 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-710-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 715 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-715-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 714 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-714-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 714 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-714-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 714 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-714-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 715 2 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-715-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 715 2 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-715-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 715 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-715-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 715 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-715-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 713 2 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-713-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 713 2 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-713-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 713 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-713-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 713 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-713-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 714 2 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-714-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 714 2 / United Kingdom</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-714-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 714 2 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-714-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838922150068</id>
+      <title>7 / 713 2 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42899013-7-713-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838918316212</id>
+    <published>2021-09-01T10:56:40+05:00</published>
+    <updated>2021-09-01T10:56:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/aesthetic-butterfly-rings"/>
+    <title>Aesthetic Butterfly Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1716860823.jpg?v=1630475803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> Prong Setting<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> party<br><strong>Color:</strong> Gold,Platinum</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838918316212</id>
+      <title>Resizable / Gold Plated / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44314388-resizable-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838918316212</id>
+      <title>Resizable / Platinum  Plated / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44314388-resizable-platinum-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838918316212</id>
+      <title>Resizable / Gold Plated / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44314388-resizable-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838918316212</id>
+      <title>Resizable / Platinum  Plated / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44314388-resizable-platinum-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838913335476</id>
+    <published>2021-09-01T10:55:12+05:00</published>
+    <updated>2021-09-01T10:55:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/vintage-butterfly-rings"/>
+    <title>Vintage Butterfly Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1713600296.jpg?v=1630476992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Gender:</strong> lovers'<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> Animal<br><strong>Surface Width:</strong> 10mm<br><strong>Item Type:</strong> Rings<br><strong>Type:</strong> Butterfly Rings<br><strong>Shape:</strong> Open Cuff Rings<br><strong>Decoration:</strong> Fashion Rings,Wedding Rings<br><strong>Occasion:</strong> Party,Wedding,Engagement,Gifts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838913335476</id>
+      <title>Resizable / Silver / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44221843-resizable-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838913335476</id>
+      <title>Resizable / Silver / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44221843-resizable-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838913335476</id>
+      <title>Resizable / Gold / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44221843-resizable-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838913335476</id>
+      <title>Resizable / Gold / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44221843-resizable-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838901014708</id>
+    <published>2021-09-01T10:51:46+05:00</published>
+    <updated>2021-09-01T10:51:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/among-the-wildflowers-rings"/>
+    <title>Among The Wildflowers Rings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1723618857.jpg?v=1630475510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Women<br><strong>Material:</strong> Metal<br><strong>Style:</strong> TRENDY<br><strong>Rings Type:</strong> Wedding Bands<br><strong>Shape\pattern:</strong> PLANT<br><strong>Surface Width:</strong> 2mm<br><strong>Compatibility:</strong> All Compatible<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> None<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Occasion:</strong> Wedding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>6 / As the pictures / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-6-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>7 / As the pictures / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-7-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>7 / As the pictures / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-7-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>6 / As the pictures / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-6-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>10 / As the pictures / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-10-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>9 / As the pictures / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-9-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>10 / As the pictures / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-10-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>8 / As the pictures / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-8-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>8 / As the pictures / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-8-as-the-pictures-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838901014708</id>
+      <title>9 / As the pictures / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44497891-9-as-the-pictures-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

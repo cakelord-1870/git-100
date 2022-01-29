@@ -1,0 +1,4177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://groovingbaby.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://groovingbaby.myshopify.com/collections/baby-shoes.atom"/>
+  <title>GroovingBaby</title>
+  <updated>2021-08-24T11:36:44+05:00</updated>
+  <author>
+    <name>GroovingBaby</name>
+  </author>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+    <published>2021-08-24T11:36:44+05:00</published>
+    <updated>2021-08-24T11:36:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/winter-newborn-baby-shoes"/>
+    <title>Winter Newborn Baby Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1648710451.jpg?v=1629796079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Winter<br><strong>Gender:</strong> baby unisex<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Upper Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> Butterfly-knot<br><strong>Closure Type:</strong> Slip-On<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> Rubber<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 1 / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-1-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 1 / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-1-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>yellow 1 / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-yellow-1-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>blue 2 / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-blue-2-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738921947341</id>
+      <title>pink 2 / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>16547534-pink-2-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+    <published>2021-08-24T11:35:16+05:00</published>
+    <updated>2021-08-24T11:35:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/anti-slip-flower-sneakers"/>
+    <title>Anti-Slip Flower Sneakers</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1701427962.jpg?v=1629796107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> All seasons<br><strong>Gender:</strong> Baby Girls<br><strong>Upper Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> Flower<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> floral<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> COTTON<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>B / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>B / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>B / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-b-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>H / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-h-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>H / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-h-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>H / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-h-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>H / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-h-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>H / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-h-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>H / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-h-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>P / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-p-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>P / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-p-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>P / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-p-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>P / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-p-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>P / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>P / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-p-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>R / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-r-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>R / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-r-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>R / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-r-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>R / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-r-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>R / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-r-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>R / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-r-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>W / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-w-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>W / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-w-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>W / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-w-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>W / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-w-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>W / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-w-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>W / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-w-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>Y / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-y-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>Y / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-y-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>Y / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-y-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>Y / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-y-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>Y / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-y-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738920440013</id>
+      <title>Y / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43885714-y-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+    <published>2021-08-24T11:34:19+05:00</published>
+    <updated>2021-08-24T11:34:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/cartoon-soft-baby-boy-shoes"/>
+    <title>Cartoon soft baby boy shoes</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1670552189.jpg?v=1629796150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> TOTEM<br><strong>Season:</strong> Spring/Autumn<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Animal Prints<br><strong>Department Name:</strong> Baby<br><strong>Gender:</strong> Unisex<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> COTTON<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Army Green / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-army-green-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Beige / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-beige-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Beige / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-beige-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Beige / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-beige-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Beige / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-beige-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Beige / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-beige-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Beige / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-beige-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Black / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-black-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Blue / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-blue-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Gold / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gold-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>GRAY / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-gray-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Dark Grey / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-dark-grey-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>green / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-green-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Brown / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-brown-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Clear / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-clear-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Clear / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-clear-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Clear / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-clear-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Clear / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-clear-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Clear / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-clear-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738919325901</id>
+      <title>Clear / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>41361126-clear-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+    <published>2021-08-24T11:32:37+05:00</published>
+    <updated>2021-08-24T11:32:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/cotton-baby-girls-shoes"/>
+    <title>Cotton Baby Girls Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1428849311.jpg?v=1629796204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> Shallow<br><strong>Season:</strong> Spring/Autumn<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Gender:</strong> Unisex<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> COTTON<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092Y / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092y-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1408B / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1408b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1408B / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1408b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1408B / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1408b-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1408B / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1408b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1408B / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1408b-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092L / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092l-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0092P / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0092p-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091Y / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091y-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091L / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091l-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0091P / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0091p-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Z / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090z-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090Y / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090y-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>JM0090P / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-jm0090p-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 7-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410Z / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410z-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410R / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410r-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410R / 13-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410r-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410R / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410r-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410P / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738917753037</id>
+      <title>YTM1410P / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>22414294-ytm1410p-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+    <published>2021-08-24T11:31:38+05:00</published>
+    <updated>2021-08-24T11:31:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/soft-sole-anti-skid-sneaker"/>
+    <title>Soft Sole Anti-skid Sneaker</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1674899241.jpg?v=1629796609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Spring &amp; Autumn<br><strong>Gender:</strong> baby unisex<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Upper Material:</strong> Canvas<br><strong>Fashion Element:</strong> Cross-tied<br><strong>Closure Type:</strong> Lace-up<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> COTTON<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>B / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-b-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>C / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-c-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>C / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-c-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>C / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-c-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>G / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-g-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>H / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-h-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>K / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-k-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>YG / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-yg-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>DL / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-dl-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>R / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-r-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>MR / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-mr-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>MR / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-mr-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>MR / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-mr-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>MR / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-mr-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>MR / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-mr-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>MR / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-mr-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 3 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 3 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>P / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-p-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 1 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 1 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 2 / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 2 / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>W / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-w-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>Y / 1 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-y-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>Y / 2 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-y-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916901069</id>
+      <title>Y / 3 / United Kingdom</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43151503-y-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+    <published>2021-08-24T11:30:51+05:00</published>
+    <updated>2021-08-24T11:30:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/autumn-spring-casual-shoes"/>
+    <title>Autumn/Spring Casual Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1674055477.jpg?v=1629786673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Winter<br><strong>Gender:</strong> baby unisex<br><strong>Upper Material:</strong> Canvas<br><strong>Fashion Element:</strong> Cross-tied<br><strong>Closure Type:</strong> Lace-up<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> Rubber<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>B / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-b-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>C / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-c-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>W / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-w-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Z / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-z-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Sky Blue / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-sky-blue-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Red / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-red-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Wine red / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-wine-red-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>green / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-green-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Blue / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-blue-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 0-6 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 0-6 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 7-12 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 7-12 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 13-18 Months / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738916180173</id>
+      <title>Pink / 13-18 Months / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>43127061-pink-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+    <published>2021-08-24T11:29:55+05:00</published>
+    <updated>2021-08-24T11:29:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/infant-baby-girls-shoes"/>
+    <title>Infant Baby Girls Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1691612204.jpg?v=1629796482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Type:</strong> Flat with<br><strong>Item Type:</strong> Sandals<br><strong>Upper Material:</strong> PU<br><strong>Season:</strong> Summer<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Gender:</strong> Baby Girl</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 0-6 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 7-12 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 13-18 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>B / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-b-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 0-6 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 0-6 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 7-12 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 7-12 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 13-18 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 13-18 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>C / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-c-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 0-6 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 0-6 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 7-12 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 7-12 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 13-18 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 13-18 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>P / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-p-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 0-6 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 0-6 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 7-12 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 7-12 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 13-18 Months / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 13-18 Months / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738915393741</id>
+      <title>W / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43631687-w-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+    <published>2021-08-24T11:28:57+05:00</published>
+    <updated>2021-08-24T11:28:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://groovingbaby.myshopify.com/products/first-walkers-cotton-soft-shoes"/>
+    <title>First Walkers cotton soft shoes</title>
+    <s:type></s:type>
+    <s:vendor>GroovingBaby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/2318/6381/products/product-image-1614064183.jpg?v=1629796505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GroovingBaby<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Summer<br><strong>Gender:</strong> Baby Girls<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Upper Material:</strong> Fur<br><strong>Fashion Element:</strong> Butterfly-knot<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>B2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-b2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P1 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p1-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>P2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-p2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>H1 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-h1-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>R1 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-r1-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>W2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-w2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y1 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y1-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 0-6 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 6-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 6-12 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 12-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 12-18 Months / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groovingbaby.myshopify.com/products/6738914574541</id>
+      <title>Y2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>41532884-y2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

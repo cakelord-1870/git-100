@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lilywomen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lilywomen.myshopify.com/collections/shorts.atom"/>
+  <title>lilywomen</title>
+  <updated>2021-04-27T10:44:49+05:00</updated>
+  <author>
+    <name>lilywomen</name>
+  </author>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+    <published>2021-04-27T10:44:49+05:00</published>
+    <updated>2021-04-27T10:44:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/comfortable-polyester-shorts"/>
+    <title>Comfortable Polyester Shorts</title>
+    <s:type>Short</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-910958216.jpg?v=1619502297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Short<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Gender:</strong> WOMEN<br><strong>Fit Type:</strong> Skinny<br><strong>Style:</strong> Casual<br><strong>Item Type:</strong> Shorts<br><strong>Decoration:</strong> Ribbons<br><strong>Decoration:</strong> NONE<br><strong>Closure Type:</strong> Elastic Waist<br><strong>Waist Type:</strong> HIGH<br><strong>Material Composition:</strong> Cotton<br><strong>Pant Style:</strong> Regular<br><strong>Pattern Type:</strong> Solid<br><strong>Women Shorts Color:</strong> Black/White/Blue/Rosered/wineRed/SkyBlue/Yellow<br><strong>Women Shorts Size:</strong> S/M/L<br><strong>Women Shorts Style:</strong> Fashion/Casual<br><strong>Fashion Women Shorts:</strong> Solid Women Shorts<br><strong>Sport Women Shorts:</strong> Fold Women Shorts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Women short</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Black / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Black / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Black / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>RoseRed / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-rosered-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>RoseRed / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-rosered-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>RoseRed / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-rosered-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>SkyBlue / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-skyblue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>SkyBlue / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-skyblue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>SkyBlue / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-skyblue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>White / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>White / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>White / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>WineRed / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-winered-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>WineRed / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-winered-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>WineRed / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-winered-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-yellow-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-yellow-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698605346981</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>24090402-yellow-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+    <published>2021-04-27T10:43:25+05:00</published>
+    <updated>2021-04-27T10:43:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/summer-vintage-shorts-track-short"/>
+    <title>Summer Vintage Shorts Track Short</title>
+    <s:type>Short</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1426858433.jpg?v=1619508333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Short<br>
+        <strong>Price: </strong>
+            13.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Decoration:</strong> NONE<br><strong>Waist Type:</strong> HIGH<br><strong>Pant Style:</strong> Regular<br><strong>Fit Type:</strong> Skinny<br><strong>Style:</strong> Casual<br><strong>Closure Type:</strong> Elastic Waist<br><strong>Material Composition:</strong> Polyester<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women short</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 5 / L</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 5 / XL</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 5 / S</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 5 / M</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 4 / XL</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-4-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 5 / XS</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-5-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 2 / XL</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 3 / XS</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-3-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 2 / M</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 2 / L</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 2 / XS</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-2-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 2 / S</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 1 / L</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 1 / XL</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 4 / M</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-4-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 4 / L</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-4-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 4 / XS</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-4-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 4 / S</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-4-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 3 / L</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-3-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 3 / XL</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-3-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 3 / S</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-3-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 3 / M</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-3-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 1 / S</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-1-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 1 / M</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698603741349</id>
+      <title>shorts 1 / XS</title>
+      <s:price currency="USD">13.12</s:price>
+      <s:sku>37427483-shorts-1-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+    <published>2021-04-27T10:41:52+05:00</published>
+    <updated>2021-04-27T10:41:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/high-waist-biker-shorts"/>
+    <title>High Waist Biker Shorts</title>
+    <s:type>Short</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1398824216.jpg?v=1619508341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Short<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Nylon<br><strong>Material:</strong> Terylene<br><strong>Gender:</strong> WOMEN<br><strong>Fit Type:</strong> Skinny<br><strong>Style:</strong> Casual<br><strong>Item Type:</strong> Shorts<br><strong>Decoration:</strong> NONE<br><strong>Closure Type:</strong> Elastic Waist<br><strong>Waist Type:</strong> HIGH<br><strong>Material Composition:</strong> Polyester<br><strong>Pant Style:</strong> Regular<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women short</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 3 / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-3-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 3 / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-3-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 2 / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 3 / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-3-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 1 / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-1-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 2 / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-2-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 2 / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-2-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 1 / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698601808037</id>
+      <title>Women shorts 1 / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>36756622-women-shorts-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+    <published>2021-04-27T10:41:00+05:00</published>
+    <updated>2021-04-27T10:41:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/ladies-slim-high-waist-shorts"/>
+    <title>Ladies Slim High Waist Shorts</title>
+    <s:type>Short</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1695811524.jpg?v=1619508348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Short<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Decoration:</strong> PATTERN<br><strong>Waist Type:</strong> HIGH<br><strong>Pant Style:</strong> Regular<br><strong>Fit Type:</strong> Skinny<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Style:</strong> Casual<br><strong>Closure Type:</strong> Elastic Waist<br><strong>Material Composition:</strong> nylon<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women short</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB BLUE / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB Purple / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-purple-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB BLUE / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB BLUE / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB Purple / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-purple-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB Purple / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-purple-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB Purple / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-purple-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB PINK / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-pink-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>ABGray / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-abgray-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB PINK / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB PINK / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>ABGray / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-abgray-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB BLUE / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>ABGray / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-abgray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>ABGray / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-abgray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>Black / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>AB PINK / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-ab-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>Black / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698600923301</id>
+      <title>Black / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>38878761-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+    <published>2021-04-27T10:38:20+05:00</published>
+    <updated>2021-04-27T10:38:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/summer-sportwear-shorts"/>
+    <title>Summer Sportwear Shorts</title>
+    <s:type>Short</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-843263074.jpg?v=1619508355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Short<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Material:</strong> Cotton<br><strong>Gender:</strong> WOMEN<br><strong>Fit Type:</strong> Skinny<br><strong>Style:</strong> Casual<br><strong>Item Type:</strong> Shorts<br><strong>Decoration:</strong> Bow<br><strong>Closure Type:</strong> Elastic Waist<br><strong>Waist Type:</strong> HIGH<br><strong>Material Composition:</strong> Cotton<br><strong>Pant Style:</strong> Regular<br><strong>Pattern Type:</strong> Solid<br><strong>Women Shorts:</strong> Shorts<br><strong>Elastic Waist:</strong> 11 C<br><strong>Skinny Shorts:</strong> Polyester Spandex<br><strong>Casual Shorts:</strong> Solid Shorts<br><strong>Regular Shorts:</strong> High Waist Shorts<br><strong>Sexy Shorts:</strong> Shorts Summer<br><strong>Push Up:</strong> S/M/L<br><strong>Shorts Feminino:</strong> Women's Sports Pants</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women short</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Red / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Red / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Red / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>BlueGreen / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-bluegreen-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>BlueGreen / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-bluegreen-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>BlueGreen / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-bluegreen-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Green / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-green-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Green / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-green-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Green / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-green-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Khaki / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-khaki-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-khaki-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-khaki-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>ArmyGreen / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-armygreen-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>ArmyGreen / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-armygreen-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>ArmyGreen / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-armygreen-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Brown / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-brown-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-brown-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-brown-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-gray-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-gray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597843109</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21404206-gray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+    <published>2021-04-27T10:37:03+05:00</published>
+    <updated>2021-04-27T10:37:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/women-fitness-shorts"/>
+    <title>Women Fitness Shorts</title>
+    <s:type>Short</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1417879521.jpg?v=1619508372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Short<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Nylon<br><strong>Waist Type:</strong> HIGH<br><strong>Pant Style:</strong> Regular<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Casual<br><strong>Material Composition:</strong> Polyester<br><strong>Fit Type:</strong> Skinny<br><strong>Closure Type:</strong> Elastic Waist<br><strong>Decoration:</strong> NONE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women short</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 5 / XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-5-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 5 / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 5 / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 5 / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 4 / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-4-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 4 / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-4-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 4 / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-4-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 4 / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-4-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 5 / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 1 / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 2 / XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-2-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 2 / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 2 / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 1 / XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-1-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 1 / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-1-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 1 / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 1 / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 3 / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-3-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 3 / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-3-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 3 / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-3-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 4 / XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-4-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 2 / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 2 / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 3 / XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-3-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698597089445</id>
+      <title>shorts 3 / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37221474-shorts-3-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

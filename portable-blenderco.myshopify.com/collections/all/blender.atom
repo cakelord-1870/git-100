@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://portable-blenderco.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://portable-blenderco.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://portable-blenderco.myshopify.com/collections/all.atom"/>
+  <title>portable blenderco</title>
+  <updated>2021-05-22T10:48:26+05:00</updated>
+  <author>
+    <name>portable blenderco</name>
+  </author>
+  <entry>
+    <id>https://portable-blenderco.myshopify.com/products/6774806282392</id>
+    <published>2021-05-22T10:48:26+05:00</published>
+    <updated>2021-05-22T10:48:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://portable-blenderco.myshopify.com/products/portable-juice-blenders"/>
+    <title>Portable juice blenders</title>
+    <s:type>Blender</s:type>
+    <s:vendor>portable blenderco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0565/9246/6072/products/product-image-1647598240.jpg?v=1621662511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>portable blenderco<br>
+        <strong>Type: </strong>Blender<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong> Capacity (l)</strong>: &lt;0.5L<br><strong>Power (W)</strong>: &lt;750W<br><strong>Function</strong>: Vegetable cutting &amp; More<br><strong>Controls Type</strong>: Push Button<br><strong>Rotation Rate(RPM)</strong>: 24000<br><strong>Chopper Material</strong>: Glass<br><strong>Style</strong>: Standing<br><strong>Number of Pieces</strong>: 1<br><strong>Power (W)</strong>: &lt;750W<br><strong>Weigh</strong>t: 0.495kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blender</s:tag>
+    <s:tag>Juicer</s:tag>
+    <s:variant>
+      <id>https://portable-blenderco.myshopify.com/products/6774806282392</id>
+      <title>blue</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42385104-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://portable-blenderco.myshopify.com/products/6774806282392</id>
+      <title>pink</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42385104-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://portable-blenderco.myshopify.com/products/6774806282392</id>
+      <title>purple</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42385104-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://portable-blenderco.myshopify.com/products/6774806282392</id>
+      <title>green</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42385104-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

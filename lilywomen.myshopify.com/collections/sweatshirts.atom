@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lilywomen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lilywomen.myshopify.com/collections/sweatshirts.atom"/>
+  <title>lilywomen</title>
+  <updated>2021-04-27T11:35:00+05:00</updated>
+  <author>
+    <name>lilywomen</name>
+  </author>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+    <published>2021-04-27T11:35:00+05:00</published>
+    <updated>2021-04-27T11:35:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/autumn-winter-coats-sweatshirt"/>
+    <title>Autumn Winter Coats Sweatshirt</title>
+    <s:type>Sweatshirt</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734373233.jpg?v=1619505309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Sweatshirt<br>
+        <strong>Price: </strong>
+            19.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Season:</strong> Winter<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Hooded:</strong> Yes<br><strong>Thickness:</strong> Fleece<br><strong>Fabric Type:</strong> Fleece<br><strong>Weight:</strong> 300g<br><strong>Type:</strong> Pullovers<br><strong>Pattern Type:</strong> Solid<br><strong>Clothing Length:</strong> Regular<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> Hooded<br><strong>Clothing version:</strong> Easy<br><strong>Style:</strong> Simple Commuter / Korean Version<br><strong>Popular elements:</strong> purity<br><strong>How to dress:</strong> Sleeve<br><strong>Length of garment/sleeve:</strong> Regular/long sleeve<br><strong>Collar type:</strong> Hood<br><strong>Size:</strong> S-2XL<br><strong>Season:</strong> Autumn Winter<br><strong>Color:</strong> Gray,Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women sweatshirt</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Gray / XXXL</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-gray-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Gray / XXL</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-gray-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-black-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698668720293</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">19.32</s:price>
+      <s:sku>44774977-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+    <published>2021-04-27T11:34:07+05:00</published>
+    <updated>2021-04-27T11:34:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/pullover-pajama-women-hoodies"/>
+    <title>Pullover Pajama Women Hoodies</title>
+    <s:type>Sweatshirt</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1725223233.jpg?v=1619509467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Sweatshirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Season:</strong> Spring/Autumn<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Hooded:</strong> Yes<br><strong>Thickness:</strong> Fleece<br><strong>Fabric Type:</strong> Flannel<br><strong>Type:</strong> Pullovers<br><strong>Pattern Type:</strong> Solid<br><strong>Clothing Length:</strong> Regular<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> Hooded<br><strong>hoodies women:</strong> hoodie women<br><strong>oversized hoodie clothes:</strong> winter clothes women<br><strong>sweatshirt women:</strong> harajuku hoodie<br><strong>moletom feminino:</strong> streetwear women<br><strong>oversized sweatshirt:</strong> hoodies for women<br><strong>sweatshirt vintage:</strong> woman jacket<br><strong>hip hop women hoodie:</strong> autumn clothes women<br><strong>women sweatshirt streetwear:</strong> 2020 Spring Autumn Womens Clothes<br><strong>Women Printing Loose Leisure Hoodie:</strong> Sweatshirt Female<br><strong>women loose hoodie tops plus size:</strong> women pajama homewear nightwear</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Women sweatshirt</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Orange Pink / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-orange-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Wine Red / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-wine-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / 5XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-5xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / XXXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / 4XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-purple-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698667376805</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44540609-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+    <published>2021-04-27T11:32:21+05:00</published>
+    <updated>2021-04-27T11:32:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/fashion-graffiti-print-streetwear"/>
+    <title>Fashion Graffiti Print Streetwear</title>
+    <s:type>Sweatshirt</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734373342.jpg?v=1619505147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Sweatshirt<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Season:</strong> Spring/Autumn<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Hooded:</strong> No<br><strong>Thickness:</strong> Fleece<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Model Number:</strong> Women Hoodies<br><strong>Weight:</strong> 230<br><strong>Type:</strong> Pullovers<br><strong>Pattern Type:</strong> Letter<br><strong>Clothing Length:</strong> Long<br><strong>Style:</strong> HIP HOP<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Collar:</strong> O-Neck</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women sweatshirt</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Gray / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-gray-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Pink / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-pink-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-blue-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698665050277</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>44774981-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+    <published>2021-04-27T11:31:02+05:00</published>
+    <updated>2021-04-27T11:31:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/velvet-warm-casual-sweatshirts"/>
+    <title>Velvet Warm Casual Sweatshirts</title>
+    <s:type>Sweatshirt</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1727433281.jpg?v=1619505085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Sweatshirt<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Season:</strong> Winter<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Hooded:</strong> Yes<br><strong>Thickness:</strong> Fleece<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Type:</strong> Pullovers<br><strong>Pattern Type:</strong> Solid<br><strong>Clothing Length:</strong> Regular<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> Hooded</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women sweatshirt</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / 5XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / 4XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / XXXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>black / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / 5XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / 4XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / XXXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>gray / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-gray-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / 5XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / 4XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / XXXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>wine red / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-wine-red-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / 5XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / 4XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / XXXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>yellow / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-yellow-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / 5XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / 4XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / XXXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>blue / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-blue-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / M</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / S</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / 5XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / 4XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / XXXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>white / XXL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-white-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>pink / XL</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698663706789</id>
+      <title>pink / L</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>44594455-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+    <published>2021-04-27T11:29:31+05:00</published>
+    <updated>2021-04-27T11:29:31+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/long-sleeve-lady-hooded-sweatshirts"/>
+    <title>Long Sleeve Lady Hooded Sweatshirts</title>
+    <s:type>Sweatshirt</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1595159197.jpg?v=1619504990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Sweatshirt<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Season:</strong> Spring/Autumn<br><strong>Item Type:</strong> Hoodies<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Hooded:</strong> Yes<br><strong>Thickness:</strong> Fleece<br><strong>Fabric Type:</strong> Flannel<br><strong>Type:</strong> Pullovers<br><strong>Gender:</strong> WOMEN<br><strong>Pattern Type:</strong> Solid<br><strong>Clothing Length:</strong> Regular<br><strong>Style:</strong> Casual<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Collar:</strong> Hooded<br><strong>hoodies women:</strong> hoodie women<br><strong>oversized hoodie clothes:</strong> winter clothes women<br><strong>sweatshirt women:</strong> harajuku hoodie<br><strong>moletom feminino:</strong> streetwear women<br><strong>oversized sweatshirt:</strong> hoodies for women<br><strong>sweatshirt vintage:</strong> woman jacket<br><strong>hip hop women hoodie:</strong> autumn clothes women<br><strong>women sweatshirt streetwear:</strong> 2020 Spring Autumn Womens Clothes<br><strong>Women Printing Loose Leisure Hoodie:</strong> Sweatshirt Female<br><strong>women loose hoodie tops plus size:</strong> women pajama homewear nightwear</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women sweatshirt</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Purple / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Orange Pink / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-orange-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Wine Red / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-wine-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-4xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698661806245</id>
+      <title>Blue / 5XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41148825-blue-5xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698659578021</id>
+    <published>2021-04-27T11:28:28+05:00</published>
+    <updated>2021-04-27T11:28:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/hoodie-with-sleeves-sweatshirt"/>
+    <title>Hoodie With Sleeves Sweatshirt</title>
+    <s:type>Sweatshirt</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1600418310.jpg?v=1619509550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>Sweatshirt<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Season:</strong> Winter<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Hooded:</strong> Yes<br><strong>Thickness:</strong> Thick （Winter)<br><strong>Fabric Type:</strong> Fleece<br><strong>Type:</strong> Pullovers<br><strong>Pattern Type:</strong> Solid<br><strong>Clothing Length:</strong> Long<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>sweatshirt women:</strong> sweatshirt women<br><strong>sudadera mujer:</strong> sudadera mujer<br><strong>oversized hoodie:</strong> oversized hoodie<br><strong>bluza damska:</strong> bluza damska<br><strong>hoodies for women:</strong> hoodies for women<br><strong>sweatshirt for women:</strong> sweatshirt for women<br><strong>bluzy damskie:</strong> bluzy damskie<br><strong>Blanket With Sleeves:</strong> Blanket With Sleeves<br><strong>Hooded Pocket Blanket:</strong> Hooded Pocket Blanket<br><strong>TV Blanket Sweatshirt:</strong> TV Blanket Sweatshirt<br><strong>Hooded Blanket:</strong> Hooded Blanket<br><strong>Sherpa Blanket:</strong> Sherpa Blanket<br><strong>Pocket Hoodie:</strong> Pocket Hoodie<br><strong>Sudadera Mujer:</strong> Sudadera Mujer<br><strong>fleece hoodie:</strong> fleece hoodie<br><strong>hoodies women:</strong> hoodies women<br><strong>women hoodies:</strong> women hoodies<br><strong>warm sweatshirt:</strong> warm sweatshirt<br><strong>winter sweatshirt:</strong> winter sweatshirt<br><strong>Sudaderas:</strong> Sudaderas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women sweatshirt</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698659578021</id>
+      <title>blue / One Size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41287747-blue-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698659578021</id>
+      <title>grey / One Size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41287747-grey-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698659578021</id>
+      <title>black / One Size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41287747-black-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698659578021</id>
+      <title>red / One Size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41287747-red-one-size-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

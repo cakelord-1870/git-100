@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spectpad.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spectpad.myshopify.com/collections/headphones.atom"/>
+  <title>Spectpad</title>
+  <updated>2021-09-08T15:00:00+05:00</updated>
+  <author>
+    <name>Spectpad</name>
+  </author>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972624142497</id>
+    <published>2021-09-08T15:00:00+05:00</published>
+    <updated>2021-09-08T15:00:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/power-bank-20000mah-portable-charging"/>
+    <title>Power Bank 20000mAh Portable Charging</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1832861684.jpg?v=1631165167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.54 - 50.32
+            <a href="https://spectpad.myshopify.com/products/power-bank-20000mah-portable-charging">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Battery Type:</strong> Li-polymer Battery<br><strong>Features:</strong> Digital Display<br><strong>Output Interface:</strong> Double USB<br><strong>Certification:</strong> CE<br><strong>Input Interface:</strong> Micro USB<br><strong>Input Interface:</strong> USB Type C<br><strong>Shell Material:</strong> Plastic<br><strong>Type:</strong> Portable Power Bank<br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>Belgium / LT20</title>
+      <s:price currency="USD">39.14</s:price>
+      <s:sku>22149668-belgium-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>France / LT20</title>
+      <s:price currency="USD">39.14</s:price>
+      <s:sku>22149668-france-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>Russian Federation / LT20</title>
+      <s:price currency="USD">33.54</s:price>
+      <s:sku>22149668-russian-federation-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>Australia / LT20</title>
+      <s:price currency="USD">42.86</s:price>
+      <s:sku>22149668-australia-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>SPAIN / LT20</title>
+      <s:price currency="USD">39.14</s:price>
+      <s:sku>22149668-spain-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>GERMANY / LT20</title>
+      <s:price currency="USD">39.14</s:price>
+      <s:sku>22149668-germany-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>United Kingdom / LT20</title>
+      <s:price currency="USD">39.14</s:price>
+      <s:sku>22149668-united-kingdom-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>United Kingdom / LT20PS</title>
+      <s:price currency="USD">42.86</s:price>
+      <s:sku>22149668-united-kingdom-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>United States / LT20PS</title>
+      <s:price currency="USD">46.60</s:price>
+      <s:sku>22149668-united-states-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>China / LT20PS</title>
+      <s:price currency="USD">50.32</s:price>
+      <s:sku>22149668-china-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>China / LT20</title>
+      <s:price currency="USD">46.60</s:price>
+      <s:sku>22149668-china-lt20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>Belgium / LT20PS</title>
+      <s:price currency="USD">42.86</s:price>
+      <s:sku>22149668-belgium-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>France / LT20PS</title>
+      <s:price currency="USD">42.86</s:price>
+      <s:sku>22149668-france-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>Russian Federation / LT20PS</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>22149668-russian-federation-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>Australia / LT20PS</title>
+      <s:price currency="USD">46.60</s:price>
+      <s:sku>22149668-australia-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>SPAIN / LT20PS</title>
+      <s:price currency="USD">42.86</s:price>
+      <s:sku>22149668-spain-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972624142497</id>
+      <title>GERMANY / LT20PS</title>
+      <s:price currency="USD">42.86</s:price>
+      <s:sku>22149668-germany-lt20ps</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972581675169</id>
+    <published>2021-09-08T14:47:15+05:00</published>
+    <updated>2021-09-08T14:47:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/gaming-headset-wired-surround-sound"/>
+    <title>Gaming Headset Wired Surround Sound</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1644966268.jpg?v=1631101825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.15 - 52.24
+            <a href="https://spectpad.myshopify.com/products/gaming-headset-wired-surround-sound">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Certification:</strong> CE<br><strong>Vocalism Principle:</strong> Other<br><strong>Control Button:</strong> Yes<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Is wireless:</strong> No<br><strong>Line Length:</strong> 2.2mm<br><strong>Support APP:</strong> No<br><strong>Function:</strong> For Internet Bar<br><strong>Function:</strong> for Video Game<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Blue Headset / United Kingdom</title>
+      <s:price currency="USD">52.24</s:price>
+      <s:sku>39329254-black-blue-headset-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Blue Headset / United States</title>
+      <s:price currency="USD">52.24</s:price>
+      <s:sku>39329254-black-blue-headset-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Silver Headset / United States</title>
+      <s:price currency="USD">52.24</s:price>
+      <s:sku>39329254-black-silver-headset-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Silver Headset / United Kingdom</title>
+      <s:price currency="USD">52.24</s:price>
+      <s:sku>39329254-black-silver-headset-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Red  Headset / United Kingdom</title>
+      <s:price currency="USD">52.24</s:price>
+      <s:sku>39329254-black-red-headset-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Red  Headset / United States</title>
+      <s:price currency="USD">52.24</s:price>
+      <s:sku>39329254-black-red-headset-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972581675169</id>
+      <title>Black-Red  Headset / SPAIN</title>
+      <s:price currency="USD">40.15</s:price>
+      <s:sku>39329254-black-red-headset-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972574859425</id>
+    <published>2021-09-08T14:45:27+05:00</published>
+    <updated>2021-09-08T14:45:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/wired-headphoneswith-noise-reduction-sound"/>
+    <title>Wired HeadphonesWith Noise Reduction Sound</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1615646311.jpg?v=1631167073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.85 - 37.87
+            <a href="https://spectpad.myshopify.com/products/wired-headphoneswith-noise-reduction-sound">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Certification:</strong> CE<br><strong>Vocalism Principle:</strong> Dynamic<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> No<br><strong>Communication:</strong> Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 103±3dBdB</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Gray Headset / China</title>
+      <s:price currency="USD">27.85</s:price>
+      <s:sku>13681896-gray-headset-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>White Headset / United Kingdom</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-white-headset-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>White Headset / United States</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-white-headset-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>White Headset / China</title>
+      <s:price currency="USD">27.85</s:price>
+      <s:sku>13681896-white-headset-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Blue and Green / United States</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-blue-and-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Blue and Green / China</title>
+      <s:price currency="USD">27.85</s:price>
+      <s:sku>13681896-blue-and-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Blue Headset / China</title>
+      <s:price currency="USD">27.85</s:price>
+      <s:sku>13681896-blue-headset-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Black Headset / United Kingdom</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-black-headset-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Black Headset / United States</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-black-headset-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Black Headset / China</title>
+      <s:price currency="USD">27.85</s:price>
+      <s:sku>13681896-black-headset-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972574859425</id>
+      <title>Green / United Kingdom</title>
+      <s:price currency="USD">37.87</s:price>
+      <s:sku>13681896-green-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972568928417</id>
+    <published>2021-09-08T14:43:36+05:00</published>
+    <updated>2021-09-08T14:43:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/noise-canceling-headphone-hifi-stereo-bluetooth"/>
+    <title>Noise Canceling Headphone HiFi Stereo Bluetooth</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1525051780.jpg?v=1631165099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.30 - 47.85
+            <a href="https://spectpad.myshopify.com/products/noise-canceling-headphone-hifi-stereo-bluetooth">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Certification:</strong> CE<br><strong>Vocalism Principle:</strong> Dynamic<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> Yes<br><strong>Communication:</strong> Wireless+Wired<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 109±3dBdB<br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972568928417</id>
+      <title>Black Headphone / SPAIN</title>
+      <s:price currency="USD">43.30</s:price>
+      <s:sku>32269604-black-headphone-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972568928417</id>
+      <title>Black Headphone / Russian Federation</title>
+      <s:price currency="USD">43.30</s:price>
+      <s:sku>32269604-black-headphone-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972568928417</id>
+      <title>Black Headphone / China</title>
+      <s:price currency="USD">43.30</s:price>
+      <s:sku>32269604-black-headphone-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972568928417</id>
+      <title>Black Headphone / United States</title>
+      <s:price currency="USD">47.85</s:price>
+      <s:sku>32269604-black-headphone-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972568928417</id>
+      <title>Black Headphone / United Kingdom</title>
+      <s:price currency="USD">47.85</s:price>
+      <s:sku>32269604-black-headphone-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spectpad.myshopify.com/products/6972564963489</id>
+    <published>2021-09-08T14:42:06+05:00</published>
+    <updated>2021-09-08T14:42:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://spectpad.myshopify.com/products/bluetooth-5-0-headphone-wireless"/>
+    <title>Bluetooth 5.0 Headphone Wireless</title>
+    <s:type></s:type>
+    <s:vendor>Spectpad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0595/4138/9473/products/product-image-1688860025.jpg?v=1631101682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spectpad<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Headphone<br><strong>Certification:</strong> CE<br><strong>Vocalism Principle:</strong> Other<br><strong>Control Button:</strong> Yes<br><strong>Active Noise-Cancellation:</strong> No<br><strong>Communication:</strong> wireless<br><strong>Volume Control:</strong> Yes<br><strong>Sensitivity:</strong> 120dBdB<br><strong>Wireless Type:</strong> bluetooth<br><strong>Is wireless:</strong> Yes<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972564963489</id>
+      <title>Black-2 / United States</title>
+      <s:price currency="USD">37.44</s:price>
+      <s:sku>21909380-black-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972564963489</id>
+      <title>Black-1 / United States</title>
+      <s:price currency="USD">37.44</s:price>
+      <s:sku>21909380-black-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spectpad.myshopify.com/products/6972564963489</id>
+      <title>Black-1 / United Kingdom</title>
+      <s:price currency="USD">37.44</s:price>
+      <s:sku>21909380-black-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

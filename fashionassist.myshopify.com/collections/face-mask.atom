@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fashionassist.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fashionassist.myshopify.com/collections/face-mask.atom"/>
+  <title>FashionAssist</title>
+  <updated>2021-06-11T11:09:05+05:00</updated>
+  <author>
+    <name>FashionAssist</name>
+  </author>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+    <published>2021-06-11T11:09:05+05:00</published>
+    <updated>2021-06-11T11:09:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/cotton-masquerade-face-mask"/>
+    <title>Cotton Masquerade Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1694695821.jpg?v=1623391752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Masks<br><strong>Gender:</strong> women <br><strong>Department Name:</strong> Adult<br><strong>Characters:</strong> woman<br><strong>Material:</strong> COTTON<br><strong>mask for the face:</strong> letter printed pour mask<br><strong>mascarilla:</strong> black Tapabocas<br><strong>Breathable:</strong> anti-dust<br><strong>printing:</strong> Dust Proof<br><strong>washable masque:</strong> fashion Reutilisable mascarillas<br><strong>masques tissue:</strong> windproof</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>A / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>B / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>C / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>D / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>F / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>G / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>H / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>I / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-i-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>J / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-j-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>K / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-k-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>L / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>M / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>N / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-n-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>O / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-o-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831855468711</id>
+      <title>P / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>43718428-p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6831835742375</id>
+    <published>2021-06-11T10:58:42+05:00</published>
+    <updated>2021-06-11T10:58:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/women-lace-face-mask"/>
+    <title>Women Lace Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1776976232.jpg?v=1623391125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Masks<br><strong>Department Name:</strong> Adult<br><strong>Characters:</strong> mask for the face<br><strong>Material:</strong> Polyester<br><strong>mask for the face:</strong> pour mask<br><strong>mascarilla:</strong> black Tapabocas<br><strong>Breathable face mask:</strong> anti-dust<br><strong>solid dust masks:</strong> Dust Proof<br><strong>washable masque:</strong> fashion Reutilisable mascarillas<br><strong>masques tissue:</strong> windproof<br><strong>gender:</strong> women </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831835742375</id>
+      <title>BK / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>45715525-bk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831835742375</id>
+      <title>WH / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>45715525-wh-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+    <published>2021-06-11T10:52:52+05:00</published>
+    <updated>2021-06-11T10:52:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/adult-ice-silk-breathable-dust-cotton-mask-sunscreen-washable-fabric-mask-for-mouth-mask-maske-w-halloween-cosplay"/>
+    <title>Ice Silk Breathable Dust Free Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1776976438.jpg?v=1623390779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Masks<br><strong>Gender:</strong> Women<br><strong>Department Name:</strong> Adult<br><strong>Characters:</strong> mask for the face<br><strong>Material:</strong> COTTON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>SL / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-sl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>PP / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-pp-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>PK / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-pk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>GN / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-gn-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>GD / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-gd-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>BW / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-bw-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831824404647</id>
+      <title>BK / United States</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>45715531-bk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+    <published>2021-06-11T10:50:49+05:00</published>
+    <updated>2021-06-11T10:50:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fashionassist.myshopify.com/products/bling-long-tassel-face-mask"/>
+    <title>Bling Long Tassel Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>FashionAssist</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0530/7000/4391/products/product-image-1776976502.jpg?v=1623392729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FashionAssist<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Masks<br><strong>Gender:</strong> Women<br><strong>Department Name:</strong> Adult<br><strong>Characters:</strong> mask for the mask<br><strong>Material:</strong> COTTON</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>PP / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-pp-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>PK / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-pk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>WH / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-wh-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>WE / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-we-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>BK / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-bk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>BW / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-bw-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>BU / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-bu-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>HT / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-ht-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>GN / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-gn-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>MR / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-mr-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fashionassist.myshopify.com/products/6831820767399</id>
+      <title>KH / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>45715533-kh-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

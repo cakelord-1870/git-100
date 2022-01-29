@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://uptown-babies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://uptown-babies.myshopify.com/collections/accessories.atom"/>
+  <title>UpTown Babies</title>
+  <updated>2021-09-06T11:54:14+05:00</updated>
+  <author>
+    <name>UpTown Babies</name>
+  </author>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6885432131763</id>
+    <published>2021-09-06T11:54:14+05:00</published>
+    <updated>2021-09-06T11:54:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/baby-monitoring-mirror-accessory"/>
+    <title>Baby Monitoring Mirror Accessory</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1489741249.jpg?v=1630911257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Origin:</strong> CN(Origin)<br><strong>Size:</strong> 28*21cm<br><strong>Install Style:</strong> Hang<br><strong>Material Type:</strong> Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885432131763</id>
+      <title>China</title>
+      <s:price currency="USD">16.30</s:price>
+      <s:sku>39083537-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885432131763</id>
+      <title>United States</title>
+      <s:price currency="USD">16.30</s:price>
+      <s:sku>39083537-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+    <published>2021-09-06T11:52:35+05:00</published>
+    <updated>2021-09-06T11:52:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/2-pcs-set-baby-sleeping-bag"/>
+    <title>2 Pcs/Set Baby Sleeping Bag</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1763777282.jpg?v=1630911516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Season:</strong> Spring &amp; Autumn<br><strong>Gender:</strong> Unisex<br><strong>Model Number:</strong> Blanket &amp; Swaddling<br><strong>Pattern Type:</strong> Print<br><strong>Age Group:</strong> Babies<br><strong>is_customized:</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+      <title>B / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45361671-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+      <title>A / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45361671-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+      <title>D / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45361671-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+      <title>B / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45361671-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+      <title>D / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45361671-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885430132915</id>
+      <title>A / China</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45361671-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+    <published>2021-09-06T11:51:45+05:00</published>
+    <updated>2021-09-06T11:51:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/lightweight-travel-accessories"/>
+    <title>Lightweight Travel Accessories</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1800746032.jpg?v=1630911522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.52 - 13.66
+            <a href="https://uptown-babies.myshopify.com/products/lightweight-travel-accessories">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Age Range:</strong> 0-6m<br><strong>Model Number:</strong> Home Diaper Changer Mat<br><strong>Quantity:</strong> 1<br><strong>Item Type:</strong> Changing Pads &amp; Covers<br><strong>Material:</strong> Surface, TPE snow bottom (waterproof)<br><strong>Size:</strong> S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>B / China</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>46351402-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>B / United States</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>46351402-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>G / China</title>
+      <s:price currency="USD">13.66</s:price>
+      <s:sku>46351402-g-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>G / United States</title>
+      <s:price currency="USD">13.66</s:price>
+      <s:sku>46351402-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>H / China</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>46351402-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>H / United States</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>46351402-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>W / China</title>
+      <s:price currency="USD">13.52</s:price>
+      <s:sku>46351402-w-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885429051571</id>
+      <title>W / United States</title>
+      <s:price currency="USD">13.52</s:price>
+      <s:sku>46351402-w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+    <published>2021-09-06T11:49:53+05:00</published>
+    <updated>2021-09-06T11:49:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/infants-silicone-feeding-spoon"/>
+    <title>Infants Silicone Feeding Spoon</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1441535415.jpg?v=1630910997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Silica gel<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Capacity:</strong> 120ml<br><strong>Flow Velocity:</strong> Medium Flow<br><strong>Model Number:</strong> Feeding Bottle<br><strong>Handle:</strong> No<br><strong>Packaging:</strong> Other<br><strong>Material Feature:</strong> Latex Free<br><strong>Type:</strong> Baby Bottle<br><strong>Shape:</strong> Gourd-shaped<br><strong>Mouth Size:</strong> Small Mouth<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>white / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>white / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>green / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>green / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>yellow / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>yellow / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885426299059</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>37790542-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+    <published>2021-09-06T11:48:19+05:00</published>
+    <updated>2021-09-06T11:48:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/portable-bottle-warmer"/>
+    <title>Portable Bottle Warmer</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1753129981.jpg?v=1630910905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>caliber:</strong> STANDARD<br><strong>Use:</strong> Food<br><strong>Pattern Type:</strong> Print<br><strong>Age Group:</strong> Babies<br><strong>Type:</strong> Storage Bags<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>B / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>B / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>A / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>A / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>L / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>J / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-j-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>J / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-j-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>H / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>H / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>I / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-i-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>I / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-i-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>K / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-k-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>K / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-k-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>F / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>F / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>E / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>E / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>C / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885424005299</id>
+      <title>C / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>45076962-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6885422530739</id>
+    <published>2021-09-06T11:47:08+05:00</published>
+    <updated>2021-09-06T11:47:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/baby-head-protector"/>
+    <title>Baby Head Protector</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1704286407.jpg?v=1630911506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.24 - 15.42
+            <a href="https://uptown-babies.myshopify.com/products/baby-head-protector">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Age Range:</strong> 25-36m<br><strong>Material:</strong> COTTON<br><strong>Strap Type:</strong> Adjustable<br><strong>Pattern Type:</strong> Letter<br><strong>Department Name:</strong> Baby<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885422530739</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">15.24</s:price>
+      <s:sku>43967686-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885422530739</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">15.42</s:price>
+      <s:sku>43967686-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885422530739</id>
+      <title>gray / China</title>
+      <s:price currency="USD">15.42</s:price>
+      <s:sku>43967686-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6885422530739</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">15.24</s:price>
+      <s:sku>43967686-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

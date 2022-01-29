@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oneworldhouse.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oneworldhouse.myshopify.com/collections/home-decoration.atom"/>
+  <title>OneWorldHouse</title>
+  <updated>2021-06-15T07:26:23-04:00</updated>
+  <author>
+    <name>OneWorldHouse</name>
+  </author>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734758248646</id>
+    <published>2021-06-15T07:26:23-04:00</published>
+    <updated>2021-06-15T07:26:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/hanging-picture-photo-frame"/>
+    <title>Hanging Picture/Photo Frame</title>
+    <s:type>Hanging Picture/Photo Frame</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1080192128.jpg?v=1623756405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Hanging Picture/Photo Frame<br>
+        <strong>Price: </strong>
+            12.99 - 16.99
+            <a href="https://oneworldhouse.myshopify.com/products/hanging-picture-photo-frame">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Paper<br><strong>Shape:</strong> Rectangle<br><strong>Pack Type:</strong> 10 Boxes<br><strong>Type:</strong> Photo Frame</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hanging Picture/Photo Frame</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734758248646</id>
+      <title>United States / W / 8 inch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>28412878-united-states-w-8-inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734758248646</id>
+      <title>United States / K / 8 inch</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>28412878-united-states-k-8-inch</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+    <published>2021-06-15T06:48:28-04:00</published>
+    <updated>2021-06-15T06:48:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/fringed-tapestry-wall-hanging"/>
+    <title>Fringed Tapestry Wall Hanging</title>
+    <s:type>Wall Hanging</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1672331777.jpg?v=1635854436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Wall Hanging<br>
+        <strong>Price: </strong>
+            18.46 - 26.98
+            <a href="https://oneworldhouse.myshopify.com/products/fringed-tapestry-wall-hanging">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Round<br><strong>Material:</strong> Glass<br><strong>Material::</strong> cotton rope + glass mirror</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Hanging</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>France / B</title>
+      <s:price currency="USD">18.46</s:price>
+      <s:sku>43080999-france-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>China / A</title>
+      <s:price currency="USD">26.98</s:price>
+      <s:sku>43080999-china-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>United States / A</title>
+      <s:price currency="USD">18.46</s:price>
+      <s:sku>43080999-united-states-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>SPAIN / A</title>
+      <s:price currency="USD">18.46</s:price>
+      <s:sku>43080999-spain-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>France / A</title>
+      <s:price currency="USD">18.46</s:price>
+      <s:sku>43080999-france-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>China / B</title>
+      <s:price currency="USD">26.98</s:price>
+      <s:sku>43080999-china-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>United States / B</title>
+      <s:price currency="USD">18.46</s:price>
+      <s:sku>43080999-united-states-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734673641670</id>
+      <title>SPAIN / B</title>
+      <s:price currency="USD">18.46</s:price>
+      <s:sku>43080999-spain-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+    <published>2021-06-15T06:47:30-04:00</published>
+    <updated>2021-06-15T06:47:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/boho-style-macrame-wall-hanging"/>
+    <title>Boho Style Macramé Wall Hanging</title>
+    <s:type>Wall Hanging</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1232575117.jpg?v=1623754070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Wall Hanging<br>
+        <strong>Price: </strong>
+            16.26 - 25.52
+            <a href="https://oneworldhouse.myshopify.com/products/boho-style-macrame-wall-hanging">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> 100% Cotton<br><strong>Pattern:</strong> Patchwork<br><strong>Style:</strong> Modern<br><strong>Pattern Type:</strong> ENDLESS<br><strong>Technics:</strong> Knitted<br><strong>Shape:</strong> Round</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Hanging</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>A / United States</title>
+      <s:price currency="USD">20.18</s:price>
+      <s:sku>32962700-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>B / United States</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>32962700-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>C / United States</title>
+      <s:price currency="USD">16.82</s:price>
+      <s:sku>32962700-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>E / United States</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>32962700-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>D / United States</title>
+      <s:price currency="USD">18.38</s:price>
+      <s:sku>32962700-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>F / United States</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>32962700-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>G / United States</title>
+      <s:price currency="USD">16.26</s:price>
+      <s:sku>32962700-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734670889158</id>
+      <title>H / United States</title>
+      <s:price currency="USD">25.52</s:price>
+      <s:sku>32962700-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734633664710</id>
+    <published>2021-06-15T06:32:35-04:00</published>
+    <updated>2021-06-15T06:32:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/modern-roman-wall-clock"/>
+    <title>Modern Roman Wall Clock</title>
+    <s:type>Wall Clock</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1272330235.jpg?v=1623753162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Wall Clock<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern:</strong> Mirror Surface Wall Sticker<br><strong>Style:</strong> Modern<br><strong>Classification:</strong> For Wall<br><strong>Specification:</strong> Multi-piece Package<br><strong>Scenarios:</strong> WALL<br><strong>Material:</strong> Acrylic<br><strong>Theme:</strong> PATTERN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wall Clock</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734633664710</id>
+      <title>B / United States / Medium</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34288984-b-united-states-medium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734633664710</id>
+      <title>G / United States / Medium</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34288984-g-united-states-medium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734633664710</id>
+      <title>R / United States / Medium</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34288984-r-united-states-medium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734633664710</id>
+      <title>S / United States / Medium</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>34288984-s-united-states-medium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

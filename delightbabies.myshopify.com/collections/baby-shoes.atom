@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://delightbabies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://delightbabies.myshopify.com/collections/baby-shoes.atom"/>
+  <title>delightbabies</title>
+  <updated>2021-06-02T15:07:46+05:00</updated>
+  <author>
+    <name>delightbabies</name>
+  </author>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+    <published>2021-06-02T15:07:46+05:00</published>
+    <updated>2021-06-02T15:07:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/infant-baby-girls-shoes"/>
+    <title>Infant Baby Girls Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1691612204.jpg?v=1622634523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Type:</strong> Flat with<br><strong>Item Type:</strong> Sandals<br><strong>Outsole Material:</strong> PVC<br><strong>Upper Material:</strong> PU<br><strong>Season:</strong> Summer<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Gender:</strong> Baby Girl</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Shoes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>W / 0-6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-w-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>W / 7-12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-w-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>W / 13-18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-w-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>C / 0-6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-c-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>C / 7-12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-c-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>P / 7-12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-p-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>P / 13-18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-p-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>C / 13-18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-c-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>B / 0-6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>B / 7-12 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>B / 13-18 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740943208623</id>
+      <title>P / 0-6 Months</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43631687-p-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+    <published>2021-06-02T15:06:52+05:00</published>
+    <updated>2021-06-02T15:06:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/sweet-princess-warm-shoes"/>
+    <title>Sweet Princess Warm shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1648710452.jpg?v=1622634545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Winter<br><strong>Gender:</strong> baby unisex<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Upper Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> Butterfly-knot<br><strong>Closure Type:</strong> Slip-On<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> Rubber<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Shoes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>blue 1 / 13-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-blue-1-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>blue 1 / 7-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-blue-1-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>blue 1 / 0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-blue-1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>pink 1 / 13-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-pink-1-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>pink 1 / 7-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-pink-1-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>pink 1 / 0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-pink-1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>yellow 1 / 13-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-yellow-1-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>yellow 1 / 7-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-yellow-1-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>yellow 1 / 0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-yellow-1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>blue 2 / 13-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-blue-2-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>blue 2 / 7-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-blue-2-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>blue 2 / 0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-blue-2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>pink 2 / 13-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-pink-2-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>pink 2 / 7-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-pink-2-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740941930671</id>
+      <title>pink 2 / 0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>16547534-pink-2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+    <published>2021-06-02T15:06:00+05:00</published>
+    <updated>2021-06-02T15:06:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/newborn-kids-cotton-shoes"/>
+    <title>Newborn Kids Cotton Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1674055477.jpg?v=1622628396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Winter<br><strong>Gender:</strong> baby unisex<br><strong>Upper Material:</strong> Canvas<br><strong>Fashion Element:</strong> Cross-tied<br><strong>Closure Type:</strong> Lace-up<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> Rubber<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Shoes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Sky Blue / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-sky-blue-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Sky Blue / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-sky-blue-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Sky Blue / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-sky-blue-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Red / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-red-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Red / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-red-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Red / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-red-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Wine red / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-wine-red-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Wine red / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-wine-red-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Wine red / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-wine-red-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Green / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-green-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Z / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-z-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Z / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-z-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Z / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-z-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Pink / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-pink-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Pink / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-pink-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Pink / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-pink-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Green / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-green-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Green / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-green-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>C / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-c-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>C / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-c-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>C / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-c-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>W / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-w-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>W / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-w-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>W / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-w-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Blue / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-blue-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Blue / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-blue-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>Blue / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-blue-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>B / 13-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-b-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>B / 0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-b-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740940521647</id>
+      <title>B / 7-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>43127061-b-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+    <published>2021-06-02T15:04:55+05:00</published>
+    <updated>2021-06-02T15:04:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/first-walkers-cotton-shoes"/>
+    <title>First Walkers cotton shoes</title>
+    <s:type>Baby Shoes</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1614064181.jpg?v=1622634582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Baby Shoes<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Summer<br><strong>Gender:</strong> Baby Girls<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Upper Material:</strong> Fur<br><strong>Fashion Element:</strong> Butterfly-knot<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Solid<br><strong>Item Type:</strong> First Walkers<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Shoes</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>H2 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-h2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>H2 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-h2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>H2 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-h2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>B2 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-b2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>B2 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-b2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>R1 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-r1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>B2 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-b2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>R1 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-r1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>R1 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-r1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>Y1 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-y1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>Y1 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-y1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>Y1 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-y1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>P1 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-p1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>P1 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-p1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>P1 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-p1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>H1 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-h1-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>H1 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-h1-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>H1 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-h1-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>Y2 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-y2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>Y2 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-y2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>Y2 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-y2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>W2 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-w2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>W2 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-w2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>R2 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-r2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>W2 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-w2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>R2 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-r2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>R2 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-r2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>P2 / 6-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-p2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>P2 / 12-18 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-p2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6740939112623</id>
+      <title>P2 / 0-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41532884-p2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

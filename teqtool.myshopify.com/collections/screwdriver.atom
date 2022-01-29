@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://teqtool.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://teqtool.myshopify.com/collections/screwdriver.atom"/>
+  <title>teqtool</title>
+  <updated>2021-08-31T10:44:06+05:00</updated>
+  <author>
+    <name>teqtool</name>
+  </author>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832139272378</id>
+    <published>2021-08-31T10:44:06+05:00</published>
+    <updated>2021-08-31T10:44:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/mini-socket-screwdriver-wrench"/>
+    <title>Mini Socket Screwdriver Wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1830381072.jpg?v=1630388650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.15 - 19.08
+            <a href="https://teqtool.myshopify.com/products/mini-socket-screwdriver-wrench">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Dismountable<br><strong>Features:</strong> Double Head<br><strong>Features:</strong> Mini<br><strong>Features:</strong> Non-slip<br><strong>Material:</strong> High Carbon Steel<br><strong>Screw Head Type:</strong> Phillips<br><strong>Screw Head Type:</strong> Slotted<br><strong>Package:</strong> 5-9Pcs<br><strong>Type:</strong> Screwdriver Set<br><strong>With Handle Or Not:</strong> Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>Russian Federation / 1Set</title>
+      <s:price currency="USD">18.65</s:price>
+      <s:sku>47147258-russian-federation-1set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>France / 1Pcs</title>
+      <s:price currency="USD">4.65</s:price>
+      <s:sku>47147258-france-1pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>France / 10Pcs</title>
+      <s:price currency="USD">4.15</s:price>
+      <s:sku>47147258-france-10pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>France / 1Set</title>
+      <s:price currency="USD">7.78</s:price>
+      <s:sku>47147258-france-1set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>Australia / 10Pcs</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku>47147258-australia-10pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>Australia / 1Set</title>
+      <s:price currency="USD">19.08</s:price>
+      <s:sku>47147258-australia-1set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>Russian Federation / 1Pcs</title>
+      <s:price currency="USD">15.63</s:price>
+      <s:sku>47147258-russian-federation-1pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>Russian Federation / 10Pcs</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>47147258-russian-federation-10pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>United States / 1Pcs</title>
+      <s:price currency="USD">15.63</s:price>
+      <s:sku>47147258-united-states-1pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>United States / 10Pcs</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>47147258-united-states-10pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>United States / 1Set</title>
+      <s:price currency="USD">18.65</s:price>
+      <s:sku>47147258-united-states-1set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>Australia / 1Pcs</title>
+      <s:price currency="USD">16.10</s:price>
+      <s:sku>47147258-australia-1pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>China / 1Pcs</title>
+      <s:price currency="USD">11.43</s:price>
+      <s:sku>47147258-china-1pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>China / 10Pcs</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>47147258-china-10pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832139272378</id>
+      <title>China / 1Set</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>47147258-china-1set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832137928890</id>
+    <published>2021-08-31T10:42:41+05:00</published>
+    <updated>2021-08-31T10:42:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/electrician-screwdriver-sets"/>
+    <title>Electrician Screwdriver sets</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/11111.jpg?v=1630391443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.45 - 32.91
+            <a href="https://teqtool.myshopify.com/products/electrician-screwdriver-sets">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong> Dismountable<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Non-slip<br><strong>Features:</strong> INSULATED<br><strong>Features:</strong> Explosion-proof<br><strong>Material:</strong> Chrome-vanadium Steel<br><strong>Screw Head Type:</strong> H-type<br><strong>Screw Head Type:</strong> triangle<br><strong>Screw Head Type:</strong> Spanner<br><strong>Screw Head Type:</strong> Spline<br><strong>Screw Head Type:</strong> 8-Point<br><strong>Screw Head Type:</strong> 5-Point<br><strong>Screw Head Type:</strong> S-Type<br><strong>Screw Head Type:</strong> Tri-Wing<br><strong>Screw Head Type:</strong> Y-Type<br><strong>Screw Head Type:</strong> Square Socket<br><strong>Screw Head Type:</strong> Pozidriv<br><strong>Screw Head Type:</strong> Phillips<br><strong>Screw Head Type:</strong> HEX<br><strong>Screw Head Type:</strong> TORX<br><strong>Screw Head Type:</strong> Slotted<br><strong>Magnetic:</strong> Yes<br><strong>With Handle Or Not:</strong> Yes<br><strong>Type:</strong> Screwdriver Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832137928890</id>
+      <title>United States / Black</title>
+      <s:price currency="USD">32.91</s:price>
+      <s:sku>42384593-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832137928890</id>
+      <title>United States / White</title>
+      <s:price currency="USD">32.30</s:price>
+      <s:sku>42384593-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832137928890</id>
+      <title>Australia / Black</title>
+      <s:price currency="USD">28.04</s:price>
+      <s:sku>42384593-australia-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832137928890</id>
+      <title>Australia / White</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>42384593-australia-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832137928890</id>
+      <title>China / Black</title>
+      <s:price currency="USD">22.16</s:price>
+      <s:sku>42384593-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832137928890</id>
+      <title>China / White</title>
+      <s:price currency="USD">21.45</s:price>
+      <s:sku>42384593-china-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832136618170</id>
+    <published>2021-08-31T10:41:27+05:00</published>
+    <updated>2021-08-31T10:41:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/multi-function-repair-tool"/>
+    <title>Multi-function Repair tool</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1781299887.jpg?v=1630388493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.51 - 37.59
+            <a href="https://teqtool.myshopify.com/products/multi-function-repair-tool">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong> Double Head<br><strong>Features:</strong> Dismountable<br><strong>Features:</strong> Explosion-proof<br><strong>Features:</strong> Non-slip<br><strong>Features:</strong> INSULATED<br><strong>Features:</strong> Mini<br><strong>Features:</strong> Multifunctional<br><strong>Screw Head Type:</strong> Slotted<br><strong>Screw Head Type:</strong> HEX<br><strong>Screw Head Type:</strong> Y-Type<br><strong>Screw Head Type:</strong> triangle<br><strong>Screw Head Type:</strong> 5-Point<br><strong>Screw Head Type:</strong> 8-Point<br><strong>Screw Head Type:</strong> Tri-Wing<br><strong>Screw Head Type:</strong> Spline<br><strong>Screw Head Type:</strong> H-type<br><strong>Screw Head Type:</strong> Spanner<br><strong>Screw Head Type:</strong> S-Type<br><strong>Screw Head Type:</strong> Square Socket<br><strong>Screw Head Type:</strong> Phillips<br><strong>Screw Head Type:</strong> TORX<br><strong>Screw Head Type:</strong> Pozidriv<br><strong>Type:</strong> Screwdriver Set<br><strong>Magnetic:</strong> Yes<br><strong>With Handle Or Not:</strong> Yes<br><strong>Application:</strong> computer tool kit<br><strong>application:</strong> Bicycle Repairing Tool Set<br><strong>Type:</strong> Screwdriver Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 115 RE</title>
+      <s:price currency="USD">23.45</s:price>
+      <s:sku>38082349-china-115-re</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 115 BU</title>
+      <s:price currency="USD">23.45</s:price>
+      <s:sku>38082349-china-115-bu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 115 GA</title>
+      <s:price currency="USD">23.45</s:price>
+      <s:sku>38082349-china-115-ga</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 115 RE</title>
+      <s:price currency="USD">37.59</s:price>
+      <s:sku>38082349-united-states-115-re</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 115 BU</title>
+      <s:price currency="USD">37.59</s:price>
+      <s:sku>38082349-united-states-115-bu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 115 GA</title>
+      <s:price currency="USD">37.59</s:price>
+      <s:sku>38082349-united-states-115-ga</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 115 RE</title>
+      <s:price currency="USD">32.28</s:price>
+      <s:sku>38082349-australia-115-re</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 115 BU</title>
+      <s:price currency="USD">32.28</s:price>
+      <s:sku>38082349-australia-115-bu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 115 GA</title>
+      <s:price currency="USD">32.28</s:price>
+      <s:sku>38082349-australia-115-ga</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 110 BU</title>
+      <s:price currency="USD">20.51</s:price>
+      <s:sku>38082349-china-110-bu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 110 YE</title>
+      <s:price currency="USD">20.51</s:price>
+      <s:sku>38082349-china-110-ye</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 110 YE</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>38082349-united-states-110-ye</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 110 BU</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>38082349-united-states-110-bu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 110 BU</title>
+      <s:price currency="USD">29.49</s:price>
+      <s:sku>38082349-australia-110-bu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 110 YE</title>
+      <s:price currency="USD">29.49</s:price>
+      <s:sku>38082349-australia-110-ye</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 115 YE</title>
+      <s:price currency="USD">37.59</s:price>
+      <s:sku>38082349-united-states-115-ye</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 110 BL</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>38082349-united-states-110-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 110 BL</title>
+      <s:price currency="USD">29.49</s:price>
+      <s:sku>38082349-australia-110-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>United States / 115 PU</title>
+      <s:price currency="USD">37.59</s:price>
+      <s:sku>38082349-united-states-115-pu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 115 PU</title>
+      <s:price currency="USD">32.28</s:price>
+      <s:sku>38082349-australia-115-pu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>Australia / 115 YE</title>
+      <s:price currency="USD">32.28</s:price>
+      <s:sku>38082349-australia-115-ye</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 110 BL</title>
+      <s:price currency="USD">20.51</s:price>
+      <s:sku>38082349-china-110-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 115 PU</title>
+      <s:price currency="USD">23.45</s:price>
+      <s:sku>38082349-china-115-pu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832136618170</id>
+      <title>China / 115 YE</title>
+      <s:price currency="USD">23.45</s:price>
+      <s:sku>38082349-china-115-ye</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832129671354</id>
+    <published>2021-08-31T10:31:21+05:00</published>
+    <updated>2021-08-31T10:31:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/screw-driver-tools-1"/>
+    <title>Screw Driver Tools</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1828935815_35fdfe45-3e95-4dbb-8ee7-3d082da89d8e.jpg?v=1630387885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.35 - 19.95
+            <a href="https://teqtool.myshopify.com/products/screw-driver-tools-1">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Package:</strong> 5-9Pcs<br><strong>Type:</strong> Screwdriver Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>United States / 7Pcs</title>
+      <s:price currency="USD">19.68</s:price>
+      <s:sku>47104403-united-states-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>United States / 8Pcs</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>47104403-united-states-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>Australia / 7Pcs</title>
+      <s:price currency="USD">19.48</s:price>
+      <s:sku>47104403-australia-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>Australia / 8Pcs</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>47104403-australia-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>China / 7Pcs</title>
+      <s:price currency="USD">14.35</s:price>
+      <s:sku>47104403-china-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>China / 8Pcs</title>
+      <s:price currency="USD">14.85</s:price>
+      <s:sku>47104403-china-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>Russian Federation / 7Pcs</title>
+      <s:price currency="USD">19.68</s:price>
+      <s:sku>47104403-russian-federation-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129671354</id>
+      <title>Russian Federation / 8Pcs</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>47104403-russian-federation-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

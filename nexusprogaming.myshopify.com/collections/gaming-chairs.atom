@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nexusprogaming.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nexusprogaming.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nexusprogaming.myshopify.com/collections/gaming-chairs.atom"/>
+  <title>Nexusprogaming</title>
+  <updated>2021-08-13T12:24:51+05:00</updated>
+  <author>
+    <name>Nexusprogaming</name>
+  </author>
+  <entry>
+    <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+    <published>2021-08-13T12:24:51+05:00</published>
+    <updated>2021-08-13T12:24:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nexusprogaming.myshopify.com/products/high-quality-adjustable-chair"/>
+    <title>High Quality Adjustable Chair</title>
+    <s:type></s:type>
+    <s:vendor>Nexusprogaming</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/8038/4424/products/product-image-1773922582.jpg?v=1629093664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nexusprogaming<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Lift Chair<br><strong>Style:</strong> Swivel Chair<br><strong>Folded:</strong> No<br><strong>With Rollers:</strong> Yes<br><strong>Specific Use:</strong> Office Chair<br><strong>Is Rotatable:</strong> Yes<br><strong>General Use:</strong> Commercial Furniture<br><strong>Type:</strong> Office Furniture<br><strong>Material:</strong> Synthetic Leather<br><strong>With Handrails:</strong> Yes<br><strong>Backrest Height:</strong> &lt;125mm-&gt;800mm<br><strong>Size:</strong> 52"x28"x21"<br><strong>is_customized:</strong> No<br><strong>Colors:</strong> Black-Red<br><strong>Department:</strong> Adults<br><strong>Style:</strong> Office/Desk Chair<br><strong>Features:</strong> Adjustable Seat Height, Cushion, Padded Seat, Reclining<br><strong>Room:</strong> Home Office/Study, Living Room</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Czech Republic / picture shows</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-czech-republic-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Czech Republic / picture shows 2</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-czech-republic-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Czech Republic / picture shows 3</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-czech-republic-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Czech Republic / picture shows 4</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-czech-republic-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Czech Republic / picture shows 5</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-czech-republic-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Czech Republic / picture shows 6</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-czech-republic-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>United States / picture shows</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-united-states-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>United States / picture shows 2</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-united-states-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>United States / picture shows 3</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-united-states-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>United States / picture shows 4</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-united-states-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>United States / picture shows 5</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-united-states-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>United States / picture shows 6</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-united-states-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Australia / picture shows</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-australia-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Australia / picture shows 2</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-australia-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Australia / picture shows 3</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-australia-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Australia / picture shows 4</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-australia-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Australia / picture shows 5</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-australia-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>Australia / picture shows 6</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-australia-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>France / picture shows</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-france-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>France / picture shows 2</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-france-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>France / picture shows 3</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-france-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>France / picture shows 4</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-france-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>France / picture shows 5</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-france-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974669553832</id>
+      <title>France / picture shows 6</title>
+      <s:price currency="USD">165.79</s:price>
+      <s:sku>31971801-france-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+    <published>2021-08-13T12:24:03+05:00</published>
+    <updated>2021-08-13T12:24:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nexusprogaming.myshopify.com/products/ergonomic-gaming-chair"/>
+    <title>Ergonomic Gaming Chair</title>
+    <s:type></s:type>
+    <s:vendor>Nexusprogaming</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/8038/4424/products/product-image-1523803101.jpg?v=1628839446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nexusprogaming<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            164.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Lift Chair<br><strong>Style:</strong> Swivel Chair<br><strong>Folded:</strong> No<br><strong>With Rollers:</strong> Yes<br><strong>Specific Use:</strong> Office Chair<br><strong>Is Rotatable:</strong> Yes<br><strong>General Use:</strong> Commercial Furniture<br><strong>Type:</strong> Office Furniture<br><strong>Material:</strong> Synthetic Leather<br><strong>With Handrails:</strong> Yes<br><strong>Backrest Height:</strong> &lt;125mm-&gt;800mm<br><strong>Size:</strong> 52"x28"x21"<br><strong>is_customized:</strong> No<br><strong>Colors:</strong> Black/Black, Red/Black, White A/White BlackB/White, Red<br><strong>Type:</strong> Swivel Chair<br><strong>Department:</strong> Adults<br><strong>Style:</strong> Office/Desk Chair<br><strong>Features:</strong> Adjustable Seat Height, Cushion, Padded Seat, Reclining<br><strong>Room:</strong> Home Office/Study, Living Room<br><strong>Material:</strong> PU Leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>United States / picture shows</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-united-states-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>Czech Republic / picture shows</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-czech-republic-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>United States / picture shows 3</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-united-states-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>Czech Republic / picture shows 3</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-czech-republic-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>United States / picture shows 4</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-united-states-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>Czech Republic / picture shows 4</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-czech-republic-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>Czech Republic / picture shows 5</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-czech-republic-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>United States / picture shows 5</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-united-states-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>United States / picture shows 2</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-united-states-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>Czech Republic / picture shows 2</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-czech-republic-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>United States / picture shows 6</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-united-states-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>Czech Republic / picture shows 6</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-czech-republic-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>France / picture shows 2</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-france-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>France / picture shows</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-france-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>France / picture shows 4</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-france-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>France / picture shows 3</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-france-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>France / picture shows 6</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-france-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974668865704</id>
+      <title>France / picture shows 5</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>32311542-france-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+    <published>2021-08-13T12:22:42+05:00</published>
+    <updated>2021-08-13T12:22:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nexusprogaming.myshopify.com/products/adjustable-gaming-chair"/>
+    <title>Adjustable gaming Chair</title>
+    <s:type></s:type>
+    <s:vendor>Nexusprogaming</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/8038/4424/products/product-image-1526571565.jpg?v=1629093698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nexusprogaming<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            165.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Executive Chair<br><strong>Style:</strong> Lift Chair<br><strong>Style:</strong> Swivel Chair<br><strong>Folded:</strong> No<br><strong>Specific Use:</strong> Office Chair<br><strong>Is Rotatable:</strong> Yes<br><strong>General Use:</strong> Commercial Furniture<br><strong>Type:</strong> Office Furniture<br><strong>Material:</strong> Synthetic Leather<br><strong>With Handrails:</strong> Yes<br><strong>Backrest Height:</strong> &lt;125mm-&gt;800mm<br><strong>Size:</strong> 52"x28"x21"<br><strong>is_customized:</strong> No<br><strong>Colors:</strong> Black/Black, Red/Black, White A/White BlackB/White, Red<br><strong>Type:</strong> Swivel Chair<br><strong>Department:</strong> Adults<br><strong>Style:</strong> Office/Desk Chair<br><strong>Features:</strong> Adjustable Seat Height, Cushion, Padded Seat, Reclining<br><strong>Room:</strong> Home Office/Study, Living Room</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>United States / picture shows 4</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-united-states-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>United States / picture shows 3</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-united-states-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>United States / picture shows 2</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-united-states-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>United States / picture shows</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-united-states-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>Czech Republic / picture shows</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-czech-republic-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>United States / picture shows 6</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-united-states-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>Czech Republic / picture shows 6</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-czech-republic-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>Czech Republic / picture shows 4</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-czech-republic-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>Czech Republic / picture shows 2</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-czech-republic-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>Czech Republic / picture shows 3</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-czech-republic-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>United States / picture shows 5</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-united-states-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>Czech Republic / picture shows 5</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-czech-republic-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>France / picture shows 4</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-france-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>France / picture shows 3</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-france-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>France / picture shows 2</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-france-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>France / picture shows</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-france-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>France / picture shows 6</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-france-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974667817128</id>
+      <title>France / picture shows 5</title>
+      <s:price currency="USD">165.64</s:price>
+      <s:sku>30960512-france-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+    <published>2021-08-13T12:20:07+05:00</published>
+    <updated>2021-08-13T12:20:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nexusprogaming.myshopify.com/products/pu-leather-gaming-chair"/>
+    <title>PU Leather Gaming Chair</title>
+    <s:type></s:type>
+    <s:vendor>Nexusprogaming</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/8038/4424/products/product-image-1529268751.jpg?v=1629093837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nexusprogaming<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            164.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Lift Chair<br><strong>Style:</strong> Swivel Chair<br><strong>Folded:</strong> No<br><strong>With Rollers:</strong> Yes<br><strong>Specific Use:</strong> Office Chair<br><strong>Is Rotatable:</strong> Yes<br><strong>General Use:</strong> Commercial Furniture<br><strong>Type:</strong> Office Furniture<br><strong>Material:</strong> Synthetic Leather<br><strong>With Handrails:</strong> Yes<br><strong>Backrest Height:</strong> &lt;125mm-&gt;800mm<br><strong>Size:</strong> 52"x28"x21"<br><strong>Colors:</strong> Black/Black, Red/Black, White A/White BlackB/White, Red<br><strong>Type:</strong> Swivel Chair<br><strong>Style:</strong> Office/Computer Chair<br><strong>Features:</strong> Adjustable Seat Height, Cushion, Padded Seat, Reclining<br><strong>Room:</strong> Home Office/Study, Living Room<br><strong>Material:</strong> PU Leather</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>United States / Black White A</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-united-states-black-white-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>United States / Black Red</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-united-states-black-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>United States / Black</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>United States / White Red</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-united-states-white-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>United States / White Black B</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-united-states-white-black-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>Czech Republic / White Red</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-czech-republic-white-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>Czech Republic / Black Red</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-czech-republic-black-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>Czech Republic / Black</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-czech-republic-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>Czech Republic / White Black B</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-czech-republic-white-black-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>Czech Republic / Black White A</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-czech-republic-black-white-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>Czech Republic / Black Blue</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-czech-republic-black-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>United States / Black Blue</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-united-states-black-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>France / White Red</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-france-white-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>France / White Black B</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-france-white-black-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>France / Black Blue</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-france-black-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>France / Black</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-france-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>France / Black White A</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-france-black-white-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974665392296</id>
+      <title>France / Black Red</title>
+      <s:price currency="USD">164.41</s:price>
+      <s:sku>34850703-france-black-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+    <published>2021-08-13T12:18:15+05:00</published>
+    <updated>2021-08-13T12:18:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nexusprogaming.myshopify.com/products/office-seat-gaming-chair"/>
+    <title>Office Seat Gaming Chair</title>
+    <s:type></s:type>
+    <s:vendor>Nexusprogaming</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0591/8038/4424/products/product-image-1527217009.jpg?v=1629093826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nexusprogaming<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Lift Chair<br><strong>Style:</strong> Swivel Chair<br><strong>Folded:</strong> No<br><strong>With Rollers:</strong> Yes<br><strong>Specific Use:</strong> Office Chair<br><strong>Is Rotatable:</strong> Yes<br><strong>Type:</strong> Office Furniture<br><strong>Material:</strong> Synthetic Leather<br><strong>Size:</strong> 52"x28"x21"<br><strong>Colors:</strong> White A/White<br><strong>Type:</strong> Swivel Chair<br><strong>Style:</strong> Office/Desk Chair<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>Czech Republic / picture shows 3</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-czech-republic-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>United States / picture shows 3</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-united-states-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>United States / picture shows</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-united-states-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>Czech Republic / picture shows 2</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-czech-republic-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>Czech Republic / picture shows 4</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-czech-republic-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>United States / picture shows 4</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-united-states-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>United States / picture shows 2</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-united-states-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>United States / picture shows 5</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-united-states-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>Czech Republic / picture shows</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-czech-republic-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>Czech Republic / picture shows 5</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-czech-republic-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>Czech Republic / picture shows 6</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-czech-republic-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>United States / picture shows 6</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-united-states-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>France / picture shows 5</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-france-picture-shows-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>France / picture shows 6</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-france-picture-shows-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>France / picture shows</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-france-picture-shows</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>France / picture shows 2</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-france-picture-shows-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>France / picture shows 3</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-france-picture-shows-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nexusprogaming.myshopify.com/products/6974664212648</id>
+      <title>France / picture shows 4</title>
+      <s:price currency="USD">175.99</s:price>
+      <s:sku>31240066-france-picture-shows-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

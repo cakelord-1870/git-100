@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rareviewz.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rareviewz.myshopify.com/collections/goggles.atom"/>
+  <title>RareViewz</title>
+  <updated>2020-07-18T01:55:49-04:00</updated>
+  <author>
+    <name>RareViewz</name>
+  </author>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+    <published>2020-07-18T01:55:49-04:00</published>
+    <updated>2020-07-18T01:55:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/hot-couple-flat-top-luxury-driving-sunglasses"/>
+    <title>Flat Top Driving Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1405772162.jpg?v=1595051756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> MEN<br><strong>Style:</strong> Pilot<br><strong>Department Name:</strong> Adult<br><strong>Frame Material:</strong> Alloy<br><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Lenses Optical Attribute:</strong> Anti-Reflective<br><strong>Lenses Optical Attribute:</strong> UV400<br><strong>Eyewear Type:</strong> Sunglasses<br><strong>Lens Height:</strong> 53mm<br><strong>Lenses Material:</strong> TAC<br><strong>Item Type:</strong> Eyewear<br><strong>Lens Width:</strong> 64mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C6</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C7</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C4</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C5</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C2</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C3</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C12</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C1</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C10</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C11</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C8</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397614330011</id>
+      <title>C9</title>
+      <s:price currency="USD">38.96</s:price>
+      <s:sku>28109822-c9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381878841499</id>
+    <published>2020-07-14T02:58:26-04:00</published>
+    <updated>2020-07-14T02:58:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/bamboo-sunglasses-men-shield-goggle-sunglasses-for-men"/>
+    <title>Wooden Sunglasses For Men</title>
+    <s:type></s:type>
+    <s:vendor>Extraordinary Styles Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/HDCRAFTER-Bamboo-Sunglasses-Men-shield-goggle-sunglasses-for-men-retro-vintage-wooden-square-sun-glasses-male.jpg?v=1594709918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Extraordinary Styles Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381878841499</id>
+      <title>Brown</title>
+      <s:price currency="USD">25.29</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381878841499</id>
+      <title>Glossy Black</title>
+      <s:price currency="USD">25.29</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381878841499</id>
+      <title>Leopard</title>
+      <s:price currency="USD">25.29</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381878841499</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">25.29</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+    <published>2020-07-14T02:56:54-04:00</published>
+    <updated>2020-07-14T02:56:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/brand-high-end-hd-polarized-sunglasses-men-women"/>
+    <title>HD Polarized Sunglasses For Men $ Women</title>
+    <s:type></s:type>
+    <s:vendor>SWOKENCE Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/SWOKENCE-Brand-High-End-HD-Polarized-Sunglasses-Men-Women-Fashion-UV-Blocking-Outdoor-Shades-2018-Personality_dd26ebba-cc1b-41be-8c0e-4819874b0df1.jpg?v=1617423790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWOKENCE Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.09 - 25.14
+            <a href="https://rareviewz.myshopify.com/products/brand-high-end-hd-polarized-sunglasses-men-women">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vintage</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+      <title>C1</title>
+      <s:price currency="USD">25.09</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+      <title>C2</title>
+      <s:price currency="USD">25.09</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+      <title>C3</title>
+      <s:price currency="USD">25.09</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+      <title>C4</title>
+      <s:price currency="USD">25.09</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+      <title>C5</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381874876571</id>
+      <title>C6</title>
+      <s:price currency="USD">25.14</s:price>
+      <s:sku>73:29</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+    <published>2020-07-14T02:23:13-04:00</published>
+    <updated>2020-07-14T02:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/brand-high-end-polarized-uv-blocking-sunglasses-men-women"/>
+    <title>High End Polarized UV-Blocking Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>SWOKENCE Official Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/SWOKENCE-Brand-High-End-Polarized-UV-Blocking-Sunglasses-Men-Women-Fashion-Outdoor-Sun-Shades-Night-Vision_8d4a8f32-cb1c-4bcb-bce9-c2a294cb0ff3.jpg?v=1617423876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SWOKENCE Official Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>polarized</s:tag>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C1</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:175</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C2</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:10</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C3</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:173</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C4</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:366</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C5</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:496</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C6</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:29</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5381785714843</id>
+      <title>C7</title>
+      <s:price currency="USD">24.69</s:price>
+      <s:sku>73:193</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://babiesglow.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://babiesglow.myshopify.com/collections/shoes.atom"/>
+  <title>babiesGlow</title>
+  <updated>2021-09-23T10:20:08+05:00</updated>
+  <author>
+    <name>babiesGlow</name>
+  </author>
+  <entry>
+    <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+    <published>2021-09-23T10:20:08+05:00</published>
+    <updated>2021-09-23T10:20:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/products/children-anti-slip-shoes"/>
+    <title>Children Anti-slip Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>babiesGlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/2585/2894/products/product-image-1837778974.jpg?v=1632392156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>babiesGlow<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Season:</strong> Four Seasons<br><strong>Gender:</strong> baby unisex<br><strong>Fashion Element:</strong> Shallow<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Outsole Material:</strong> Rubber<br><strong>Style:</strong> Crib Shoes<br><strong>Aqua Socks:</strong> Non-Slip Shoes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shoes</s:tag>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PK / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pk-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GN / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gn-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GY / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gy-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>GL / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-gl-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>RD / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-rd-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>YE / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-ye-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 3-4 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 3-4 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 2-3 Years / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>PN / 2-3 Years / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-pn-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 3-12 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 3-12 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 12-18 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 12-18 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 18-24 Months / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636737757406</id>
+      <title>BU / 18-24 Months / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>47355381-bu-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+    <published>2021-09-23T10:14:55+05:00</published>
+    <updated>2021-09-23T10:14:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/products/kids-beach-water-sports-sneaker"/>
+    <title>Kids Beach Water Sports Sneaker</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>babiesGlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/2585/2894/products/product-image-1791281976.jpg?v=1632392188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>babiesGlow<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Season:</strong> FourSeasons<br><strong>Fashion Element:</strong> Shallow<br><strong>Pattern Type:</strong> Print<br><strong>Outsole Material:</strong> Rubber<br><strong>Type:</strong> Baby Shoes<br><strong>Style:</strong> Crib Shoes<br><strong>Aqua Socks:</strong> Non-Slip Shoes<br><strong>Item1:</strong> Great gift to baby<br><strong>Item2:</strong> Sneaker</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shoes</s:tag>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 18-24 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 2-3 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 3-4 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 4-5Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-4-5years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 4-5Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-4-5years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 5-6 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-5-6-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 3-12 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 12-18 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 2-3 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 3-4 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 4-5Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-4-5years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 5-6 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-5-6-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>SB / 5-6 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-sb-5-6-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 3-12 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 12-18 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>YE / 18-24 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-ye-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 4-5Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-4-5years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 5-6 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-5-6-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 3-12 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 12-18 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 12-18 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 2-3 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 3-4 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-3-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 5-6 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-5-6-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 3-12 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-3-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 12-18 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 18-24 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 18-24 Months / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 2-3 Years / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-2-3-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>GN / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-gn-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>LB / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-lb-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>MR / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-mr-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>PK / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-pk-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 3-4 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-3-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 4-5Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-4-5years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 5-6 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-5-6-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>DB / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-db-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 3-12 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-3-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 12-18 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 18-24 Months / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736970974</id>
+      <title>BU / 2-3 Years / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46102613-bu-2-3-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+    <published>2021-09-23T10:03:45+05:00</published>
+    <updated>2021-09-23T10:03:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/products/baby-flower-boots-soft-crib-shoes"/>
+    <title>Baby Flower Boots Soft Crib Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>babiesGlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/2585/2894/products/product-image-1614951541.jpg?v=1632392310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>babiesGlow<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> Flower<br><strong>Season:</strong> All seasons<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> floral<br><strong>Outsole Material:</strong> Rubber<br><strong>Style::</strong> Crib Shoes<br><strong>Pattern Type::</strong> Print<br><strong>Item1::</strong> Great gift to baby</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shoes</s:tag>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+      <title>Pink / 13 / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41552764-pink-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+      <title>Pink / 13 / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41552764-pink-13-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+      <title>Pink / 12 / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41552764-pink-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+      <title>Pink / 12 / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41552764-pink-12-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+      <title>Pink / 11 / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41552764-pink-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736872670</id>
+      <title>Pink / 11 / China</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>41552764-pink-11-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+    <published>2021-09-23T10:01:00+05:00</published>
+    <updated>2021-09-23T10:01:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/products/kid-baby-walkers-non-slip-shoes"/>
+    <title>Kid Baby Walkers Non-slip Shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>babiesGlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/2585/2894/products/product-image-1837778423.jpg?v=1632392204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>babiesGlow<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Season:</strong> Four Seasons<br><strong>Fashion Element:</strong> Shallow<br><strong>Pattern Type:</strong> Animal Prints<br><strong>Department Name:</strong> Baby<br><strong>Outsole Material:</strong> Rubber<br><strong>Gender:</strong> Girl&amp;boy<br><strong>Aqua Socks:</strong> Non-Slip Shoes<br><strong>Item2:</strong> Sneaker</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shoes</s:tag>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 6-12 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 6-12 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 12-18 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 12-18 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 18-24 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 18-24 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 2-4 Years / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 2-4 Years / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 12-18 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 18-24 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 18-24 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 2-4 Years / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 2-4 Years / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 6-12 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 6-12 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>PK / 12-18 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-pk-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 12-18 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 18-24 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 18-24 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 2-4 Years / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>BG / 2-4 Years / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-bg-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 6-12 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 6-12 Months / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736839902</id>
+      <title>GY / 12-18 Months / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>47355360-gy-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+    <published>2021-09-23T09:57:59+05:00</published>
+    <updated>2021-09-23T09:57:59+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/products/shoes-cartoon-anti-slip-soft-sole"/>
+    <title>Shoes Cartoon Anti-Slip Soft Sole</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>babiesGlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/2585/2894/products/product-image-1495162535.jpg?v=1632373084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>babiesGlow<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Canvas<br><strong>Season:</strong> Four Seasons<br><strong>Fashion Element:</strong> Shallow<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Print<br><strong>Outsole Material:</strong> Rubber<br><strong>Type:</strong> Baby Shoes<br><strong>Function:</strong> Anti-slip</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shoes</s:tag>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>PK / 11 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-pk-11-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BU / 13 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bu-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BU / 13 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bu-13-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BU / 12 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bu-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>PK / 13 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-pk-13-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>PK / 12 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-pk-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>PK / 12 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-pk-12-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>PK / 11 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-pk-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BG / 13 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bg-13-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BG / 12 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bg-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BG / 12 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bg-12-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BG / 11 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bg-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BU / 12 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bu-12-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BU / 11 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bu-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BU / 11 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bu-11-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BG / 13 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bg-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>BG / 11 / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-bg-11-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736774366</id>
+      <title>PK / 13 / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>39239683-pk-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+    <published>2021-09-23T09:53:35+05:00</published>
+    <updated>2021-09-23T09:53:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babiesglow.myshopify.com/products/kids-beach-water-sports-sneakers"/>
+    <title>Kids Beach Water Sports Sneakers</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>babiesGlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0549/2585/2894/products/product-image-1789841097.jpg?v=1632392245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>babiesGlow<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Season:</strong> Four Seasons<br><strong>Fashion Element:</strong> Shallow<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Type:</strong> Baby Shoes<br><strong>Gender:</strong> Girl&amp;boy</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shoes</s:tag>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 6-12 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 12-18 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 12-18 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 18-24 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 18-24 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 2-4 Years / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 2-4 Years / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 6-12 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 6-12 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 12-18 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 12-18 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 18-24 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 18-24 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 2-4 Years / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 2-4 Years / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>MR / 6-12 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-mr-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 6-12 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 12-18 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 12-18 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 18-24 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 18-24 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 2-4 Years / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 2-4 Years / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>LB / 6-12 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-lb-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 6-12 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 12-18 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 12-18 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 18-24 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 18-24 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 2-4 Years / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 2-4 Years / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>GN / 6-12 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-gn-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>BU / 6-12 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-bu-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 6-12 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 12-18 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 12-18 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 18-24 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 18-24 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 2-4 Years / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 2-4 Years / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 6-12 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 12-18 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 12-18 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 18-24 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-18-24-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 18-24 Months / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-18-24-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 2-4 Years / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-2-4-years-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>PK / 2-4 Years / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-pk-2-4-years-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babiesglow.myshopify.com/products/6636736610526</id>
+      <title>YE / 6-12 Months / China</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>46065601-ye-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

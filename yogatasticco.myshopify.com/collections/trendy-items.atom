@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yogatasticco.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yogatasticco.myshopify.com/collections/trendy-items.atom"/>
+  <title>Yogatasticco</title>
+  <updated>2021-06-01T12:44:48+05:00</updated>
+  <author>
+    <name>Yogatasticco</name>
+  </author>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+    <published>2021-06-01T12:44:48+05:00</published>
+    <updated>2021-06-01T12:44:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/leopard-printed-yoga-bra"/>
+    <title>Leopard printed yoga bra</title>
+    <s:type>Bra</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1643118687.jpg?v=1622534252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Bra<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Yoga<br><strong>Closure Type:</strong> YES<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> nylon<br><strong>feature:</strong> quick dry<br><strong>material:</strong> polyester/spandex/cotton<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>sport type:</strong> yoga bra/sports bra<br><strong>color:</strong> black/pink/blue/white/green/wine red<br><strong>size:</strong> 85B-100C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga bra</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 44 100C</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 44 100B</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 42 95C</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 42 95B    XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 40 90C    L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 38 85C   S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 38 85B  XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 44 100C</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 44 100B</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 42 95B    XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 40 90C    L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 38 85B  XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+    <published>2021-06-01T12:43:25+05:00</published>
+    <updated>2021-06-01T12:43:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/top-fashion-yoga-bra"/>
+    <title>Top Fashion Yoga Bra</title>
+    <s:type>Bra</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1712192954.jpg?v=1622534345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Bra<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Fitness<br><strong>Closure Type:</strong> no<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> polyster<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga bra</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>KHAKI / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-khaki-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C yellow / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-yellow-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>KHAKI / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-khaki-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+    <published>2021-06-01T12:31:30+05:00</published>
+    <updated>2021-06-01T12:31:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/fitness-sports-yoga-suits"/>
+    <title>Fitness Sports yoga Suits</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1501955933.jpg?v=1622539819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Gender:</strong> WOMEN<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Compressed<br><strong>Feature:</strong> Quick Dry<br><strong>Color:</strong> Blue, Purple, White, Gray, Pink, WineRed, Khaki<br><strong>Yoga Set:</strong> Leggings and bra top 2pcs yoga clothing<br><strong>Sport Suit Women:</strong> Seamless leggings + Yoga bra sport wear<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga suits</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Purple / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Purple / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Gray / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Gray / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Gray / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>White / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>White / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>White / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Purple / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Blue / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Blue / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Blue / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+    <published>2021-06-01T12:18:47+05:00</published>
+    <updated>2021-06-01T12:18:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/yoga-pants-leggings-1"/>
+    <title>Yoga Pants Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1557110604.jpg?v=1622531938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Nylon<br><strong>Material:</strong> Spandex<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Fit:</strong> fits true to size, take your normal size<br><strong>material:</strong> polyester/spandex/nylon/spandex+polyester<br><strong>sport type:</strong> yoga pants<br><strong>Feature:</strong> leggings sport women fitness push up<br><strong>Feature1:</strong> leggings sport women fitness high waist<br><strong>Feature2:</strong> gym leggings women<br><strong>Feature4:</strong> workout leggings for women<br><strong>Feature5:</strong> yoga leggings high waist<br><strong>Feature6:</strong> seamless leggings women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Leggings</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Green / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Green / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Green / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Green / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Black / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Black / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Black / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Black / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Wine Red / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-wine-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Wine Red / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-wine-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Wine Red / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-wine-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Wine Red / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-wine-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark pink / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark pink / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark pink / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark pink / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark gray / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark gray / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark gray / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Dark gray / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-dark-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Blue / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Blue / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Blue / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Blue / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Gray / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Navy blue / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-navy-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Light pink / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-light-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Navy blue / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-navy-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Navy blue / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-navy-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Light pink / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-light-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Blue / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Light pink / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-light-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Light pink / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-light-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Gray / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01Leggings ArmyGreen / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01leggings-armygreen-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Gray / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01 Leggings Gray / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01-leggings-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01Leggings ArmyGreen / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01leggings-armygreen-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Navy blue / S</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-navy-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01Leggings ArmyGreen / M</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01leggings-armygreen-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>01Leggings ArmyGreen / L</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-01leggings-armygreen-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813111582873</id>
+      <title>02 Pants Blue / XL</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>40670936-02-pants-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+    <published>2021-06-01T12:17:43+05:00</published>
+    <updated>2021-06-01T12:17:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/fitness-women-sport-suit"/>
+    <title>Fitness Women Sport Suit</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1729396648.jpg?v=1622539931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            32.44 - 36.50
+            <a href="https://yogatasticco.myshopify.com/products/fitness-women-sport-suit">(26 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Bamboo Fiber<br><strong>Gender:</strong> WOMEN<br><strong>Sport Type:</strong> Yoga<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><strong>Feature:</strong> Thermal<br><strong>Feature:</strong> Breathable<br><strong>Fit:</strong> fits true to size, take your normal size<br><strong>material:</strong> 90%POLYESTER+10%SPANDEX<br><strong>sport type:</strong> sexy one-piece yoga suit<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Leggings</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Yellow / XL</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Yellow / M</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Yellow / L</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Sky Blue / XL</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-sky-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Dark Blue / S</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Sky Blue / M</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-sky-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Sky Blue / L</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Sky Blue / S</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-sky-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Grey / M</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Grey / L</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Black / XL</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Dark Blue / S</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Black / M</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Black / L</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Dark Blue / XL</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Black / S</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Dark Blue / M</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-dark-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Long Pant Dark Blue / L</title>
+      <s:price currency="USD">36.50</s:price>
+      <s:sku>25563165-long-pant-dark-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Red / M</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Red / L</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Dark Blue / XL</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Red / S</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Blue / XL</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Yellow / S</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Blue / M</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813109944473</id>
+      <title>Short Pant Blue / L</title>
+      <s:price currency="USD">32.44</s:price>
+      <s:sku>25563165-short-pant-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+    <published>2021-06-01T12:10:59+05:00</published>
+    <updated>2021-06-01T12:10:59+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/yoga-pants-leggings"/>
+    <title>Yoga Pants Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1689341986.jpg?v=1622531472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Fit:</strong> fits true to size, take your normal size<br><strong>material:</strong> 90%POLYESTER +10%SPANDEX<br><strong>sport type:</strong> yoga pants<br><strong>description1:</strong> leggings sport women fitness high waist<br><strong>description2:</strong> leggings sport women fitness push up<br><strong>description3:</strong> gym leggings women<br><strong>description4:</strong> yoga leggings high waist<br><strong>description5:</strong> fitness legging high waist<br><strong>description6:</strong> gym leggings women high waist<br><strong>description7:</strong> workout leggings for women<br><strong>description8:</strong> sport legging woman</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Leggings</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant black / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant black / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant black / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant black / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Calf-Length darkblue / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-calf-length-darkblue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Calf-Length darkblue / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-calf-length-darkblue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Calf-Length darkblue / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-calf-length-darkblue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Calf-Length darkblue / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-calf-length-darkblue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant purple / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant purple / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant purple / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant purple / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant dark green / S</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-dark-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant dark green / M</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-dark-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant dark green / L</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-dark-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813098967193</id>
+      <title>Long Pant dark green / XL</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>20106879-long-pant-dark-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rareviewz.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rareviewz.myshopify.com/collections/horn-rimmed.atom"/>
+  <title>RareViewz</title>
+  <updated>2020-07-18T01:53:27-04:00</updated>
+  <author>
+    <name>RareViewz</name>
+  </author>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+    <published>2020-07-18T01:53:27-04:00</published>
+    <updated>2020-07-18T01:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/vintage-rimless-sunglasses-for-men-carter-glasses-frames"/>
+    <title>Vintage Rimless Sunglasses for Men Carter Glasses Frames</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1133508050.jpg?v=1595051612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            66.00 - 123.20
+            <a href="https://rareviewz.myshopify.com/products/vintage-rimless-sunglasses-for-men-carter-glasses-frames">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Department Name:</strong> Adult<br><strong>Gender:</strong> MEN<br><strong>Frame Material:</strong> Alloy<br><strong>Style:</strong> Rimless<br><strong>Lenses Material:</strong> Resin<br><strong>Lens Width:</strong> 56mm<br><strong>Lens Height:</strong> 38mm<br><strong>Eyewear Type:</strong> Sunglasses<br><strong>Item Type:</strong> Eyewear<br><strong>Size:</strong> 56-18-140(135 for wood arms)<br><strong>Type:</strong> Rimless Sunglasses<br><strong>Lens Colors:</strong> Pink, Grey, Brown<br><strong>Effects:</strong> Gradient<br><strong>Occasion:</strong> Wedding, Club, Fishing, Driving<br><strong>Special Feature:</strong> Buffalo Horn Glasses<br><strong>People:</strong> Sunglasses for Men, Sunglasses Women<br><strong>Grade:</strong> Luxury Sunglasses<br><strong>Fashion:</strong> Carter Glasses<br><strong>Model:</strong> Sun Glasses<br><strong>Natural:</strong> Wood Sunglasses, Carter Glasses Buffalo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Gold Wood</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>29168861-gradient-red-lens-gold-wood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Gold White Black Hor</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>29168861-gradient-red-lens-gold-white-black-hor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Gold Black Horn</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku>29168861-gradient-red-lens-gold-black-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Gold White Horn</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku>29168861-gradient-red-lens-gold-white-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Silver Wood</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>29168861-gradient-red-lens-silver-wood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Silver White Black H</title>
+      <s:price currency="USD">123.20</s:price>
+      <s:sku>29168861-gradient-red-lens-silver-white-black-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Silver Black Horn</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>29168861-gradient-red-lens-silver-black-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Red Lens / Silver White Horn</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>29168861-gradient-red-lens-silver-white-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Gold Wood</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>29168861-gradient-grey-lens-gold-wood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Gold White Black Hor</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>29168861-gradient-grey-lens-gold-white-black-hor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Gold Black Horn</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku>29168861-gradient-grey-lens-gold-black-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Gold White Horn</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku>29168861-gradient-grey-lens-gold-white-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Silver Wood</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>29168861-gradient-grey-lens-silver-wood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Silver White Black H</title>
+      <s:price currency="USD">123.20</s:price>
+      <s:sku>29168861-gradient-grey-lens-silver-white-black-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Silver Black Horn</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>29168861-gradient-grey-lens-silver-black-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Grey Lens / Silver White Horn</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>29168861-gradient-grey-lens-silver-white-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Gold Wood</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku>29168861-gradient-brown-lens-gold-wood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Gold White Black Hor</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>29168861-gradient-brown-lens-gold-white-black-hor</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Gold Black Horn</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku>29168861-gradient-brown-lens-gold-black-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Gold White Horn</title>
+      <s:price currency="USD">92.40</s:price>
+      <s:sku>29168861-gradient-brown-lens-gold-white-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Silver Wood</title>
+      <s:price currency="USD">79.20</s:price>
+      <s:sku>29168861-gradient-brown-lens-silver-wood</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Silver White Black H</title>
+      <s:price currency="USD">123.20</s:price>
+      <s:sku>29168861-gradient-brown-lens-silver-white-black-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Silver Black Horn</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>29168861-gradient-brown-lens-silver-black-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397606596763</id>
+      <title>Gradient Brown Lens / Silver White Horn</title>
+      <s:price currency="USD">96.80</s:price>
+      <s:sku>29168861-gradient-brown-lens-silver-white-horn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+    <published>2020-07-18T01:53:07-04:00</published>
+    <updated>2020-07-18T01:53:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/natural-wood-sunglasses-men-black-white-buffalo-horn"/>
+    <title>Natural Wood Sunglasses Men Black White Buffalo Horn</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1127854611.jpg?v=1595051596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            70.20 - 109.20
+            <a href="https://rareviewz.myshopify.com/products/natural-wood-sunglasses-men-black-white-buffalo-horn">(60 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> MEN<br><strong>Frame Material:</strong> Alloy<br><strong>Style:</strong> Rimless<br><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Department Name:</strong> Adult<br><strong>Lenses Material:</strong> Polycarbonate<br><strong>Lens Width:</strong> 54mm<br><strong>Lens Height:</strong> 42mm<br><strong>Catalog:</strong> Natural Buffalo Horn Sun Glasses<br><strong>Special:</strong> Rimless Sunglasses<br><strong>Fashion:</strong> Men sunglasses<br><strong>Usage:</strong> Black Mix White Buffalo Shades<br><strong>Occasion:</strong> Wedding, party, traveling<br><strong>Style:</strong> Wood Sunglasses Men<br><strong>Lens Thickness:</strong> 3mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood purple / silver frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-purple-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood blue / gold frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-blue-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood blue / silver frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-blue-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood brown / gold frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-brown-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood green / silver frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-green-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood pink / gold frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-pink-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood pink / silver frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-pink-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood purple / gold frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-purple-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood brown / silver frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-brown-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood grey / gold frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-grey-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood grey / silver frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-grey-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black green / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-green-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black pink / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-pink-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black pink / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-pink-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black purple / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-purple-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white brown / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-brown-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white grey / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-grey-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white grey / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-grey-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black green / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-green-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black brown / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-brown-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black grey / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-grey-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black grey / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-grey-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>wood green / gold frame</title>
+      <s:price currency="USD">70.20</s:price>
+      <s:sku>21295439-wood-green-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black purple / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-purple-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black blue / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-blue-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black blue / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-blue-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>black brown / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-black-brown-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black brown / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-brown-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black grey / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-grey-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black grey / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-grey-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white green / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-green-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black purpl / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-purpl-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black blue / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-blue-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black blue / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-blue-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black brown / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-brown-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white purple / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-purple-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white blue / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-blue-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white blue / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-blue-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white brown / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-brown-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white green / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-green-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white pink / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-pink-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white pink / silver frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-pink-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white purple / gold frame</title>
+      <s:price currency="USD">95.16</s:price>
+      <s:sku>21295439-white-purple-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black purple / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-purple-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black  blue / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-blue-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black  blue / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-blue-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black  brown / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-brown-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black green / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-green-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black pink / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-pink-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black pink / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-pink-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black purple / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-purple-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black green / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-green-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black pink / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-pink-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black pink / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-pink-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black purpl / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-purpl-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black  brown / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-brown-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black grey / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-grey-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black grey / silver frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-grey-silver-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white in black green / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-in-black-green-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397605482651</id>
+      <title>white m black green / gold frame</title>
+      <s:price currency="USD">109.20</s:price>
+      <s:sku>21295439-white-m-black-green-gold-frame</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+    <published>2020-07-18T01:52:46-04:00</published>
+    <updated>2020-07-18T01:52:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/nature-buffs-horn-sunglasses-men-new-trend-fashion"/>
+    <title>Nature Buffs Horn Sunglasses Men New Trend Fashion</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1249565585.jpg?v=1595051571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            82.80 - 110.40
+            <a href="https://rareviewz.myshopify.com/products/nature-buffs-horn-sunglasses-men-new-trend-fashion">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> MEN<br><strong>Style:</strong> Rectangle<br><strong>Department Name:</strong> Adult<br><strong>Frame Material:</strong> Alloy<br><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Eyewear Type:</strong> Sunglasses<br><strong>Lens Height:</strong> 38mm<br><strong>Lenses Material:</strong> Polycarbonate<br><strong>Item Type:</strong> Eyewear<br><strong>Lens Width:</strong> 56mm<br><strong>name:</strong> carter sunglass<br><strong>occasion 2:</strong> fishing<br><strong>occasion 3:</strong> beach<br><strong>size:</strong> 56-18-140mm<br><strong>usage:</strong> decoration<br><strong>temple:</strong> buffalo wood<br><strong>frame:</strong> gold<br><strong>lens:</strong> grey brown<br><strong>quality:</strong> AAAA+<br><strong>come with:</strong> case box cleaning clothes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>grey gold / without case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-grey-gold-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>grey yellow gold / without case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-grey-yellow-gold-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>grey gold / with case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-grey-gold-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white yellow gold / without case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-yellow-gold-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>grey yellow gold / with case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-grey-yellow-gold-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white grey gold / without case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-grey-gold-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white yellow gold / with case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-white-yellow-gold-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white bk silver brow / without case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-white-bk-silver-brow-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white grey gold / with case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-white-grey-gold-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>BLK silver brown / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-blk-silver-brown-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>BLK gold grey / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-blk-gold-grey-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>BLK gold brown / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-blk-gold-brown-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>BLK silver brown / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-blk-silver-brown-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>BLK gold brown / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-blk-gold-brown-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white bk gold brown / without case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-white-bk-gold-brown-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white bk silver brow / with case</title>
+      <s:price currency="USD">110.40</s:price>
+      <s:sku>21359632-white-bk-silver-brow-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white bk silver grey / without case</title>
+      <s:price currency="USD">101.20</s:price>
+      <s:sku>21359632-white-bk-silver-grey-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white bk gold brown / with case</title>
+      <s:price currency="USD">110.40</s:price>
+      <s:sku>21359632-white-bk-gold-brown-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white silver green / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-white-silver-green-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white bk silver grey / with case</title>
+      <s:price currency="USD">110.40</s:price>
+      <s:sku>21359632-white-bk-silver-grey-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white silver grey / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-white-silver-grey-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white silver green / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-silver-green-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white silver brown / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-white-silver-brown-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white silver grey / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-silver-grey-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white gold grey / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-white-gold-grey-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white silver brown / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-silver-brown-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white gold brown / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-white-gold-brown-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white gold grey / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-gold-grey-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>BLK gold grey / without case</title>
+      <s:price currency="USD">82.80</s:price>
+      <s:sku>21359632-blk-gold-grey-without-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397604335771</id>
+      <title>white gold brown / with case</title>
+      <s:price currency="USD">92.00</s:price>
+      <s:sku>21359632-white-gold-brown-with-case</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+    <published>2020-07-18T01:52:22-04:00</published>
+    <updated>2020-07-18T01:52:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://rareviewz.myshopify.com/products/tortoise-designer-inspired-classic-half-frame-horned"/>
+    <title>Tortoise Designer Inspired Classic Half Frame Horned</title>
+    <s:type></s:type>
+    <s:vendor>RareViewz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0431/4618/2811/products/product-image-1434771749.jpg?v=1595051546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RareViewz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Eyewear Type:</strong> Sunglasses<br><strong>Item Type:</strong> Eyewear<br><strong>Department Name:</strong> Adult<br><strong>Frame Material:</strong> Acetate<br><strong>Lenses Material:</strong> Polycarbonate<br><strong>Lens Width:</strong> 52cm<br><strong>Gender:</strong> MEN<br><strong>Style:</strong> Square<br><strong>Brand Name:</strong> EYECRAFTERS<br><strong>Lenses Optical Attribute:</strong> Mirror<br><strong>Lenses Optical Attribute:</strong> Polarized<br><strong>Lens Height:</strong> 44cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Bright Black Black</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-bright-black-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Black Silver</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-black-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Matte Black G15</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-matte-black-g15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Matte Black Black</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-matte-black-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Black Blue</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-black-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Tortoise Brown</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-tortoise-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Bright Black G15</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-bright-black-g15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Brown Brown</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-brown-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rareviewz.myshopify.com/products/5397602697371</id>
+      <title>Black Orange</title>
+      <s:price currency="USD">31.58</s:price>
+      <s:sku>5103471-black-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

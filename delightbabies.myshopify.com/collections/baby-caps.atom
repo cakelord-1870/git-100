@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://delightbabies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://delightbabies.myshopify.com/collections/baby-caps.atom"/>
+  <title>delightbabies</title>
+  <updated>2021-06-02T16:07:13+05:00</updated>
+  <author>
+    <name>delightbabies</name>
+  </author>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+    <published>2021-06-02T16:07:13+05:00</published>
+    <updated>2021-06-02T16:07:13+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/newborn-baby-sleep-caps"/>
+    <title>Newborn Baby Sleep Caps</title>
+    <s:type>Caps</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1421191117.jpg?v=1622634407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Caps<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Baby Girls<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> baby<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caps</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>B / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-b-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>C / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-c-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>DH / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-dh-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>DL / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-dl-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>G / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-g-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>HW / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-hw-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>L / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-l-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>RM / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-rm-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>MH / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-mh-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>O / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-o-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>P / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-p-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>QH / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-qh-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>QL / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-ql-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>R / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-r-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>Y / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-y-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741118156975</id>
+      <title>Z / M</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>15696277-z-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741112815791</id>
+    <published>2021-06-02T16:05:54+05:00</published>
+    <updated>2021-06-02T16:05:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/handmade-crochet-baby-hat"/>
+    <title>Handmade Crochet baby Hat</title>
+    <s:type>Caps</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-94964529.jpg?v=1622631957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Caps<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Baby Girls<br><strong>Pattern Type:</strong> Solid<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Caps</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741112815791</id>
+      <title>Rose Red</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2059708-rose-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741112815791</id>
+      <title>Pink</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2059708-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741112815791</id>
+      <title>Yellow</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>2059708-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741103214767</id>
+    <published>2021-06-02T16:03:20+05:00</published>
+    <updated>2021-06-02T16:03:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/unisex-boy-girls-casual-cap"/>
+    <title>Unisex Boy Girls Casual Cap</title>
+    <s:type>Caps</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1742281286.jpg?v=1622631802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Caps<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Acrylic<br><strong>Strap Type:</strong> Adjustable<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Animal<br><strong>Department Name:</strong> baby<br><strong>Baby Age:</strong> 10-12 months<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 19-24 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Caps</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741103214767</id>
+      <title>B</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>28879954-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741103214767</id>
+      <title>P</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>28879954-p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741099151535</id>
+    <published>2021-06-02T16:01:56+05:00</published>
+    <updated>2021-06-02T16:01:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/newborn-baby-hat"/>
+    <title>Newborn Baby Hat</title>
+    <s:type>Caps</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1769922430.jpg?v=1622634466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Caps<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Acrylic<br><strong>Material:</strong> COTTON<br><strong>Strap Type:</strong> Fitted<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> baby<br><strong>Baby Age:</strong> 13-18 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 19-24 months<br><strong>Baby Age:</strong> 10-12 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Caps</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741099151535</id>
+      <title>W</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>45525747-w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741099151535</id>
+      <title>P</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>45525747-p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741099151535</id>
+      <title>R</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>45525747-r-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

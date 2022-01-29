@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yoga-mash.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yoga-mash.myshopify.com/collections/yoga-bras.atom"/>
+  <title>Yoga Mash</title>
+  <updated>2021-06-03T15:09:51+05:00</updated>
+  <author>
+    <name>Yoga Mash</name>
+  </author>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+    <published>2021-06-03T15:09:51+05:00</published>
+    <updated>2021-06-03T15:09:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/bandage-lace-women-bra"/>
+    <title>Bandage Lace Women Bra</title>
+    <s:type>Bras</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1754053676.jpg?v=1622719247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Bras<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Fitness<br><strong>Closure Type:</strong> no<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> polyster<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Bra</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>yellow / 2XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-yellow-united-states-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>yellow / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-yellow-united-states-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>blue / 2XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-blue-united-states-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>blue / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-blue-united-states-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>purple / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-purple-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>purple / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-purple-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>purple / 2XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-purple-united-states-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>purple / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-purple-united-states-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>yellow / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-yellow-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>yellow / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-yellow-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>beige / 2XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-beige-united-states-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>beige / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-beige-united-states-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>gray / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-gray-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>gray / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-gray-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>gray / 2XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-gray-united-states-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>gray / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-gray-united-states-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>blue / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-blue-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>blue / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-blue-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>black / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-black-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>black / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-black-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>black / 2XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-black-united-states-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>black / XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-black-united-states-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>beige / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-beige-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874208272558</id>
+      <title>beige / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43589499-beige-united-states-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+    <published>2021-06-03T15:08:12+05:00</published>
+    <updated>2021-06-03T15:08:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/fashion-leopard-print-yoga-bra"/>
+    <title>Fashion Leopard print yoga bra</title>
+    <s:type>Bra</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1749243153.jpg?v=1622714911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Bra<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Yoga<br><strong>Closure Type:</strong> YES<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> nylon<br><strong>feature:</strong> quick dry<br><strong>material:</strong> polyester/spandex/cotton<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>sport type:</strong> yoga bra/sports bra<br><strong>color:</strong> black/pink/blue/white/green/wine red</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bra</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 44 100B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 42 95C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 42 95B    XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 40 90C    L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 40 90B   M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-40-90b-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 38 85C   S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 2 / 38 85B  XS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-2-china-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 44 100C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 44 100B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 42 95C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 42 95B    XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 40 90C    L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 40 90B   M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-40-90b-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 38 85C   S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>leopard 1 / 38 85B  XS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-leopard-1-china-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 44 100C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 42 95B    XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 40 90C    L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 44 100B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 42 95C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 44 100C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 42 95B    XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 40 90C    L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 44 100B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 42 95C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 38 85B  XS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 40 90B   M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-40-90b-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown 2 / 38 85C   S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-2-china-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 44 100C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 42 95B    XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 40 90C    L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 44 100B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 42 95C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 38 85B  XS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 40 90B   M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-40-90b-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb black 2 / 38 85C   S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-black-2-china-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 44 100C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 42 95B    XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 40 90C    L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 44 100B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 42 95C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 38 85B  XS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 40 90B   M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-40-90b-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink2 / 38 85C   S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink2-china-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 38 85B  XS</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 40 90B   M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-40-90b-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb brown / 38 85C   S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-brown-china-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874193232046</id>
+      <title>Styleb pink / 44 100C</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>42269124-styleb-pink-china-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+    <published>2021-06-03T14:33:55+05:00</published>
+    <updated>2021-06-03T14:33:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/fitness-sports-yoga-bra"/>
+    <title>Fitness Sports Yoga Bra</title>
+    <s:type>Bras</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1712192961.jpg?v=1622719303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Bras<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Fitness<br><strong>Closure Type:</strong> no<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> polyster<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D green / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-green-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D  purple / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-purple-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D  purple / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-purple-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D  purple / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-purple-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D green / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-green-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D green / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-green-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D green / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-green-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D beige / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-beige-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D pink / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-pink-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D beige / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-beige-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D beige / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-beige-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D beige / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-beige-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D black / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D pink / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-pink-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D pink / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-pink-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D pink / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-pink-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D  purple / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-purple-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D black / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D black / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style D black / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style B red / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-b-red-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style B red / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-b-red-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style B black / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-b-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style B black / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-b-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style B black / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-b-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style B black / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-b-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C beige / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C beige / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C beige / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C beige / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C greypurple / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C greypurple / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C greypurple / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C greypurple / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C black / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C black / Asian size L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C black / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C black / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>KHAKI / Asian size 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-khaki-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>Style C yellow / Asian size M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-style-c-yellow-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873872171182</id>
+      <title>KHAKI / Asian size XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42282683-khaki-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+    <published>2021-06-03T14:29:40+05:00</published>
+    <updated>2021-06-03T14:29:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/sports-yoga-bras"/>
+    <title>Sports Yoga Bras</title>
+    <s:type>Bras</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1748166914.jpg?v=1622719332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Bras<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Fitness<br><strong>Closure Type:</strong> no<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> Nylon/Spandex<br><strong>Lingerie Brassiere tops:</strong> Female Breathable Underwear<br><strong>Women Fitness Tops:</strong> women Wirefree lace Seamless Bras<br><strong>Women Camis Bra Tops:</strong> Female Sleeveless Tank Tops<br><strong>Women Lace Camis Bras:</strong> Spaghetti Straps sexy bra<br><strong>women bras sexy lingerie lace bra:</strong> sports bra for women gym<br><strong>Yoga Tops Fitness Women Girls Sport Bra:</strong> Fitness Running Yoga Sport Tops<br><strong>Jogging Gym Women Sports Bra:</strong> Gym bras Workout Top</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bras</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>BLACK / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-black-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>BLACK / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-black-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>YELLOW / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-yellow-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>BLACK / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-black-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>BLACK / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-black-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>GREEN / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-green-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B green / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-green-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>GREEN / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-green-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B green / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-green-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>PINK / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-pink-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>GREEN / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-green-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B green / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-green-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>YELLOW / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-yellow-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B greyblue / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-greyblue-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>YELLOW / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-yellow-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B greyblue / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-greyblue-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>GREEN / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-green-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B green / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-green-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>YELLOW / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-yellow-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B greyblue / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-greyblue-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black2 / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black2-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black2 / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black2-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>PURPLE / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-purple-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black2 / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black2-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>PINK / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-pink-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>PINK / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-pink-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black2 / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black2-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>PINK / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-pink-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style B black / Asian size 2XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-b-black-china-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C black / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-black-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C black / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-black-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C black / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-black-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C grey / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-grey-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C grey / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-grey-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C grey / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-grey-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C blue / Asian size M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-blue-china-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C blue / Asian size L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-blue-china-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6873834291374</id>
+      <title>style C pink / Asian size XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43244742-style-c-pink-china-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

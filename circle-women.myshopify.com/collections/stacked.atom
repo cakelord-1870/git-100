@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://circle-women.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://circle-women.myshopify.com/collections/stacked.atom"/>
+  <title>Circle Women</title>
+  <updated>2020-07-29T01:50:03-04:00</updated>
+  <author>
+    <name>Circle Women</name>
+  </author>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495427727524</id>
+    <published>2020-07-29T01:50:03-04:00</published>
+    <updated>2020-07-29T01:50:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/high-waist-ruched-pleated-pants"/>
+    <title>High Waist Ruched Pleated Pants</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1470543084.jpg?v=1596001809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Length:</strong> Full Length<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Item Type:</strong> JEANS<br><strong>Gender:</strong> WOMEN<br><strong>Decoration:</strong> Pleated<br><strong>Fit Type:</strong> skinny<br><strong>service:</strong> drop shipping<br><strong>service 1:</strong> wholesale discount</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495427727524</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">34.48</s:price>
+      <s:sku>38569844-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gold-swear.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gold-swear.myshopify.com/collections/bracelets.atom"/>
+  <title>Gold Swear</title>
+  <updated>2021-09-16T15:14:51+05:00</updated>
+  <author>
+    <name>Gold Swear</name>
+  </author>
+  <entry>
+    <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+    <published>2021-09-16T15:14:51+05:00</published>
+    <updated>2021-09-16T15:14:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/products/weave-charm-rope-chain-bracelets"/>
+    <title>Weave Charm Rope Chain Bracelets</title>
+    <s:type></s:type>
+    <s:vendor>Gold Swear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7173/1630/products/product-image-1645116465.jpg?v=1631787430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Swear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fine or Fashion:</strong> Fashion<br><strong>Style:</strong> TRENDY<br><strong>Material:</strong> Ribbon<br><strong>Chain Type:</strong> Link Chain<br><strong>Item Type:</strong> Bracelets<br><strong>Compatibility:</strong> All Compatible<br><strong>Shape\pattern:</strong> Heart<br><strong>Setting Type:</strong> None</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Black / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Grey / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-grey-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Red / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Green / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>WineRed / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-winered-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>WineRed / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-winered-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Grey / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-grey-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>DarkBlue / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-darkblue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Beige / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-beige-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Beige / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-beige-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>PinkBlack / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-pinkblack-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>WineRedDarkBlue / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-winereddarkblue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>WineRedDarkBlue / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-winereddarkblue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>DarkBlue / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-darkblue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>As the picture / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-as-the-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>As the picture / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-as-the-picture-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346878841006</id>
+      <title>PinkBlack / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>40477742-pinkblack-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+    <published>2021-09-16T15:13:37+05:00</published>
+    <updated>2021-09-16T15:13:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/products/unisex-rope-chain-bracelets"/>
+    <title>Unisex Rope Chain Bracelets</title>
+    <s:type></s:type>
+    <s:vendor>Gold Swear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7173/1630/products/product-image-1724531546.jpg?v=1631787453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Swear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fine or Fashion:</strong> Fashion<br><strong>Style:</strong> TRENDY<br><strong>Material:</strong> Metal<br><strong>Chain Type:</strong> Rope Chain<br><strong>Item Type:</strong> Bracelets<br><strong>Compatibility:</strong> All Compatible<br><strong>Shape\pattern:</strong> Star<br><strong>Setting Type:</strong> None<br><strong>Clasp Type:</strong> Lace-up<br><strong>Type:</strong> Couple Bracelets<br><strong>Style:</strong> Friendship Bracelets<br><strong>Decoration:</strong> agnet Attracts Couple Bracelets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Red-black / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-red-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Red-black / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-red-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Black-white / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-black-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Black-white / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-black-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Black-black / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-black-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Black-black / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-black-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Grey-white / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-grey-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Grey-white / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-grey-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Grey-black / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-grey-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Grey-black / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-grey-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Red-white / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-red-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346877923502</id>
+      <title>Red-white / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44523444-red-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gold-swear.myshopify.com/products/7346876711086</id>
+    <published>2021-09-16T15:12:07+05:00</published>
+    <updated>2021-09-16T15:12:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/products/stainless-steel-open-cuff-bracelets"/>
+    <title>Stainless Steel Open Cuff Bracelets</title>
+    <s:type></s:type>
+    <s:vendor>Gold Swear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7173/1630/products/product-image-1709854403.jpg?v=1631787132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Swear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bracelets Type:</strong> Cuff Bracelet<br><strong>Style:</strong> Vintage<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Material:</strong> Metal<br><strong>Compatibility:</strong> All Compatible<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346876711086</id>
+      <title>Gold / China</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>44117740-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346876711086</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku>44117740-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gold-swear.myshopify.com/products/7346875760814</id>
+    <published>2021-09-16T15:10:58+05:00</published>
+    <updated>2021-09-16T15:10:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/products/natural-stone-bead-bracelets"/>
+    <title>Natural Stone Bead Bracelets</title>
+    <s:type></s:type>
+    <s:vendor>Gold Swear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7173/1630/products/product-image-1664965874.jpg?v=1631787061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Swear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fine or Fashion:</strong> Fashion<br><strong>Style:</strong> TRENDY<br><strong>Material:</strong> Cubic Zirconia<br><strong>Chain Type:</strong> Link Chain<br><strong>Item Type:</strong> Bracelets<br><strong>Compatibility:</strong> All Compatible<br><strong>Shape\pattern:</strong> Round<br><strong>Function:</strong> Mood Tracker<br><strong>Setting Type:</strong> Bezel Setting</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346875760814</id>
+      <title>2pc each set / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42874390-2pc-each-set-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346875760814</id>
+      <title>2pc each set / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42874390-2pc-each-set-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gold-swear.myshopify.com/products/7346875302062</id>
+    <published>2021-09-16T15:10:27+05:00</published>
+    <updated>2021-09-16T15:10:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/products/women-crystal-wedding-bracelet"/>
+    <title>Women Crystal Wedding Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Gold Swear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7173/1630/products/product-image-1519062656.jpg?v=1631787469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Swear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Style:</strong> TRENDY<br><strong>Material:</strong> Cubic Zirconia<br><strong>Chain Type:</strong> Link Chain<br><strong>Item Type:</strong> Bracelets<br><strong>Compatibility:</strong> All Compatible<br><strong>Type:</strong> Bracelets for women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346875302062</id>
+      <title>Gold / United States / 18cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39933734-gold-united-states-18cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346875302062</id>
+      <title>Gold / China / 18cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39933734-gold-china-18cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346875302062</id>
+      <title>Silver / United States / 18cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39933734-silver-united-states-18cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346875302062</id>
+      <title>Silver / China / 18cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39933734-silver-china-18cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gold-swear.myshopify.com/products/7346873991342</id>
+    <published>2021-09-16T15:09:10+05:00</published>
+    <updated>2021-09-16T15:09:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gold-swear.myshopify.com/products/zircon-devils-eye-bracelet"/>
+    <title>Zircon Devil&apos;s Eye Bracelet</title>
+    <s:type></s:type>
+    <s:vendor>Gold Swear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7173/1630/products/product-image-1492739098.jpg?v=1631787433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Swear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Chain Type:</strong> Link Chain<br><strong>Item Type:</strong> Bracelets<br><strong>Compatibility:</strong> All Compatible<br><strong>Shape\pattern:</strong> Geometric<br><strong>Function:</strong> Mood Tracker</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346873991342</id>
+      <title>Silver / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39167958-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346873991342</id>
+      <title>Silver / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39167958-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346873991342</id>
+      <title>Gold / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39167958-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gold-swear.myshopify.com/products/7346873991342</id>
+      <title>Gold / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>39167958-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

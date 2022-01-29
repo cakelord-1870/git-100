@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://baby-sitty.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://baby-sitty.myshopify.com/collections/baby-shoes.atom"/>
+  <title>Baby sitty</title>
+  <updated>2021-09-29T16:43:44+05:00</updated>
+  <author>
+    <name>Baby sitty</name>
+  </author>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+    <published>2021-09-29T16:43:44+05:00</published>
+    <updated>2021-09-29T16:43:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/leather-rubber-sole-shoes"/>
+    <title>Leather Rubber Sole shoes</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/H9bf76ef5b572453db8d8da34670bc250b_3bca7c97-b00f-4292-9819-b295615f939d.jpg?v=1632916709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>season: <span style="color: #333333;">Autumn, Spring, summer, Winter</span></p>
+<p>Upper Material: <span style="color: #333333;">Leather</span></p>
+<p>Season: <span style="color: #333333;">All seasons</span></p>
+<p>Product name: <span style="color: #333333;">Leather multicolor baby shoes</span></p>
+<p>Pattern Type: <span style="color: #333333;">Print</span></p>
+<p>Outsole Material: <span style="color: #333333;">Rubber</span></p>
+<p>Material: <span style="color: #333333;">Leather</span></p>
+<p>Key words: <span style="color: #333333;">Rubber sole Non-slip Soft sole baby shoes First Walkers Toddler Infant</span></p>
+<p>Gender: <span style="color: #333333;">baby unisex</span></p>
+<p>Gender: <span style="color: #333333;">Girl,boy</span></p>
+<p>Fit: <span style="color: #333333;">Fits true to size, take your normal size</span></p>
+<p>Feature: <span style="color: #333333;">Anti-Slip, Flat, Breathable, Light Weight</span></p>
+<p>Fashion Element: <span style="color: #333333;">Bling</span></p>
+<p>Color: <span style="color: #333333;">pink,white,gold,black,blue,grey,beige</span></p>
+<p>Closure Type: <span style="color: #333333;">Elastic band</span></p>
+<p>Size Sole      Length     Width6 Months   11cm/4.33"  5.6cm/2.20"</p>
+<p>Tips:1.Please choose the size,the age is just for reference.</p>
+<p>2.There is 3-5% difference according to manual measurement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>white / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:29;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>white / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:29;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>white / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:29;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>gray / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:691;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>gray / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:691;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>gray / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:691;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>black / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:193;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>black / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:193;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>black / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:193;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Yellow / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:366;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Yellow / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:366;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Yellow / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:366;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Red / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:10;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Red / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:10;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Red / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:10;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Pink / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1052;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Pink / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1052;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Pink / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1052;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Navy Blue / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1063;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Navy Blue / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1063;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Navy Blue / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1063;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>MULTI / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200003699;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>MULTI / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200003699;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>MULTI / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200003699;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Khaki / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200001438;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Khaki / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200001438;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Khaki / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200001438;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Gold / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:350850;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Gold / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:350850;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Gold / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:350850;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Dark Khaki / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200006154;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Dark Khaki / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200006154;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Dark Khaki / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200006154;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Brown black / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:203221806#Brown black;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Brown black / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:203221806#Brown black;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Brown black / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:203221806#Brown black;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Blue / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:173;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Blue / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:173;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Blue / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:173;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Beige / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:771;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Beige / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:771;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788884758734</id>
+      <title>Beige / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:771;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+    <published>2021-09-29T16:21:50+05:00</published>
+    <updated>2021-09-29T16:21:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/baby-girl-shoes-white-lace-floral-embroidered-soft-shoes-prewalker-walking-toddler-kids-shoes-first-walker-free-shipping"/>
+    <title>Prewalker Toddler Kids Shoes</title>
+    <s:type>0</s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/H8301a8dd29d84714bfc2422cad7f4765w.jpg?v=1632914744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            7.02 - 9.02
+            <a href="https://baby-sitty.myshopify.com/products/baby-girl-shoes-white-lace-floral-embroidered-soft-shoes-prewalker-walking-toddler-kids-shoes-first-walker-free-shipping">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Upper Material</span>: <span style="color: #333;">Cotton Fabric</span></p>
+<p><span>Suit</span>: <span style="color: #333;">Baby Wear, Indoor Toddler</span></p>
+<p><span>Style</span>: <span style="color: #333;">Crib Shoes</span></p>
+<p><span>Size</span>: <span style="color: #333;">refer to size chart</span></p>
+<p><span>Season</span>: <span style="color: #333;">Spring &amp; Autumn</span></p>
+<p><span>Popular Elements</span>: <span style="color: #333;">Floral Embroidery</span></p>
+<p><span>Pattern Type</span>: <span style="color: #333;">floral</span></p>
+<p><span>Outsole Material</span>: <span style="color: #333;">COTTON</span></p>
+<p><span></span><span>Item Type</span>: <span style="color: #333;">First Walkers</span></p>
+<p><span>Item Type</span>: <span style="color: #333;">First Walkers Shapes</span></p>
+<p><span>Gender</span>: <span style="color: #333;">Baby Girls</span></p>
+<p><span>Function</span>: <span style="color: #333;">Keep Warm/Breather/Non-slip</span></p>
+<p><span>Fit</span>: <span style="color: #333;">Fits true to size, take your normal size</span></p>
+<p><span>Fashion Element</span>: <span style="color: #333;">Flower</span></p>
+<p><span>Design</span>: <span style="color: #333;">Flower Design</span></p>
+<p><span>Department Name</span>: <span style="color: #333;">Baby</span></p>
+<p><span>Closure Type</span>: <span style="color: #333;">Lace-up</span></p>
+<p><span>Age Range</span>: <span style="color: #333;">13-24m</span></p>
+<p><span>Age Range</span>: <span style="color: #333;">7-12m</span></p>
+<p><span>Age Range</span>: <span style="color: #333;">0-6m</span></p>
+<p><span>Age</span>: <span style="color: #333;">0-18 Month Baby</span></p>
+<div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<div class="detailmodule_dynamic"><widget type="custom" id="23743740" data-widget-type="customText"></widget></div>
+<div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<div class="detailmodule_dynamic"></div>
+<div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<div style="font-family: 'Open Sans', Arial, Helvetica, sans-serif, Heiti; font-size: 14px; color: #000000; box-sizing: content-box;" class="detailmodule_html">
+<div style="box-sizing: content-box;" class="detail-desc-decorate-richtext"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-White / 7-12 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:202529824#Model 3-White;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-White / 13-18 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:202529824#Model 3-White;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-White / 0-6 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:202529824#Model 3-White;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-Pink / 7-12 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:202530813#Model 3-Pink;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-Pink / 13-18 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:202530813#Model 3-Pink;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-Pink / 0-6 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:202530813#Model 3-Pink;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-Navy / 7-12 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:351074#Model 3-Navy;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-Navy / 13-18 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:351074#Model 3-Navy;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 3-Navy / 0-6 Months</title>
+      <s:price currency="USD">8.02</s:price>
+      <s:sku>14:351074#Model 3-Navy;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-White / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200001951#Model 2-White;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-White / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200001951#Model 2-White;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-White / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200001951#Model 2-White;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-Navy / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200013900#Model 2-Navy;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-Navy / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200013900#Model 2-Navy;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-Navy / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:200013900#Model 2-Navy;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-Gray / 7-12 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1475229281#Model 2-Gray;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-Gray / 13-18 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1475229281#Model 2-Gray;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 2-Gray / 0-6 Months</title>
+      <s:price currency="USD">9.02</s:price>
+      <s:sku>14:1475229281#Model 2-Gray;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-White / 7-12 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:29#Model 1-White;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-White / 13-18 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:29#Model 1-White;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-White / 0-6 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:29#Model 1-White;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-Pink / 7-12 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:1052#Model 1-Pink;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-Pink / 13-18 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:1052#Model 1-Pink;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-Pink / 0-6 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:1052#Model 1-Pink;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-Navy / 7-12 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:4602#Model 1-Navy;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-Navy / 13-18 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:4602#Model 1-Navy;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788874993870</id>
+      <title>Model 1-Navy / 0-6 Months</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku>14:4602#Model 1-Navy;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+    <published>2021-09-29T15:54:57+05:00</published>
+    <updated>2021-09-29T15:54:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/newborn-baby-socks-shoes-boy-girl-star-toddler-first-walkers-booties-cotton-comfort-soft-anti-slip-warm-infant-crib-shoes"/>
+    <title>Newborn Baby Socks Shoes</title>
+    <s:type>0</s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/Hba6b00b575b6480baea4f1a796c0b3b8v.jpg?v=1632913144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            13.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>season</span>: <span style="color: #333;" data-mce-style="color: #333;">spring,summer,autumn,winter</span><br></p>
+<p><span>Upper Material</span>: <span style="color: #333;" data-mce-style="color: #333;">Cotton Fabric</span></p>
+<p><span>Season</span>: <span style="color: #333;" data-mce-style="color: #333;">All seasons</span></p>
+<p><span>Product name</span>: <span style="color: #333;" data-mce-style="color: #333;">infant crib socks shoes prewalker baby shoes</span></p>
+<p><span>Pattern Type</span>: <span style="color: #333;" data-mce-style="color: #333;">Mixed Colors</span></p>
+<p><span>Outsole Material</span>: <span style="color: #333;" data-mce-style="color: #333;">COTTON</span></p>
+<p><span>Material</span>: <span style="color: #333;" data-mce-style="color: #333;">Cotton</span></p>
+<p><span>Key words</span>: <span style="color: #333;" data-mce-style="color: #333;">Soft sole baby shoes First Walkers Toddler Infant</span></p>
+<p><span>Gender</span>: <span style="color: #333;" data-mce-style="color: #333;">Unisex</span></p>
+<p><span>Gender</span>: <span style="color: #333;" data-mce-style="color: #333;">baby boy girl</span></p>
+<p><span>Fit</span>: <span style="color: #333;" data-mce-style="color: #333;">Fits true to size, take your normal size</span></p>
+<p><span>Feature</span>: <span style="color: #333;" data-mce-style="color: #333;">soft,light weight,anti-slip,breathable,</span></p>
+<p><span>Fashion Element</span>: <span style="color: #333;" data-mce-style="color: #333;">PATCH</span></p>
+<p><span>Color</span>: <span style="color: #333;" data-mce-style="color: #333;">multicolor</span></p>
+<p><span>Closure Type</span>: <span style="color: #333;" data-mce-style="color: #333;">Hook &amp; Loop</span></p>
+<p><span>Brand Name</span>: <span style="color: #333;" data-mce-style="color: #333;">Melchior </span><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">Baby shoes boy girl newborn toddler Infant crib</span></span><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span> shoes</span></span><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;"> sneaker canvas moccasins</span></span></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p class="p"><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">Item Type First Walkers  Gender Girl and Boy  Season Spring Summer Autumn Winter</span></span></p>
+<p class="p"><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">Upper Material PU Leather Canvas Cotton  Color Brown blue white Red Yellow Pink Black Leopard</span></span></p>
+<p class="p"><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">Feature Anti-Slippery Flat Breathable Light Weight</span></span></p>
+<p class="p"><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">SAFETY---- Multiple Safety test, NO any stimulation to the skin of baby, protect the baby healthy growth.</span></span></p>
+<p class="p"><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">SOFT ---- Soft anti-slip cotton sole and light weight perfect for learning walk. available for 3-18 months baby.Whether it's spring, summer, fall or winter, match your clothes for perfection.</span></span></p>
+<p class="p"><span style="font-size: 12.0000pt;" data-mce-style="font-size: 12.0000pt;"><span style="font-family: Calibri;" data-mce-style="font-family: Calibri;">TIP----The recommended age is just for your reference,Please refer to the size chart and measure your baby's feet before ordering this sneakers.And 100% Satisfaction Guaranteed Zero Hassle Returns.</span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>white / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:29;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>white / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:29;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>white / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:29;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe sky blue / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006152#stripe sky blue;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe sky blue / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006152#stripe sky blue;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe sky blue / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006152#stripe sky blue;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe pink / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200000195#stripe pink;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe pink / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200000195#stripe pink;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe pink / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200000195#stripe pink;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe light grey / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:1063#stripe light grey;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe light grey / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:1063#stripe light grey;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe light grey / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:1063#stripe light grey;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe khaki / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006153#stripe khaki;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe khaki / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006153#stripe khaki;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe khaki / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006153#stripe khaki;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe dark grey / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006158#stripe dark grey;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe dark grey / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006158#stripe dark grey;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe dark grey / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200006158#stripe dark grey;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe black / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:366#stripe black;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe black / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:366#stripe black;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>stripe black / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:366#stripe black;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star white / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:771#star white;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star white / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:771#star white;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star white / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:771#star white;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star pink / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200004891#star pink;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star pink / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200004891#star pink;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star pink / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:200004891#star pink;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star grey / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:365458#star grey;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star grey / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:365458#star grey;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star grey / 0-6 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:365458#star grey;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star blue / 7-12 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:173#star blue;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788851695822</id>
+      <title>star blue / 13-18 Months</title>
+      <s:price currency="USD">13.97</s:price>
+      <s:sku>14:173#star blue;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+    <published>2021-09-29T15:23:38+05:00</published>
+    <updated>2021-09-29T15:23:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/new-baby-shoes-retro-leather-boy-girl-shoes-multicolor-toddler-rubber-sole-anti-slip-first-walkers-infant-newborn-moccasins"/>
+    <title>Retro Leather Baby Shoes</title>
+    <s:type>0</s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/H9bf76ef5b572453db8d8da34670bc250b.jpg?v=1632911405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong>0<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upper Material: <span style="color: #333;" data-mce-style="color: #333;">Leather</span><br></p>
+<p><span>Season</span>: <span style="color: #333;" data-mce-style="color: #333;">All seasons</span></p>
+<p><span>Product name</span>: <span style="color: #333;" data-mce-style="color: #333;">Leather multicolor baby shoes</span></p>
+<p><span>Pattern Type</span>: <span style="color: #333;" data-mce-style="color: #333;">Print</span></p>
+<p><span>Outsole Material</span>: <span style="color: #333;" data-mce-style="color: #333;">Rubber</span></p>
+<p><span>Origin</span>: <span style="color: #333;" data-mce-style="color: #333;">CN(Origin)</span></p>
+<p><span>Material</span>: <span style="color: #333;" data-mce-style="color: #333;">Leather</span></p>
+<p><span>Key words</span>: <span style="color: #333;" data-mce-style="color: #333;">Rubber sole Non-slip Soft sole baby shoes First Walkers Toddler Infant</span></p>
+<p><span>Gender</span>: <span style="color: #333;" data-mce-style="color: #333;">baby unisex</span></p>
+<p><span>Gender</span>: <span style="color: #333;" data-mce-style="color: #333;">Girl,boy</span></p>
+<p><span>Fit</span>: <span style="color: #333;" data-mce-style="color: #333;">Fits true to size, take your normal size</span></p>
+<p><span>Feature</span>: <span style="color: #333;" data-mce-style="color: #333;">Anti-Slip, Flat, Breathable, Light Weight</span></p>
+<p><span>Fashion Element</span>: <span style="color: #333;" data-mce-style="color: #333;">Bling</span></p>
+<p><span>Color</span>: <span style="color: #333;" data-mce-style="color: #333;">pink,white,gold,black,blue,grey,beige</span></p>
+<p><span>Closure Type</span>: <span style="color: #333;" data-mce-style="color: #333;">Elastic band</span></p>
+<p><span>Brand Name</span>: <span style="color: #333;" data-mce-style="color: #333;">Meckior</span></p>
+<div style="margin: 10px auto 0; display: inline-block; max-width: 100%;" data-mce-style="margin: 10px auto 0; display: inline-block; max-width: 100%;">
+<div style="margin-left: 25.0%; margin-top: -37.23%; width: 25.0%;" data-mce-style="margin-left: 25.0%; margin-top: -37.23%; width: 25.0%;"><br></div>
+<div style="margin-left: 0.0%; margin-top: 0.0%; width: 25.0%;" data-mce-style="margin-left: 0.0%; margin-top: 0.0%; width: 25.0%;"><br></div>
+<div style="margin-left: 25.0%; margin-top: -37.23%; width: 25.0%;" data-mce-style="margin-left: 25.0%; margin-top: -37.23%; width: 25.0%;"></div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>white / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:29;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>white / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:29;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>white / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:29;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>gray / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:691;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>gray / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:691;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>gray / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:691;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>black / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:193;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>black / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:193;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>black / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:193;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Yellow / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:366;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Yellow / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:366;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Yellow / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:366;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Red / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:10;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Red / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:10;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Red / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:10;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Pink / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:1052;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Pink / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:1052;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Pink / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:1052;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Navy Blue / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:1063;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Navy Blue / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:1063;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Navy Blue / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:1063;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>MULTI / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200003699;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>MULTI / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200003699;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>MULTI / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200003699;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Khaki / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200001438;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Khaki / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200001438;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Khaki / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200001438;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Gold / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:350850;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Gold / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:350850;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Gold / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:350850;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Dark Khaki / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200006154;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Dark Khaki / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200006154;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Dark Khaki / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:200006154;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Brown black / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:203221806#Brown black;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Brown black / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:203221806#Brown black;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Brown black / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:203221806#Brown black;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Blue / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:173;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Blue / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:173;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Blue / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:173;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Beige / 7-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:771;200000264:4168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Beige / 13-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:771;200000264:201336171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6788810899662</id>
+      <title>Beige / 0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>14:771;200000264:201336170</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+    <published>2021-09-22T10:52:45+05:00</published>
+    <updated>2021-09-22T10:52:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/anti-slip-sneakers"/>
+    <title>Anti-slip baby Sneakers</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1614064178.jpg?v=1632290016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.88 - 11.40
+            <a href="https://baby-sitty.myshopify.com/products/anti-slip-sneakers">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Upper Material:</strong> Fur</span><br><span><strong>Season:</strong> Summer</span><br><span><strong>Gender:</strong> Baby Girls</span><br><span><strong>Age Range:</strong> 0-6m</span><br><span><strong>Age Range:</strong> 7-12m</span><br><span><strong>Fashion Element:</strong> Butterfly-knot</span><br><span><strong>Closure Type:</strong> Hook &amp; Loop</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Department Name:</strong> Baby</span><br><span><strong>Item Type:</strong> First Walkers</span><br><span><strong>Outsole Material:</strong> PU</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>H2 / 12-18 Months / China</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>41532884-h2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 0-6 Months / United States</title>
+      <s:price currency="USD">10.88</s:price>
+      <s:sku>41532884-b2-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">10.88</s:price>
+      <s:sku>41532884-b2-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 0-6 Months / China</title>
+      <s:price currency="USD">10.88</s:price>
+      <s:sku>41532884-b2-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 6-12 Months / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>41532884-b2-6-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 6-12 Months / United Kingdom</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>41532884-b2-6-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 6-12 Months / China</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>41532884-b2-6-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 12-18 Months / United States</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>41532884-b2-12-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 12-18 Months / United Kingdom</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>41532884-b2-12-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778525221070</id>
+      <title>B2 / 12-18 Months / China</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>41532884-b2-12-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+    <published>2021-09-22T10:50:53+05:00</published>
+    <updated>2021-09-22T10:50:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/casual-newborn-kids-shoes"/>
+    <title>Casual Newborn Kids Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1674055477.jpg?v=1632289858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.04 - 7.78
+            <a href="https://baby-sitty.myshopify.com/products/casual-newborn-kids-shoes">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Upper Material:</strong> Canvas</span><br><span><strong>Season:</strong> Winter</span><br><span><strong>Gender:</strong> baby unisex</span><br><span><strong>Age Range:</strong> 13-24m</span><br><span><strong>Age Range:</strong> 25-36m</span><br><span><strong>Fashion Element:</strong> Cross-tied</span><br><span><strong>Closure Type:</strong> Lace-up</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Department Name:</strong> Baby</span><br><span><strong>Item Type:</strong> First Walkers</span><br><span><strong>Outsole Material:</strong> Rubber</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>sky blue / 7-12 Months / United States</title>
+      <s:price currency="USD">7.74</s:price>
+      <s:sku>43127061-sky-blue-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>Blue / 0-6 Months / United States</title>
+      <s:price currency="USD">7.64</s:price>
+      <s:sku>43127061-blue-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>Blue / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">7.34</s:price>
+      <s:sku>43127061-blue-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>Blue / 0-6 Months / China</title>
+      <s:price currency="USD">7.64</s:price>
+      <s:sku>43127061-blue-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">7.64</s:price>
+      <s:sku>43127061-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">7.04</s:price>
+      <s:sku>43127061-b-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 0-6 Months / China</title>
+      <s:price currency="USD">7.64</s:price>
+      <s:sku>43127061-b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">7.68</s:price>
+      <s:sku>43127061-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">7.14</s:price>
+      <s:sku>43127061-b-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 7-12 Months / China</title>
+      <s:price currency="USD">7.68</s:price>
+      <s:sku>43127061-b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">7.78</s:price>
+      <s:sku>43127061-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">7.14</s:price>
+      <s:sku>43127061-b-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523943118</id>
+      <title>B / 13-18 Months / China</title>
+      <s:price currency="USD">7.78</s:price>
+      <s:sku>43127061-b-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+    <published>2021-09-22T10:49:55+05:00</published>
+    <updated>2021-09-22T10:49:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/soft-sole-antiskid-sneaker"/>
+    <title>Soft Sole Antiskid Sneaker</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1674899257.jpg?v=1632294072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Spring &amp; Autumn<br><strong>Gender:</strong> baby unisex<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Upper Material:</strong> Canvas<br><strong>Fashion Element:</strong> Cross-tied<br><strong>Closure Type:</strong> Lace-up<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> COTTON<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 1 / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 1 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 1 / United Kingdom</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-1-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 2 / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 2 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 2 / United Kingdom</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-2-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 3 / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 3 / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523615438</id>
+      <title>B / 3 / United Kingdom</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43151503-b-3-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+    <published>2021-09-22T10:49:12+05:00</published>
+    <updated>2021-09-22T10:49:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://baby-sitty.myshopify.com/products/first-walkers-girl-shoes"/>
+    <title>First Walkers girl shoes</title>
+    <s:type></s:type>
+    <s:vendor>Baby sitty</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/6258/8366/products/product-image-1670552188.jpg?v=1632294101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby sitty<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Spring &amp; Autumn<br><strong>Gender:</strong> baby unisex<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Fashion Element:</strong> TOTEM<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Pattern Type:</strong> Animal Prints<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><strong>Outsole Material:</strong> COTTON<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 0-6 Months / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 0-6 Months / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 0-6 Months / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-0-6-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 7-12 Months / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 7-12 Months / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 7-12 Months / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-7-12-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 13-18 Months / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 13-18 Months / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://baby-sitty.myshopify.com/products/6778523353294</id>
+      <title>Army Green / 13-18 Months / United Kingdom</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>41361126-army-green-13-18-months-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

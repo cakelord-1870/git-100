@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://my-fishing-accessories.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://my-fishing-accessories.myshopify.com/collections/trendy-items.atom"/>
+  <title>My Fishing Accessories </title>
+  <updated>2021-02-19T11:23:33+05:00</updated>
+  <author>
+    <name>My Fishing Accessories </name>
+  </author>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+    <published>2021-02-19T11:23:33+05:00</published>
+    <updated>2021-02-19T11:23:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/10pc-box-fishing-hook-set"/>
+    <title>10pc/ Box Fishing Hook Set</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1587022127.jpg?v=1613715817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Circle Fishing Hooks<br><strong>Material:</strong> High Carbon Steel<br><strong>Type:</strong> Barbed Hook<br><strong>Position:</strong> LAKE<br><strong>Size:</strong> 6# 4# 2# 1# 1/0# 2/0# 3/0# 4/0# 5/0#<br><strong>Package:</strong> 10pcs with box<br><strong>Feature 1:</strong> Black Red Barbed Fishing Hooks<br><strong>Feature 2:</strong> Circle Single Hooks<br><strong>Feature 3:</strong> Fishing accessories<br><strong>Feature 4:</strong> Fishing crank hook sea<br><strong>Feature 5:</strong> Carp hook<br><strong>Feature 6:</strong> Set of hooks for fishing<br><strong>Feature 7:</strong> Fly fishing hook<br><strong>Feature 8:</strong> Fishing tackle hooks<br><strong>Feature 9:</strong> Black and Red Color</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 6 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-6-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 4 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-4-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 6 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-6-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 4 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-4-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 1 0 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-1-0-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 2 0 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-2-0-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 3 0 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-3-0-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 4 0 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-4-0-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 5 0 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-5-0-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 1 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-1-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 2 - 10pcs Rd</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-2-10pcs-rd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 5 0 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-5-0-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 4 0 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-4-0-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 3 0 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-3-0-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 2 0 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-2-0-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 1 0 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-1-0-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 1 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-1-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051356213456</id>
+      <title>Size 2 - 10pc BK</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>31947108-size-2-10pc-bk</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+    <published>2021-02-19T09:51:27+05:00</published>
+    <updated>2021-02-19T09:51:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/telescopic-rock-fishing-rod"/>
+    <title>Telescopic Rock Fishing Rod</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1042221506.jpg?v=1613711382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.87 - 18.06
+            <a href="https://my-fishing-accessories.myshopify.com/products/telescopic-rock-fishing-rod">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> stream<br><strong>Category:</strong> Rock Fishing Rod<br><strong>Material:</strong> Carbon<br><strong>Action:</strong> FAST<br><strong>Hardness:</strong> HARD</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>1.5M-White</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>27685503-1-5m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>1.8M-White</title>
+      <s:price currency="USD">11.37</s:price>
+      <s:sku>27685503-1-8m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>2.1M-White</title>
+      <s:price currency="USD">13.05</s:price>
+      <s:sku>27685503-2-1m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>2.4M-White</title>
+      <s:price currency="USD">14.72</s:price>
+      <s:sku>27685503-2-4m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>2.7M-White</title>
+      <s:price currency="USD">16.39</s:price>
+      <s:sku>27685503-2-7m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>3.0M-White</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>27685503-3-0m-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>2.7M-Green</title>
+      <s:price currency="USD">16.39</s:price>
+      <s:sku>27685503-2-7m-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>3.0M-Green</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>27685503-3-0m-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>2.1M-Green</title>
+      <s:price currency="USD">13.05</s:price>
+      <s:sku>27685503-2-1m-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>2.4M-Green</title>
+      <s:price currency="USD">14.72</s:price>
+      <s:sku>27685503-2-4m-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>1.5M-Green</title>
+      <s:price currency="USD">10.87</s:price>
+      <s:sku>27685503-1-5m-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345236176</id>
+      <title>1.8M-Green</title>
+      <s:price currency="USD">11.37</s:price>
+      <s:sku>27685503-1-8m-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+    <published>2021-02-19T09:48:31+05:00</published>
+    <updated>2021-02-19T09:48:31+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/spinning-casting-hand-lure-fishing-rod"/>
+    <title>Spinning Casting Hand Lure Fishing Rod</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1068845277.jpg?v=1613711753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.90 - 17.04
+            <a href="https://my-fishing-accessories.myshopify.com/products/spinning-casting-hand-lure-fishing-rod">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Position:</strong> Lake<br><strong>Category:</strong> Lure Rod<br><strong>Material:</strong> Carbon<br><strong>Top Diameter:</strong> 2.2mm<br><strong>Hardness:</strong> HARD</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>Casting Yellow / 1.8M</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>27958250-casting-yellow-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>spinning Green / 1.8M</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>27958250-spinning-green-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>Casting Green / 1.5M</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>27958250-casting-green-1-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>spinning Green / 1.5M</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>27958250-spinning-green-1-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>spinning Blue / 1.8M</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>27958250-spinning-blue-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>Casting  Blue / 1.5M</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>27958250-casting-blue-1-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>Casting Green / 1.8M</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>27958250-casting-green-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>spinning Blue / 1.5M</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>27958250-spinning-blue-1-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>spinning Yellow / 1.8M</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>27958250-spinning-yellow-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>Casting Yellow / 1.5M</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>27958250-casting-yellow-1-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>Casting  Blue / 1.8M</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>27958250-casting-blue-1-8m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051345105104</id>
+      <title>spinning Yellow / 1.5M</title>
+      <s:price currency="USD">12.90</s:price>
+      <s:sku>27958250-spinning-yellow-1-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+    <published>2021-02-18T15:45:02+05:00</published>
+    <updated>2021-02-18T15:45:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/multi-section-swim-hard-lure"/>
+    <title>Multi-section Swim hard lure</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1381278070.jpg?v=1613645107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Category:</strong> LURE<br><strong>Type:</strong> Artificial Bait<br><strong>product color:</strong> 13 color<br><strong>product weight:</strong> 15.5g<br><strong>product length:</strong> 10cm<br><strong>product Hook size:</strong> 6# fish hooks<br><strong>Suitable for waters:</strong> All waters<br><strong>Product configuration:</strong> Reinforced double ring, barbed fish hook, steel ball inside<br><strong>Diving dead:</strong> 0.2m-3m<br><strong>Feature 1:</strong> 3D fish eyes<br><strong>Feature 2:</strong> fishing crankbait<br><strong>Feature 3:</strong> Wobbler Minnow hard bait<br><strong>Feature 4:</strong> fishing pike spinner<br><strong>Feature 5:</strong> fishing Pesca lures<br><strong>Feature 6:</strong> Tackle for fishing<br><strong>Feature 7:</strong> fishing jerk bait<br><strong>Feature 8:</strong> fishing pike spinner<br><strong>Feature 9:</strong> Multiple colors available<br><strong>Feature 10:</strong> high quality</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>2 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-2-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>3 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-3-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>1 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-1-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>5 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-5-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>4 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-4-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>6 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-6-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>13 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-13-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>11 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-11-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>12 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-12-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>9 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-9-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>10 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-10-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>7 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-7-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142828240</id>
+      <title>8 / 10cm 15.5g</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>30462382-8-10cm-15-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+    <published>2021-02-18T15:34:22+05:00</published>
+    <updated>2021-02-18T15:34:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/swimbaits-bass-big-fish-fishing-lure"/>
+    <title>Swimbaits Bass Big Fish Fishing lure</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1542448923.jpg?v=1613644467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Position:</strong> stream<br><strong>Category:</strong> LURE<br><strong>Quantity:</strong> 1<br><strong>Type:</strong> Artificial Bait<br><strong>weight:</strong> 14g<br><strong>length:</strong> 11cm<br><strong>Diving depth:</strong> 0.2m-1m<br><strong>water:</strong> Saltwater Freshwater</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>5</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>4</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>7</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>6</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>9</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>8</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>10</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>1</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>7 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-7-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>8 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-8-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>9 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-9-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>10 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-10-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>3 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-3-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>4 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-4-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>5 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-5-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>6 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-6-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>1 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>2 2</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-2-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>9 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-9-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>10 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-10-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>3 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-3-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>4 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-4-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>1 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-1-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>2 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-2-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>7 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-7-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>8 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-8-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>5 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-5-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051142500560</id>
+      <title>6 3</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29395594-6-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+    <published>2021-02-18T12:56:48+05:00</published>
+    <updated>2021-02-18T12:56:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/double-spool-fishing-coil-wooden-handshake"/>
+    <title>Double Spool Fishing coil Wooden handshake</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/Untitled-1.jpg?v=1613643630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.32 - 28.55
+            <a href="https://my-fishing-accessories.myshopify.com/products/double-spool-fishing-coil-wooden-handshake">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Position:</strong> LAKE<br><strong>Fishing Method:</strong> Spinning<br><strong>Fishing Reels Type:</strong> Pre-Loading Spinning Wheel<br><strong>Baits Type:</strong> Fake Bait<br><strong>Gear Ratio:</strong> 5.5:1<br><strong>Material:</strong> metal<br><strong>Maximum drag force:</strong> 80KG<br><strong>Gear Ratio:</strong> 5.5:1<br><strong>Give away:</strong> Wire cup<br><strong>product weight:</strong> 205g/215g/255g/265g/280g/370g/380g<br><strong>Line capacity:</strong> 110M-350M</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 1000 Series</title>
+      <s:price currency="USD">18.32</s:price>
+      <s:sku>16056663-13-1000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 2000 Series</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>16056663-13-2000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 3000 Series</title>
+      <s:price currency="USD">20.30</s:price>
+      <s:sku>16056663-13-3000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 4000 Series</title>
+      <s:price currency="USD">22.44</s:price>
+      <s:sku>16056663-13-4000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 5000 Series</title>
+      <s:price currency="USD">23.27</s:price>
+      <s:sku>16056663-13-5000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 6000 Series</title>
+      <s:price currency="USD">26.57</s:price>
+      <s:sku>16056663-13-6000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051060089040</id>
+      <title>13 / 7000 Series</title>
+      <s:price currency="USD">28.55</s:price>
+      <s:sku>16056663-13-7000-series</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

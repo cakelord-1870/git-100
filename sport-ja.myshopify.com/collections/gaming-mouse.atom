@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sport-ja.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sport-ja.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sport-ja.myshopify.com/collections/gaming-mouse.atom"/>
+  <title>Sport&amp;ja</title>
+  <updated>2021-08-13T12:22:02+05:00</updated>
+  <author>
+    <name>Sport&amp;ja</name>
+  </author>
+  <entry>
+    <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+    <published>2021-08-13T12:22:02+05:00</published>
+    <updated>2021-08-13T12:22:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sport-ja.myshopify.com/products/2-4ghz-wireless-optical-mouse"/>
+    <title>2.4GHz Wireless Optical Mouse</title>
+    <s:type>Mouse</s:type>
+    <s:vendor>Sport&amp;ja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/8519/3381/products/product-image-1804967554.jpg?v=1628839330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sport&amp;ja<br>
+        <strong>Type: </strong>Mouse<br>
+        <strong>Price: </strong>
+            11.90 - 17.44
+            <a href="https://sport-ja.myshopify.com/products/2-4ghz-wireless-optical-mouse">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> 2.4Ghz Wireless<br><strong>Number of Rollers:</strong> 1<br><strong>Gross Weight:</strong> 100g<br><strong>Package:</strong> Yes<br><strong>Number of Buttons:</strong> 4<br><strong>Operation Mode:</strong> Opto-electronic<br><strong>Power Type:</strong> Battery<br><strong>Hand Orientation:</strong> Right<br><strong>Interface Type:</strong> USB<br><strong>Mouse size:</strong> ordinary mouse (100-120mm)<br><strong>Applicable models:</strong> desktop<br><strong>Wireless transmission frequency:</strong> 2.4GHz<br><strong>Whether to support ergonomics:</strong> support<br><strong>Adjustable resolution:</strong> three gears and below<br><strong>Operating distance:</strong> about 10 (m)<br><strong>Working method:</strong> photoelectric<br><strong>Wheel direction:</strong> four-way wheel<br><strong>Product size:</strong> about 10.5X7X3CM<br><strong>Product weight:</strong> about 0.06 (KG)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mouse</s:tag>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / GERMANY</title>
+      <s:price currency="USD">14.98</s:price>
+      <s:sku>46461454-red-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / China</title>
+      <s:price currency="USD">13.64</s:price>
+      <s:sku>46461454-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / Australia</title>
+      <s:price currency="USD">17.44</s:price>
+      <s:sku>46461454-red-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / France</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>46461454-red-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>46461454-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / United Kingdom</title>
+      <s:price currency="USD">13.24</s:price>
+      <s:sku>46461454-red-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / SPAIN</title>
+      <s:price currency="USD">12.72</s:price>
+      <s:sku>46461454-red-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / Australia</title>
+      <s:price currency="USD">17.44</s:price>
+      <s:sku>46461454-silver-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / Poland</title>
+      <s:price currency="USD">11.90</s:price>
+      <s:sku>46461454-black-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / France</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>46461454-black-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>46461454-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / SPAIN</title>
+      <s:price currency="USD">12.72</s:price>
+      <s:sku>46461454-silver-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / GERMANY</title>
+      <s:price currency="USD">14.98</s:price>
+      <s:sku>46461454-silver-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / China</title>
+      <s:price currency="USD">13.64</s:price>
+      <s:sku>46461454-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / Poland</title>
+      <s:price currency="USD">11.90</s:price>
+      <s:sku>46461454-silver-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / France</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>46461454-silver-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>46461454-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Silver / United Kingdom</title>
+      <s:price currency="USD">13.24</s:price>
+      <s:sku>46461454-silver-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / GERMANY</title>
+      <s:price currency="USD">14.98</s:price>
+      <s:sku>46461454-blue-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">13.64</s:price>
+      <s:sku>46461454-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / Australia</title>
+      <s:price currency="USD">17.44</s:price>
+      <s:sku>46461454-blue-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Red / Poland</title>
+      <s:price currency="USD">11.90</s:price>
+      <s:sku>46461454-red-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>46461454-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / United Kingdom</title>
+      <s:price currency="USD">13.24</s:price>
+      <s:sku>46461454-blue-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / SPAIN</title>
+      <s:price currency="USD">12.72</s:price>
+      <s:sku>46461454-blue-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / China</title>
+      <s:price currency="USD">13.64</s:price>
+      <s:sku>46461454-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / Australia</title>
+      <s:price currency="USD">17.44</s:price>
+      <s:sku>46461454-black-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / Poland</title>
+      <s:price currency="USD">11.90</s:price>
+      <s:sku>46461454-blue-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Blue / France</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>46461454-blue-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / United Kingdom</title>
+      <s:price currency="USD">13.24</s:price>
+      <s:sku>46461454-black-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / SPAIN</title>
+      <s:price currency="USD">12.72</s:price>
+      <s:sku>46461454-black-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973452943525</id>
+      <title>Black / GERMANY</title>
+      <s:price currency="USD">14.98</s:price>
+      <s:sku>46461454-black-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+    <published>2021-08-13T12:18:21+05:00</published>
+    <updated>2021-08-13T12:18:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sport-ja.myshopify.com/products/pink-gaming-wired-mouse"/>
+    <title>Pink Gaming Wired Mouse</title>
+    <s:type>Mouse</s:type>
+    <s:vendor>Sport&amp;ja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/8519/3381/products/product-image-1729920534.jpg?v=1628839105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sport&amp;ja<br>
+        <strong>Type: </strong>Mouse<br>
+        <strong>Price: </strong>
+            25.76 - 31.82
+            <a href="https://sport-ja.myshopify.com/products/pink-gaming-wired-mouse">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Wired<br><strong>Number of Rollers:</strong> 1<br><strong>Gross Weight:</strong> 150g<br><strong>Package:</strong> Yes<br><strong>Number of Buttons:</strong> 7<br><strong>Operation Mode:</strong> Opto-electronic<br><strong>Power Type:</strong> Battery<br><strong>Hand Orientation:</strong> Right<br><strong>Interface Type:</strong> USB<br><strong>Size:</strong> about 131*77*40mm<br><strong>Light effect:</strong> 4 colors breathing<br><strong>Line length:</strong> about 1.5m<br><strong>Resolution adjustable:</strong> four gears<br><strong>Roller direction:</strong> four-way roller<br><strong>Interface:</strong> USB<br><strong>Mouse size:</strong> normal mouse (100-120mm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mouse</s:tag>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / Poland</title>
+      <s:price currency="USD">25.76</s:price>
+      <s:sku>44658737-pink-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / France</title>
+      <s:price currency="USD">30.14</s:price>
+      <s:sku>44658737-pink-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / SPAIN</title>
+      <s:price currency="USD">26.20</s:price>
+      <s:sku>44658737-pink-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>44658737-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / United Kingdom</title>
+      <s:price currency="USD">27.26</s:price>
+      <s:sku>44658737-pink-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / Australia</title>
+      <s:price currency="USD">31.82</s:price>
+      <s:sku>44658737-pink-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / GERMANY</title>
+      <s:price currency="USD">29.20</s:price>
+      <s:sku>44658737-pink-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973448421541</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">27.60</s:price>
+      <s:sku>44658737-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+    <published>2021-08-13T12:16:04+05:00</published>
+    <updated>2021-08-13T12:16:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sport-ja.myshopify.com/products/wireless-vertical-gaming-mouse"/>
+    <title>Wireless Vertical Gaming Mouse</title>
+    <s:type>Mouse</s:type>
+    <s:vendor>Sport&amp;ja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/8519/3381/products/product-image-1821693499.jpg?v=1629092563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sport&amp;ja<br>
+        <strong>Type: </strong>Mouse<br>
+        <strong>Price: </strong>
+            16.82 - 23.73
+            <a href="https://sport-ja.myshopify.com/products/wireless-vertical-gaming-mouse">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> 2.4Ghz Wireless<br><strong>Number of Rollers:</strong> 1<br><strong>Gross Weight:</strong> 110g<br><strong>Package:</strong> Yes<br><strong>Number of Buttons:</strong> 5<br><strong>Operation Mode:</strong> Opto-electronic<br><strong>Style:</strong> 3D<br><strong>Power Type:</strong> Battery<br><strong>Hand Orientation:</strong> Right<br><strong>Interface Type:</strong> USB<br><strong>Material:</strong> Plastic<br><strong>Size:</strong> Approx.123*75*62mm<br><strong>Range:</strong> 0-10m<br><strong>Method:</strong> Optical<br><strong>USB:</strong> 2.0<br><strong>Power supply:</strong> 2 x AAA batteries (not included)<br><strong>Color:</strong> black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mouse</s:tag>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>Australia</title>
+      <s:price currency="USD">21.17</s:price>
+      <s:sku>46905750-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>United Kingdom</title>
+      <s:price currency="USD">17.43</s:price>
+      <s:sku>46905750-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>United States</title>
+      <s:price currency="USD">23.73</s:price>
+      <s:sku>46905750-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>France</title>
+      <s:price currency="USD">22.07</s:price>
+      <s:sku>46905750-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>Poland</title>
+      <s:price currency="USD">16.82</s:price>
+      <s:sku>46905750-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>China</title>
+      <s:price currency="USD">17.30</s:price>
+      <s:sku>46905750-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>GERMANY</title>
+      <s:price currency="USD">19.47</s:price>
+      <s:sku>46905750-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973445275813</id>
+      <title>SPAIN</title>
+      <s:price currency="USD">21.08</s:price>
+      <s:sku>46905750-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+    <published>2021-08-13T12:10:08+05:00</published>
+    <updated>2021-08-13T12:10:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://sport-ja.myshopify.com/products/wireless-ergonomic-vertical-mouse"/>
+    <title>Wireless Ergonomic Vertical Mouse</title>
+    <s:type>Mouse</s:type>
+    <s:vendor>Sport&amp;ja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0590/8519/3381/products/product-image-1658147124.jpg?v=1628838612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sport&amp;ja<br>
+        <strong>Type: </strong>Mouse<br>
+        <strong>Price: </strong>
+            29.45 - 33.20
+            <a href="https://sport-ja.myshopify.com/products/wireless-ergonomic-vertical-mouse">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> 2.4Ghz Wireless<br><strong>Number of Rollers:</strong> 1<br><strong>Gross Weight:</strong> 150g<br><strong>Package:</strong> Yes<br><strong>Number of Buttons:</strong> 6<br><strong>Operation Mode:</strong> Opto-electronic<br><strong>Power Type:</strong> Battery<br><strong>Hand Orientation:</strong> Right<br><strong>Interface Type:</strong> USB<br><strong>Material:</strong> ABS<br><strong>Working Current:</strong> less than 32mA<br><strong>Size:</strong> 115*80*75mm<br><strong>Support:</strong> Windows 8/10/Mac</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mouse</s:tag>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>White / China</title>
+      <s:price currency="USD">31.44</s:price>
+      <s:sku>42676207-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>White / GERMANY</title>
+      <s:price currency="USD">31.52</s:price>
+      <s:sku>42676207-white-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>White / SPAIN</title>
+      <s:price currency="USD">30.84</s:price>
+      <s:sku>42676207-white-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>White / United Kingdom</title>
+      <s:price currency="USD">30.68</s:price>
+      <s:sku>42676207-white-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>Black / Poland</title>
+      <s:price currency="USD">29.45</s:price>
+      <s:sku>42676207-black-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>White / United States</title>
+      <s:price currency="USD">33.20</s:price>
+      <s:sku>42676207-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>White / Poland</title>
+      <s:price currency="USD">29.45</s:price>
+      <s:sku>42676207-white-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>Black / China</title>
+      <s:price currency="USD">31.44</s:price>
+      <s:sku>42676207-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>Black / GERMANY</title>
+      <s:price currency="USD">31.52</s:price>
+      <s:sku>42676207-black-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>Black / SPAIN</title>
+      <s:price currency="USD">30.84</s:price>
+      <s:sku>42676207-black-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>Black / United Kingdom</title>
+      <s:price currency="USD">30.68</s:price>
+      <s:sku>42676207-black-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sport-ja.myshopify.com/products/6973436985509</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">33.20</s:price>
+      <s:sku>42676207-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://unique-sportswear.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://unique-sportswear.myshopify.com/collections/sports-socks.atom"/>
+  <title>unique sportswear </title>
+  <updated>2021-03-08T11:15:39+05:00</updated>
+  <author>
+    <name>unique sportswear </name>
+  </author>
+  <entry>
+    <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+    <published>2021-03-08T11:15:39+05:00</published>
+    <updated>2021-03-08T11:15:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/products/basketball-anti-slip-breathable-socks-for-men"/>
+    <title>Basketball Anti Slip Breathable Socks For Men</title>
+    <s:type></s:type>
+    <s:vendor>unique sportswear </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/2003/5996/products/product-image-1434052419.jpg?v=1615184143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>unique sportswear <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hose Height:</strong> SOCKS<br><strong>Gender:</strong> MEN<br><strong>Sport Type:</strong> Basketball</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>W / S / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-w-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>W / S / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-w-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>W / M / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-w-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>W / M / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-w-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>H / S / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-h-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>H / S / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-h-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>H / M / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-h-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>H / M / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-h-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582184771740</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37585564-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+    <published>2021-03-08T11:13:19+05:00</published>
+    <updated>2021-03-08T11:13:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/products/soccer-sports-socks"/>
+    <title>Soccer Sports Socks</title>
+    <s:type></s:type>
+    <s:vendor>unique sportswear </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/2003/5996/products/product-image-1437141833.jpg?v=1615184005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>unique sportswear <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hose Height:</strong> Stockings<br><strong>Gender:</strong> MEN<br><strong>Sport Type:</strong> Football<br><strong>Material:</strong> Cotton blend<br><strong>Length:</strong> 54cm<br><strong>Pattern:</strong> Stripe<br><strong>Style:</strong> Knee-high<br><strong>Color:</strong> Black, Blue, Yellow, Red, Green, White<br><strong>Suitable:</strong> baseball, football, basketball</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / Poland</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / SPAIN</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / Italy</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / France</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / Poland</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>white / Australia</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-white-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / Australia</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / Italy</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / Poland</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / SPAIN</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / Italy</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / France</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / Poland</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>blue / Australia</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-blue-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / France</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / SPAIN</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / Australia</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>red / Italy</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-red-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / SPAIN</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / Italy</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / France</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / Poland</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>black / Australia</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-black-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / France</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582161899676</id>
+      <title>green / SPAIN</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>37661353-green-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+    <published>2021-03-08T10:58:18+05:00</published>
+    <updated>2021-03-08T10:58:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/products/anti-slip-soccer-socks"/>
+    <title>Anti Slip Soccer Socks</title>
+    <s:type></s:type>
+    <s:vendor>unique sportswear </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/2003/5996/products/2.jpg?v=1615184409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>unique sportswear <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99 - 11.56
+            <a href="https://unique-sportswear.myshopify.com/products/anti-slip-soccer-socks">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Hose Height:</strong> Knee-High</span><br><span><strong>Gender:</strong> MEN</span><br><span><strong>Sport Type:</strong> Football</span><br><span><strong>Function:</strong> non-slip, breathable, sweat-absorbent, anti-friction</span><br><span><strong>Main fabric composition:</strong> functional sports cotton</span><br><span><strong>Size:</strong> Free code</span><br><span><strong>Process::</strong> Dispensing</span><br><span><strong>Thickness:</strong> thin section</span><br><span><strong>Applicable gender:</strong> Male</span><br><span><strong>Applicable scene:</strong> sports such as football</span><br><span><strong>Features1:</strong> foot ball sock</span><br><span><strong>Features2:</strong> soccer sock</span><br><span><strong>Features3:</strong> sport sock</span><br><span><strong>Features4:</strong> short stocking</span><br><span><strong>Features5:</strong> dispensing sports socks</span><br><span><strong>Features6:</strong> Non slip socks</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-blue-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-blue-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-blue-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-red-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-red-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-red-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-red-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-red-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Red / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-red-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-yellow-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-yellow-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-white-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-white-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-white-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-white-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-black-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-black-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-black-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-black-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-black-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Black / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-black-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-blue-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Blue / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-blue-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-yellow-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-yellow-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-yellow-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Yellow / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-yellow-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-orange-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-orange-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-sky-blue-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-sky-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-sky-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-sky-blue-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-sky-blue-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-army-green-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-army-green-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-army-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-army-green-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-army-green-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-army-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-army-green-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Army Green / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-army-green-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-white-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>White / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-white-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-orange-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-orange-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-orange-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-orange-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-orange-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Orange / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-orange-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-navy-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-navy-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / United States</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-navy-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / SPAIN</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-navy-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / Russian Federation</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>40759670-navy-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / China</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>40759670-navy-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / Australia</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-navy-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Navy / Poland</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-navy-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / Italy</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-sky-blue-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6582026535068</id>
+      <title>Sky Blue / France</title>
+      <s:price currency="USD">8.68</s:price>
+      <s:sku>40759670-sky-blue-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+    <published>2021-03-08T10:54:55+05:00</published>
+    <updated>2021-03-08T10:54:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/products/outdoor-men-jogging-socks"/>
+    <title>Outdoor Men Jogging socks</title>
+    <s:type></s:type>
+    <s:vendor>unique sportswear </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/2003/5996/products/product-image-1430853431.jpg?v=1615184460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>unique sportswear <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hose Height:</strong> SOCKS<br><strong>Gender:</strong> MEN<br><strong>Finger-separated:</strong> Yes<br><strong>Sport Type:</strong> Running<br><strong>type:</strong> Thermosocks</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>as shows 7 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-as-shows-7-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Yellow / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>B2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-b2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Black / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>A1 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-a1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>A2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-a2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Gray / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>green / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>as shows / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-as-shows-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>A3 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-a3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>O2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-o2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>as shows 2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-as-shows-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>White / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>DH2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-dh2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>QL2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-ql2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>G2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-g2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>H2 / China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-h2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>as shows 2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-as-shows-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>O2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-o2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>QL2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-ql2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>DH2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-dh2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>White / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>A2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-a2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>A1 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-a1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>A3 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-a3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>as shows / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-as-shows-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>green / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Gray / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>as shows 7 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-as-shows-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>H2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-h2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>G2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-g2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581996093596</id>
+      <title>B2 / United States</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>7162473-b2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+    <published>2021-03-08T10:48:51+05:00</published>
+    <updated>2021-03-08T10:48:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/products/winter-sports-snowboard-socks"/>
+    <title>Winter Sports Snowboard Socks</title>
+    <s:type></s:type>
+    <s:vendor>unique sportswear </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/2003/5996/products/product-image-1620938651.jpg?v=1615184492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>unique sportswear <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hose Height:</strong> Stockings<br><strong>Gender:</strong> MEN<br><strong>Sport Type:</strong> Skiing<br><strong>sport type:</strong> Skiing, Hiking, Snowboarding<br><strong>season:</strong> winter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.1 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.1 / SPAIN</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-1-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.1 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.1 / Poland</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-1-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.1 / Czech Republic</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-1-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.4 / France</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-4-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.4 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.4 / SPAIN</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-4-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.4 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-4-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.4 / Poland</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-4-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.4 / Czech Republic</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-4-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.3 / France</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-3-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.3 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.3 / SPAIN</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-3-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.3 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-3-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.3 / Poland</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-3-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.3 / Czech Republic</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-3-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.2 / France</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.2 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.2 / SPAIN</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-2-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.2 / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.2 / Poland</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-2-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.2 / Czech Republic</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-2-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581942616220</id>
+      <title>NO.1 / France</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>41654534-no-1-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+    <published>2021-03-08T10:47:07+05:00</published>
+    <updated>2021-03-08T10:47:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://unique-sportswear.myshopify.com/products/professional-breathable-cycling-socks"/>
+    <title>Professional Breathable Cycling Socks</title>
+    <s:type></s:type>
+    <s:vendor>unique sportswear </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/2003/5996/products/product-image-1688628723.jpg?v=1615182430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>unique sportswear <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hose Height:</strong> Knee-High<br><strong>Gender:</strong> MEN<br><strong>Sport Type:</strong> Cycling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>White / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>White / France</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-white-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Red / France</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-red-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>White / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Red / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Green / France</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-green-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Black / France</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-black-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Green / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Black / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://unique-sportswear.myshopify.com/products/6581927084188</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43550148-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

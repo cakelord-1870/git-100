@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://primefoot-wear.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://primefoot-wear.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://primefoot-wear.myshopify.com/collections/men-sneakers.atom"/>
+  <title>primefoot wear</title>
+  <updated>2021-08-30T14:49:57+05:00</updated>
+  <author>
+    <name>primefoot wear</name>
+  </author>
+  <entry>
+    <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+    <published>2021-08-30T14:49:57+05:00</published>
+    <updated>2021-08-30T14:49:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://primefoot-wear.myshopify.com/products/fashion-men-shoes"/>
+    <title>Fashion Men Shoes</title>
+    <s:type></s:type>
+    <s:vendor>primefoot wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/5139/2673/products/product-image-1398422876.jpg?v=1630317640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>primefoot wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.34 - 31.57
+            <a href="https://primefoot-wear.myshopify.com/products/fashion-men-shoes">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Canvas<br><strong>Shoes Type:</strong> Basic<br><strong>Season:</strong> Spring/Autumn<br><strong>Item Type:</strong> casual shoes<br><strong>Outsole Material:</strong> PU<br><strong>Closure Type:</strong> Slip-On<br><strong>Department Name:</strong> Adult<br><strong>Feature:</strong> Breathable<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 35 / China</title>
+      <s:price currency="USD">20.34</s:price>
+      <s:sku>22648173-black-35-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 35 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 36 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 36 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 37 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 37 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 38 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 38 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 39 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 39 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 40 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 40 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 41 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 41 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 42 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 42 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 43 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 43 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 44 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 44 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 45 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 45 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 46 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>black / 46 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-black-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 35 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-35-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 35 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 36 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 36 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 37 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 37 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 38 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 38 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 39 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 39 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 40 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 40 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 41 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 41 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 42 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 42 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 43 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 43 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 44 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 44 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 45 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 45 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 46 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>red / 46 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-red-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 35 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-35-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 35 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 36 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 36 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 37 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 37 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 38 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 38 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 39 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 39 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 40 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 40 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 41 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 41 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 42 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 42 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 43 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 43 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 44 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 44 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 45 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 45 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 46 / China</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950226591905</id>
+      <title>white / 46 / United States</title>
+      <s:price currency="USD">31.57</s:price>
+      <s:sku>22648173-white-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+    <published>2021-08-30T11:49:26+05:00</published>
+    <updated>2021-08-30T11:49:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://primefoot-wear.myshopify.com/products/men-light-sneakers"/>
+    <title>Men Light Sneakers</title>
+    <s:type></s:type>
+    <s:vendor>primefoot wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/5139/2673/products/product-image-1790312508.jpg?v=1630394275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>primefoot wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Mesh (Air mesh)<br><strong>Shoes Type:</strong> Basic<br><strong>Season:</strong> Spring/Autumn<br><strong>Outsole Material:</strong> Rubber<br><strong>Closure Type:</strong> Lace-up<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Breathable<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 44 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 45 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 42 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 43 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 40 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 41 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 38 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 39 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 36 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 37 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 47 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 48 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 45 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 46 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 43 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 44 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 48 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 46 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 47 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 38 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 39 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 36 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 37 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 47 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 48 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 45 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 46 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 43 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 44 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 41 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 42 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 39 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 40 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 37 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 38 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 41 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 42 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 39 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 40 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 37 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 38 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 48 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>White / 36 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-white-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 46 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 47 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 44 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 45 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 42 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 43 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 40 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 41 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 45 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 46 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 43 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 44 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 41 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 42 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 39 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 40 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 37 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 38 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 36 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 48 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Red / 36 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-red-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 46 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 47 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 44 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 45 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 42 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 43 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 40 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 41 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 38 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 39 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 36 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 37 / China</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 47 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950080184481</id>
+      <title>Black / 48 / United States</title>
+      <s:price currency="USD">27.41</s:price>
+      <s:sku>38664749-black-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+    <published>2021-08-30T11:37:48+05:00</published>
+    <updated>2021-08-30T11:37:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://primefoot-wear.myshopify.com/products/men-sneakers-brand"/>
+    <title>Men Sneakers Brand</title>
+    <s:type></s:type>
+    <s:vendor>primefoot wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/5139/2673/products/product-image-1456282375_43daa988-4270-469c-ba58-564ec3027d40.jpg?v=1630317555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>primefoot wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Canvas<br><strong>Outsole Material:</strong> EVA<br><strong>Closure Type:</strong> Lace-up<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Shoes Type:</strong> Basic<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Sweat-Absorbant<br><strong>Feature:</strong> Light<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 48 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 48 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 45 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 45 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 44 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 44 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 47 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 47 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 46 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 46 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 41 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 41 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 40 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 40 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 43 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 43 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 42 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 42 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 37 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 37 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 36 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 36 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 39 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 39 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 38 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>White / 38 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-white-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 46 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 46 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 45 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 45 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 48 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 48 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 47 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 47 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 42 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 42 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 41 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 41 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 44 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 44 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 43 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 43 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 38 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 38 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 37 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 37 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 40 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 40 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 39 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 39 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 47 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 47 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 46 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 46 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 36 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Red / 36 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-red-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 48 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 48 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 43 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 43 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 42 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 42 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 45 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 45 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 44 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 44 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 39 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 39 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 38 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 38 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 41 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 41 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 40 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 40 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 37 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 37 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 36 / United States</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950074581153</id>
+      <title>Black / 36 / China</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku>37377874-black-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+    <published>2021-08-30T10:59:23+05:00</published>
+    <updated>2021-08-30T10:59:23+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://primefoot-wear.myshopify.com/products/men-summer-sneakers"/>
+    <title>Men Summer Sneakers</title>
+    <s:type></s:type>
+    <s:vendor>primefoot wear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/5139/2673/products/product-image-1456282373.jpg?v=1630317728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>primefoot wear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.30 - 25.85
+            <a href="https://primefoot-wear.myshopify.com/products/men-summer-sneakers">(78 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Canvas<br><strong>Outsole Material:</strong> EVA<br><strong>Closure Type:</strong> Lace-up<br><strong>Shoes Type:</strong> Basic<br><strong>Season:</strong> Spring/Autumn<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Sweat-Absorbant<br><strong>Feature:</strong> Light<br><strong>Feature:</strong> Anti-Odor<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 48 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 48 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 45 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 45 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 44 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 44 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 47 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 47 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 46 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 46 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 41 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 41 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 40 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 40 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 43 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 43 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 42 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 42 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 37 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 37 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 36 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 36 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 39 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 39 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 38 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>White / 38 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-white-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 46 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 46 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 45 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 45 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 48 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 48 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 47 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 47 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 42 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 42 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 41 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 41 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 44 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 44 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 43 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 43 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 38 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 38 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 37 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 37 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 40 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 40 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 39 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 39 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 47 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 47 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-47-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 46 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 46 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-46-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 36 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-red-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Red / 36 / China</title>
+      <s:price currency="USD">20.30</s:price>
+      <s:sku>37377874-red-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 48 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 48 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-48-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 43 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 43 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-43-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 42 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 42 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-42-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 45 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 45 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-45-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 44 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 44 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-44-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 39 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 39 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-39-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 38 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 38 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-38-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 41 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 41 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-41-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 40 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 40 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-40-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 37 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 37 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-37-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 36 / United States</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://primefoot-wear.myshopify.com/products/6950052954273</id>
+      <title>Black / 36 / China</title>
+      <s:price currency="USD">25.85</s:price>
+      <s:sku>37377874-black-36-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

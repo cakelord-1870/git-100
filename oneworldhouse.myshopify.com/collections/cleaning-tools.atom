@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://oneworldhouse.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://oneworldhouse.myshopify.com/collections/cleaning-tools.atom"/>
+  <title>OneWorldHouse</title>
+  <updated>2021-06-15T06:17:36-04:00</updated>
+  <author>
+    <name>OneWorldHouse</name>
+  </author>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+    <published>2021-06-15T06:17:36-04:00</published>
+    <updated>2021-06-15T06:17:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/dog-cat-hair-cleaning-brush"/>
+    <title>Dog Cat Hair Cleaning Brush</title>
+    <s:type>Cleaning Brush</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1595956796.jpg?v=1635854558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Cleaning Brush<br>
+        <strong>Price: </strong>
+            10.92 - 10.96
+            <a href="https://oneworldhouse.myshopify.com/products/dog-cat-hair-cleaning-brush">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Dogs<br><strong>Material:</strong> Stainless Steel<br><strong>Type1:</strong> dog<br><strong>Type2:</strong> for dogs<br><strong>Type3:</strong> Hair comb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dog Cat Hair</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / France</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / Italy</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / SPAIN</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / Australia</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / Czech Republic</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Red / Italy</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>25658357-red-italy</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Yellow / China</title>
+      <s:price currency="USD">10.96</s:price>
+      <s:sku>25658357-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Red / Australia</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>25658357-red-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Red / France</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>25658357-red-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>25658357-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Red / SPAIN</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>25658357-red-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734593327302</id>
+      <title>Red / China</title>
+      <s:price currency="USD">10.92</s:price>
+      <s:sku>25658357-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734590869702</id>
+    <published>2021-06-15T06:16:40-04:00</published>
+    <updated>2021-06-15T06:16:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/cleaning-brush-for-fruit-vegetable"/>
+    <title>Cleaning Brush For Fruit Vegetable</title>
+    <s:type>Cleaning Brush</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1779591240.jpg?v=1623908907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Cleaning Brush<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Hand<br><strong>Usage:</strong> Dish<br><strong>Material:</strong> Plastic<br><strong>Feature:</strong> Eco-Friendly</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Brush</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734590869702</id>
+      <title>G / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>45781358-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734590869702</id>
+      <title>L / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>45781358-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734590869702</id>
+      <title>W / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>45781358-w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734590869702</id>
+      <title>Y / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>45781358-y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734577860806</id>
+    <published>2021-06-15T06:10:08-04:00</published>
+    <updated>2021-06-15T06:10:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/wiping-cloth-kitchen-cleaning-towel"/>
+    <title>Wiping Cloth Kitchen Cleaning Towel</title>
+    <s:type>Kitchen Towel</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1702264951.jpg?v=1623751810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Kitchen Towel<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Feature:</strong> Eco-Friendly<br><strong>Production:</strong> Scouring Pad<br><strong>Usage:</strong> Cleaning<br><strong>Material:</strong> COTTON<br><strong>Item Weight:</strong> 30G</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen Towel</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734577860806</id>
+      <title>Khaki / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>43909504-khaki-united-states-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734577860806</id>
+      <title>Light Grey / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>43909504-light-grey-united-states-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734575075526</id>
+    <published>2021-06-15T06:08:37-04:00</published>
+    <updated>2021-06-15T06:08:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/a-pair-of-silicone-dishwasher-gloves"/>
+    <title>A Pair Of Silicone Dishwasher Gloves</title>
+    <s:type>Dishwasher</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1779590982.jpg?v=1623751724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Dishwasher<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Weight:</strong> 100-140g<br><strong>Thickness:</strong> Medium Thick<br><strong>Outer Material:</strong> Latex<br><strong>Usage:</strong> Cleaning<br><strong>Material:</strong> silicone</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dishwasher</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734575075526</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>45781350-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734575075526</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>45781350-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734575075526</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>45781350-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734575075526</id>
+      <title>Gray / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>45781350-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734575075526</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>45781350-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734572748998</id>
+    <published>2021-06-15T06:07:16-04:00</published>
+    <updated>2021-06-15T06:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/small-portable-pe-scrub-boards"/>
+    <title>Small Portable PE Scrub boards</title>
+    <s:type>Scrub boards</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1779591034.jpg?v=1623908788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Scrub boards<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scrub boards</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734572748998</id>
+      <title>H / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>45781352-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734572748998</id>
+      <title>W / United States</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>45781352-w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://oneworldhouse.myshopify.com/products/6734569308358</id>
+    <published>2021-06-15T06:05:26-04:00</published>
+    <updated>2021-06-15T06:05:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://oneworldhouse.myshopify.com/products/disposable-soft-microfiber-dusters-brush"/>
+    <title>Disposable Soft Microfiber Dusters Brush</title>
+    <s:type>Dusters Brush</s:type>
+    <s:vendor>OneWorldHouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0512/4820/1926/products/product-image-1779591091.jpg?v=1623751530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OneWorldHouse<br>
+        <strong>Type: </strong>Dusters Brush<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Duster Head Shape:</strong> Irregular<br><strong>Duster Head Material:</strong> non-woven fabric<br><strong>Usage:</strong> Book Cases</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dusters Brush</s:tag>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734569308358</id>
+      <title>white handle / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45781353-white-handle-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734569308358</id>
+      <title>green handle / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45781353-green-handle-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://oneworldhouse.myshopify.com/products/6734569308358</id>
+      <title>replacement / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45781353-replacement-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

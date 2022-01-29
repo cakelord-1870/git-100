@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cool-air-express.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cool-air-express.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cool-air-express.myshopify.com/collections/all.atom"/>
+  <title>Cool Air Express</title>
+  <updated>2021-04-09T12:00:28+05:00</updated>
+  <author>
+    <name>Cool Air Express</name>
+  </author>
+  <entry>
+    <id>https://cool-air-express.myshopify.com/products/6654005706906</id>
+    <published>2021-04-09T12:00:28+05:00</published>
+    <updated>2021-04-09T12:00:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cool-air-express.myshopify.com/products/portable-air-cooler-fan"/>
+    <title>Portable Mini Air Cooler Fan</title>
+    <s:type>Air Cooler</s:type>
+    <s:vendor>Cool Air Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2009/3594/products/product-image-1714495736.jpg?v=1617951676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Air Express<br>
+        <strong>Type: </strong>Air Cooler<br>
+        <strong>Price: </strong>
+            35.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Power (W):</strong> Other<br><strong>Voltage (V):</strong> 110V<br><strong>Power Source:</strong> AC<br><strong>Water-shortage Power-off Protection:</strong> No<br><strong>Type:</strong> Air Cooling Fan<br><strong>Suspender Length:</strong> No Suspender<br><strong>Rotation Way:</strong> Without Rotation<br><strong>Air supply mode:</strong> Other<br><strong>Application:</strong> 10-15㎡<br><strong>Technology:</strong> Other<br><strong>Rotary Vane Quantity:</strong> Without Vane<br><strong>Wind Type:</strong> Natural Wind<br><strong>Usage:</strong> Home<br><strong>Max. Power:</strong> &lt;20W<br><strong>Material:</strong> Plastic<br><strong>Size:</strong> &lt;1050MM<br><strong>Controlling Mode:</strong> Mechanical Timer Control<br><strong>Fan Speed:</strong> Third Gear<br><strong>Features:</strong></p>
+<ul>
+<li>Air Cooling Cooler Fast Cold Wind Aire Acondicionado Portatil</li>
+<li>Night 7 Color led Light Multifunction Airco Tablet Fan Air-Conditioner</li>
+<li>Aire Acondicionado</li>
+<li>Climatiseur</li>
+</ul>
+<p><strong>Style:</strong> Mini Air Conditioner Air Cooler</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air cooler</s:tag>
+    <s:tag>cool fan</s:tag>
+    <s:tag>mini air cooler</s:tag>
+    <s:tag>portable air cooler</s:tag>
+    <s:tag>portable cooler</s:tag>
+    <s:variant>
+      <id>https://cool-air-express.myshopify.com/products/6654005706906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.36</s:price>
+      <s:sku>44247342-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cool-air-express.myshopify.com/products/6654003904666</id>
+    <published>2021-04-09T11:59:19+05:00</published>
+    <updated>2021-04-09T11:59:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cool-air-express.myshopify.com/products/portable-personal-air-cooler"/>
+    <title>Portable Personal  Air Cooler</title>
+    <s:type>Air Cooler</s:type>
+    <s:vendor>Cool Air Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2009/3594/products/product-image-1692981160.jpg?v=1617951561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Air Express<br>
+        <strong>Type: </strong>Air Cooler<br>
+        <strong>Price: </strong>
+            17.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> CE<br><strong>Color:</strong> Black, White<br><strong>Water Tank Capacity:</strong> 500ml<br><strong>Wind Angle:</strong> 90°<br><strong>Rated Voltage:</strong> 5V<br><strong>Rated Power:</strong> 12W<br><strong>Speed:</strong> 3 Levels<br><strong>Light Color:</strong> 7 Colors<br><strong>Item Weight:</strong> 760g / 1.68lbs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air cooler</s:tag>
+    <s:tag>cool fan</s:tag>
+    <s:tag>mini air cooler</s:tag>
+    <s:tag>portable air cooler</s:tag>
+    <s:tag>portable cooler</s:tag>
+    <s:variant>
+      <id>https://cool-air-express.myshopify.com/products/6654003904666</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>43670375-black-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cool-air-express.myshopify.com/products/6654001643674</id>
+    <published>2021-04-09T11:57:33+05:00</published>
+    <updated>2021-04-09T11:57:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cool-air-express.myshopify.com/products/usb-mini-air-cooler-fan"/>
+    <title>USB Mini portable Air Cooler Fan</title>
+    <s:type>Air Cooler</s:type>
+    <s:vendor>Cool Air Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2009/3594/products/product-image-1455351465.jpg?v=1617951727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Air Express<br>
+        <strong>Type: </strong>Air Cooler<br>
+        <strong>Price: </strong>
+            37.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Power (W):</strong> 5w<br><strong>Voltage (V):</strong> 5V<br><strong>Remote Control Function:</strong> No<br><strong>Power Source:</strong> USB<br><strong>Water-shortage Power-off Protection:</strong> Yes<br><strong>Type:</strong> Cooling Only<br><strong>Reverse Rotating Function:</strong> No<br><strong>Type:</strong> Air Cooling Fan<br><strong>Suspender Length:</strong> No Suspender<br><strong>Rotation Way:</strong> Rotate the Page<br><strong>Air supply mode:</strong> Rotary Vane<br><strong>Application:</strong> 10-15㎡<br><strong>Wind Type:</strong> Natural Wind<br><strong>Usage:</strong> Home<br><strong>Max. Power:</strong> 20-69W<br><strong>Material:</strong> Plastic<br><strong>Size:</strong> &lt;1050MM<br><strong>Controlling Mode:</strong> Mechanical Timer Control<br><strong>Installation:</strong> Table<br><strong>Fan Speed:</strong> Third Gear<br><strong>Type:</strong> Desktop Air Conditioner<br><strong>Features:</strong></p>
+<ul>
+<li>Air Cooler Fan</li>
+<li>Mini Air Conditioner</li>
+<li>Air cooler for room</li>
+<li>Air conditioner portable</li>
+<li>Air conditioner cooling</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air cooler</s:tag>
+    <s:tag>cool fan</s:tag>
+    <s:tag>mini air cooler</s:tag>
+    <s:tag>portable air cooler</s:tag>
+    <s:tag>portable cooler</s:tag>
+    <s:variant>
+      <id>https://cool-air-express.myshopify.com/products/6654001643674</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">37.72</s:price>
+      <s:sku>38197407-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cool-air-express.myshopify.com/products/6654001643674</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">37.72</s:price>
+      <s:sku>38197407-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cool-air-express.myshopify.com/products/6654001643674</id>
+      <title>White / United States</title>
+      <s:price currency="USD">37.72</s:price>
+      <s:sku>38197407-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cool-air-express.myshopify.com/products/6653998366874</id>
+    <published>2021-04-09T11:54:13+05:00</published>
+    <updated>2021-04-09T11:54:13+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cool-air-express.myshopify.com/products/personal-air-purifier-air-conditioner"/>
+    <title>Personal Air Purifier Air Conditioner</title>
+    <s:type>Air Cooler</s:type>
+    <s:vendor>Cool Air Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2009/3594/products/product-image-1719880345.jpg?v=1617951709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cool Air Express<br>
+        <strong>Type: </strong>Air Cooler<br>
+        <strong>Price: </strong>
+            18.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Type:</strong> Air Conditioning</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>air cooler</s:tag>
+    <s:tag>cool fan</s:tag>
+    <s:tag>mini air cooler</s:tag>
+    <s:tag>portable air cooler</s:tag>
+    <s:tag>portable cooler</s:tag>
+    <s:variant>
+      <id>https://cool-air-express.myshopify.com/products/6653998366874</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.10</s:price>
+      <s:sku>44400694-united-states-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://silverfox-bags.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://silverfox-bags.myshopify.com/collections/wallet.atom"/>
+  <title>SilverFox Bags</title>
+  <updated>2020-12-02T05:12:29-05:00</updated>
+  <author>
+    <name>SilverFox Bags</name>
+  </author>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+    <published>2020-12-02T05:12:29-05:00</published>
+    <updated>2020-12-02T05:12:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/leather-wallets"/>
+    <title>New Leather Wallets</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1431183939.jpg?v=1606903952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Wallet Length:</strong> long<br><strong>Item Weight:</strong> 0.2kg<br><strong>Lining Material:</strong> Polyester<br><strong>Item Height:</strong> 9.5cm<br><strong>Material Composition:</strong> PU<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Fashion<br><strong>Interior:</strong> Coin Pocket<br><strong>Interior:</strong> Interior Compartment<br><strong>Item Width:</strong> 2.8 cm<br><strong>Gender:</strong> WOMEN<br><strong>Item Length:</strong> 19cm<br><strong>Item Type:</strong> Wallet<br><strong>Closure Type:</strong> Hasp<br><strong>Wallets:</strong> Standard Wallets<br><strong>Decoration:</strong> NONE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Black</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Dk Blue</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-dk-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Brown</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Green</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Pink</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Red</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Yellow</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Rose</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-rose</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Purple</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148652695703</id>
+      <title>Blue</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>2257943-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+    <published>2020-12-02T05:11:18-05:00</published>
+    <updated>2020-12-02T05:11:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/short-wallets"/>
+    <title>Leather Short Wallets</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1550690381.jpg?v=1606903880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Wallet Length:</strong> Short<br><strong>Item Weight:</strong> 0.15kg<br><strong>Lining Material:</strong> Polyester<br><strong>Item Height:</strong> 8.5cm<br><strong>Material Composition:</strong> PU Leather<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Lady<br><strong>Interior:</strong> Interior Slot Pocket<br><strong>Interior:</strong> Interior Zipper Pocket<br><strong>Interior:</strong> Interior Compartment<br><strong>Interior:</strong> Coin Pocket<br><strong>Interior:</strong> Note Compartment<br><strong>Interior:</strong> Photo Holder<br><strong>Interior:</strong> Card Holder<br><strong>Item Width:</strong> 4cm<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+      <title>Black</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>25364946-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+      <title>Blue</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>25364946-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+      <title>Gold</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>25364946-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+      <title>Pink</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>25364946-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+      <title>Purple</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>25364946-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148650074263</id>
+      <title>Red</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>25364946-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+    <published>2020-12-02T05:09:44-05:00</published>
+    <updated>2020-12-02T05:09:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/wristband-women-wallet"/>
+    <title>Wristband Women Wallet</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1424707363.jpg?v=1606903787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Wallet Length:</strong> long<br><strong>Item Weight:</strong> 155 g<br><strong>Lining Material:</strong> Polyester<br><strong>Item Height:</strong> 10cm<br><strong>Material Composition:</strong> Synthetic Leather<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Fashion<br><strong>Interior:</strong> Interior Slot Pocket<br><strong>Interior:</strong> Cell Phone Pocket<br><strong>Interior:</strong> Interior Compartment<br><strong>Interior:</strong> Note Compartment<br><strong>Interior:</strong> Photo Holder<br><strong>Interior:</strong> Card Holder<br><strong>Item Width:</strong> 2 cm<br><strong>Gender:</strong> WOMEN<br><strong>Item Length:</strong> 19.5cm<br><strong>Item Type:</strong> Wallet<br><strong>Closure Type:</strong> Zipper &amp; Hasp<br><strong>Wallets:</strong> Standard Wallets<br><strong>Decoration:</strong> NONE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Yellow</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Dk Pink</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-dk-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Red</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Gray</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Dk Blue</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-dk-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Black</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148646011031</id>
+      <title>Pink</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>25925892-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+    <published>2020-12-02T05:08:14-05:00</published>
+    <updated>2020-12-02T05:08:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silverfox-bags.myshopify.com/products/baellerry-leather-wallets"/>
+    <title>Baellerry Leather Wallets</title>
+    <s:type></s:type>
+    <s:vendor>SilverFox Bags</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0511/1624/5143/products/product-image-1434553381.jpg?v=1606903697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SilverFox Bags<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.96 - 17.96
+            <a href="https://silverfox-bags.myshopify.com/products/baellerry-leather-wallets">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Main Material:</strong> PU<br><strong>Wallet Length:</strong> long<br><strong>Item Weight:</strong> 150g<br><strong>Lining Material:</strong> Polyester<br><strong>Item Height:</strong> 10cm<br><strong>Material Composition:</strong> Scrub Leather<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Casual<br><strong>Interior:</strong> Coin Pocket<br><strong>Interior:</strong> Photo Holder<br><strong>Interior:</strong> Interior Zipper Pocket<br><strong>Interior:</strong> Interior Slot Pocket<br><strong>Interior:</strong> Note Compartment<br><strong>Interior:</strong> Card Holder<br><strong>Item Width:</strong> 1.8cm<br><strong>Gender:</strong> WOMEN<br><strong>Item Length:</strong> 18cm<br><strong>Item Type:</strong> Wallet<br><strong>Closure Type:</strong> Hasp<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>light pink</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-light-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>orange</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>Gray</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>rose red</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-rose-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>light blue</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-light-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>dark gray</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-dark-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>Brown</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>dark red</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-dark-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>dark blue</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-dark-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>black</title>
+      <s:price currency="USD">17.96</s:price>
+      <s:sku>23077747-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>Clear</title>
+      <s:price currency="USD">11.96</s:price>
+      <s:sku>23077747-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silverfox-bags.myshopify.com/products/6148640473239</id>
+      <title>Gold</title>
+      <s:price currency="USD">11.96</s:price>
+      <s:sku>23077747-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

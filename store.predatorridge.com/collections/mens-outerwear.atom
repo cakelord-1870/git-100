@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://store.predatorridge.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://store.predatorridge.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://store.predatorridge.com/collections/mens-outerwear.atom"/>
+  <title>The Predator Ridge Shop Online</title>
+  <updated>2019-11-26T13:19:59-08:00</updated>
+  <author>
+    <name>The Predator Ridge Shop Online</name>
+  </author>
+  <entry>
+    <id>https://store.predatorridge.com/products/4338999820386</id>
+    <published>2019-11-26T13:19:59-08:00</published>
+    <updated>2019-11-26T13:19:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/lakemont-half-zip-1"/>
+    <title>Lakemont Half Zip</title>
+    <s:type>Men&apos;s Outerwear</s:type>
+    <s:vendor>Cutter and Buck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/Black_Zip_Chest_-_MCS07728.jpg?v=1574803773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cutter and Buck<br>
+        <strong>Type: </strong>Men&#39;s Outerwear<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Item Description</h2>
+<p>Mock neck. Half zip with double welt placket. Logo zipper pull. Elbow Patches. 1x1 rib double layer at collar and sleeve cuff. Contrast color at inside collar and sleeve cuff. English Shoulder. 1x1 rib single layer hem. 12 gauge </p>
+<h2>Material Content</h2>
+<p>80% Cotton/Cotton, 17% Nylon, 3% Spandex</p>
+<h2>Predator Ridge Logo Finish<br>
+</h2>
+<p>The Predator Ridge Resort logo will come as an embroidery finish in the color Silver.</p>
+<h2>Washing Instructions</h2>
+<p>Machine Wash Cold Delicate/ Lay Flat to Dry/ Do Not Bleach</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>S / Black / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>S / Black / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>M / Black / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>M / Black / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>L / Black / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>L / Black / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>XL / Black / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>XL / Black / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>XXL / Black / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>XXL / Black / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>XXXL / Black / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338999820386</id>
+      <title>XXXL / Black / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.predatorridge.com/products/4339012403298</id>
+    <published>2019-11-26T13:06:53-08:00</published>
+    <updated>2019-11-26T13:06:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/traverse-colorblock-half-zip"/>
+    <title>Traverse Colorblock Half Zip</title>
+    <s:type>Men&apos;s Outerwear</s:type>
+    <s:vendor>Cutter and Buck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/White_Zip_3_-_MCK00136.jpg?v=1574805287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cutter and Buck<br>
+        <strong>Type: </strong>Men&#39;s Outerwear<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Item Description</h2>
+<p>CB Drytec UPF 50+. Moisture wicking with UV protection of 50+ UPF. Solid double knit jersey fabric with matte look. Mock neck half zip. Raglan armhole. Contrast color piecing at inside collar, under arm, and side panels. Straight hem. Stretch tape at sleeve and bottom hem in contrast color. CB logo zipper. Silver CB pennant heat transfer print at back half moon</p>
+<h2>Material Content</h2>
+<p>90% Polyester, 10% Spandex</p>
+<h2>Predator Ridge Logo Finish<br>
+</h2>
+<p>The Predator Ridge Resort logo will come as an embroidery finish in the color Black.</p>
+<h2>Washing Instructions</h2>
+<p>Machine Wash Cold Delicate/ Tumble Dry Low, Delicate/ Do Not Bleach</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>S / White / Left Sleeve</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>S / White / Left Chest</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>M / White / Left Sleeve</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>M / White / Left Chest</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>L / White / Left Sleeve</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>L / White / Left Chest</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>XL / White / Left Sleeve</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>XL / White / Left Chest</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>XXL / White / Left Sleeve</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>XXL / White / Left Chest</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>XXXL / White / Left Sleeve</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4339012403298</id>
+      <title>XXXL / White / Left Chest</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>MCK00136</s:sku>
+      <s:grams>327</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.predatorridge.com/products/4338996707426</id>
+    <published>2019-11-26T13:06:53-08:00</published>
+    <updated>2019-11-26T13:06:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/lakemont-half-zip"/>
+    <title>Lakemont Half Zip</title>
+    <s:type>Men&apos;s Outerwear</s:type>
+    <s:vendor>Cutter and Buck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/Half_Zip_Chest_-_MCS07728.jpg?v=1574803063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cutter and Buck<br>
+        <strong>Type: </strong>Men&#39;s Outerwear<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Item Description</h2>
+<p>Mock neck. Half zip with double welt placket. Logo zipper pull. Elbow Patches. 1x1 rib double layer at collar and sleeve cuff. Contrast color at inside collar and sleeve cuff. English Shoulder. 1x1 rib single layer hem. 12 gauge </p>
+<h2>Material Content</h2>
+<p>80% Cotton/Cotton, 17% Nylon, 3% Spandex</p>
+<h2>Predator Ridge Logo Finish<br>
+</h2>
+<p>The Predator Ridge Resort logo will come as an embroidery finish in the color Black.</p>
+<h2>Washing Instructions</h2>
+<p>Machine Wash Cold Delicate/ Lay Flat to Dry/ Do Not Bleach</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>S / Oatmeal Heather / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>S / Oatmeal Heather / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>M / Oatmeal Heather / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>M / Oatmeal Heather / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>L / Oatmeal Heather / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>L / Oatmeal Heather / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>XL / Oatmeal Heather / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>XL / Oatmeal Heather / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>XXL / Oatmeal Heather / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>XXL / Oatmeal Heather / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>XXXL / Oatmeal Heather / Left Sleeve</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338996707426</id>
+      <title>XXXL / Oatmeal Heather / Left Chest</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>MCS07728</s:sku>
+      <s:grams>417</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.predatorridge.com/products/4338974294114</id>
+    <published>2019-11-26T09:12:17-08:00</published>
+    <updated>2019-11-26T09:12:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/mainsail-jacket"/>
+    <title>Mainsail Jacket</title>
+    <s:type>Men&apos;s Outerwear</s:type>
+    <s:vendor>Cutter and Buck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/BRH_3_Chest_-_MCO00050.jpg?v=1574798467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cutter and Buck<br>
+        <strong>Type: </strong>Men&#39;s Outerwear<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Item Description</h2>
+<p>Fleece, Heather knit sweater fleece, Mock neck full zip, Novelty dense cover stitch at armhole and panel seams, Zip pocket at right chest and lower front, Cuffs, Straight hem at front with drop tail hem at back, Contrast color stretch tape at collar edge and bottom hem, Novelty silver zipper, CB logo zipper pull attached to center front zipper, CB pennant embroidery at center back collar. </p>
+<h2>Material Content</h2>
+<p>100% Polyester</p>
+<h2>Predator Ridge Logo Finish<br>
+</h2>
+<p>The Predator Ridge Resort logo will come as an <span>stitched embroidered</span> finish in the color Black.</p>
+<h2>Washing Instructions</h2>
+<p>Machine Wash Cold, Normal / Do Not Bleach / Tumble Dry Low, Normal / Do Not Iron</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>S / Bordeaux Heather / Left Sleeve</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>S / Bordeaux Heather / Left Chest</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>M / Bordeaux Heather / Left Sleeve</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>M / Bordeaux Heather / Left Chest</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>L / Bordeaux Heather / Left Sleeve</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>L / Bordeaux Heather / Left Chest</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>XL / Bordeaux Heather / Left Sleeve</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>XL / Bordeaux Heather / Left Chest</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>XXL / Bordeaux Heather / Left Sleeve</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>XXL / Bordeaux Heather / Left Chest</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>XXXL / Bordeaux Heather / Left Sleeve</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338974294114</id>
+      <title>XXXL / Bordeaux Heather / Left Chest</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>MCO00050</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.predatorridge.com/products/4338961973346</id>
+    <published>2019-11-26T09:12:17-08:00</published>
+    <updated>2019-11-26T09:12:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/altitude-quilted-jacket"/>
+    <title>Altitude Quilted Jacket</title>
+    <s:type>Men&apos;s Outerwear</s:type>
+    <s:vendor>Cutter and Buck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/Jacket_Chest_MCO00025.jpg?v=1574796834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cutter and Buck<br>
+        <strong>Type: </strong>Men&#39;s Outerwear<br>
+        <strong>Price: </strong>
+            219.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Item Description</h2>
+<p>Full Zip with Hood. Partially Quilted and Insulated Body. Exposed zip front pockets. Contrast cover-stitch details. Draw-cord at hem. CB rubber patch at wearer's left shoulder. Mesh lining and jersey bonded.</p>
+<h2>Material Content</h2>
+<p>100% Polyester</p>
+<h2>Predator Ridge Logo Finish<br>
+</h2>
+<p>The Predator Ridge Resort logo will come as an <span>stitched embroidered</span> finish in the color Black.</p>
+<h2>Washing Instructions</h2>
+<p>Machine Wash/ Tumble Dry Low, Delicate/ Do Not Bleach</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338961973346</id>
+      <title>S / Charcoal / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00025</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338961973346</id>
+      <title>M / Charcoal / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00025</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338961973346</id>
+      <title>L / Charcoal / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00025</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338961973346</id>
+      <title>XL / Charcoal / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00025</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338961973346</id>
+      <title>XXL / Charcoal / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00025</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4338961973346</id>
+      <title>XXXL / Charcoal / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00025</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://store.predatorridge.com/products/4313906217058</id>
+    <published>2019-10-25T13:45:36-07:00</published>
+    <updated>2019-10-25T13:45:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/fairway-long-sleeve-half-zip"/>
+    <title>Fairway Long Sleeve Half Zip</title>
+    <s:type>Men&apos;s Outerwear</s:type>
+    <s:vendor>Cutter and Buck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/Fairway_LS_Half_Zip_-_MCO00011_Chest.jpg?v=1572997915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cutter and Buck<br>
+        <strong>Type: </strong>Men&#39;s Outerwear<br>
+        <strong>Price: </strong>
+            219.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Item Description</h2>
+<p>Laminate, CB DryTec, 2.5 layer water resistant fabric, 10k/10k waterproof breathable, Reflective bonded front pockets, Vented back for movement, Packable into front pocket </p>
+<h2>Material Content</h2>
+<p>100% Polyester</p>
+<h2>Predator Ridge Logo Finish<br>
+</h2>
+<p>The Predator Ridge Resort logo will come as a heat seal finish in the color Silver</p>
+<h2>Washing Instructions</h2>
+<p>Machine Wash/ Tumble Dry Low, Delicate/ Do Not Bleach</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>S / Black / Left Sleeve</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>S / Black / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>M / Black / Left Sleeve</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>M / Black / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>L / Black / Left Sleeve</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>L / Black / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>XL / Black / Left Sleeve</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>XL / Black / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>XXL / Black / Left Sleeve</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>XXL / Black / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>XXXL / Black / Left Sleeve</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/4313906217058</id>
+      <title>XXXL / Black / Left Chest</title>
+      <s:price currency="CAD">219.99</s:price>
+      <s:sku>MCO00011</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://crepe-kitchen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://crepe-kitchen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://crepe-kitchen.myshopify.com/collections/cutlery.atom"/>
+  <title>Crepe Kitchen</title>
+  <updated>2021-08-20T16:18:14+05:00</updated>
+  <author>
+    <name>Crepe Kitchen</name>
+  </author>
+  <entry>
+    <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+    <published>2021-08-20T16:18:14+05:00</published>
+    <updated>2021-08-20T16:18:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://crepe-kitchen.myshopify.com/products/western-cutlery-set"/>
+    <title>Western Cutlery Set</title>
+    <s:type>Cutlery Set</s:type>
+    <s:vendor>Crepe Kitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/6413/9446/products/product-image-1759105917.jpg?v=1629522652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crepe Kitchen<br>
+        <strong>Type: </strong>Cutlery Set<br>
+        <strong>Price: </strong>
+            12.00 - 38.40
+            <a href="https://crepe-kitchen.myshopify.com/products/western-cutlery-set">(36 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Western<br><strong>Material:</strong> Metal<br><strong>Technique:</strong> Frost<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Eco-Friendly<br><strong>Number of Users:</strong> 1<br><strong>Production:</strong> Spoon/Fork/Knife/Chopsticks Kit<br><strong>Dinnerware Type:</strong> Dinnerware Sets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cutlery Set</s:tag>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>United States / white gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-united-states-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>United States / pink gold</title>
+      <s:price currency="USD">34.40</s:price>
+      <s:sku>26123530-united-states-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>United States / gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>United States / rosegold</title>
+      <s:price currency="USD">34.40</s:price>
+      <s:sku>26123530-united-states-rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / white silver</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-white-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / white gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / chopsticks</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-chopsticks</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / butter knife</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-butter-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / pink gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / silver</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / pink silver</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / black</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / black silver</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-black-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / blue silver</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-blue-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / blue gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-blue-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / black gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / gloss blackgold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-gloss-blackgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / glossy whitegold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-glossy-whitegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / gloss pinkgold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-gloss-pinkgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / ice spoon</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-ice-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / rosegold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / glossy gold</title>
+      <s:price currency="USD">38.40</s:price>
+      <s:sku>26123530-china-glossy-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / dinner spoon</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-dinner-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / dinner knife</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-dinner-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / tea spoon</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-tea-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / tea fork</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-tea-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / dessert knife</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-dessert-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / dessert fork</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-dessert-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / dinner fork</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-dinner-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>China / dessert spoon</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>26123530-china-dessert-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>Russian Federation / pink gold</title>
+      <s:price currency="USD">30.40</s:price>
+      <s:sku>26123530-russian-federation-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>Russian Federation / black</title>
+      <s:price currency="USD">30.40</s:price>
+      <s:sku>26123530-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>Russian Federation / gloss blackgold</title>
+      <s:price currency="USD">30.40</s:price>
+      <s:sku>26123530-russian-federation-gloss-blackgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>Russian Federation / gloss pinkgold</title>
+      <s:price currency="USD">30.40</s:price>
+      <s:sku>26123530-russian-federation-gloss-pinkgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964011270326</id>
+      <title>Russian Federation / greengold</title>
+      <s:price currency="USD">30.40</s:price>
+      <s:sku>26123530-russian-federation-greengold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+    <published>2021-08-20T16:12:43+05:00</published>
+    <updated>2021-08-20T16:12:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://crepe-kitchen.myshopify.com/products/stainless-steel-golden-cutlery-set"/>
+    <title>Stainless Steel Golden Cutlery Set</title>
+    <s:type>Cutlery Set</s:type>
+    <s:vendor>Crepe Kitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/6413/9446/products/product-image-1758105135.jpg?v=1629457976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crepe Kitchen<br>
+        <strong>Type: </strong>Cutlery Set<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Western<br><strong>Material:</strong> Metal<br><strong>Technique:</strong> Frost<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Eco-Friendly<br><strong>Number of Users:</strong> 1<br><strong>Production:</strong> Spoon/Fork/Knife Kit<br><strong>Dinnerware Type:</strong> Dinnerware Sets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cutlery Set</s:tag>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / ROSE GOLD</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / black gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / Gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / black 4pcs</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-black-4pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / white gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>United States / pink gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-united-states-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / bright gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-bright-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / black silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-black-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / ROSE GOLD</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / blue gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-blue-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / Bright Silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-bright-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / black gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / Gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / black 4pcs</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-black-4pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / silver 4pcs</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-silver-4pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / yellow</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / black 1set</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-black-1set</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / blue</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / purple</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / white gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / pink silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / pink gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / black gold 4pcs</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-black-gold-4pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / white gold 4pcs</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-white-gold-4pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>China / red gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-china-red-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6964000751798</id>
+      <title>Russian Federation / Gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>17551248-russian-federation-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+    <published>2021-08-20T16:09:19+05:00</published>
+    <updated>2021-08-20T16:09:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://crepe-kitchen.myshopify.com/products/golden-cutlery-set"/>
+    <title>Golden Cutlery Set</title>
+    <s:type>Cutlery Set</s:type>
+    <s:vendor>Crepe Kitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/6413/9446/products/product-image-1644312240.jpg?v=1629522749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crepe Kitchen<br>
+        <strong>Type: </strong>Cutlery Set<br>
+        <strong>Price: </strong>
+            4.58 - 16.02
+            <a href="https://crepe-kitchen.myshopify.com/products/golden-cutlery-set">(42 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Western<br><strong>Material:</strong> Metal<br><strong>Technique:</strong> Frost<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Eco-Friendly<br><strong>Number of Users:</strong> 1<br><strong>Production:</strong> Spoon/Fork/Knife Kit<br><strong>Dinnerware Type:</strong> Dinnerware Sets<br><strong>dinnerware:</strong> steel cutlery set<br><strong>tableware:</strong> cutlery set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cutlery Set</s:tag>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>United States / rose gold</title>
+      <s:price currency="USD">15.14</s:price>
+      <s:sku>26123553-united-states-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>United States / gold</title>
+      <s:price currency="USD">15.14</s:price>
+      <s:sku>26123553-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>United States / pink gold</title>
+      <s:price currency="USD">15.14</s:price>
+      <s:sku>26123553-united-states-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / whitegold</title>
+      <s:price currency="USD">14.26</s:price>
+      <s:sku>26123553-russian-federation-whitegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / black</title>
+      <s:price currency="USD">14.26</s:price>
+      <s:sku>26123553-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / greengold</title>
+      <s:price currency="USD">14.26</s:price>
+      <s:sku>26123553-russian-federation-greengold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / pink silver</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / glossy blackgold</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-glossy-blackgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / rose gold</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / black gold</title>
+      <s:price currency="USD">14.26</s:price>
+      <s:sku>26123553-russian-federation-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / silver</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / pink gold</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / glossy pinkgold</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-glossy-pinkgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>Russian Federation / glossy whitegold</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>26123553-russian-federation-glossy-whitegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / whitegold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-whitegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / black</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / bluegold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-bluegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / greengold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-greengold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / pink silver</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / glossy blackgold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-glossy-blackgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / white silver</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-white-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / rose gold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / gold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / black gold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / rainbow</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-rainbow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / silver</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / pink gold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / glossy pinkgold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-glossy-pinkgold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / glossy whitegold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-glossy-whitegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / black silver</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-black-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / glossy gold</title>
+      <s:price currency="USD">16.02</s:price>
+      <s:sku>26123553-china-glossy-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / Chopsticks</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-chopsticks</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / dinner fork</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-dinner-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / dessert spoon</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-dessert-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / dessert knife</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-dessert-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / dessert fork</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-dessert-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / tea spoon</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-tea-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / ice spoon</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-ice-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / butter knife</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-butter-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / tea fork</title>
+      <s:price currency="USD">4.58</s:price>
+      <s:sku>26123553-china-tea-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / dinner spoon</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-dinner-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963994984630</id>
+      <title>China / dinner knife</title>
+      <s:price currency="USD">5.46</s:price>
+      <s:sku>26123553-china-dinner-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+    <published>2021-08-20T15:53:00+05:00</published>
+    <updated>2021-08-20T15:53:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://crepe-kitchen.myshopify.com/products/matte-black-cutlery-set"/>
+    <title>Matte Black Cutlery Set</title>
+    <s:type>Black Cutlery Set</s:type>
+    <s:vendor>Crepe Kitchen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0592/6413/9446/products/product-image-1699447746.jpg?v=1629522696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crepe Kitchen<br>
+        <strong>Type: </strong>Black Cutlery Set<br>
+        <strong>Price: </strong>
+            12.40 - 38.20
+            <a href="https://crepe-kitchen.myshopify.com/products/matte-black-cutlery-set">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Western<br><strong>Material:</strong> Metal<br><strong>Technique:</strong> Frost<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Eco-Friendly<br><strong>Number of Users:</strong> 1<br><strong>Production:</strong> Spoon/Fork/Knife/Chopsticks Kit<br><strong>Dinnerware Type:</strong> Dinnerware Sets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Cutlery Set</s:tag>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / rose gold</title>
+      <s:price currency="USD">32.20</s:price>
+      <s:sku>25791657-russian-federation-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / white gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / silver</title>
+      <s:price currency="USD">32.20</s:price>
+      <s:sku>25791657-russian-federation-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / white silver</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-white-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / pink silver</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / pink gold</title>
+      <s:price currency="USD">32.20</s:price>
+      <s:sku>25791657-russian-federation-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / silver</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / pink gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / blue gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-blue-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / black</title>
+      <s:price currency="USD">32.20</s:price>
+      <s:sku>25791657-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / blue silver</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-blue-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / black silver</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-black-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / black gold</title>
+      <s:price currency="USD">32.20</s:price>
+      <s:sku>25791657-russian-federation-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / black</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / black gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / rose gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / ice spoon</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-ice-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / tea spoon</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-russian-federation-tea-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / tea fork</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-tea-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / tea spoon</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-tea-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / tea fork</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-russian-federation-tea-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / dinner knife</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-dinner-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / dinner spoon</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-dinner-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / dessert spoon</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-dessert-spoon</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / dinner fork</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-dinner-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / dessert fork</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-dessert-fork</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / dessert knife</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-dessert-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / butter knife</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-butter-knife</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / white silver</title>
+      <s:price currency="USD">32.20</s:price>
+      <s:sku>25791657-russian-federation-white-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / chopsticks</title>
+      <s:price currency="USD">12.40</s:price>
+      <s:sku>25791657-china-chopsticks</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / silver</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>25791657-united-states-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / white gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-united-states-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / black</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>25791657-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / gold</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>25791657-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / pink gold</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>25791657-united-states-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / pink silver</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>25791657-united-states-pink-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>United States / rose gold</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>25791657-united-states-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / glossy pink gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-glossy-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / glossy black gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-glossy-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / glossy white gold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-glossy-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>China / greengold</title>
+      <s:price currency="USD">38.20</s:price>
+      <s:sku>25791657-china-greengold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / glossy white gold</title>
+      <s:price currency="USD">30.20</s:price>
+      <s:sku>25791657-russian-federation-glossy-white-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / glossy pink gold</title>
+      <s:price currency="USD">30.20</s:price>
+      <s:sku>25791657-russian-federation-glossy-pink-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://crepe-kitchen.myshopify.com/products/6963965198518</id>
+      <title>Russian Federation / glossy black gold</title>
+      <s:price currency="USD">30.20</s:price>
+      <s:sku>25791657-russian-federation-glossy-black-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

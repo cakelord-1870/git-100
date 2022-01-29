@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://getpet-com.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://getpet-com.myshopify.com/collections/trendy-items.atom"/>
+  <title>Getpet.com</title>
+  <updated>2021-03-15T15:24:07+05:00</updated>
+  <author>
+    <name>Getpet.com</name>
+  </author>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548902936783</id>
+    <published>2021-03-15T15:24:07+05:00</published>
+    <updated>2021-03-15T15:24:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/eye-wear-cat-sunglasses"/>
+    <title>Eye Wear Cat Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1702661434.jpg?v=1615803851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.04 - 15.96
+            <a href="https://getpet-com.myshopify.com/products/eye-wear-cat-sunglasses">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> SunGlasses<br><strong>Material:</strong> Other<br><strong>Frame:</strong> metal<br><strong>Size:</strong> 8cm L: 7.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548902936783</id>
+      <title>green / United States</title>
+      <s:price currency="USD">15.96</s:price>
+      <s:sku>43921025-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548902936783</id>
+      <title>Silver / United States</title>
+      <s:price currency="USD">15.04</s:price>
+      <s:sku>43921025-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548902936783</id>
+      <title>purple / United States</title>
+      <s:price currency="USD">15.92</s:price>
+      <s:sku>43921025-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548902936783</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">15.94</s:price>
+      <s:sku>43921025-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548902936783</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>43921025-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548895858895</id>
+    <published>2021-03-15T15:12:26+05:00</published>
+    <updated>2021-03-15T15:12:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/dog-bowl-for-water-and-food"/>
+    <title>Dog Bowl For Water And Food</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1700968027.jpg?v=1615803149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548895858895</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.70</s:price>
+      <s:sku>43872777-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548892254415</id>
+    <published>2021-03-15T14:53:50+05:00</published>
+    <updated>2021-03-15T14:53:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/dog-breast-strap-nylon-harness"/>
+    <title>Dog Breast Strap Nylon Harness</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1702649006.jpg?v=1615802033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dog Harness Type:</strong> Vest Harnesses<br><strong>Material:</strong> Other<br><strong>Is Smart Device:</strong> no<br><strong>is_customized:</strong> No<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Quick Release<br><strong>Color:</strong> blue<br><strong>Size:</strong> S, M (Optional)<br><strong>Rope length:</strong> 150cm<br><strong>Size S:</strong> 40-50cm (about 8-16 kg)<br><strong>Size M:</strong> 50-62cm (about 15-28 kg)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548892254415</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>43920660-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+    <published>2021-03-12T10:14:25+05:00</published>
+    <updated>2021-03-12T10:14:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/feeders-drinking-bowls-for-cats"/>
+    <title>Feeders drinking bowls for cats</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-910757996.jpg?v=1615526068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.48 - 26.86
+            <a href="https://getpet-com.myshopify.com/products/feeders-drinking-bowls-for-cats">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Time Setting:</strong> No<br><strong>Max Output:</strong> as show<br><strong>With Water Dispenser:</strong> No<br><strong>Power Source:</strong> none<br><strong>Min Output:</strong> 50g<br><strong>Material:</strong> Plastic<br><strong>LCD Display:</strong> No<br><strong>Type:</strong> cats</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+      <title>water / 3.5L / China</title>
+      <s:price currency="USD">26.86</s:price>
+      <s:sku>24082826-water-3-5l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+      <title>water / 3.5L / United States</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>24082826-water-3-5l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+      <title>food / 3.5L / China</title>
+      <s:price currency="USD">25.48</s:price>
+      <s:sku>24082826-food-3-5l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+      <title>food / 3.5L / United States</title>
+      <s:price currency="USD">26.16</s:price>
+      <s:sku>24082826-food-3-5l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+      <title>food / 3.5L / GERMANY</title>
+      <s:price currency="USD">26.16</s:price>
+      <s:sku>24082826-food-3-5l-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6546317770959</id>
+      <title>water / 3.5L / GERMANY</title>
+      <s:price currency="USD">26.50</s:price>
+      <s:sku>24082826-water-3-5l-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+    <published>2021-03-11T15:18:41+05:00</published>
+    <updated>2021-03-11T15:18:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/soft-nylon-dog-collar"/>
+    <title>Soft Nylon Dog Collar</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/18.jpg?v=1615462527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.80 - 28.56
+            <a href="https://getpet-com.myshopify.com/products/soft-nylon-dog-collar">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Collars<br><strong>Collar Type:</strong> Basic Collars<br><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Nylon<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Padded<br><strong>Feature:</strong> Quick Release</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Brown / L (47-53cm) / United States</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>31531341-brown-l-47-53cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Brown / XL (55-63cm) / United States</title>
+      <s:price currency="USD">28.12</s:price>
+      <s:sku>31531341-brown-xl-55-63cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Army Green / XL (55-63cm) / United States</title>
+      <s:price currency="USD">27.12</s:price>
+      <s:sku>31531341-army-green-xl-55-63cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Brown / M (37-45cm) / United States</title>
+      <s:price currency="USD">26.80</s:price>
+      <s:sku>31531341-brown-m-37-45cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Black / M (37-45cm) / United States</title>
+      <s:price currency="USD">26.80</s:price>
+      <s:sku>31531341-black-m-37-45cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Army Green / M (37-45cm) / United States</title>
+      <s:price currency="USD">26.80</s:price>
+      <s:sku>31531341-army-green-m-37-45cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Army Green / L (47-53cm) / United States</title>
+      <s:price currency="USD">27.56</s:price>
+      <s:sku>31531341-army-green-l-47-53cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Black / L (47-53cm) / United States</title>
+      <s:price currency="USD">28.56</s:price>
+      <s:sku>31531341-black-l-47-53cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545641242831</id>
+      <title>Black / XL (55-63cm) / United States</title>
+      <s:price currency="USD">28.12</s:price>
+      <s:sku>31531341-black-xl-55-63cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+    <published>2021-03-11T14:54:17+05:00</published>
+    <updated>2021-03-11T14:54:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/cat-bed-indoor-kitty-house"/>
+    <title>Cat Bed Indoor Kitty House</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1510477201.jpg?v=1615456460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.90 - 39.76
+            <a href="https://getpet-com.myshopify.com/products/cat-bed-indoor-kitty-house">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Feature:</strong> Removable Cover</span><br><span><strong>Type:</strong> cats</span><br><span><strong>Material:</strong> 100% Cotton</span><br><span><strong>Is Smart Device:</strong> no</span><br><span><strong>Name:</strong> Pet bed cat nest</span><br><span><strong>Color:</strong> Gray,Brown,Light brown,Pink,Yellow</span><br><span><strong>Size:</strong> S,M,L</span><br><span><strong>Suitable for:</strong> Cat,kitty,Puppy,doggy,Small dog</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Brown / L Less than 10kg</title>
+      <s:price currency="USD">39.76</s:price>
+      <s:sku>39673884-brown-l-less-than-10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Light brown / S Less than 3kg</title>
+      <s:price currency="USD">33.90</s:price>
+      <s:sku>39673884-light-brown-s-less-than-3kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Light brown / M Less than 7.5kg</title>
+      <s:price currency="USD">35.66</s:price>
+      <s:sku>39673884-light-brown-m-less-than-7-5kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Light brown / L Less than 10kg</title>
+      <s:price currency="USD">38.76</s:price>
+      <s:sku>39673884-light-brown-l-less-than-10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Pink / S Less than 3kg</title>
+      <s:price currency="USD">34.90</s:price>
+      <s:sku>39673884-pink-s-less-than-3kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Pink / M Less than 7.5kg</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>39673884-pink-m-less-than-7-5kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Pink / L Less than 10kg</title>
+      <s:price currency="USD">39.76</s:price>
+      <s:sku>39673884-pink-l-less-than-10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Yellow / S Less than 3kg</title>
+      <s:price currency="USD">33.90</s:price>
+      <s:sku>39673884-yellow-s-less-than-3kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Yellow / M Less than 7.5kg</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>39673884-yellow-m-less-than-7-5kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Yellow / L Less than 10kg</title>
+      <s:price currency="USD">39.76</s:price>
+      <s:sku>39673884-yellow-l-less-than-10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Gray / S Less than 3kg</title>
+      <s:price currency="USD">33.90</s:price>
+      <s:sku>39673884-gray-s-less-than-3kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Gray / M Less than 7.5kg</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>39673884-gray-m-less-than-7-5kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Gray / L Less than 10kg</title>
+      <s:price currency="USD">39.76</s:price>
+      <s:sku>39673884-gray-l-less-than-10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Brown / S Less than 3kg</title>
+      <s:price currency="USD">34.90</s:price>
+      <s:sku>39673884-brown-s-less-than-3kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545614700751</id>
+      <title>Brown / M Less than 7.5kg</title>
+      <s:price currency="USD">36.66</s:price>
+      <s:sku>39673884-brown-m-less-than-7-5kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6545608540367</id>
+    <published>2021-03-11T14:40:41+05:00</published>
+    <updated>2021-03-11T14:40:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/dog-sunglass-eye-protection"/>
+    <title>Dog Sunglass Eye Protection</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1011523337.jpg?v=1615456171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Item Type:</strong> SunGlasses</span><br><span><strong>Material:</strong> Plastic</span><br><span><strong>Type:</strong> Dogs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545608540367</id>
+      <title>Black / 13CM</title>
+      <s:price currency="USD">21.45</s:price>
+      <s:sku>21771406-black-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545608540367</id>
+      <title>White / 13CM</title>
+      <s:price currency="USD">21.45</s:price>
+      <s:sku>21771406-white-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545608540367</id>
+      <title>Red / 13CM</title>
+      <s:price currency="USD">21.45</s:price>
+      <s:sku>21771406-red-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545608540367</id>
+      <title>Blue / 13CM</title>
+      <s:price currency="USD">21.45</s:price>
+      <s:sku>21771406-blue-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545608540367</id>
+      <title>Pink / 13CM</title>
+      <s:price currency="USD">21.45</s:price>
+      <s:sku>21771406-pink-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

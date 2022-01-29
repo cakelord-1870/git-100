@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://general-space.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://general-space.myshopify.com/collections/electronics.atom"/>
+  <title>General-Space</title>
+  <updated>2021-03-03T16:07:43+05:00</updated>
+  <author>
+    <name>General-Space</name>
+  </author>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6557680074908</id>
+    <published>2021-03-03T16:07:43+05:00</published>
+    <updated>2021-03-03T16:07:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/bakeey-pc-transparent-screen-protector-case-for-apple-watch-4-smart-watch"/>
+    <title>PC Transparent Screen Protector</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/79a0354d-5ded-4fe9-ae92-7a1772a0977e.jpg?v=1620202840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="specification">
+<div> <span style="font-size: 18px;"><b>Package Included:</b></span>
+</div>
+<div><span style="font-size: 14px;">1 x Case Cover Screen Protector</span></div>
+<div><br></div>
+<div><span style="font-size: 18px;"><b>Features:</b></span></div>
+<div><span style="font-size: 14px;">Size: 40mm, 44mm</span></div>
+<div><span style="font-size: 14px;">Note: Please kindly leave us a PAYPAL NOTE specifying your favorite size, otherwise we will send it in Random.</span></div>
+<div><span style="font-size: 14px;">Color: Transparent</span></div>
+<div><span style="font-size: 14px;">Material: Plastic Hard Material</span></div>
+<div><span style="font-size: 14px;">Thickness: 0.8mm</span></div>
+<div><span style="font-size: 14px;">Surface hardness: 4H</span></div>
+<div><span style="font-size: 14px;">Compatible with: For Apple watch Series 4</span></div>
+<div><span style="font-size: 14px;">Keep your Watch protected from any knocks and bumps. </span></div>
+</div>
+<div id="specification_end"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6557680074908</id>
+      <title>44mm</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>CJXFZNZN01585-44mm</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6557680074908</id>
+      <title>40mm</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>CJXFZNZN01585-40mm</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6557674209436</id>
+    <published>2021-03-03T16:04:41+05:00</published>
+    <updated>2021-03-03T16:04:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/fashion-sport-luminous-display-waterproof-led-outdoor-digital-watch"/>
+    <title>Waterproof LED Digital Watch</title>
+    <s:type>Watch</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/dff410c6-cfb2-4155-b5d9-aa481b95dd43.jpg?v=1620202833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Watch<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.size_table_start table,.size_table_start table tr td { border:2px solid #ddd;}.size_table_start table { width: 100%; min-height: 25px; line-height: 25px; text-align: center; border-collapse: collapse;}.size_table_start,.size_table_end {clear:both;}
+--></style>
+<div class="size_table_start"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6557674209436</id>
+      <title>Black</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>CJZBNSSZ00294-Black</s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6557674209436</id>
+      <title>Blue</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>CJZBNSSZ00294-Blue</s:sku>
+      <s:grams>55</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6552114790556</id>
+    <published>2021-03-01T16:12:52+05:00</published>
+    <updated>2021-03-01T16:12:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/tactical-smartwatch-v3-hr"/>
+    <title>Tactical SmartWatch V3 HR</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/407321156088.jpg?v=1620204415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Explore with your "heart"</strong><br></p>
+<p>During exercise, check your real-time heart rate to learn about your progress. No matter what your goals are,it can always provide you a guide to know when to strive and when to relax.</p>
+<p><strong>Test a runner with the data</strong></p>
+<p>By using inbuilt 3D accelerometer, track your current speed and distance, allowing you to look up speed and distance even in indoors motion (such as treadmill running ).</p>
+<p>*The data accuracy will be affected by factors such as using habit, motion range of different persons.</p>
+<p><strong style="font-size: 1.4em;">The 3D interface</strong></p>
+<p>Unlike typical sports watches, VIBE 3 HR has a totally unique 3D interface. It is not necessary to study complicated graphs or reports to understand activity performance, the watch face uses 3D animations to easily see at a glance one’s daily activities, sleep information, and more. It even has friendly inactivity reminders to help users be fitness-minded.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>4PCs Blue</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-4PCs Blue</s:sku>
+      <s:grams>876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>Blue</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-Blue</s:sku>
+      <s:grams>219</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>3PCs Blue</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-3PCs Blue</s:sku>
+      <s:grams>657</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>3PCs Black</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-3PCs Black</s:sku>
+      <s:grams>657</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>3PCs Red</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-3PCs Red</s:sku>
+      <s:grams>657</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>Red</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-Red</s:sku>
+      <s:grams>219</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>2PCs Black</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-2PCs Black</s:sku>
+      <s:grams>438</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>4PCs Black</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-4PCs Black</s:sku>
+      <s:grams>876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>4PCs Red</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-4PCs Red</s:sku>
+      <s:grams>876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>2PCs Blue</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-2PCs Blue</s:sku>
+      <s:grams>438</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>2PCs Red</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-2PCs Red</s:sku>
+      <s:grams>438</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552114790556</id>
+      <title>Black</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>CJXFZNZN00191-Black</s:sku>
+      <s:grams>219</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6552111808668</id>
+    <published>2021-03-01T16:09:16+05:00</published>
+    <updated>2021-03-01T16:09:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/full-touch-smart-bracelet-monitors-heart-rate-blood-pressure-multi-sport-watch"/>
+    <title>Full-touch Smart Bracelet Watch</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/3415908884871.jpg?v=1620202870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            24.17 - 27.50
+            <a href="https://general-space.myshopify.com/products/full-touch-smart-bracelet-monitors-heart-rate-blood-pressure-multi-sport-watch">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Overview:<br>Main functions: exercise recording (step counting, distance, calorie calculation), exercise mode, message push, information storage, heart rate monitoring, sleep monitoring, blood pressure measurement, blood oxygen saturation measurement, stopwatch, camera control, music control, full font language 1.4-inch color touch screen display.</p>
+<p><br>Specification<br>Bracelet size (mm): L * W * H = 36.6 * 43 * 9.3<br>Weight: 46g<br>Color: black, pink, cyan, gold, ochre<br>Hardware parameters<br>Screen size: 1.4 inches<br>Pixels: 240RGB * 240<br>Touch type: Full screen touch<br>Connection parameters: BT<br>Compatibility：IOS 8.0 and above/Andriod 5.0 and above</p>
+<p>Package Content:<br></p>
+<p>1 x Smart Watch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Pink P8pro</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Pink P8pro</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>White P8pro</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-White P8pro</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Gold</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Gold</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Silver</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Silver</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Silver steel</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Silver steel</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Blue</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Blue</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Black steel</title>
+      <s:price currency="USD">24.17</s:price>
+      <s:sku>CJXFZNZN00523-Black steel</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Black P8pro</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Black P8pro</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Rose Gold</s:sku>
+      <s:grams>146</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6552111808668</id>
+      <title>Black</title>
+      <s:price currency="USD">27.50</s:price>
+      <s:sku>CJXFZNZN00523-Black</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+</feed>

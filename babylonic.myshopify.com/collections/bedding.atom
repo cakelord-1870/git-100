@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://babylonic.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://babylonic.myshopify.com/collections/bedding.atom"/>
+  <title>BabyLonic</title>
+  <updated>2021-09-06T15:39:01+05:00</updated>
+  <author>
+    <name>BabyLonic</name>
+  </author>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843711324346</id>
+    <published>2021-09-06T15:39:01+05:00</published>
+    <updated>2021-09-06T15:39:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/soft-sleeping-bag-for-stroller"/>
+    <title>Soft Sleeping Bag For Stroller</title>
+    <s:type>Sleeping Bag</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1827884162.jpg?v=1630990652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Sleeping Bag<br>
+        <strong>Price: </strong>
+            23.19 - 29.72
+            <a href="https://babylonic.myshopify.com/products/soft-sleeping-bag-for-stroller">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 13-24m<br><strong>Age Range:</strong> 25-36m<br><strong>Material:</strong> Polar Fleece Fabric<br><strong>Pattern Type:</strong> Solid<br><strong>Age Group:</strong> Babies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sleeping Bag</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">26.48</s:price>
+      <s:sku>41542272-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>white / France</title>
+      <s:price currency="USD">25.32</s:price>
+      <s:sku>41542272-white-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>Pink / SPAIN</title>
+      <s:price currency="USD">23.19</s:price>
+      <s:sku>41542272-pink-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">29.72</s:price>
+      <s:sku>41542272-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>Pink / Australia</title>
+      <s:price currency="USD">26.91</s:price>
+      <s:sku>41542272-pink-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>gray / China</title>
+      <s:price currency="USD">26.48</s:price>
+      <s:sku>41542272-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>Pink / France</title>
+      <s:price currency="USD">25.32</s:price>
+      <s:sku>41542272-pink-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>gray / SPAIN</title>
+      <s:price currency="USD">23.19</s:price>
+      <s:sku>41542272-gray-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">29.72</s:price>
+      <s:sku>41542272-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>gray / Australia</title>
+      <s:price currency="USD">26.91</s:price>
+      <s:sku>41542272-gray-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>green / China</title>
+      <s:price currency="USD">26.48</s:price>
+      <s:sku>41542272-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>gray / France</title>
+      <s:price currency="USD">25.32</s:price>
+      <s:sku>41542272-gray-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>green / SPAIN</title>
+      <s:price currency="USD">23.19</s:price>
+      <s:sku>41542272-green-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>green / United States</title>
+      <s:price currency="USD">29.72</s:price>
+      <s:sku>41542272-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>green / Australia</title>
+      <s:price currency="USD">26.91</s:price>
+      <s:sku>41542272-green-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>green / France</title>
+      <s:price currency="USD">25.32</s:price>
+      <s:sku>41542272-green-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>white / China</title>
+      <s:price currency="USD">26.48</s:price>
+      <s:sku>41542272-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>white / SPAIN</title>
+      <s:price currency="USD">23.19</s:price>
+      <s:sku>41542272-white-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>white / United States</title>
+      <s:price currency="USD">29.72</s:price>
+      <s:sku>41542272-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>white / Australia</title>
+      <s:price currency="USD">26.91</s:price>
+      <s:sku>41542272-white-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>white / Poland</title>
+      <s:price currency="USD">23.81</s:price>
+      <s:sku>41542272-white-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>gray / Poland</title>
+      <s:price currency="USD">23.81</s:price>
+      <s:sku>41542272-gray-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>green / Poland</title>
+      <s:price currency="USD">23.81</s:price>
+      <s:sku>41542272-green-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843711324346</id>
+      <title>Pink / Poland</title>
+      <s:price currency="USD">23.81</s:price>
+      <s:sku>41542272-pink-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843707916474</id>
+    <published>2021-09-06T15:33:03+05:00</published>
+    <updated>2021-09-06T15:33:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/vip-portable-baby-bed"/>
+    <title>VIP Portable Baby Bed</title>
+    <s:type>Portable Baby Bed</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/1.jpg?v=1630991751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Portable Baby Bed<br>
+        <strong>Price: </strong>
+            25.89 - 29.06
+            <a href="https://babylonic.myshopify.com/products/vip-portable-baby-bed">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Unisex<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Material:</strong> Fabric<br><strong>Dimension:</strong> 85*45CM<br><strong>Feature:</strong> Portable<br><strong>Type:</strong> Crib<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portable Baby Bed</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>Purple / Poland</title>
+      <s:price currency="USD">26.25</s:price>
+      <s:sku>43317130-purple-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>43317130-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>yellow / France</title>
+      <s:price currency="USD">28.97</s:price>
+      <s:sku>43317130-yellow-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>Purple / China</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>43317130-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>Purple / France</title>
+      <s:price currency="USD">28.97</s:price>
+      <s:sku>43317130-purple-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>Purple / SPAIN</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>43317130-purple-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>Purple / Australia</title>
+      <s:price currency="USD">27.96</s:price>
+      <s:sku>43317130-purple-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>gray / China</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>43317130-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>gray / SPAIN</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>43317130-gray-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>gray / Australia</title>
+      <s:price currency="USD">27.96</s:price>
+      <s:sku>43317130-gray-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>gray / Poland</title>
+      <s:price currency="USD">26.25</s:price>
+      <s:sku>43317130-gray-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>43317130-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>yellow / China</title>
+      <s:price currency="USD">25.89</s:price>
+      <s:sku>43317130-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>yellow / Poland</title>
+      <s:price currency="USD">26.25</s:price>
+      <s:sku>43317130-yellow-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>gray / France</title>
+      <s:price currency="USD">28.97</s:price>
+      <s:sku>43317130-gray-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>yellow / Australia</title>
+      <s:price currency="USD">27.96</s:price>
+      <s:sku>43317130-yellow-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>yellow / United States</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>43317130-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843707916474</id>
+      <title>yellow / SPAIN</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>43317130-yellow-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843706441914</id>
+    <published>2021-09-06T15:30:32+05:00</published>
+    <updated>2021-09-06T15:30:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/warm-fluffy-sleeping-bag"/>
+    <title>Warm Fluffy Sleeping Bag</title>
+    <s:type>Sleeping Bag</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1713110356.jpg?v=1630991690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Sleeping Bag<br>
+        <strong>Price: </strong>
+            25.88 - 56.37
+            <a href="https://babylonic.myshopify.com/products/warm-fluffy-sleeping-bag">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Item Type:</strong> Sleepsacks<br><strong>Fabric Type:</strong> Flannel<br><strong>Pattern Type:</strong> Solid<br><strong>Material:</strong> COTTON<br><strong>Department Name:</strong> Baby</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fluffy</s:tag>
+    <s:tag>Sleeping Bag</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Pink / Poland</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>44206605-pink-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>gray / Poland</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>44206605-gray-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  1 / United States</title>
+      <s:price currency="USD">56.37</s:price>
+      <s:sku>44206605-sleeping-bag-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  1 / Poland</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>44206605-sleeping-bag-1-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  1 / China</title>
+      <s:price currency="USD">42.26</s:price>
+      <s:sku>44206605-sleeping-bag-1-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>white / Poland</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>44206605-white-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  1 / France</title>
+      <s:price currency="USD">45.54</s:price>
+      <s:sku>44206605-sleeping-bag-1-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  1 / Australia</title>
+      <s:price currency="USD">43.53</s:price>
+      <s:sku>44206605-sleeping-bag-1-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  1 / SPAIN</title>
+      <s:price currency="USD">46.26</s:price>
+      <s:sku>44206605-sleeping-bag-1-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  2 / SPAIN</title>
+      <s:price currency="USD">46.26</s:price>
+      <s:sku>44206605-sleeping-bag-2-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  2 / United States</title>
+      <s:price currency="USD">56.37</s:price>
+      <s:sku>44206605-sleeping-bag-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  2 / Poland</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>44206605-sleeping-bag-2-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  2 / China</title>
+      <s:price currency="USD">42.26</s:price>
+      <s:sku>44206605-sleeping-bag-2-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  2 / France</title>
+      <s:price currency="USD">45.54</s:price>
+      <s:sku>44206605-sleeping-bag-2-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Sleeping Bag  2 / Australia</title>
+      <s:price currency="USD">43.53</s:price>
+      <s:sku>44206605-sleeping-bag-2-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>gray / China</title>
+      <s:price currency="USD">29.45</s:price>
+      <s:sku>44206605-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">41.06</s:price>
+      <s:sku>44206605-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>gray / Australia</title>
+      <s:price currency="USD">28.40</s:price>
+      <s:sku>44206605-gray-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>gray / France</title>
+      <s:price currency="USD">31.13</s:price>
+      <s:sku>44206605-gray-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">29.45</s:price>
+      <s:sku>44206605-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">41.06</s:price>
+      <s:sku>44206605-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Pink / Australia</title>
+      <s:price currency="USD">28.40</s:price>
+      <s:sku>44206605-pink-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>Pink / France</title>
+      <s:price currency="USD">31.13</s:price>
+      <s:sku>44206605-pink-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>white / China</title>
+      <s:price currency="USD">29.45</s:price>
+      <s:sku>44206605-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>white / United States</title>
+      <s:price currency="USD">41.06</s:price>
+      <s:sku>44206605-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>white / Australia</title>
+      <s:price currency="USD">28.40</s:price>
+      <s:sku>44206605-white-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843706441914</id>
+      <title>white / France</title>
+      <s:price currency="USD">31.13</s:price>
+      <s:sku>44206605-white-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843705721018</id>
+    <published>2021-09-06T15:28:38+05:00</published>
+    <updated>2021-09-06T15:28:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/baby-swaddle-wrap-hat"/>
+    <title>Baby Swaddle Wrap +Hat</title>
+    <s:type>Baby Swaddle Wrap</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/160628793928cfe9619eaf720ec647db00ff9b24a9.jpg?v=1630991073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Baby Swaddle Wrap<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Material:</strong> Cotton / Bamboo Fiber<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Floral<br><strong>Age Group:</strong> Babies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Swaddle Wrap</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / Australia / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-australia-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / China / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-china-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / United States / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / France / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-france-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / Australia / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-australia-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / China / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-china-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / United States / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-united-states-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / France / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-france-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / Australia / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-australia-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / China / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-china-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / United States / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / France / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-france-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / Australia / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-australia-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / China / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-china-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / United States / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-united-states-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / France / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-france-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / Australia / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-australia-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / China / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-china-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>green / United States / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-green-united-states-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>Black / France / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-black-france-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / France / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-france-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / Australia / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-australia-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / China / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-china-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843705721018</id>
+      <title>white / United States / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>41499988-white-united-states-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

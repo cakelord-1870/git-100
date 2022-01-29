@@ -1,0 +1,4321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://sidewalk-shoes.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://sidewalk-shoes.myshopify.com/collections/all.atom"/>
+  <title>Sidewalk Shoes</title>
+  <updated>2021-06-19T01:53:19-04:00</updated>
+  <author>
+    <name>Sidewalk Shoes</name>
+  </author>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+    <published>2021-06-19T01:53:19-04:00</published>
+    <updated>2021-06-19T01:53:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/military-boots-for-men"/>
+    <title>Military Boots for Men</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1656138100.jpg?v=1624082011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Toe Shape:</strong> Round Toe</span><br><span><strong>Item Type:</strong> Boots</span><br><span><strong>Season:</strong> Spring/Autumn</span><br><span><strong>Heel Height:</strong> Low (1cm-3cm)</span><br><span><strong>Closure Type:</strong> Lace-up</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men Boots</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Gray / 44 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-gray-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Gray / 43 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-gray-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Gray / 42 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-gray-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Gray / 41 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-gray-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Khaki / 42 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-khaki-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Khaki / 41 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-khaki-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Khaki / 40 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-khaki-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Khaki / 39 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-khaki-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Gray / 40 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-gray-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Gray / 39 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-gray-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Khaki / 44 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-khaki-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Khaki / 43 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-khaki-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Black / 40 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Black / 39 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Black / 44 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Black / 43 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Black / 42 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769686544542</id>
+      <title>Black / 41 / United States</title>
+      <s:price currency="USD">33.99</s:price>
+      <s:sku>42622495-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+    <published>2021-06-19T01:12:55-04:00</published>
+    <updated>2021-06-19T01:12:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/anti-puncture-non-slip-boots"/>
+    <title>Anti-puncture Non-slip Boots</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1379084091.jpg?v=1624079735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boot Type:</strong> Work &amp; Safety<br><strong>Pattern Type:</strong> striped<br><strong>Lining Material:</strong> Mesh<br><strong>Shaft Material:</strong> Cotton Fabric<br><strong>Toe Shape:</strong> Round Toe<br><strong>Item Type:</strong> Boots<br><strong>Outsole Material:</strong> Rubber<br><strong>Season:</strong> Spring/Autumn<br><strong>Heel Height:</strong> Low (1cm-3cm)<br><strong>Closure Type:</strong> Lace-up<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men Boots</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 39 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 40 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 41 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 42 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 43 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 44 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 45 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 46 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / &apos;47 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 48 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Black Gray / 49 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-black-gray-49-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 39 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 40 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 41 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 42 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 43 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 44 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 45 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 46 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / &apos;47 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 48 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Pure Black / 49 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-pure-black-49-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 39 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 40 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 41 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 42 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 43 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 44 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 45 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 46 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / &apos;47 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 48 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Brown / 49 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-brown-49-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 40 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 41 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 42 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 43 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 44 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 45 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 46 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / &apos;47 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 48 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-48-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769674092702</id>
+      <title>Blue / 49 / United States</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>11960006-blue-49-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+    <published>2021-06-19T01:09:07-04:00</published>
+    <updated>2021-06-19T01:09:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/protective-light-weight-boots"/>
+    <title>Protective Light weight Boots</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1594365549.jpg?v=1624079924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boot Type:</strong> Work &amp; Safety<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Adult<br><strong>Lining Material:</strong> Mesh<br><strong>Shaft Material:</strong> Mesh (Air mesh)<br><strong>Toe Shape:</strong> Round Toe<br><strong>Item Type:</strong> Boots<br><strong>Season:</strong> Spring/Autumn<br><strong>Heel Height:</strong> Low (1cm-3cm)<br><strong>Closure Type:</strong> Hook &amp; Loop</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men Boots</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 37 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 38 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 36 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 45 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 46 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 43 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 44 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 41 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 42 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 39 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 40 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 39 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 40 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 37 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 38 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 36 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / &apos;47 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / &apos;47 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 45 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 46 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 43 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 44 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 41 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 42 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 41 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 42 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 40 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / &apos;47 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-47-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 45 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 46 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-46-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 43 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Blue / 44 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-blue-44-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 42.5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-42-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black white / 43.5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-white-43-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 42.5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-42-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672880286</id>
+      <title>Black / 43.5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>23990987-black-43-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+    <published>2021-06-19T01:06:39-04:00</published>
+    <updated>2021-06-19T01:06:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/leather-snow-boots"/>
+    <title>Leather Snow Boots</title>
+    <s:type>Boots</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1556096030.jpg?v=1624080105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Boots<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boot Type:</strong> Work &amp; Safety<br><strong>Upper Material:</strong> Split Leather<br><strong>Boot Height:</strong> ANKLE<br><strong>Pattern Type:</strong> Solid<br><strong>Lining Material:</strong> Cotton Fabric<br><strong>Insole Material:</strong> PU<br><strong>Shaft Material:</strong> Split Leather<br><strong>Toe Shape:</strong> Round Toe<br><strong>Outsole Material:</strong> Rubber<br><strong>Season:</strong> Winter<br><strong>Heel Height:</strong> Low (1cm-3cm)<br><strong>Closure Type:</strong> ZIP<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men Boots</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 11 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 12 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 13 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 14 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 7 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 8 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 9 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black high top / 10 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-high-top-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 8 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 9 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 6 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 7 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 10 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 11 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 8 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 9 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 14 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 12 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 13 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 12 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 13 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 10 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 11 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 7 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 8 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy low top / 14 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-low-top-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 6 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 11 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 12 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 9 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 10 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 6 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>green / 7 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-green-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 13 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>black low top / 14 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-black-low-top-14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy high top / 8 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-high-top-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy high top / 9 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-high-top-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy high top / 7 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-high-top-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769672159390</id>
+      <title>sandy high top / 12 / United States</title>
+      <s:price currency="USD">43.99</s:price>
+      <s:sku>40659057-sandy-high-top-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+    <published>2021-06-19T00:44:20-04:00</published>
+    <updated>2021-06-19T00:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/unisex-indoor-slippers"/>
+    <title>Unisex Indoor Slippers</title>
+    <s:type>Slipper</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1544607639.jpg?v=1624080590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Slipper<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Upper Material:</strong> Cotton Fabric<br><strong>Heel Type:</strong> Flat with<br><strong>Season:</strong> Spring/Autumn<br><strong>Outsole Material:</strong> Fabric<br><strong>Item Type:</strong> Slippers<br><strong>Applicable Place:</strong> Indoor<br><strong>Lining Material:</strong> Short Plush<br><strong>Fashion Element:</strong> Sewing<br><strong>Heel Height:</strong> Flat (≤1cm)<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>With Platforms:</strong> No<br><strong>Insole Material:</strong> Short Plush</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slipper Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Pink / 43 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-pink-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Pink / 45 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-pink-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Rose Red / 43 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-rose-red-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Rose Red / 37 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-rose-red-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Rose Red / 39 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-rose-red-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Pink / 39 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-pink-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Pink / 41 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-pink-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Pink / 37 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-pink-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Yellow / 39 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-yellow-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Yellow / 41 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-yellow-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Rose Red / 41 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-rose-red-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Yellow / 37 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-yellow-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Rose Red / 45 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-rose-red-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Yellow / 43 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-yellow-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666556062</id>
+      <title>Yellow / 45 / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36289470-yellow-45-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+    <published>2021-06-19T00:42:48-04:00</published>
+    <updated>2021-06-19T00:42:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/slippers-for-home-walk"/>
+    <title>Slippers For Home walk</title>
+    <s:type>Slipper</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1646810242.jpg?v=1624080536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Slipper<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Type:</strong> Flat with<br><strong>Season:</strong> Winter<br><strong>Outsole Material:</strong> Plastic<br><strong>Item Type:</strong> Slippers<br><strong>Applicable Place:</strong> Indoor<br><strong>Lining Material:</strong> Cotton Fabric<br><strong>Fashion Element:</strong> Shallow<br><strong>Heel Height:</strong> Flat (≤1cm)<br><strong>With Platforms:</strong> No<br><strong>Department Name:</strong> Adult<br><strong>Insole Material:</strong> Plush<br><strong>Shoes Type:</strong> Basic<br><strong>Pattern Type:</strong> Print</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slipper Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>R / 42-43 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-r-42-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>R / 40-41 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-r-40-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>R / 38-39 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-r-38-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>R / 36-37 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-r-36-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>P / 42-43 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-p-42-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>P / 40-41 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-p-40-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>P / 38-39 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-p-38-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>P / 36-37 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-p-36-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>HB / 42-43 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-hb-42-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>HB / 40-41 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-hb-40-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>HB / 38-39 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-hb-38-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>HB / 36-37 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-hb-36-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>G / 42-43 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-g-42-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>G / 40-41 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-g-40-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>G / 38-39 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-g-38-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>G / 36-37 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-g-36-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>DL / 42-43 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-dl-42-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>DL / 40-41 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-dl-40-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>DL / 38-39 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-dl-38-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769666326686</id>
+      <title>DL / 36-37 / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42363541-dl-36-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+    <published>2021-06-19T00:41:15-04:00</published>
+    <updated>2021-06-19T00:41:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/flowers-printed-summer-shoes"/>
+    <title>Flowers Printed Summer shoes</title>
+    <s:type>Slipper</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1759569360.jpg?v=1624080388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Slipper<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Type:</strong> Flat with<br><strong>Heel Height:</strong> Flat (≤1cm)<br><strong>With Platforms:</strong> Yes<br><strong>Platform Height:</strong> 3-5cm<br><strong>Style:</strong> Novelty<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fashion Element:</strong> Cross-tied<br><strong>Pattern Type:</strong> floral<br><strong>Season:</strong> Summer<br><strong>Applicable Place:</strong> Indoor</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slipper Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>W / 36 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-w-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>W / 37 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-w-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>W / 38 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-w-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>W / 39 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-w-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>W / 40 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-w-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>WH / 36 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-wh-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>WH / 37 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-wh-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>WH / 38 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-wh-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>WH / 39 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-wh-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>WH / 40 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-wh-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>L / 36 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-l-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>L / 37 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-l-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>L / 38 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-l-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>L / 39 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-l-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>L / 40 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-l-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>C / 36 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-c-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>C / 37 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-c-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>C / 38 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-c-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>C / 39 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-c-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>C / 40 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-c-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>B / 36 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-b-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>B / 37 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-b-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>B / 38 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-b-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>B / 39 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-b-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665999006</id>
+      <title>B / 40 / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>45249734-b-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+    <published>2021-06-19T00:39:46-04:00</published>
+    <updated>2021-06-19T00:39:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/sidewalk-slippers-shoes"/>
+    <title>Sidewalk Slippers shoes</title>
+    <s:type>Slipper</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1768125005.jpg?v=1624080605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Slipper<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Height:</strong> Flat (≤1cm)<br><strong>With Platforms:</strong> Yes<br><strong>Platform Height:</strong> 0-3cm<br><strong>Insole Material:</strong> Hemp<br><strong>Shoes Type:</strong> Slides<br><strong>Fashion Element:</strong> TOTEM<br><strong>Pattern Type:</strong> Print<br><strong>Season:</strong> Summer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slipper Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>C / M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-c-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>C / S / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-c-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>C / XL / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-c-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>C / L / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>E / M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-e-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>E / S / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-e-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>E / XL / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-e-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>E / L / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-e-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>D / M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-d-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>D / S / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-d-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>D / XL / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-d-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>D / L / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-d-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6769665835166</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>45473485-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+    <published>2021-06-18T02:46:58-04:00</published>
+    <updated>2021-06-18T02:46:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/high-quality-women-sneakers"/>
+    <title>High Quality Women Sneakers</title>
+    <s:type>Sneakers</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1781601737.jpg?v=1624000017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sneakers<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shoes Type:</strong> Canvas<br><strong>Fashion Element:</strong> Pleated<br><strong>Pattern Type:</strong> Solid<br><strong>Season:</strong> Summer<br><strong>Closure Type:</strong> Elastic band<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sneakers</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 35 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 36 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 37 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 38 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 39 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 40 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 41 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 42 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Purple / 43 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-purple-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 35 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 36 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 37 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 38 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 39 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 40 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 41 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 42 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Beige / 43 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-beige-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 35 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 36 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 37 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 38 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 39 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 40 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 41 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 42 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Pink / 43 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-pink-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 35 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 36 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 37 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 38 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 39 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 40 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 41 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 42 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Sky Blue / 43 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-sky-blue-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 35 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 36 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 37 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 38 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 39 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 40 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 41 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 42 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>BLACK / 43 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Gray / 35 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-gray-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Gray / 40 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-gray-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Gray / 41 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-gray-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Gray / 42 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-gray-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768317825182</id>
+      <title>Gray / 43 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>45834651-gray-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+    <published>2021-06-18T02:45:28-04:00</published>
+    <updated>2021-06-18T02:45:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/light-walking-white-sneakers"/>
+    <title>Light Walking White Sneakers</title>
+    <s:type>Sneakers</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1779989391.jpg?v=1623998739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sneakers<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shoes Type:</strong> Loafers<br><strong>Season:</strong> Spring/Autumn<br><strong>Item Type:</strong> casual shoes<br><strong>Closure Type:</strong> Lace-up<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sneakers</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 6.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-6-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 7 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 8 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 8.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 9.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 10 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 11 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 12 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>BLACK / 13 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-black-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 6.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-6-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 7 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 8 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 8.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 9.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 10 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 11 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 12 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>White / 13 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-white-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 6.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-6-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 7 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 8 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 8.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 9.5 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 10 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 11 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 12 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768316874910</id>
+      <title>Gray / 13 / United States</title>
+      <s:price currency="USD">31.99</s:price>
+      <s:sku>37015304-gray-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+    <published>2021-06-18T02:43:36-04:00</published>
+    <updated>2021-06-18T02:43:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/running-shoes-sneakers"/>
+    <title>Running Shoes sneakers</title>
+    <s:type>Sneakers</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1778210997.jpg?v=1624000216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sneakers<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shoes Type:</strong> Basic<br><strong>Season:</strong> Spring/Autumn<br><strong>Item Type:</strong> casual shoes<br><strong>Closure Type:</strong> Lace-up<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Occasion:</strong> Casual<br><strong>Fashion Element:</strong> Ankle Strap<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sneakers</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 7 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 7.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-7-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 8 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 8.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 9.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 10 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 11 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 12 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>BLACK / 13 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-black-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 7 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 7.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-7-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 8 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 8.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 9.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 10 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 11 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 12 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>White / 13 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-white-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 7 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 7.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-7-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 8 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 8.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 9.5 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 10 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 11 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 12 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315924638</id>
+      <title>Red / 13 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43591636-red-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+    <published>2021-06-18T02:41:57-04:00</published>
+    <updated>2021-06-18T02:41:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/casual-mens-sneakers"/>
+    <title>Casual Men&apos;s Sneakers</title>
+    <s:type>Sneakers</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1587942444.jpg?v=1624000314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sneakers<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> MEN<br><strong>Sports Type:</strong> LIFESTYLE<br><strong>Function:</strong> Cushioning<br><strong>Level Of Practice:</strong> Beginner<br><strong>Department Name:</strong> Adult<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Height Increasing<br><strong>Feature:</strong> Massage<br><strong>Insole Material:</strong> Rubber<br><strong>Athletic Shoe Type:</strong> Running Shoes<br><strong>Upper Material:</strong> Mesh (Air mesh)<br><strong>Shoe Width:</strong> Medium(B,M)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sneakers</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 4 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 5.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-5-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 6.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-6-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 7 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 8 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 8.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 9.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 10 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 11 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 12 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 13 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>White / 13.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-white-13-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 4 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 5.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-5-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 6.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-6-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 7 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 8 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 8.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 9.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 10 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 11 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 12 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 13 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>Red / 13.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-red-13-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 4 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 5.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-5-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 6.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-6-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 7 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 8 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 8.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-8-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 9.5 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-9-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 10 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 11 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 12 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768315105438</id>
+      <title>BLACK / 13 / United States</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>32940535-black-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+    <published>2021-06-18T02:25:09-04:00</published>
+    <updated>2021-06-18T02:25:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/flats-beach-side-walk-shoes-1"/>
+    <title>Flats Beach  side walk Shoes</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1735068909.jpg?v=1624000463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Height:</strong> High (5cm-8cm)<br><strong>With Platforms:</strong> Yes<br><strong>Platform Height:</strong> 3-5cm<br><strong>Occasion:</strong> Casual<br><strong>Heel Type:</strong> Flat with<br><strong>Side Vamp Type:</strong> Open<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Sandals<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fashion Element:</strong> Shallow<br><strong>Style:</strong> Leisure<br><strong>Pattern Type:</strong> Camouflage</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 35 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 36 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 37 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 38 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 39 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 40 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 41 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 42 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305569950</id>
+      <title>Green / 43 / United States</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44725720-green-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+    <published>2021-06-18T02:24:53-04:00</published>
+    <updated>2021-06-18T02:24:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/sidewalk-summer-sandals"/>
+    <title>Sidewalk summer Sandals</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1749376105.jpg?v=1624000513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Height:</strong> High (5cm-8cm)<br><strong>With Platforms:</strong> No<br><strong>Occasion:</strong> Casual<br><strong>Sandal Type:</strong> Basic<br><strong>Heel Type:</strong> Flat with<br><strong>Lining Material:</strong> PU<br><strong>Side Vamp Type:</strong> Open<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Sandals<br><strong>Closure Type:</strong> Hook &amp; Loop<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fashion Element:</strong> Shallow<br><strong>Style:</strong> Leisure<br><strong>Pattern Type:</strong> Solid<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 38 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 37 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 41 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 39 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 40 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 43 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 42 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 35 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768305209502</id>
+      <title>BLACK / 36 / United States</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>44979867-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+    <published>2021-06-18T02:22:51-04:00</published>
+    <updated>2021-06-18T02:22:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/ladies-summer-clip-toe-shoes"/>
+    <title>Ladies Summer Clip toe Shoes</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1724258176.jpg?v=1624000555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Height:</strong> Low (1cm-3cm)<br><strong>With Platforms:</strong> No<br><strong>Occasion:</strong> Casual<br><strong>Sandal Type:</strong> Basic<br><strong>Heel Type:</strong> Flat with<br><strong>Lining Material:</strong> PU<br><strong>Side Vamp Type:</strong> Open<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Sandals<br><strong>Closure Type:</strong> ZIP<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Back Counter Type:</strong> Cover Heel<br><strong>Fashion Element:</strong> Shallow<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:tag>women sandals</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 39 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 38 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 41 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 43 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 42 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 42 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 35 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 36 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Brown / 37 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-brown-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 40 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 42 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 41 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 43 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-43-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 35 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 36 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 38 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 37 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>Khaki / 39 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-khaki-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 37 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 38 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 40 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 39 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 41 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 36 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-36-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768302981278</id>
+      <title>BLACK / 35 / United States</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>44513716-black-35-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+    <published>2021-06-18T02:16:41-04:00</published>
+    <updated>2021-06-18T02:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/casual-wedges-heels-sandals"/>
+    <title>Casual Wedges heels sandals</title>
+    <s:type>Sandals</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1761685450.jpg?v=1623997018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Sandals<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Height:</strong> Med (3cm-5cm)<br><strong>With Platforms:</strong> No<br><strong>Occasion:</strong> Casual<br><strong>Sandal Type:</strong> Basic<br><strong>Heel Type:</strong> Wedges<br><strong>Lining Material:</strong> PU<br><strong>Side Vamp Type:</strong> Open<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Sandals<br><strong>Closure Type:</strong> ZIP<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fashion Element:</strong> zipper<br><strong>Style:</strong> Fashion<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>BLACK / 38 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-black-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>BLACK / 37 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-black-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Brown / 38 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-brown-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Brown / 37 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-brown-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Brown / 40 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-brown-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Brown / 39 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-brown-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>BLACK / 40 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-black-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>BLACK / 39 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-black-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>BLACK / 42 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-black-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>BLACK / 41 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-black-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Gray / 40 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-gray-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Gray / 39 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-gray-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Gray / 42 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-gray-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Gray / 41 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-gray-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Brown / 42 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-brown-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Brown / 41 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-brown-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Gray / 38 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-gray-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Gray / 37 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-gray-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Wine red / 42 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-wine-red-42-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Wine red / 41 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-wine-red-41-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Wine red / 38 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-wine-red-38-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Wine red / 37 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-wine-red-37-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Wine red / 40 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-wine-red-40-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768298918046</id>
+      <title>Wine red / 39 / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>45307254-wine-red-39-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+    <published>2021-06-18T01:58:35-04:00</published>
+    <updated>2021-06-18T01:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/side-walk-high-heel-shoes"/>
+    <title>Side walk High Heel shoes</title>
+    <s:type>Heel</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1709038008.jpg?v=1623995960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Heel<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pump Type:</strong> Basic<br><strong>Heel Type:</strong> Thin Heels<br><strong>Upper Material:</strong> PU<br><strong>Toe Shape:</strong> Pointed Toe<br><strong>Heel Height:</strong> Super High (8cm-up)<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Style:</strong> sexy<br><strong>is_handmade:</strong> Yes<br><strong>Fashion Element:</strong> Shallow<br><strong>Occasion:</strong> Party<br><strong>Season:</strong> Spring/Autumn<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Pumps<br><strong>Heel:</strong> 12cm<br><strong>Platform:</strong> 0.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heel Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 7 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 6 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 7 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 6 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 12 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 11 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 10 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 9 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Black Heels / 8 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-black-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 7 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 6 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 12 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 11 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 10 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 9 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Silver Heels / 8 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-silver-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 7 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 6 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 12 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 11 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 10 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 9 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>White Heels / 8 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-white-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 12 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 11 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 10 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 9 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>Nude Heels / 8 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-nude-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>All black heels / 5 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-all-black-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768289317022</id>
+      <title>All black heels / 7 / United States</title>
+      <s:price currency="USD">41.99</s:price>
+      <s:sku>1467186-all-black-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+    <published>2021-06-18T01:55:31-04:00</published>
+    <updated>2021-06-18T01:55:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/black-high-heels-shoes"/>
+    <title>Black High Heels Shoes</title>
+    <s:type>Heel</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1556529396.jpg?v=1624001572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Heel<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pump Type:</strong> Basic<br><strong>Heel Type:</strong> Thin Heels<br><strong>Upper Material:</strong> Patent Leather<br><strong>Toe Shape:</strong> Pointed Toe<br><strong>Heel Height:</strong> Super High (8cm-up)<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Style:</strong> Fashion<br><strong>is_handmade:</strong> Yes<br><strong>Fashion Element:</strong> Shallow<br><strong>Insole Material:</strong> PU<br><strong>Occasion:</strong> Wedding<br><strong>Lining Material:</strong> PU<br><strong>Season:</strong> Spring/Autumn<br><strong>Outsole Material:</strong> Rubber<br><strong>Item Type:</strong> Pumps<br><strong>Closure Type:</strong> Slip-On<br><strong>With Platforms:</strong> Yes<br><strong>Platform Height:</strong> 0-3cm<br><strong>Gender:</strong> WOMEN<br><strong>Heel Height:</strong> 12cm<br><strong>Color:</strong> Black,White,Red,Nude<br><strong>women's heels:</strong> sexy pumps high heels<br><strong>Black High Heels:</strong> White Heels<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heel Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 5 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>White Heels / 10 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-white-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 8 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 9 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 6 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 7 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 12 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 10 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Nude Heels / 11 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-nude-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 12 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 5 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 10 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 11 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 8 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 9 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 6 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 7 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 12 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>White Heels / 5 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-white-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 10 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Red Heels / 11 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-red-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>White Heels / 8 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-white-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>White Heels / 9 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-white-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>White Heels / 6 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-white-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>White Heels / 7 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-white-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 5 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 8 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 9 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 6 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768286990494</id>
+      <title>Black Heels / 7 / United States</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31238868-black-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+    <published>2021-06-18T01:53:21-04:00</published>
+    <updated>2021-06-18T01:53:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/leopard-pointed-heel-shoes"/>
+    <title>Leopard Pointed Heel shoes</title>
+    <s:type>Heel</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1332105670.jpg?v=1624001489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Heel<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Women<br><strong>Heel Height:</strong> 10CM/12CM<br><strong>Fashion Element:</strong> Shallow<br><strong>Outsole Material:</strong> Rubber<br><strong>Pump Type:</strong> Basic<br><strong>Season:</strong> Spring/Autumn<br><strong>Heel Height:</strong> Super High (8cm-up)<br><strong>Occasion:</strong> Party<br><strong>is_handmade:</strong> Yes<br><strong>Closure Type:</strong> Slip-On<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Classics</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heel Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 6 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 7 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 9 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 10 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 11 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 12 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 6 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 7 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 8 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 9 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 10 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 11 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 12 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 5 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 6 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 7 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 8 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 9 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 10 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 11 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 10cm / 12 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-10cm-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>PU 12cm / 5 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-pu-12cm-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 5 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 6 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 7 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 8 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 9 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 10 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 11 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 10cm / 12 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-10cm-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768284827806</id>
+      <title>Flock 12cm / 5 / United States</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>22139103-flock-12cm-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+    <published>2021-06-18T01:51:26-04:00</published>
+    <updated>2021-06-18T01:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://sidewalk-shoes.myshopify.com/products/lady-white-heels-shoes"/>
+    <title>Lady White Heels Shoes</title>
+    <s:type>Heel</s:type>
+    <s:vendor>Sidewalk Shoes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0513/0590/6334/products/product-image-1464099945.jpg?v=1624001637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sidewalk Shoes<br>
+        <strong>Type: </strong>Heel<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heel Type:</strong> Thin Heels<br><strong>Heel Height:</strong> Super High (8cm-up)<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Style:</strong> Classics<br><strong>Fashion Element:</strong> Shallow<br><strong>Insole Material:</strong> Rubber<br><strong>Occasion:</strong> Wedding</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heel Shoes</s:tag>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 5 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 6 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 7 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 9 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 10 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 11 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>12cm heels / 12 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-12cm-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 5 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 6 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 7 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 8 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 9 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 10 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 11 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://sidewalk-shoes.myshopify.com/products/6768283648158</id>
+      <title>10cm heels / 12 / United States</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>16252654-10cm-heels-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

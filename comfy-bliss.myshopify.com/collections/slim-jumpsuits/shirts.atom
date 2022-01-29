@@ -1,0 +1,4078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://comfy-bliss.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://comfy-bliss.myshopify.com/collections/slim-jumpsuits.atom"/>
+  <title>Comfy bliss</title>
+  <updated>2021-04-28T13:33:36+05:00</updated>
+  <author>
+    <name>Comfy bliss</name>
+  </author>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+    <published>2021-04-28T13:33:36+05:00</published>
+    <updated>2021-04-28T13:33:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/long-sleeve-shirt"/>
+    <title>Long Sleeve Shirt</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1594106089.jpg?v=1619598829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            29.06 - 31.70
+            <a href="https://comfy-bliss.myshopify.com/products/long-sleeve-shirt">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Decoration:</strong> NONE<br><strong>Pattern Type:</strong> Solid<br><strong>Fit Type:</strong> Skinny<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Cotton<br><strong>Style:</strong> Casual<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Fabric Type:</strong> Chiffon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:tag>shirts</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>S / Wine</title>
+      <s:price currency="USD">29.76</s:price>
+      <s:sku>41123643-s-united-states-wine</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>L / Gray</title>
+      <s:price currency="USD">29.40</s:price>
+      <s:sku>41123643-l-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>L / Khaki</title>
+      <s:price currency="USD">30.48</s:price>
+      <s:sku>41123643-l-united-states-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>L / Wine</title>
+      <s:price currency="USD">31.70</s:price>
+      <s:sku>41123643-l-united-states-wine</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>S / Black</title>
+      <s:price currency="USD">29.76</s:price>
+      <s:sku>41123643-s-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>S / Gray</title>
+      <s:price currency="USD">29.76</s:price>
+      <s:sku>41123643-s-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>S / Khaki</title>
+      <s:price currency="USD">29.76</s:price>
+      <s:sku>41123643-s-united-states-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>M / Black</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>41123643-m-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>M / Gray</title>
+      <s:price currency="USD">29.06</s:price>
+      <s:sku>41123643-m-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>XL / Wine</title>
+      <s:price currency="USD">29.74</s:price>
+      <s:sku>41123643-xl-united-states-wine</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>XL / Gray</title>
+      <s:price currency="USD">29.74</s:price>
+      <s:sku>41123643-xl-united-states-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>XL / Khaki</title>
+      <s:price currency="USD">29.74</s:price>
+      <s:sku>41123643-xl-united-states-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">29.74</s:price>
+      <s:sku>41123643-xl-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>L / Black</title>
+      <s:price currency="USD">29.40</s:price>
+      <s:sku>41123643-l-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>M / Wine</title>
+      <s:price currency="USD">31.02</s:price>
+      <s:sku>41123643-m-united-states-wine</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623884411076</id>
+      <title>M / Khaki</title>
+      <s:price currency="USD">30.88</s:price>
+      <s:sku>41123643-m-united-states-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+    <published>2021-04-28T13:30:44+05:00</published>
+    <updated>2021-04-28T13:30:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/folding-push-up-fitness-jumpsuit"/>
+    <title>Folding Push Up Fitness Jumpsuit</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1385997093.jpg?v=1619598664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            30.74 - 34.84
+            <a href="https://comfy-bliss.myshopify.com/products/folding-push-up-fitness-jumpsuit">(51 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> Print<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Style:</strong> Casual<br><strong>Decoration:</strong> NONE<br><strong>Gender:</strong> WOMEN<br><strong>Fabric content:</strong> 81% (inclusive) - 90% (inclusive)<br><strong>Pattern:</strong> Pencil Pants<br><strong>Fit Type:</strong> Skinny<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Length:</strong> Full Length<br><strong>Item Type:</strong> Jumpsuits<br><strong>Thickness:</strong> STANDARD<br><strong>Release Date:</strong> Summer 2021<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Type:</strong> Jumpsuits<br><strong>Pant Length(cm):</strong> Full Length<br><strong>Waist Type:</strong> HIGH<br><strong>Indoor sport:</strong> sport at home<br><strong>Yoga pants:</strong> Yoga leggings<br><strong>Women sportwears:</strong> Women jumpsuits</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:tag>suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 3806Pink</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-xl-united-states-3806pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 3805LightYellow</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-s-united-states-3805lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1379Purple</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1379purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 3805LightYellow</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-l-united-states-3805lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 3805LightYellow</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-m-united-states-3805lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 3806Pink</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-s-united-states-3806pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 3805LightYellow</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-xl-united-states-3805lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 3806Pink</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-l-united-states-3806pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 3806Pink</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-m-united-states-3806pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1378Blue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1378blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 3803Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-xl-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 1378Blue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-l-united-states-1378blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 1378Blue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-m-united-states-1378blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1379Purple</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1379purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1378Blue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1378blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 1379Purple</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-l-united-states-1379purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 1379Purple</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-m-united-states-1379purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 3802Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-s-united-states-3802purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1374Red</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 3802Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-l-united-states-3802purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 3802Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-m-united-states-3802purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 3803Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-s-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 3802Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-xl-united-states-3802purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 3803Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-l-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 3803Purple</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-m-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1373LightYellow</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1373lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1371Pink</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1371pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 1373LightYellow</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-l-united-states-1373lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 1373LightYellow</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-m-united-states-1373lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1374Red</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1373LightYellow</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1373lightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 1374Red</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-l-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 1374Red</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-m-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1376SkyBlue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 3801NavyBlue</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-xl-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 1376SkyBlue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-l-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 1376SkyBlue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-m-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1371Pink</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1371pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1376SkyBlue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 1371Pink</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-l-united-states-1371pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 1371Pink</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-m-united-states-1371pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 3800Black</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-s-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 1377Darkblue</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-1377darkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 3800Black</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-l-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 3800Black</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-m-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 3801NavyBlue</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-s-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 3800Black</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-xl-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>L / 3801NavyBlue</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-l-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>M / 3801NavyBlue</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>24903617-m-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>S / 1370Black</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-s-united-states-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883854020</id>
+      <title>XL / 4130Winered</title>
+      <s:price currency="USD">34.84</s:price>
+      <s:sku>24903617-xl-united-states-4130winered</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+    <published>2021-04-28T13:29:39+05:00</published>
+    <updated>2021-04-28T13:29:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/slimming-underwear"/>
+    <title>Slimming Underwear</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1553556496.jpg?v=1619671002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Material:</strong> Spandex<br><strong>Item Type:</strong> Shapers<br><strong>Thickness:</strong> STANDARD<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Control Level:</strong> Medium<br><strong>Gender:</strong> WOMEN<br><strong>Decoration:</strong> None<br><strong>Shapewear:</strong> Bodysuits</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:tag>suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>A / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>A / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>B / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>B / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-b-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>A / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-a-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>B / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>D / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-d-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>E / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-e-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>C / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-c-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>E / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-e-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>E / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-e-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>C / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>C / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-c-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>D / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-d-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>D / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-d-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>F / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-f-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>F / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-f-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>F / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-f-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>G / XXL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-g-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>G / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-g-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883460804</id>
+      <title>G / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>11740883-g-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623883165892</id>
+    <published>2021-04-28T13:28:36+05:00</published>
+    <updated>2021-04-28T13:28:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/print-off-shoulder-jumpsuits"/>
+    <title>Print Off Shoulder Jumpsuits</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1486295720.jpg?v=1619598522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            27.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> Jumpsuits<br><strong>Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Style:</strong> vintage<br><strong>Pattern Type:</strong> Print<br><strong>Fit Type:</strong> Regular<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Decoration:</strong> NONE</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:tag>suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883165892</id>
+      <title>S</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>38988014-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883165892</id>
+      <title>M</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>38988014-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883165892</id>
+      <title>L</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>38988014-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883165892</id>
+      <title>XL</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>38988014-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+    <published>2021-04-28T13:28:01+05:00</published>
+    <updated>2021-04-28T13:28:01+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/underwear-backless-jumpsuits"/>
+    <title>Underwear Backless Jumpsuits</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1631726405.jpg?v=1619598487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Decoration:</strong> NONE<br><strong>Pattern Type:</strong> Solid<br><strong>Fit Type:</strong> Skinny<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Beach Style<br><strong>Age:</strong> Ages 16-28 Years Old<br><strong>Fabric Type:</strong> Broadcloth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Jumpsuits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+      <title>S / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41954257-s-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+      <title>L / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41954257-l-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41954257-xl-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+      <title>XXXL / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41954257-xxxl-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+      <title>M / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41954257-m-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623883034820</id>
+      <title>XXL / Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>41954257-xxl-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+    <published>2021-04-28T13:26:19+05:00</published>
+    <updated>2021-04-28T13:26:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/2021-new-long-sleeve-women-sexy-bodysuit-kardashian-button-down-functional-buttoned-flap-adults-jumpsuit-%D0%B1%D0%BE%D0%B4%D0%B8-%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5-%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BD%D0%BE%D0%B5"/>
+    <title>Long sleeve women Jumpsuit</title>
+    <s:type></s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1711638421.jpg?v=1619598401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.88 - 33.72
+            <a href="https://comfy-bliss.myshopify.com/products/2021-new-long-sleeve-women-sexy-bodysuit-kardashian-button-down-functional-buttoned-flap-adults-jumpsuit-%D0%B1%D0%BE%D0%B4%D0%B8-%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5-%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%B2%D0%BD%D0%BE%D0%B5">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> Cotton</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Length:</strong> Full Length</span><br><span><strong>Style:</strong> Sexy &amp; Club</span><br><span><strong>Pattern Type:</strong> Print</span><br><span><strong>Fit Type:</strong> Regular</span><br><span><strong>Age:</strong> Ages 18-35 Years Old</span><br><span><strong>Decoration:</strong> NONE</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Sleeve Style:</strong> Regular</span><br><span><strong>Sleeve Length(cm):</strong> Full</span><br><span><strong>Decoration:</strong> NONE</span><br><span><strong>Season:</strong> AUTUMN</span><br><span><strong>Pattern Type:</strong> Print</span><br><span><strong>Gender:</strong> WOMEN</span><br><span><strong>Style 1:</strong> sexy onesie</span><br><span><strong>Style 2:</strong> onesies for adults</span><br><span><strong>Style 3:</strong> sexy sleepwear pajama</span><br><span><strong>Style 4:</strong> women pajamas one piece</span><br><span><strong>Style 5:</strong> sexy sleepwear jumpsuit</span><br><span><strong>Style 6:</strong> onesies for adults women</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">33.72</s:price>
+      <s:sku>44164216-white-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>White / XL</title>
+      <s:price currency="USD">32.98</s:price>
+      <s:sku>44164216-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">33.36</s:price>
+      <s:sku>44164216-white-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>White / L</title>
+      <s:price currency="USD">32.62</s:price>
+      <s:sku>44164216-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>White / M</title>
+      <s:price currency="USD">32.26</s:price>
+      <s:sku>44164216-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>White / S</title>
+      <s:price currency="USD">31.88</s:price>
+      <s:sku>44164216-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Red / XXXL</title>
+      <s:price currency="USD">33.72</s:price>
+      <s:sku>44164216-red-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">33.36</s:price>
+      <s:sku>44164216-red-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">32.98</s:price>
+      <s:sku>44164216-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Red / M</title>
+      <s:price currency="USD">32.26</s:price>
+      <s:sku>44164216-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Red / L</title>
+      <s:price currency="USD">32.62</s:price>
+      <s:sku>44164216-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Red / S</title>
+      <s:price currency="USD">31.88</s:price>
+      <s:sku>44164216-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Multicolor / XXXL</title>
+      <s:price currency="USD">33.72</s:price>
+      <s:sku>44164216-multicolor-xxxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882576068</id>
+      <title>Multicolor / XXL</title>
+      <s:price currency="USD">33.36</s:price>
+      <s:sku>44164216-multicolor-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882510532</id>
+    <published>2021-04-28T13:26:14+05:00</published>
+    <updated>2021-04-28T13:26:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/wave-dot-print-streetwear-jumpsuit"/>
+    <title>Wave Dot Print streetwear jumpsuit</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1359098499.jpg?v=1619598379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> Playsuits<br><strong>Fabric Type:</strong> Chiffon<br><strong>Style:</strong> Sweet<br><strong>Pattern Type:</strong> Print<br><strong>Fit Type:</strong> LOOSE<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Decoration:</strong> Lace Up<br><strong>women jumpsuit:</strong> women jumpsuit<br><strong>sexy jumpsuit:</strong> sexy jumpsuit<br><strong>jumpsuit women:</strong> jumpsuit women<br><strong>jumpsuit:</strong> jumpsuit<br><strong>playsuit women :</strong> playsuit women <br><strong>jumpsuit summer:</strong> jumpsuit summer<br><strong>rompers womens jumpsuit:</strong> rompers womens jumpsuit<br><strong>women sexy jumpsuits:</strong> women sexy jumpsuits<br><strong>women jumpsuit long:</strong> women jumpsuit long<br><strong>playsuit:</strong> playsuit<br><strong>Bodysuit :</strong> Bodysuit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:tag>suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882510532</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35733567-khaki-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882510532</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35733567-khaki-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882510532</id>
+      <title>Khaki / S</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35733567-khaki-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+    <published>2021-04-28T13:26:09+05:00</published>
+    <updated>2021-04-28T13:26:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/erotic-female-mock-neck-bodysuit"/>
+    <title>Erotic female Mock Neck bodysuit</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1651415031.jpg?v=1619598390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Type:</strong> Bodysuits<br><strong>Fabric Type:</strong> Batik<br><strong>Style:</strong> Casual<br><strong>Pattern Type:</strong> Solid<br><strong>Fit Type:</strong> Skinny<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Decoration:</strong> NONE<br><strong>Material:</strong> Polyester<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Decoration:</strong> NONE<br><strong>Season:</strong> AUTUMN<br><strong>Pattern Type:</strong> Print<br><strong>Gender:</strong> WOMEN<br><strong>Style 1:</strong> sexy onesie<br><strong>Style 2:</strong> onesies for adults<br><strong>Style 3:</strong> sexy sleepwear pajama<br><strong>Style 4:</strong> Pyjamas Onesies<br><strong>Style 5:</strong> women pajamas one piece<br><strong>Style 6:</strong> sexy sleepwear jumpsuit<br><strong>Style 7:</strong> bijama women<br><strong>Style 8:</strong> onsie women<br><strong>Style 9:</strong> kigurumi<br><strong>Style 10:</strong> plus size sleepwear<br><strong>Style 11:</strong> onesies for adults women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:tag>suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>White / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-white-xl-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Burgundy / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-burgundy-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>White / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-white-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>White / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-white-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Burgundy / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-burgundy-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Burgundy / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-burgundy-xl-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Burgundy / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-burgundy-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-pink-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-pink-xl-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-pink-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-pink-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Purple / XL</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-purple-xl-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-purple-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882477764</id>
+      <title>White / S</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>42488435-white-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882444996</id>
+    <published>2021-04-28T13:26:06+05:00</published>
+    <updated>2021-04-28T13:26:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/summer-fashion-printed-jumpsuits"/>
+    <title>Summer Fashion Printed Jumpsuits</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-886733468.jpg?v=1619598372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Jumpsuits<br><strong>Length:</strong> Full Length<br><strong>Style:</strong> Casual<br><strong>Fit Type:</strong> LOOSE<br><strong>Pattern Type:</strong> Print<br><strong>Decoration:</strong> NONE<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Gender:</strong> WOMEN<br><strong>Item Type:</strong> Jumpsuits &amp; Rompers<br><strong>Material:</strong> jumpsuit<br><strong>Style:</strong> jumpsuit sexy<br><strong>Fabric Type:</strong> jumpsuit girl<br><strong>Decoration:</strong> jumpsuit women<br><strong>Type:</strong> jumpsuit costume<br><strong>Fit Type:</strong> jumpsuits for women 2018<br><strong>Pattern Type:</strong> pants<br><strong>Season:</strong> jumpsuit women winter<br><strong>Gender:</strong> drop shipping</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882444996</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23115159-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882444996</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23115159-blue-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882444996</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23115159-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882444996</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23115159-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882444996</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23115159-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+    <published>2021-04-28T13:26:03+05:00</published>
+    <updated>2021-04-28T13:26:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/backcross-short-jumpsuits"/>
+    <title>Backcross Short Jumpsuits</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1680790018.jpg?v=1619601288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            30.54 - 35.18
+            <a href="https://comfy-bliss.myshopify.com/products/backcross-short-jumpsuits">(64 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Casual<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Decoration:</strong> Tie flowers<br><strong>Pattern:</strong> Pencil Pants<br><strong>Fit Type:</strong> Skinny<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Waist:</strong> High Waist<br><strong>Item Type:</strong> Rompers&amp;Playsuits<br><strong>Release Date:</strong> Summer 2020<br><strong>Thickness:</strong> STANDARD<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pant Length(cm):</strong> Knee Length<br><strong>Type:</strong> Playsuits<br><strong>Gender:</strong> WOMEN<br><strong>Fabric content:</strong> 30% and below</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsPink</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortspink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsPink</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortspink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsPink</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortspink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsPink</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortspink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsPurple</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortspurple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsPurple</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortspurple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsPurple</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortspurple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsPurple</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortspurple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongRed</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongRed</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongSkyBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longskyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongSkyBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longskyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongRed</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongRed</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsBlack</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortsblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsBlack</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortsblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsBlack</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortsblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsBlack</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortsblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongPink</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongPink</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongPink</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongPink</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongGray</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longgray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongGray</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longgray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongGray</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longgray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongGray</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longgray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongSkyBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longskyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongSkyBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longskyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongYellow</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongDarkBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longdarkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongDarkBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longdarkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongDarkBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longdarkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsYellow</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortsyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongDarkBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longdarkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongGreen</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longgreen</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongGreen</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longgreen</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongGreen</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longgreen</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongBlue</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongYellow</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongYellow</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongYellow</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongGreen</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longgreen</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / LongBlack</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-l-united-states-longblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / LongBlack</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-m-united-states-longblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / LongBlack</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-s-united-states-longblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsNavyblue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortsnavyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsNavyblue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortsnavyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsNavyblue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortsnavyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / LongBlack</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>41581373-xl-united-states-longblack</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsBlue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortsblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsBlue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortsblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsBlue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortsblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsNavyblue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortsnavyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsYellow</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortsyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsYellow</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortsyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsYellow</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortsyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsBlue</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortsblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>S / ShortsRed</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-s-united-states-shortsred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>M / ShortsRed</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-m-united-states-shortsred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>L / ShortsRed</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-l-united-states-shortsred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882412228</id>
+      <title>XL / ShortsRed</title>
+      <s:price currency="USD">30.54</s:price>
+      <s:sku>41581373-xl-united-states-shortsred</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882379460</id>
+    <published>2021-04-28T13:26:00+05:00</published>
+    <updated>2021-04-28T13:26:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/leopard-print-sleeveless-jumpsuit"/>
+    <title>Leopard Print Sleeveless jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-900340007.jpg?v=1619673471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> Playsuits<br><strong>Style:</strong> Casual<br><strong>Fit Type:</strong> LOOSE<br><strong>Pattern Type:</strong> Leopard<br><strong>Decoration:</strong> Sashes<br><strong>Gender:</strong> WOMEN<br><strong>Item Type:</strong> Jumpsuits &amp; Rompers<br><strong>Material:</strong> jumpsuit<br><strong>Style:</strong> jumpsuit sexy<br><strong>Fabric Type:</strong> jumpsuit girl<br><strong>Decoration:</strong> jumpsuit women<br><strong>Type:</strong> jumpsuit costume<br><strong>Pattern Type:</strong> pants<br><strong>Season:</strong> jumpsuit women winter<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuit</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882379460</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23666029-brown-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882379460</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23666029-brown-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882379460</id>
+      <title>Brown / S</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23666029-brown-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882379460</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>23666029-brown-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+    <published>2021-04-28T13:25:56+05:00</published>
+    <updated>2021-04-28T13:25:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/high-collar-tie-party-jumpsuit"/>
+    <title>High Collar Tie party Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1359059951.jpg?v=1619598362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> Jumpsuits<br><strong>Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Style:</strong> STREETWEAR<br><strong>Pattern Type:</strong> Solid<br><strong>Fit Type:</strong> Regular<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Decoration:</strong> Sashes<br><strong>women jumpsuit:</strong> women jumpsuit<br><strong>sexy jumpsuit:</strong> sexy jumpsuit<br><strong>jumpsuit women:</strong> jumpsuit women<br><strong>jumpsuit:</strong> jumpsuit<br><strong>playsuit women :</strong> playsuit women <br><strong>jumpsuit summer:</strong> jumpsuit summer<br><strong>rompers womens jumpsuit:</strong> rompers womens jumpsuit<br><strong>women sexy jumpsuits:</strong> women sexy jumpsuits<br><strong>women jumpsuit long:</strong> women jumpsuit long<br><strong>playsuit:</strong> playsuit<br><strong>Bodysuit :</strong> Bodysuit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuit</s:tag>
+    <s:tag>party suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / XL / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / L / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / S / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / S / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>White / XL / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882346692</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>35732672-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+    <published>2021-04-28T13:25:47+05:00</published>
+    <updated>2021-04-28T13:25:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/sexy-v-neck-short-sleeve-jumpsuit"/>
+    <title>Sexy V-Neck Short Sleeve Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1467195617.jpg?v=1619598371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            15.16 - 33.78
+            <a href="https://comfy-bliss.myshopify.com/products/sexy-v-neck-short-sleeve-jumpsuit">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> Playsuits<br><strong>Item Type:</strong> Jumpsuits &amp; Rompers<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Casual<br><strong>Pattern Type:</strong> Print<br><strong>Fit Type:</strong> Skinny<br><strong>Decoration:</strong> Button</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuit</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / S / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-r-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / S / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-r-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / XXL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-q-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / XXL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-q-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / XL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-q-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / XL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-q-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / L / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-q-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / L / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-q-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / XXL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-r-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / XXL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-r-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / XL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-r-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / XL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-r-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / L / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-r-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / L / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-r-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / M / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-r-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>R / M / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-r-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / L / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-p-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / L / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-p-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / M / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-p-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / M / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-p-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / S / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-p-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / S / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-p-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>O / XXL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-o-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>O / XXL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-o-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / M / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-q-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / M / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-q-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / S / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-q-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>Q / S / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-q-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / XXL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-p-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / XXL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-p-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / XL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-p-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>P / XL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-p-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / XL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-s-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / XL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-s-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / L / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-s-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / L / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-s-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / M / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-s-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / M / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-s-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / S / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-s-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / S / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-s-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / XXL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-s-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>S / XXL / United States</title>
+      <s:price currency="USD">30.74</s:price>
+      <s:sku>38489082-s-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / XXL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-a-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / XXL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-a-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / XXL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-b-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / XXL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-b-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / XL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-b-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / XL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / M / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-e-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / M / United States</title>
+      <s:price currency="USD">31.18</s:price>
+      <s:sku>38489082-e-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / S / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-e-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / S / United States</title>
+      <s:price currency="USD">31.18</s:price>
+      <s:sku>38489082-e-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / XXL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-d-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / XXL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-d-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / XL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-d-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / XL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-d-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>F / S / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-f-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>F / S / United States</title>
+      <s:price currency="USD">31.18</s:price>
+      <s:sku>38489082-f-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / XXL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-e-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / XXL / United States</title>
+      <s:price currency="USD">31.18</s:price>
+      <s:sku>38489082-e-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / XL / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-e-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / XL / United States</title>
+      <s:price currency="USD">31.18</s:price>
+      <s:sku>38489082-e-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / L / China</title>
+      <s:price currency="USD">15.84</s:price>
+      <s:sku>38489082-e-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>E / L / United States</title>
+      <s:price currency="USD">31.18</s:price>
+      <s:sku>38489082-e-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / XL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-c-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / XL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-c-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / L / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-c-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / L / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / M / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-c-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / M / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-c-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / S / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-c-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / S / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-c-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / L / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-d-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / L / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-d-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / M / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-d-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / M / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-d-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / S / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-d-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>D / S / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-d-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / XXL / China</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>38489082-c-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>C / XXL / United States</title>
+      <s:price currency="USD">29.90</s:price>
+      <s:sku>38489082-c-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>H / L / China</title>
+      <s:price currency="USD">17.18</s:price>
+      <s:sku>38489082-h-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>H / L / United States</title>
+      <s:price currency="USD">33.78</s:price>
+      <s:sku>38489082-h-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>H / M / China</title>
+      <s:price currency="USD">17.18</s:price>
+      <s:sku>38489082-h-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>H / M / United States</title>
+      <s:price currency="USD">33.78</s:price>
+      <s:sku>38489082-h-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>H / S / China</title>
+      <s:price currency="USD">17.18</s:price>
+      <s:sku>38489082-h-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623882248388</id>
+      <title>H / S / United States</title>
+      <s:price currency="USD">33.78</s:price>
+      <s:sku>38489082-h-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+    <published>2021-04-28T13:24:17+05:00</published>
+    <updated>2021-04-28T13:24:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/backless-tights-leggings-jumpsuits"/>
+    <title>Backless Tights Leggings Jumpsuits</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1670382809.jpg?v=1619598275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            11.24 - 35.98
+            <a href="https://comfy-bliss.myshopify.com/products/backless-tights-leggings-jumpsuits">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> Solid<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Style:</strong> Casual<br><strong>Decoration:</strong> Hollow Out<br><strong>Gender:</strong> WOMEN<br><strong>Fabric content:</strong> 81% (inclusive) - 90% (inclusive)<br><strong>Pattern:</strong> Straight<br><strong>Fit Type:</strong> Regular<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Length:</strong> Full Length<br><strong>Item Type:</strong> Jumpsuits<br><strong>Thickness:</strong> STANDARD<br><strong>Release Date:</strong> Summer 2021<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Type:</strong> Jumpsuits<br><strong>Pant Length(cm):</strong> Full Length<br><strong>Waist Type:</strong> HIGH<br><strong>Yoga Bodysuit Ladies:</strong> Yoga Bodysuit Gym<br><strong>Bodysuit Women Top Fashion:</strong> Bodysuits For Women 2021<br><strong>Jumpsuit Women Summer 2021:</strong> Bodysuits Women Clothes<br><strong>Yoga Leggings:</strong> Women tights<br><strong>Sport at home:</strong> Indoor sport<br><strong>Yoga tracksuit:</strong> Outdoor at home</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumpsuit</s:tag>
+    <s:tag>suits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3805BrightYellow</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3805BrightYellow</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3805BrightYellow</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3805BrightYellow</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3805BrightYellow</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-s-china-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3805BrightYellow</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3802Red</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3802Red</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3802Red</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3802Red</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3805BrightYellow</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3805BrightYellow</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3805brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3802Red</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-s-china-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3802Red</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 1373BrightYellow</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-m-china-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 1373BrightYellow</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-m-united-states-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 1373BrightYellow</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-l-china-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 1373BrightYellow</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-l-united-states-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3802Red</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3802Red</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3802red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 1373BrightYellow</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-s-china-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 1373BrightYellow</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-s-united-states-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3800Black</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3800Black</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3800Black</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3800Black</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 1373BrightYellow</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-xl-china-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 1373BrightYellow</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-xl-united-states-1373brightyellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3800Black</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-s-china-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3800Black</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 1370Black</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-m-china-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 1370Black</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-m-united-states-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 1370Black</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-l-china-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 1370Black</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-l-united-states-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3800Black</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3800Black</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3800black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 1370Black</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-s-china-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 1370Black</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-s-united-states-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 1374Red</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-m-china-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 1374Red</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-m-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 1374Red</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-l-china-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 1374Red</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-l-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 1370Black</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-xl-china-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 1370Black</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-xl-united-states-1370black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 1374Red</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-s-china-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 1374Red</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-s-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 1375Gray</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-m-china-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 1375Gray</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-m-united-states-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 1375Gray</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-l-china-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 1375Gray</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-l-united-states-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 1374Red</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-xl-china-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 1374Red</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-xl-united-states-1374red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 1375Gray</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-s-china-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 1375Gray</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-s-united-states-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3806BrightPink</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3806BrightPink</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3806BrightPink</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3806BrightPink</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 1375Gray</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-xl-china-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 1375Gray</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-xl-united-states-1375gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3806BrightPink</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-s-china-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3806BrightPink</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3801Navyblue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3801Navyblue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3801Navyblue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3801Navyblue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3806BrightPink</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3806BrightPink</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3806brightpink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3801Navyblue</title>
+      <s:price currency="USD">11.24</s:price>
+      <s:sku>43027715-s-china-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3801Navyblue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3803Purple</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3803Purple</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3803Purple</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3803Purple</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3801Navyblue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3801Navyblue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3801navyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3803Purple</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-s-china-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3803Purple</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 3804Blue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-m-china-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 3804Blue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-m-united-states-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 3804Blue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-l-china-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 3804Blue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-l-united-states-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3803Purple</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3803Purple</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3803purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 3804Blue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-s-china-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 3804Blue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-s-united-states-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 1376SkyBlue</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-m-china-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 1376SkyBlue</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-m-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 1376SkyBlue</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-l-china-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 1376SkyBlue</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-l-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 3804Blue</title>
+      <s:price currency="USD">16.86</s:price>
+      <s:sku>43027715-xl-china-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 3804Blue</title>
+      <s:price currency="USD">31.48</s:price>
+      <s:sku>43027715-xl-united-states-3804blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / China / 1376SkyBlue</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-s-china-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>S / United States / 1376SkyBlue</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-s-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / China / 1377DarkBlue</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-m-china-1377darkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>M / United States / 1377DarkBlue</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-m-united-states-1377darkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / China / 1377DarkBlue</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-l-china-1377darkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>L / United States / 1377DarkBlue</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-l-united-states-1377darkblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / China / 1376SkyBlue</title>
+      <s:price currency="USD">20.24</s:price>
+      <s:sku>43027715-xl-china-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623881724100</id>
+      <title>XL / United States / 1376SkyBlue</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>43027715-xl-united-states-1376skyblue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+    <published>2021-04-28T13:15:24+05:00</published>
+    <updated>2021-04-28T13:15:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/women-fashion-wide-leg-jumpsuits"/>
+    <title>Women Fashion Wide Leg Jumpsuits</title>
+    <s:type>Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1630483106.jpg?v=1619683357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Jumpsuits<br>
+        <strong>Price: </strong>
+            11.68 - 17.62
+            <a href="https://comfy-bliss.myshopify.com/products/women-fashion-wide-leg-jumpsuits">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Type:</strong> Jumpsuits<br><strong>Length:</strong> Full Length<br><strong>Style:</strong> Casual<br><strong>Fit Type:</strong> Straight<br><strong>Pattern Type:</strong> Solid<br><strong>Decoration:</strong> Sashes<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Place Of Origin:</strong> China (Mainland)<br><strong>Gender:</strong> WOMEN<br><strong>Item Type:</strong> Jumpsuits &amp; Rompers<br><strong>Material:</strong> jumpsuit<br><strong>Style:</strong> jumpsuit sexy<br><strong>Fabric Type:</strong> jumpsuit girl<br><strong>Decoration:</strong> jumpsuit women<br><strong>Type:</strong> jumpsuit costume<br><strong>Pattern Type:</strong> pants<br><strong>Season:</strong> jumpsuit women winter<br><strong>Gender:</strong> drop shipping</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Jumpsuits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">11.68</s:price>
+      <s:sku>32693127-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>32693127-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">11.68</s:price>
+      <s:sku>32693127-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>32693127-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>32693127-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">11.68</s:price>
+      <s:sku>32693127-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">11.68</s:price>
+      <s:sku>32693127-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623875563716</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>32693127-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+    <published>2021-04-28T13:14:16+05:00</published>
+    <updated>2021-04-28T13:14:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://comfy-bliss.myshopify.com/products/long-sleeved-jumpsuit-top"/>
+    <title>Long Sleeved Jumpsuit Top</title>
+    <s:type>Slim Jumpsuits</s:type>
+    <s:vendor>Comfy bliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0564/3458/9892/products/product-image-1634525181.jpg?v=1619597668"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Comfy bliss<br>
+        <strong>Type: </strong>Slim Jumpsuits<br>
+        <strong>Price: </strong>
+            24.38 - 24.98
+            <a href="https://comfy-bliss.myshopify.com/products/long-sleeved-jumpsuit-top">(84 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Silk<br><strong>Material:</strong> Polyester<br><strong>Type:</strong> Playsuits<br><strong>Fabric Type:</strong> Chiffon<br><strong>Style:</strong> Bohemian<br><strong>Pattern Type:</strong> Solid<br><strong>Fit Type:</strong> Skinny<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Decoration:</strong> Lace<br><strong>Material:</strong> Polyester<br><strong>Sleeve Style:</strong> Regular<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Decoration:</strong> NONE<br><strong>Season:</strong> AUTUMN<br><strong>Pattern Type:</strong> Print<br><strong>Gender:</strong> WOMEN<br><strong>Style 1:</strong> sexy onesie<br><strong>Style 2:</strong> onesies for adults<br><strong>Style 3:</strong> sexy sleepwear pajama<br><strong>Style 4:</strong> Pyjamas Onesies<br><strong>Style 5:</strong> women pajamas one piece<br><strong>Style 6:</strong> sexy sleepwear jumpsuit<br><strong>Style 7:</strong> bijama women<br><strong>Style 8:</strong> onsie women<br><strong>Style 9:</strong> kigurumi<br><strong>Style 10:</strong> plus size sleepwear<br><strong>Style 11:</strong> onesies for adults women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slim Jumpsuits</s:tag>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / Poland</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / SPAIN</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / United States</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / Czech Republic</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / Czech Republic</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / China</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / United States</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / SPAIN</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / France</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / Poland</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / Belgium</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / SPAIN</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / France</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / France</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / Czech Republic</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / Poland</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / Czech Republic</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / L / Belgium</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-green-l-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / Czech Republic</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / Belgium</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / France</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / Belgium</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / Poland</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / L / SPAIN</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-black-l-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / Czech Republic</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / Poland</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / China</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / United States</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / Belgium</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / M / China</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / SPAIN</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Green / S / France</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-green-s-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / China</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / United States</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / France</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / Belgium</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / SPAIN</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / France</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / Czech Republic</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / Poland</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / United States</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / Czech Republic</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / S / Belgium</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-white-s-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / China</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / France</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / Belgium</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / Poland</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / M / SPAIN</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-white-m-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / France</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / Belgium</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / Poland</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / S / SPAIN</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-red-s-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / Czech Republic</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / Poland</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / Belgium</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / SPAIN</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / M / France</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-red-m-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / Poland</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / SPAIN</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Red / L / Czech Republic</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-red-l-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / Czech Republic</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / Poland</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / China</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / United States</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / Belgium</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / SPAIN</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>White / L / France</title>
+      <s:price currency="USD">24.98</s:price>
+      <s:sku>42031273-white-l-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / S / Belgium</title>
+      <s:price currency="USD">24.38</s:price>
+      <s:sku>42031273-black-s-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / SPAIN</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / France</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-france</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / Czech Republic</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-czech-republic</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://comfy-bliss.myshopify.com/products/6623874023620</id>
+      <title>Black / M / Poland</title>
+      <s:price currency="USD">24.66</s:price>
+      <s:sku>42031273-black-m-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yoga-mash.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yoga-mash.myshopify.com/collections/yoga-suits.atom"/>
+  <title>Yoga Mash</title>
+  <updated>2021-06-03T16:08:00+05:00</updated>
+  <author>
+    <name>Yoga Mash</name>
+  </author>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+    <published>2021-06-03T16:08:00+05:00</published>
+    <updated>2021-06-03T16:08:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/fitness-sports-suit-clothes"/>
+    <title>Fitness Sports Suit Clothes</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1501955927.jpg?v=1622718488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Gender:</strong> WOMEN<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Compressed<br><strong>Feature:</strong> Quick Dry<br><strong>Color:</strong> Blue, Purple, White, Gray, Pink, WineRed, Khaki<br><strong>Yoga Set:</strong> Leggings and bra top 2pcs yoga clothing<br><strong>Sport Suit Women:</strong> Seamless leggings + Yoga bra sport wear<br><strong>Applicable Scenarios:</strong> Running, Exercise, Fitness, Gym, Hiking</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga suits</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Purple / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Purple / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Gray / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Gray / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Gray / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>White / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>White / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>White / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Purple / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Blue / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Blue / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874761986222</id>
+      <title>Blue / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+    <published>2021-06-03T16:05:36+05:00</published>
+    <updated>2021-06-03T16:05:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/solid-color-long-sleeve-suit"/>
+    <title>Solid color Long Sleeve Suit</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1630675162.jpg?v=1622718340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Gender:</strong> WOMEN<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Breathable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga suits</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>Fluorescent Green / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-fluorescent-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>Fluorescent Green / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-fluorescent-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>Fluorescent Green / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-fluorescent-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874738557102</id>
+      <title>Fluorescent Green / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30698602-fluorescent-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+    <published>2021-06-03T16:04:28+05:00</published>
+    <updated>2021-06-03T16:04:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/women-patchwork-yoga-suits"/>
+    <title>Women Patchwork Yoga Suits</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1629965818.jpg?v=1622718628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Gender:</strong> WOMEN<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Patchwork<br><strong>Feature:</strong> Breathable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga suits</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>White / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-white-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>White / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-white-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Red / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>White / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-white-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>White / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-white-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-brown-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Brown / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-brown-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gold / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gold-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gold / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gold-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-brown-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-brown-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gold / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gold-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gold / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gold-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Orange / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-orange-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-orange-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Red / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Red / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-orange-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874726891694</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>31079533-orange-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+    <published>2021-06-03T16:03:24+05:00</published>
+    <updated>2021-06-03T16:03:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/fitness-shorts-suit"/>
+    <title>Fitness Shorts Suit</title>
+    <s:type>Suit</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1629119979.jpg?v=1622718671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Suit<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Gender:</strong> WOMEN<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Anti-Wrinkle<br><strong>Feature:</strong> Breathable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga suits</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Green / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Green / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Green / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>BLACK / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>BLACK / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>BLACK / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>BLACK / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Brown / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-brown-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-brown-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-brown-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-brown-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6874716504238</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>30135958-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://general-space.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://general-space.myshopify.com/collections/men-fashion.atom"/>
+  <title>General-Space</title>
+  <updated>2021-02-26T13:44:40+05:00</updated>
+  <author>
+    <name>General-Space</name>
+  </author>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543506571420</id>
+    <published>2021-02-26T13:44:40+05:00</published>
+    <updated>2021-02-26T13:44:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/2021-winter-and-autumn-sports-shoes-mens-running-shoes-a-pure-color-tide-shoes-fitness-explosion-products"/>
+    <title>winter and autumn sports shoes</title>
+    <s:type>Men shoes</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/4662115619_1878561924.jpg?v=1614329081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Men shoes<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Red / 7.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Red-7.5</s:sku>
+      <s:grams>870</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Black-8.5</s:sku>
+      <s:grams>890</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Gray / 8</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Gray-8</s:sku>
+      <s:grams>880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Gray / 7.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Gray-7.5</s:sku>
+      <s:grams>870</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Black-7.5</s:sku>
+      <s:grams>870</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Gray / 6.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Gray-6.5</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Gray / 8.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Gray-8.5</s:sku>
+      <s:grams>890</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Gray / 7</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Gray-7</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Red / 6.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Red-6.5</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Red / 8</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Red-8</s:sku>
+      <s:grams>880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Black-8</s:sku>
+      <s:grams>880</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Gray / 9</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Gray-9</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Red / 7</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Red-7</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Black-6.5</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Black-9</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Red / 8.5</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Red-8.5</s:sku>
+      <s:grams>890</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Black-7</s:sku>
+      <s:grams>860</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543506571420</id>
+      <title>Red / 9</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CJYDQXPB00062-Red-9</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543477866652</id>
+    <published>2021-02-26T13:33:22+05:00</published>
+    <updated>2021-02-26T13:33:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/labor-insurance-shoes-male"/>
+    <title>Labor insurance shoes male</title>
+    <s:type>Men shoes</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/215980864632.jpg?v=1614328402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Men shoes<br>
+        <strong>Price: </strong>
+            38.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Function: piercing damage<br>Material: flying weaving, beef tendon outsole<br>Upper style: low to help<br>Uses: mines, steel, smelting, chemicals, electricity, etc.<br>Size: 44,45,46,36,37,38,39,40,41,42,43<br>Series: Trend<br>Whether anti-static: no<br>Baotou material: steel toe cap<br>Is there a venting hole: yes<br>Features: non-slip, wear-resistant, acid and alkali resistant</p>
+<p><br></p>
+<p>  <br></p>
+<br><img src="https://cc-west-usa.oss-accelerate.aliyuncs.com/15581088/215980864632.jpg" width="289" height="289">
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 36</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-36</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 39</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-39</s:sku>
+      <s:grams>1197</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 46</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-46</s:sku>
+      <s:grams>1180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 42</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-42</s:sku>
+      <s:grams>1180</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 43</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-43</s:sku>
+      <s:grams>1040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 35</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-35</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 35</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-35</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 41</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-41</s:sku>
+      <s:grams>1215</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-38</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 39</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-39</s:sku>
+      <s:grams>1020</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 44</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-44</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 45</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-45</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 39</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-39</s:sku>
+      <s:grams>1226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 40</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-40</s:sku>
+      <s:grams>1090</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 37</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-37</s:sku>
+      <s:grams>1198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 44</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-44</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 48</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-48</s:sku>
+      <s:grams>1210</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 42</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-42</s:sku>
+      <s:grams>1203</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 37</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-37</s:sku>
+      <s:grams>1172</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 48</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-48</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 41</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-41</s:sku>
+      <s:grams>1040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 44</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-44</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 47</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-47</s:sku>
+      <s:grams>1364</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 38</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-38</s:sku>
+      <s:grams>1252</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 45</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-45</s:sku>
+      <s:grams>1170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 48</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-48</s:sku>
+      <s:grams>1515</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 43</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-43</s:sku>
+      <s:grams>1315</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-40</s:sku>
+      <s:grams>1059</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 43</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-43</s:sku>
+      <s:grams>1067</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 40</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-40</s:sku>
+      <s:grams>1322</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 37</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-37</s:sku>
+      <s:grams>980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 36</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-36</s:sku>
+      <s:grams>1279</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 46</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-46</s:sku>
+      <s:grams>1324</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 47</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-47</s:sku>
+      <s:grams>1190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 35</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-35</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 43</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-43</s:sku>
+      <s:grams>1157</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 39</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-39</s:sku>
+      <s:grams>1020</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 46</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-46</s:sku>
+      <s:grams>1295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 37</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-37</s:sku>
+      <s:grams>980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 38</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-38</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 45</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-45</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Pink / 35</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Pink-35</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 40</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-40</s:sku>
+      <s:grams>1019</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 42</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-42</s:sku>
+      <s:grams>1344</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 42</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-42</s:sku>
+      <s:grams>1030</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Green / 47</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Green-47</s:sku>
+      <s:grams>1190</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-36</s:sku>
+      <s:grams>950</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Black / 41</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Black-41</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 36</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-36</s:sku>
+      <s:grams>1047</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 41</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-41</s:sku>
+      <s:grams>1040</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543477866652</id>
+      <title>Gray / 38</title>
+      <s:price currency="USD">38.50</s:price>
+      <s:sku>CJBHNSNS05953-Gray-38</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543460008092</id>
+    <published>2021-02-26T13:25:06+05:00</published>
+    <updated>2021-02-26T13:25:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/delta-high-and-low-army-boots"/>
+    <title>Delta high and low army boots</title>
+    <s:type>Men shoes</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/Untitled-3.jpg?v=1614335332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Men shoes<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sole Material: Rubber <br>Cortical features: cowhide<br>Insole material: textile<br>Inside the boot material: cotton<br>Boot material: the first layer of cowhide<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 43</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-43</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 37</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-37</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 44</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-44</s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 44</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-44</s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 35</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-35</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 46</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-46</s:sku>
+      <s:grams>1550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 45</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-45</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 40</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-40</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 39</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-39</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-40</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 37</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-37</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 45</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-45</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 39</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-39</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 46</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-46</s:sku>
+      <s:grams>1550</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 35</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-35</s:sku>
+      <s:grams>1150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 43</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-43</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 42</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-42</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 45</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-45</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 42</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-42</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 39</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-39</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 44</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-44</s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 41</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 41</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 41</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 38</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 44</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-44</s:sku>
+      <s:grams>1450</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 41</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 40</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-40</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 43</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-43</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-36</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 45</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-45</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black / 42</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black-42</s:sku>
+      <s:grams>1287</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Black Lowhelp / 39</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Black Lowhelp-39</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 43</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-43</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 40</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-40</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand Lowhelp / 42</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand Lowhelp-42</s:sku>
+      <s:grams>1350</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543460008092</id>
+      <title>Sand color / 36</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CJBHNSNS07007-Sand color-36</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543425863836</id>
+    <published>2021-02-26T13:13:38+05:00</published>
+    <updated>2021-02-26T13:13:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/breathable-canvas-slip-on-shoes"/>
+    <title>Breathable Canvas Slip-On Shoes</title>
+    <s:type>Men shoes</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/Untitled-2.jpg?v=1614335167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Men shoes<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>style: Casual<br>Function: breathable, lightweight<br>Suitable for the season: spring, autumn, summer<br>Applicable gender: male<br>Pattern: color matching<br>Sole material: polyurethane<br>Applicable sports: universal<br>Wearing style: sleeve / overshoe<br>Popular elements: color matching, metal<br>Inner material: mesh<br>Opening depth: Zhongkou (7-11CM)<br>Upper height: low to help<br>Toe shape: round head<br>Heel height: low heel (1-3CM)<br>Sole technology: injection shoes<br>Insole material: textile<br>Style: single shoes<br>Applicable scene: daily<br>Size: 38,39,40,41,42,43,44,45,47,46,48,49,50<br>Closed way: set foot<br>Applicable age: 18-40</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 50 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-50 yards</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 39</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-39</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 46</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-46</s:sku>
+      <s:grams>536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 43 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-43 yards</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 40</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-40</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 41 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-41 yards</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 44 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-44 yards</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 38 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-38 yards</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 49 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-49 yards</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 40 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-40 yards</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 45 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-45 yards</s:sku>
+      <s:grams>554</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 48 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-48 yards</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 49</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-49</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 39 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-39 yards</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 50</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-50</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 50</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-50</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 40</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-40</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 46 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-46 yards</s:sku>
+      <s:grams>564</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 41</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-41</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 44</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-44</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 38</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-38</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 38 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-38 yards</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 48 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-48 yards</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 44 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-44 yards</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 41 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-41 yards</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 42 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-42 yards</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 43</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-43</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 39 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-39 yards</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 45 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-45 yards</s:sku>
+      <s:grams>554</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 49</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-49</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 41</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-41</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 41</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-41</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 49</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-49</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 39 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-39 yards</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 43</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-43</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 41 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-41 yards</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 39</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-39</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 47</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-47</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 44 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-44 yards</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 48</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-48</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 47 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-47 yards</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 47 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-47 yards</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 50</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-50</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 49 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-49 yards</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 45 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-45 yards</s:sku>
+      <s:grams>554</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 47 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-47 yards</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 46 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-46 yards</s:sku>
+      <s:grams>564</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 41 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-41 yards</s:sku>
+      <s:grams>514</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 43</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-43</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 40</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-40</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 42</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-42</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 46 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-46 yards</s:sku>
+      <s:grams>564</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 47</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-47</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 38 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-38 yards</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 47 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-47 yards</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 50 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-50 yards</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 45 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-45 yards</s:sku>
+      <s:grams>784</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 44</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-44</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 40 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-40 yards</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 48 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-48 yards</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 43 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-43 yards</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 39</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-39</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 42 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-42 yards</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 47</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-47</s:sku>
+      <s:grams>574</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 46</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-46</s:sku>
+      <s:grams>564</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 48</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-48</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 45</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-45</s:sku>
+      <s:grams>554</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 42</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-42</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 49 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-49 yards</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 38</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-38</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 46</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-46</s:sku>
+      <s:grams>564</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 42 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-42 yards</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 45</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-45</s:sku>
+      <s:grams>554</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 39 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-39 yards</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 44 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-44 yards</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>A Gray / 45</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-A Gray-45</s:sku>
+      <s:grams>554</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 38</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-38</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 50 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-50 yards</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 50 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-50 yards</s:sku>
+      <s:grams>604</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 43 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-43 yards</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 38 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-38 yards</s:sku>
+      <s:grams>484</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>B gray / 42</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-B gray-42</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 42 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-42 yards</s:sku>
+      <s:grams>524</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 49 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-49 yards</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 48 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-48 yards</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 44</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-44</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Coffee / 48</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Coffee-48</s:sku>
+      <s:grams>584</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Gray / 46 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Gray-46 yards</s:sku>
+      <s:grams>564</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Brown / 40 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Brown-40 yards</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Black / 40 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Black-40 yards</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543425863836</id>
+      <title>Red brown / 43 yards</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>CJBHNSNS05689-Red brown-43 yards</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543385919644</id>
+    <published>2021-02-26T12:58:26+05:00</published>
+    <updated>2021-02-26T12:58:26+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/mens-padded-flight-jacket"/>
+    <title>Men&apos;s Padded Flight Jacket</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/3695769593_1256149895.jpg?v=1614326307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            34.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Closure :zip <br></p>
+<p>Decoration: pockets <br>1. Please allow 1-3cm differ due to manual measurement.<br>2. Due to the light and resolutions setting difference, the item's color may be slight different from the pictures. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-XL</s:sku>
+      <s:grams>465</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-4XL</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 7XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-7XL</s:sku>
+      <s:grams>525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / S</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-S</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 6XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-6XL</s:sku>
+      <s:grams>515</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 8XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-8XL</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-3XL</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 6XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-6XL</s:sku>
+      <s:grams>528</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 8XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-8XL</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 8XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-8XL</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-XL</s:sku>
+      <s:grams>439</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 5XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-5XL</s:sku>
+      <s:grams>528</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 6XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-6XL</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-2XL</s:sku>
+      <s:grams>475</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 3XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-3XL</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 7XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-7XL</s:sku>
+      <s:grams>525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 3XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-3XL</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 7XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-7XL</s:sku>
+      <s:grams>525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 4XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-4XL</s:sku>
+      <s:grams>504</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-XL</s:sku>
+      <s:grams>465</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / L</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-L</s:sku>
+      <s:grams>455</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 5XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-5XL</s:sku>
+      <s:grams>531</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-XL</s:sku>
+      <s:grams>465</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 4XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-4XL</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / L</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-L</s:sku>
+      <s:grams>455</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / M</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-M</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / 7XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-7XL</s:sku>
+      <s:grams>525</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / L</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-L</s:sku>
+      <s:grams>455</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / M</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-M</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / S</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-S</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 2XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-2XL</s:sku>
+      <s:grams>475</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 5XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-5XL</s:sku>
+      <s:grams>509</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 2XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-2XL</s:sku>
+      <s:grams>475</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 3XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-3XL</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / M</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-M</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 5XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-5XL</s:sku>
+      <s:grams>529</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 8XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-8XL</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / M</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-M</s:sku>
+      <s:grams>445</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / S</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-S</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Army green / 4XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Army green-4XL</s:sku>
+      <s:grams>515</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Black / S</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Black-S</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / 2XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-2XL</s:sku>
+      <s:grams>475</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Deep blue / L</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Deep blue-L</s:sku>
+      <s:grams>455</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543385919644</id>
+      <title>Red / 6XL</title>
+      <s:price currency="USD">34.50</s:price>
+      <s:sku>CJNSWTXZ00129-Red-6XL</s:sku>
+      <s:grams>515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543353413788</id>
+    <published>2021-02-26T12:48:21+05:00</published>
+    <updated>2021-02-26T12:48:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/motorcycle-leather-jackets"/>
+    <title>Motorcycle Leather Jackets</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/468391517398.jpg?v=1614325701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            39.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><!-- [if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--></p>
+<style><!--
+.font0
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-family:宋体;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-family:宋体;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;}
+br
+	{mso-data-placement:same-cell;}
+td
+	{padding-top:1px;
+	padding-left:1px;
+	padding-right:1px;
+	mso-ignore:padding;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-protection:locked visible;}
+.et2
+	{color:#FFFFFF;
+	font-weight:700;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #000000;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #000000;
+	background:#000000;
+	mso-pattern:#000000 none;
+	text-align:center;}
+.et3
+	{color:#FFFFFF;
+	font-weight:700;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #000000;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#000000;
+	mso-pattern:#000000 none;
+	text-align:center;}
+.et4
+	{color:#FFFFFF;
+	font-weight:700;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #000000;
+	border-right:.5pt solid #000000;
+	border-bottom:none;
+	border-left:none;
+	background:#000000;
+	mso-pattern:#000000 none;
+	text-align:center;}
+.et5
+	{mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #000000;
+	border-right:none;
+	border-bottom:.5pt solid #000000;
+	border-left:.5pt solid #000000;
+	text-align:center;}
+.et6
+	{mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #000000;
+	border-right:none;
+	border-bottom:.5pt solid #000000;
+	border-left:none;
+	text-align:center;}
+.et7
+	{mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #000000;
+	border-right:.5pt solid #000000;
+	border-bottom:.5pt solid #000000;
+	border-left:none;
+	text-align:center;}
+--></style>
+<p>Leather classification: artificial leather<br>Lining composition: polyester fiber (polyester)1 Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. <br>2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service.<br>3.As you know, the different computers display colors differently,  the color of the actual item may vary slightly.<br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Brown / XXL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Brown-XXL</s:sku>
+      <s:grams>947</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Black-XL</s:sku>
+      <s:grams>837</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Dark brown / XL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Dark brown-XL</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Brown / XXXL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Brown-XXXL</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Dark brown / L</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Dark brown-L</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Dark brown / XXL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Dark brown-XXL</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Black-L</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Dark brown / M</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Dark brown-M</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Dark brown / XXXL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Dark brown-XXXL</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Brown-XL</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Brown-M</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Black-XXXL</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Black-M</s:sku>
+      <s:grams>764</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Black-XXL</s:sku>
+      <s:grams>846</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543353413788</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">39.90</s:price>
+      <s:sku>CJNSWTZP00003-Brown-L</s:sku>
+      <s:grams>724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543327199388</id>
+    <published>2021-02-26T12:39:53+05:00</published>
+    <updated>2021-02-26T12:39:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/european-and-american-mens-jacquard-sweater-long-sleeved-hoodie-warm-color-hooded-sweatshirt-jacket"/>
+    <title>European and American Men&apos;s  Sweater</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/716020402648.jpg?v=1614399032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: bold;">Overview:</span><br></p>
+<p>100% new design and high quality<br>Men's fashion items<span style="font-weight: bold;">Specifications:</span><br>Item Type: Hoodies,Sweatshirts<br>Sleeve Length(cm): Full<br>Closure Type: None<br>Thickness: Standard<br>Style: Casual<br>Clothing Length: Regular<br>Sleeve Style: Regular<br>Pattern Type: Solid<br>Material: Acetate,Cotton<br>Detachable Part: None<br>Type: Regular <br>Manual measurement, please allow 1-3 cm error.<br></p>
+<p><span style="font-weight: bold;">Package Content:</span><br>1x Hoodie Sweatshirt</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-S</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-M</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-L</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-XL</s:sku>
+      <s:grams>360</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-XXL</s:sku>
+      <s:grams>380</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-4XL</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Yellow / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Yellow-5XL</s:sku>
+      <s:grams>440</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Light Grey / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Light Grey-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-L</s:sku>
+      <s:grams>373</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>ArmyGreen / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-ArmyGreen-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / 4XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-4XL</s:sku>
+      <s:grams>413</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / XXL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-XXL</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Black / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Black-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-XL</s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Dark Grey / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Dark Grey-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>White / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-White-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Red / S</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Red-S</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / 3XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-3XL</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Navy-M</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543327199388</id>
+      <title>Beige / 5XL</title>
+      <s:price currency="USD">24.90</s:price>
+      <s:sku>CJNSWTWY00042-Beige-5XL</s:sku>
+      <s:grams>423</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://general-space.myshopify.com/products/6543230140572</id>
+    <published>2021-02-26T12:08:05+05:00</published>
+    <updated>2021-02-26T12:08:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://general-space.myshopify.com/products/mens-reversible-flight-jacket-for-autumn-winter"/>
+    <title>Reversible Flight Jacket</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>General Space</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9786/8956/products/1652688206400.png?v=1614323285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Space<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            29.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: bold;">Overview:</span><br>Unique design, a cameo on both sides<br>Three colors, choose at will<br><br></p>
+<p><span style="font-weight: bold;">Specification:</span><br>Product Category: Jacket<br>style: Casual<br>Purchasing Category: Youth popular<br>Collar type: no collar<br>Edition type: fit type<br>Placket: zipper<br>Whether hooded: not hooded<br>Thickness: Thin section<br>Pattern: Stripe<br></p>
+<p><span style="font-weight: bold;">Package Content:</span><br>1 x jacket</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Blue-L</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Green / L</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Green-L</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Black-S</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Black-XXL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Green / S</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Green-S</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Green / XXXL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Green-XXXL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Black-XL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Blue-M</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Black-L</s:sku>
+      <s:grams>496</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Blue-S</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Black-M</s:sku>
+      <s:grams>412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Blue / XXXL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Blue-XXXL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Black-XXXL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Blue-XXL</s:sku>
+      <s:grams>520</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Green / M</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Green-M</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Green / XXL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Green-XXL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Green-XL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://general-space.myshopify.com/products/6543230140572</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">29.80</s:price>
+      <s:sku>CJNSWTXZ00180-Blue-XL</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+  </entry>
+</feed>

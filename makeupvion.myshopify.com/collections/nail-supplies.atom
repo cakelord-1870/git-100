@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makeupvion.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makeupvion.myshopify.com/collections/nail-supplies.atom"/>
+  <title>Makeupvion</title>
+  <updated>2021-09-13T15:50:21+05:00</updated>
+  <author>
+    <name>Makeupvion</name>
+  </author>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+    <published>2021-09-13T15:50:21+05:00</published>
+    <updated>2021-09-13T15:50:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/color-changing-nail-polish"/>
+    <title>Color Changing Nail Polish</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1794424931.jpg?v=1631530226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Quantity:</strong> 1<br><strong>Ingredient:</strong> Nail Polish <br><strong>NET WT:</strong> 8ml<br><strong>Quantity:</strong> 1 pc<br><strong>Application Occasion:</strong> Daily<br><strong>Feature:</strong> Convenience Practical Eco-Friendly</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nail Polish</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>gray / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Army Green / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-army-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Red / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>green / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Army Green / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-army-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>green / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Ivory / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-ivory-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Black / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Ivory / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-ivory-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Complexion / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-complexion-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Orange / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-orange-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Complexion / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-complexion-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>sky blue / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Orange / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-orange-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>sky blue / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-sky-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Dark Grey / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-dark-grey-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855366148282</id>
+      <title>Dark Grey / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>46182376-dark-grey-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855360151738</id>
+    <published>2021-09-13T15:47:35+05:00</published>
+    <updated>2021-09-13T15:47:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/pointy-stiletto-nail-tips-500pc"/>
+    <title>Pointy Stiletto Nail Tips (500Pc)</title>
+    <s:type>Nail Tips</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1713445576.jpg?v=1631530057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Nail Tips<br>
+        <strong>Price: </strong>
+            12.99 - 16.99
+            <a href="https://makeupvion.myshopify.com/products/pointy-stiletto-nail-tips-500pc">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Application:</strong> Finger<br><strong>Nail Length:</strong> 10 different sizes<br><strong>Quantity:</strong> 500<br><strong>Nail Width:</strong> High Quality<br><strong>Material:</strong> Acrylic<br><strong>Size:</strong> 500Pcs<br><strong>Item Type:</strong> False Nail<br><strong>Type:</strong> Full Nail Tips<br><strong>Plastic:</strong> OutTop<br><strong>Sticker Nail:</strong> Art<br><strong>Ultra-Thin:</strong> Applique<br><strong>Patterned Design:</strong> high quality<br><strong>Nail Art Supplies:</strong> Nail</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nail Tips</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855360151738</id>
+      <title>United States / 500PCS</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>44217040-united-states-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855360151738</id>
+      <title>China / 500PCS</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>44217040-china-500pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+    <published>2021-09-13T15:46:11+05:00</published>
+    <updated>2021-09-13T15:46:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/100pc-matte-fake-long-nails"/>
+    <title>100pc Matte Fake Long Nails</title>
+    <s:type>Long Nails</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/2.jpg?v=1631533412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Long Nails<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size:</strong> 1<br><strong>Material:</strong> Plastic<br><strong>Quantity:</strong> 100pc<br><strong>Style:</strong> fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long Nails</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / A</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / C</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / D</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / H</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / J</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / K</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-k</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / O</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / Q</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / R</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-r</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>United States / T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-united-states-t</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / A</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / C</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / D</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / H</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-h</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / J</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-j</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / K</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-k</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / O</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-o</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / Q</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / R</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-r</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855356940474</id>
+      <title>China / T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46182986-china-t</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+    <published>2021-09-13T15:43:42+05:00</published>
+    <updated>2021-09-13T15:43:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/3d-glitter-nail-flakes"/>
+    <title>3D Glitter Nail Flakes</title>
+    <s:type>Nail Flakes</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1682139484.jpg?v=1631529827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Nail Flakes<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>NET WT:</strong> 135<br><strong>Quantity:</strong> 12 Colors<br><strong>Material:</strong> Plastic<br><strong>Plastic:</strong> OutTop <br><strong>Sticker Nail:</strong> Art <br><strong>Ultra-Thin:</strong> Applique <br><strong>Patterned Design:</strong> high quality<br><strong> Nail Art Supplies:</strong> Nail</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nail Flakes</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+      <title>United States / Dark Grey</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>43356589-united-states-dark-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+      <title>United States / green</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>43356589-united-states-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+      <title>China / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>43356589-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+      <title>China / green</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>43356589-china-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+      <title>China / Dark Grey</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>43356589-china-dark-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855354122426</id>
+      <title>United States / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>43356589-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+    <published>2021-09-13T15:39:00+05:00</published>
+    <updated>2021-09-13T15:39:00+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/nail-gel-varnish-pencil"/>
+    <title>Nail Gel Varnish Pencil</title>
+    <s:type>Nail Gel Varnish Pencil</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/1.jpg?v=1631532910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Nail Gel Varnish Pencil<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Volume:</strong> 5ml<br><strong>NET WT:</strong> 5ml<br><strong>Type:</strong> Gel Polish<br><strong>Ingredient:</strong> gel<br><strong>Quantity:</strong> 1<br><strong>Patterned Design:</strong> high quality<br><strong> Nail Art Supplies:</strong> Nail</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nail Gel Varnish Pencil</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Army Green / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-army-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Army Green / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-army-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Beige / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-beige-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Beige / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-beige-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Black / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Dark Grey / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-dark-grey-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Dark Grey / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-dark-grey-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>green / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>green / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>gray / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>gray / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Ivory / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-ivory-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>Ivory / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-ivory-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>sky blue / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>sky blue / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-sky-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>yellow / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855348519098</id>
+      <title>yellow / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>38824585-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+    <published>2021-09-13T15:36:39+05:00</published>
+    <updated>2021-09-13T15:36:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/24pcs-plastic-fake-nails"/>
+    <title>24Pcs Plastic Fake Nails</title>
+    <s:type>Fake Nails</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1702114595.jpg?v=1631529404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Fake Nails<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size:</strong> 1Pcs<br><strong>Material:</strong> paper<br><strong>Quantity:</strong> 1<br><strong>Style:</strong> Manicure Decor<br><strong>Plastic:</strong> OutTop <br><strong>Sticker Nail:</strong> Art <br><strong>Ultra-Thin:</strong> Applique <br><strong>Patterned Design:</strong> high quality<br><strong> Nail Art Supplies:</strong> Nail</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fake Nails</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 1</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 2</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 3</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 4</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 6</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 7</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 8</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 9</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / 10</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / Brown</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>United States / Orange</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-united-states-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 1</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 2</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 3</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 4</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 5</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 6</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 7</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 8</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 9</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / 10</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / Brown</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-brown</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855347568826</id>
+      <title>China / Orange</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>43905151-china-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855346847930</id>
+    <published>2021-09-13T15:35:41+05:00</published>
+    <updated>2021-09-13T15:35:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/cracked-nail-repair-gel"/>
+    <title>Cracked Nail Repair Gel</title>
+    <s:type>Nail Repair Gel</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1844516239.jpg?v=1631532182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Nail Repair Gel<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>NET WT:</strong> 6.5g<br><strong>Quantity:</strong> 1<br><strong>Ingredient:</strong> Fiberglass<br><strong>Type:</strong> Cuticle Oil/Nourishment Oil<br><strong>Sticker Nail:</strong> Art <br><strong>Ultra-Thin:</strong> Applique <br><strong>Patterned Design:</strong> high quality<br><strong> Nail Art Supplies:</strong> Nail</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nail Repair Gel</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855346847930</id>
+      <title>United States / 1PC</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47534591-united-states-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855346847930</id>
+      <title>United States / 2PC</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47534591-united-states-2pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855346847930</id>
+      <title>China / 1PC</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47534591-china-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855346847930</id>
+      <title>China / 2PC</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>47534591-china-2pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855330627770</id>
+    <published>2021-09-13T14:59:33+05:00</published>
+    <updated>2021-09-13T14:59:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/double-sided-false-nail-art-tape"/>
+    <title>Double Sided False Nail Art Tape</title>
+    <s:type>Nail Art Tape</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1720066597.jpg?v=1631527180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Nail Art Tape<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Number of Pieces:</strong> Combo<br><strong>Application:</strong> Finger<br><strong>Quantity:</strong> 5 Sheets(each 24pcs)<br><strong>Nail Width:</strong> other<br><strong>Material:</strong> Adhesive Tape<br><strong>Size:</strong> 8.5x7cm<br><strong>Item Type:</strong> False Nail<br><strong>Type:</strong> French Nail Tips</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nail Art Tape</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855330627770</id>
+      <title>United States / 5 Sheets 24pcs</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>25862258-united-states-5-sheets-24pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855330627770</id>
+      <title>United States / 10 Sheets 240pcs</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>25862258-united-states-10-sheets-240pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855330627770</id>
+      <title>China / 5 Sheets 24pcs</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>25862258-china-5-sheets-24pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855330627770</id>
+      <title>China / 10 Sheets 240pcs</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>25862258-china-10-sheets-240pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

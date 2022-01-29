@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thebabygrace.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thebabygrace.myshopify.com/collections/baby-t-shirts.atom"/>
+  <title>theBabygrace</title>
+  <updated>2021-04-14T15:29:46+05:00</updated>
+  <author>
+    <name>theBabygrace</name>
+  </author>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+    <published>2021-04-14T15:29:46+05:00</published>
+    <updated>2021-04-14T15:29:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/papa-mama-kidst-shirt"/>
+    <title>Papa &amp; mama KidsT-shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1514469143.jpg?v=1618467281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Fashion<br><strong>Material:</strong> Cotton<br><strong>Gender:</strong> Unisex<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Letter<br><strong>Collar:</strong> O-Neck<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Dropship/wholesale:</strong> Support<br><strong>Color:</strong> As shown<br><strong>Use:</strong> T-Shirts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>02 / 10-12T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-02-10-12t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>02 / 4-7T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-02-4-7t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>02 / 7-10T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-02-7-10t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>02 / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-02-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>02 / 0-2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-02-0-2t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>01 / 10-12T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-01-10-12t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>02 / 2-4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-02-2-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>01 / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-01-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>01 / 7-10T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-01-7-10t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>01 / 0-2T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-01-0-2t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>01 / 4-7T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-01-4-7t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651330461854</id>
+      <title>01 / 2-4T</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39796151-01-2-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+    <published>2021-04-14T15:07:25+05:00</published>
+    <updated>2021-04-14T15:07:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/baby-autumn-t-shirt"/>
+    <title>Baby Autumn T-Shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1530618731.jpg?v=1618394855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Casual<br><strong>Material:</strong> Cotton<br><strong>Gender:</strong> Unisex<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Cartoon<br><strong>Department Name:</strong> baby<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Tops<br><strong>Tops Type:</strong> Tees<br><strong>Sleeve Length(cm):</strong> Full</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>DL / 30-36M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-dl-30-36m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>DL / 24-30M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-dl-24-30m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>DL / 18-24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-dl-18-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>DL / 12-18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-dl-12-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>DL / 6-12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-dl-6-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>P / 30-36M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-p-30-36m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>P / 24-30M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-p-24-30m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>P / 18-24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-p-18-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>P / 12-18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-p-12-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>P / 6-12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-p-6-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>C / 30-36M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-c-30-36m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>C / 24-30M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-c-24-30m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>C / 18-24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-c-18-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>C / 12-18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-c-12-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>C / 6-12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-c-6-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>Y / 30-36M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-y-30-36m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>Y / 24-30M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-y-24-30m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>Y / 18-24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-y-18-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>Y / 12-18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-y-12-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651301986462</id>
+      <title>Y / 6-12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>40230919-y-6-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+    <published>2021-04-14T15:03:42+05:00</published>
+    <updated>2021-04-14T15:03:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/cartoon-print-baby-t-shirt"/>
+    <title>Cartoon Print Baby T-shirt</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-811461220.jpg?v=1618394626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton</p>
+<p><strong>Style:</strong> Novelty<br><strong>Pattern Type:</strong> Cartoon<br><strong>Clothing Length:</strong> Regular<br><strong>Department Name:</strong> Children<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Tops<br><strong>Tops Type:</strong> Tees<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Gender:</strong> Boys<br><strong>Model Number:</strong> Baby Boys T-shirt<br><strong>baby boy summer clothes:</strong> boys tops 2018 kid t shirts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+      <title>24M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20093803-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+      <title>3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20093803-3t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+      <title>4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20093803-4t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+      <title>5T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20093803-5t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+      <title>6T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20093803-6t-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651296579742</id>
+      <title>18M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>20093803-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+    <published>2021-04-14T14:59:15+05:00</published>
+    <updated>2021-04-14T14:59:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/summer-short-sleeve"/>
+    <title>Summer Short Sleeve</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1604451116.jpg?v=1618467344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> Turn-down Collar<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Single Breasted<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Sleeve Style:</strong> Regular<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> baby boys Clothes<br><strong>Pattern Type:</strong> Cartoon<br><strong>Gender:</strong> Baby Boys<br><strong>Department Name:</strong> baby<br><strong>girls clothes:</strong> ropa nina<br><strong>roupa infantil menina:</strong> boys clothes<br><strong>christmas clothes:</strong> kids clothes<br><strong>roupas infantis menina:</strong> toddler girl clothes<br><strong>ropa nino:</strong> ropa de nina<br><strong>children clothes:</strong> girl clothes<br><strong>toddler boy clothes:</strong> roupa infantil<br><strong>ropa de nino:</strong> conjunto infantil menina<br><strong>christmas outfit:</strong> ropa para ninas<br><strong>boy clothes:</strong> baby girl short set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Yellow / 6M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-yellow-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Yellow / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-yellow-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>White / 18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-white-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>White / 24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-white-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Yellow / 18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-yellow-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Yellow / 24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-yellow-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Pink / 6M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-pink-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Pink / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-pink-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Green / 18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-green-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Green / 24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-green-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>White / 6M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-white-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>White / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-white-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Pink / 18M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-pink-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Pink / 24M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-pink-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Green / 6M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-green-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651290026142</id>
+      <title>Green / 12M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31978487-green-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+    <published>2021-04-14T14:58:06+05:00</published>
+    <updated>2021-04-14T14:58:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thebabygrace.myshopify.com/products/children-baby-kids-t-shirts"/>
+    <title>Children Baby Kids T Shirts</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>theBabygrace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0560/3790/0446/products/product-image-1533178480.jpg?v=1618467391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>theBabygrace<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Gender:</strong> Unisex<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> baby<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Tops<br><strong>Tops Type:</strong> Tees<br><strong>Sleeve Length(cm):</strong> Short<br><strong>type1:</strong> baby T-Shirt<br><strong>type2:</strong> summer T-Shirt<br><strong>type3:</strong> T-Shirt for baby girls<br><strong>type4:</strong> child casual T-Shirts<br><strong>type5:</strong> flower T-Shirt<br><strong>type6:</strong> colorful solid T-Shirt<br><strong>type7:</strong> kids girls clothes<br><strong>type8:</strong> baby kids T-Shirts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Pink / 120</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-pink-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Pink / 110</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-pink-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>White / 90</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-white-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>White / 80</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-white-80-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Gray / 120</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-gray-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Gray / 110</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-gray-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Pink / 100</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-pink-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Pink / 90</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-pink-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Pink / 80</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-pink-80-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Gray / 80</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-gray-80-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Blue / 120</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-blue-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Gray / 100</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-gray-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Gray / 90</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-gray-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Blue / 80</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-blue-80-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Blue / 110</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-blue-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Blue / 100</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-blue-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Blue / 90</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-blue-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Yellow / 100</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-yellow-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Yellow / 90</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-yellow-90-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Yellow / 120</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-yellow-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Yellow / 110</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-yellow-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>White / 110</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-white-110-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>White / 100</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-white-100-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>Yellow / 80</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-yellow-80-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thebabygrace.myshopify.com/products/6651288322206</id>
+      <title>White / 120</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>40282181-white-120-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

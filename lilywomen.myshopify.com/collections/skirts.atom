@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lilywomen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lilywomen.myshopify.com/collections/skirts.atom"/>
+  <title>lilywomen</title>
+  <updated>2021-04-27T10:56:30+05:00</updated>
+  <author>
+    <name>lilywomen</name>
+  </author>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+    <published>2021-04-27T10:56:30+05:00</published>
+    <updated>2021-04-27T10:56:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/spring-summer-women-skirts"/>
+    <title>Spring Summer Women Skirts</title>
+    <s:type>skirts</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1646528647.jpg?v=1619502996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            13.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Cotton<br><strong>Material:</strong> Polyester<br><strong>Decoration:</strong> Sashes<br><strong>Silhouette:</strong> Pleated<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Gender:</strong> WOMEN<br><strong>Model Number:</strong> Women Skirt<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Plaid<br><strong>Style:</strong> Preppy Style<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Dropship:</strong> Support<br><strong>Dropshipping:</strong> Support<br><strong>Drop shipping:</strong> Wholesale<br><strong>Color:</strong> Black,Navy,Red<br><strong>Size:</strong> S,M,L,XL<br><strong>1:</strong> skirt<br><strong>2:</strong> mujer faldas<br><strong>3:</strong> skirts womens<br><strong>4:</strong> woman skirts<br><strong>5:</strong> faldas<br><strong>6:</strong> skirts<br><strong>7:</strong> saias mulher<br><strong>8:</strong> femme jupes<br><strong>9:</strong> jupe<br><strong>10:</strong> falda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women skirts</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Red / L</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-navy-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-navy-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Black / L</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Red / M</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Red / S</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Black / M</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Black / S</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-navy-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698615537829</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">13.48</s:price>
+      <s:sku>42356694-navy-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698613604517</id>
+    <published>2021-04-27T10:55:21+05:00</published>
+    <updated>2021-04-27T10:55:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/lace-up-goth-pleated-skirt"/>
+    <title>Lace Up Goth Pleated Skirt</title>
+    <s:type>skirts</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734364456.jpg?v=1619508956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            15.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Decoration:</strong> Lace<br><strong>Silhouette:</strong> Pleated<br><strong>Gender:</strong> WOMEN<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Street Style<br><strong>Street Style:</strong> Gothic<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Dropship:</strong> Support<br><strong>Dropshipping:</strong> Support<br><strong>Drop shipping:</strong> Wholesale<br><strong>Color:</strong> Pink<br><strong>Size:</strong> S,M,L<br><strong>1:</strong> skirt<br><strong>2:</strong> mujer faldas<br><strong>3:</strong> skirts womens<br><strong>4:</strong> woman skirts<br><strong>5:</strong> faldas<br><strong>6:</strong> skirts<br><strong>7:</strong> saias mulher<br><strong>8:</strong> femme jupes<br><strong>9:</strong> jupe<br><strong>10:</strong> falda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women skirts</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698613604517</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">15.08</s:price>
+      <s:sku>44774530-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698613604517</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">15.08</s:price>
+      <s:sku>44774530-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698613604517</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">15.08</s:price>
+      <s:sku>44774530-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+    <published>2021-04-27T10:54:22+05:00</published>
+    <updated>2021-04-27T10:54:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/spring-summer-women-long-skirt"/>
+    <title>Spring Summer Women Long Skirt</title>
+    <s:type>skirts</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734364664.jpg?v=1619502874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            11.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Mesh<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Silhouette:</strong> A-LINE<br><strong>Dresses Length:</strong> Mid-Calf<br><strong>Style:</strong> Casual<br><strong>Decoration:</strong> Ruffles<br><strong>Dropship:</strong> Support<br><strong>Dropshipping:</strong> Support<br><strong>Drop shipping:</strong> Wholesale<br><strong>Color:</strong> Beige,Pink,Navy,Black<br><strong>Size:</strong> S,M,L,XL,XXL<br><strong>1:</strong> skirt<br><strong>2:</strong> mujer faldas<br><strong>3:</strong> skirts womens<br><strong>4:</strong> woman skirts<br><strong>5:</strong> faldas<br><strong>6:</strong> skirts<br><strong>7:</strong> saias mulher<br><strong>8:</strong> femme jupes<br><strong>9:</strong> jupe<br><strong>10:</strong> falda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women skirts</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-navy-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-navy-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-navy-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Navy / XXL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-navy-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Pink / XXL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-pink-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-navy-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-beige-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-beige-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-beige-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-beige-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-black-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Beige / XXL</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-beige-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Black / S</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Black / M</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611900581</id>
+      <title>Black / L</title>
+      <s:price currency="USD">11.22</s:price>
+      <s:sku>44774545-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+    <published>2021-04-27T10:53:32+05:00</published>
+    <updated>2021-04-27T10:53:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/plaid-pleated-mini-skirts"/>
+    <title>Plaid Pleated Mini Skirts</title>
+    <s:type>skirts</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734364706.jpg?v=1619509009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Silhouette:</strong> Pleated<br><strong>Decoration:</strong> NONE<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Plaid<br><strong>Style:</strong> STREETWEAR<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Dropship:</strong> Support<br><strong>Dropshipping:</strong> Support<br><strong>Drop shipping:</strong> Wholesale<br><strong>Color:</strong> Yellow,Red,Blue<br><strong>Size:</strong> S,M,L,XL,XXL<br><strong>Feature 1:</strong> skirt<br><strong>Feature 2:</strong> 2021 mujer faldas<br><strong>Feature 3:</strong> skirts women<br><strong>Feature 4:</strong> woman skirts<br><strong>Feature 5:</strong> faldas<br><strong>Feature 6:</strong> skirts<br><strong>Feature 7:</strong> saias mulher<br><strong>Feature 8:</strong> femme jupes<br><strong>Feature 9:</strong> jupe<br><strong>Feature 10:</strong> falda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women skirts</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Red / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Red / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Red / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-red-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Yellow / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-yellow-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Red / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-blue-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698611048613</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>44774548-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698610655397</id>
+    <published>2021-04-27T10:52:36+05:00</published>
+    <updated>2021-04-27T10:52:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/long-tulle-midi-skirts"/>
+    <title>Long Tulle Midi Skirts</title>
+    <s:type>skirts</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1734364857.jpg?v=1619508542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            12.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Silhouette:</strong> A-LINE<br><strong>Decoration:</strong> NONE<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Casual<br><strong>Dresses Length:</strong> Ankle-Length<br><strong>Dropship:</strong> Support<br><strong>Dropshipping:</strong> Support<br><strong>Drop shipping:</strong> Wholesale<br><strong>Color:</strong> White <br><strong>Size:</strong> S/M/L/XL<br><strong>Feature 1:</strong> skirt<br><strong>Feature 2:</strong> 2021 mujer faldas<br><strong>Feature 3:</strong> skirts women<br><strong>Feature 4:</strong> woman skirts<br><strong>Feature 5:</strong> faldas<br><strong>Feature 6:</strong> skirts<br><strong>Feature 7:</strong> saias mulher<br><strong>Feature 8:</strong> femme jupes<br><strong>Feature 9:</strong> jupe<br><strong>Feature 10:</strong> falda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>women skirts</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610655397</id>
+      <title>White / L</title>
+      <s:price currency="USD">12.60</s:price>
+      <s:sku>44774561-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610655397</id>
+      <title>White / XL</title>
+      <s:price currency="USD">12.60</s:price>
+      <s:sku>44774561-white-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610655397</id>
+      <title>White / S</title>
+      <s:price currency="USD">12.60</s:price>
+      <s:sku>44774561-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610655397</id>
+      <title>White / M</title>
+      <s:price currency="USD">12.60</s:price>
+      <s:sku>44774561-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+    <published>2021-04-27T10:51:54+05:00</published>
+    <updated>2021-04-27T10:51:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://lilywomen.myshopify.com/products/casua-women-mini-skirts"/>
+    <title>Casua Women Mini Skirts</title>
+    <s:type>skirts</s:type>
+    <s:vendor>lilywomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0563/6023/9269/products/product-image-1688748410.jpg?v=1619502718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>lilywomen<br>
+        <strong>Type: </strong>skirts<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Silhouette:</strong> Pleated<br><strong>Decoration:</strong> NONE<br><strong>Gender:</strong> WOMEN<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Plaid<br><strong>Style:</strong> Casual<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Dropship:</strong> Support<br><strong>Dropshipping:</strong> Support<br><strong>Drop shipping:</strong> Wholesale<br><strong>Color:</strong> Yellow,Black<br><strong>Size:</strong> S,M,L<br><strong>Feature 1:</strong> skirt<br><strong>Feature 2:</strong> 2021 mujer faldas<br><strong>Feature 3:</strong> skirts women<br><strong>Feature 4:</strong> woman skirts<br><strong>Feature 5:</strong> faldas<br><strong>Feature 6:</strong> skirts<br><strong>Feature 7:</strong> saias mulher<br><strong>Feature 8:</strong> femme jupes<br><strong>Feature 9:</strong> jupe<br><strong>Feature 10:</strong> falda</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>women skirts</s:tag>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+      <title>Black / M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43553440-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+      <title>Black / L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43553440-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43553440-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43553440-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43553440-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lilywomen.myshopify.com/products/6698610458789</id>
+      <title>Black / S</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>43553440-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

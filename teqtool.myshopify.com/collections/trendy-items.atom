@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://teqtool.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://teqtool.myshopify.com/collections/trendy-items.atom"/>
+  <title>teqtool</title>
+  <updated>2021-08-31T11:00:03+05:00</updated>
+  <author>
+    <name>teqtool</name>
+  </author>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832151363770</id>
+    <published>2021-08-31T11:00:03+05:00</published>
+    <updated>2021-08-31T11:00:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/wall-decorative-paint-roller"/>
+    <title>Wall Decorative Paint Roller</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1821364071.jpg?v=1630391823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.30 - 37.22
+            <a href="https://teqtool.myshopify.com/products/wall-decorative-paint-roller">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> paint roller brush<br><strong>Package:</strong> Case<br><strong>is_customized:</strong> Yes<br><strong>Number of Pieces:</strong> 8/5pcs<br><strong>Raw Material:</strong> Plastic: PP new material<br><strong>Application:</strong> Paint Tool Sets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>Australia / blue 8pcs Seamless</title>
+      <s:price currency="USD">30.53</s:price>
+      <s:sku>32510451-australia-blue-8pcs-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>Australia / blue 8pcs Seamed</title>
+      <s:price currency="USD">29.75</s:price>
+      <s:sku>32510451-australia-blue-8pcs-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>Australia / blue 5pcs Seamless</title>
+      <s:price currency="USD">28.10</s:price>
+      <s:sku>32510451-australia-blue-5pcs-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>United States / blue 8pcs Seamless</title>
+      <s:price currency="USD">37.22</s:price>
+      <s:sku>32510451-united-states-blue-8pcs-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>United States / blue 8pcs Seamed</title>
+      <s:price currency="USD">36.65</s:price>
+      <s:sku>32510451-united-states-blue-8pcs-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>China / blue 8pcs Seamless</title>
+      <s:price currency="USD">26.73</s:price>
+      <s:sku>32510451-china-blue-8pcs-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>United States / blue 5pcs Seamless</title>
+      <s:price currency="USD">34.58</s:price>
+      <s:sku>32510451-united-states-blue-5pcs-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>China / blue 8pcs Seamed</title>
+      <s:price currency="USD">27.26</s:price>
+      <s:sku>32510451-china-blue-8pcs-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>China / blue 5pcs Seamless</title>
+      <s:price currency="USD">23.79</s:price>
+      <s:sku>32510451-china-blue-5pcs-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>Australia / blue 5pcs Seamed</title>
+      <s:price currency="USD">27.42</s:price>
+      <s:sku>32510451-australia-blue-5pcs-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>Australia / blue roller Seamed</title>
+      <s:price currency="USD">13.56</s:price>
+      <s:sku>32510451-australia-blue-roller-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>China / blue roller Seamless</title>
+      <s:price currency="USD">12.83</s:price>
+      <s:sku>32510451-china-blue-roller-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>Australia / blue roller Seamless</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>32510451-australia-blue-roller-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>United States / blue roller Seamless</title>
+      <s:price currency="USD">16.70</s:price>
+      <s:sku>32510451-united-states-blue-roller-seamless</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>China / blue 5pcs Seamed</title>
+      <s:price currency="USD">21.71</s:price>
+      <s:sku>32510451-china-blue-5pcs-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>China / blue roller Seamed</title>
+      <s:price currency="USD">11.30</s:price>
+      <s:sku>32510451-china-blue-roller-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>United States / blue 5pcs Seamed</title>
+      <s:price currency="USD">33.68</s:price>
+      <s:sku>32510451-united-states-blue-5pcs-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832151363770</id>
+      <title>United States / blue roller Seamed</title>
+      <s:price currency="USD">15.77</s:price>
+      <s:sku>32510451-united-states-blue-roller-seamed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832129638586</id>
+    <published>2021-08-31T10:31:20+05:00</published>
+    <updated>2021-08-31T10:31:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/screw-driver-tools"/>
+    <title>Screw Driver Tools</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1828935815.jpg?v=1630387883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.35 - 19.95
+            <a href="https://teqtool.myshopify.com/products/screw-driver-tools">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Package:</strong> 5-9Pcs<br><strong>Type:</strong> Screwdriver Set</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>United States / 7Pcs</title>
+      <s:price currency="USD">19.68</s:price>
+      <s:sku>47104403-united-states-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>United States / 8Pcs</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>47104403-united-states-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>Australia / 7Pcs</title>
+      <s:price currency="USD">19.48</s:price>
+      <s:sku>47104403-australia-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>Australia / 8Pcs</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>47104403-australia-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>China / 7Pcs</title>
+      <s:price currency="USD">14.35</s:price>
+      <s:sku>47104403-china-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>China / 8Pcs</title>
+      <s:price currency="USD">14.85</s:price>
+      <s:sku>47104403-china-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>Russian Federation / 7Pcs</title>
+      <s:price currency="USD">19.68</s:price>
+      <s:sku>47104403-russian-federation-7pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832129638586</id>
+      <title>Russian Federation / 8Pcs</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>47104403-russian-federation-8pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832128688314</id>
+    <published>2021-08-31T10:26:52+05:00</published>
+    <updated>2021-08-31T10:26:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/torque-spanner-wrench"/>
+    <title>Torque Spanner Wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1678424145.jpg?v=1630387616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.37 - 41.24
+            <a href="https://teqtool.myshopify.com/products/torque-spanner-wrench">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Chromium-vanadium Steel<br><strong>Features:</strong> Explosion-proof<br><strong>Features:</strong> INSULATED<br><strong>Features:</strong> Multifunctional<br><strong>Features:</strong> Non-slip<br><strong>Features:</strong> Antimagnetic<br><strong>Type:</strong> Ratchet Handle Wrench</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128688314</id>
+      <title>Australia / 1 Pcs</title>
+      <s:price currency="USD">35.18</s:price>
+      <s:sku>43249073-australia-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128688314</id>
+      <title>China / 1 Pcs</title>
+      <s:price currency="USD">28.37</s:price>
+      <s:sku>43249073-china-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832128688314</id>
+      <title>United States / 1 Pcs</title>
+      <s:price currency="USD">41.24</s:price>
+      <s:sku>43249073-united-states-1-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832127377594</id>
+    <published>2021-08-31T10:24:36+05:00</published>
+    <updated>2021-08-31T10:24:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/buckle-removal-cutter-wrench"/>
+    <title>Buckle Removal Cutter wrench</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1834485071.jpg?v=1630475961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.70 - 26.93
+            <a href="https://teqtool.myshopify.com/products/buckle-removal-cutter-wrench">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Wrenches<br><strong>Type:</strong> Ratchet<br><strong>Type:</strong> Pliers<br><strong>Application:</strong> Bicycle Repairing Tool Set<br><strong>Type:</strong> Multifunction Tools</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / 9 Pcs SI</title>
+      <s:price currency="USD">25.53</s:price>
+      <s:sku>47264805-australia-9-pcs-si</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / 9 Pcs BL</title>
+      <s:price currency="USD">25.53</s:price>
+      <s:sku>47264805-australia-9-pcs-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / 3 Pcs</title>
+      <s:price currency="USD">24.15</s:price>
+      <s:sku>47264805-united-states-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / Single chain cutter</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>47264805-united-states-single-chain-cutter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / 9 Pcs SI</title>
+      <s:price currency="USD">26.93</s:price>
+      <s:sku>47264805-united-states-9-pcs-si</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / 9 Pcs BL</title>
+      <s:price currency="USD">26.93</s:price>
+      <s:sku>47264805-united-states-9-pcs-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / Single chain pliers</title>
+      <s:price currency="USD">14.28</s:price>
+      <s:sku>47264805-australia-single-chain-pliers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / Single chain caliper</title>
+      <s:price currency="USD">9.21</s:price>
+      <s:sku>47264805-australia-single-chain-caliper</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / 3 Pcs</title>
+      <s:price currency="USD">23.66</s:price>
+      <s:sku>47264805-australia-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>Australia / Single chain cutter</title>
+      <s:price currency="USD">14.28</s:price>
+      <s:sku>47264805-australia-single-chain-cutter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / Single chain pliers</title>
+      <s:price currency="USD">11.27</s:price>
+      <s:sku>47264805-china-single-chain-pliers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / Single chain caliper</title>
+      <s:price currency="USD">5.70</s:price>
+      <s:sku>47264805-china-single-chain-caliper</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / 3 Pcs</title>
+      <s:price currency="USD">17.70</s:price>
+      <s:sku>47264805-china-3-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / Single chain cutter</title>
+      <s:price currency="USD">11.27</s:price>
+      <s:sku>47264805-china-single-chain-cutter</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / 9 Pcs SI</title>
+      <s:price currency="USD">21.09</s:price>
+      <s:sku>47264805-china-9-pcs-si</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>China / 9 Pcs BL</title>
+      <s:price currency="USD">21.09</s:price>
+      <s:sku>47264805-china-9-pcs-bl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / Single chain pliers</title>
+      <s:price currency="USD">15.74</s:price>
+      <s:sku>47264805-united-states-single-chain-pliers</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832127377594</id>
+      <title>United States / Single chain caliper</title>
+      <s:price currency="USD">9.80</s:price>
+      <s:sku>47264805-united-states-single-chain-caliper</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832112074938</id>
+    <published>2021-08-31T10:05:58+05:00</published>
+    <updated>2021-08-31T10:05:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/aluminum-woodworking-drill-bits"/>
+    <title>Aluminum Woodworking Drill Bits</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1820215149.jpg?v=1630390442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.94 - 39.78
+            <a href="https://teqtool.myshopify.com/products/aluminum-woodworking-drill-bits">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Drills<br><strong>Size:</strong> 12X12X12<br><strong>Material:</strong> Aluminum alloy,plastic<br><strong>Drilling angle:</strong> 15 degree angle<br><strong>Application:</strong> Use pocket-hole plugs to create an invisible joint<br><strong>Use:</strong> Wood Drilling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 8 Pcs</title>
+      <s:price currency="USD">23.92</s:price>
+      <s:sku>38858487-china-8-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 7 Pcs</title>
+      <s:price currency="USD">17.94</s:price>
+      <s:sku>38858487-china-7-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 15 Pcs</title>
+      <s:price currency="USD">28.60</s:price>
+      <s:sku>38858487-china-15-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 14 Pcs</title>
+      <s:price currency="USD">24.82</s:price>
+      <s:sku>38858487-china-14-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 31 Pcs</title>
+      <s:price currency="USD">31.78</s:price>
+      <s:sku>38858487-china-31-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 28 Pcs</title>
+      <s:price currency="USD">23.30</s:price>
+      <s:sku>38858487-china-28-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 7 Pcs</title>
+      <s:price currency="USD">22.36</s:price>
+      <s:sku>38858487-united-states-7-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>China / 34 Pcs</title>
+      <s:price currency="USD">31.40</s:price>
+      <s:sku>38858487-china-34-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 14 Pcs</title>
+      <s:price currency="USD">27.80</s:price>
+      <s:sku>38858487-united-states-14-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 8 Pcs</title>
+      <s:price currency="USD">27.72</s:price>
+      <s:sku>38858487-united-states-8-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 28 Pcs</title>
+      <s:price currency="USD">25.68</s:price>
+      <s:sku>38858487-united-states-28-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 15 Pcs</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>38858487-united-states-15-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 34 Pcs</title>
+      <s:price currency="USD">39.78</s:price>
+      <s:sku>38858487-united-states-34-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>United States / 31 Pcs</title>
+      <s:price currency="USD">32.88</s:price>
+      <s:sku>38858487-united-states-31-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 8 Pcs</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>38858487-australia-8-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 7 Pcs</title>
+      <s:price currency="USD">20.58</s:price>
+      <s:sku>38858487-australia-7-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 15 Pcs</title>
+      <s:price currency="USD">32.16</s:price>
+      <s:sku>38858487-australia-15-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 14 Pcs</title>
+      <s:price currency="USD">27.38</s:price>
+      <s:sku>38858487-australia-14-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 31 Pcs</title>
+      <s:price currency="USD">30.08</s:price>
+      <s:sku>38858487-australia-31-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 28 Pcs</title>
+      <s:price currency="USD">23.80</s:price>
+      <s:sku>38858487-australia-28-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832112074938</id>
+      <title>Australia / 34 Pcs</title>
+      <s:price currency="USD">36.62</s:price>
+      <s:sku>38858487-australia-34-pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832109355194</id>
+    <published>2021-08-31T10:01:22+05:00</published>
+    <updated>2021-08-31T10:01:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/titanium-plated-screw-drill-bit"/>
+    <title>Titanium Plated Screw Drill Bit</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1760433916.jpg?v=1630390409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.40 - 26.00
+            <a href="https://teqtool.myshopify.com/products/titanium-plated-screw-drill-bit">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Tap<br><strong>Number of Pieces:</strong> 6<br><strong>Material:</strong> Alloy Steel<br><strong>is_customized:</strong> Yes<br><strong>Thread Direction:</strong> Right<br><strong>Number of Pieces:</strong> 6pcs<br><strong>Type:</strong> Tap</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>China / 4341 Short Gold</title>
+      <s:price currency="USD">16.40</s:price>
+      <s:sku>39928943-china-4341-short-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>Australia / 4341 Short Gold</title>
+      <s:price currency="USD">20.02</s:price>
+      <s:sku>39928943-australia-4341-short-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>United States / 4341 Long Sliver</title>
+      <s:price currency="USD">22.36</s:price>
+      <s:sku>39928943-united-states-4341-long-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>United States / 4341 Short Sliver</title>
+      <s:price currency="USD">20.82</s:price>
+      <s:sku>39928943-united-states-4341-short-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>United States / 4341 Long Gold</title>
+      <s:price currency="USD">22.58</s:price>
+      <s:sku>39928943-united-states-4341-long-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>United States / 4341 Short Gold</title>
+      <s:price currency="USD">20.62</s:price>
+      <s:sku>39928943-united-states-4341-short-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>China / 4341 Long Sliver</title>
+      <s:price currency="USD">18.96</s:price>
+      <s:sku>39928943-china-4341-long-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>China / 4341 Short Sliver</title>
+      <s:price currency="USD">18.34</s:price>
+      <s:sku>39928943-china-4341-short-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>China / 4341 Long Gold</title>
+      <s:price currency="USD">18.96</s:price>
+      <s:sku>39928943-china-4341-long-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>Australia / 4341 Long Sliver</title>
+      <s:price currency="USD">21.52</s:price>
+      <s:sku>39928943-australia-4341-long-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>Australia / 4341 Short Sliver</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>39928943-australia-4341-short-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>Australia / 4341 Long Gold</title>
+      <s:price currency="USD">21.76</s:price>
+      <s:sku>39928943-australia-4341-long-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>United States / Blue</title>
+      <s:price currency="USD">25.40</s:price>
+      <s:sku>39928943-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>China / Blue</title>
+      <s:price currency="USD">20.90</s:price>
+      <s:sku>39928943-china-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832109355194</id>
+      <title>Australia / Blue</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>39928943-australia-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://teqtool.myshopify.com/products/6832104046778</id>
+    <published>2021-08-31T09:51:19+05:00</published>
+    <updated>2021-08-31T09:51:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://teqtool.myshopify.com/products/screwdriver-bit-nozzles-tools-set"/>
+    <title>Screwdriver Bit Nozzles Tools Set</title>
+    <s:type></s:type>
+    <s:vendor>teqtool</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0597/5366/0602/products/product-image-1830370687.jpg?v=1630385483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>teqtool<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.36 - 29.64
+            <a href="https://teqtool.myshopify.com/products/screwdriver-bit-nozzles-tools-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Location Drill Bit<br><strong>Use:</strong> Wood Drilling</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832104046778</id>
+      <title>France / Yellow</title>
+      <s:price currency="USD">21.36</s:price>
+      <s:sku>47146979-france-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832104046778</id>
+      <title>China / Yellow</title>
+      <s:price currency="USD">24.96</s:price>
+      <s:sku>47146979-china-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832104046778</id>
+      <title>United States / Yellow</title>
+      <s:price currency="USD">29.64</s:price>
+      <s:sku>47146979-united-states-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://teqtool.myshopify.com/products/6832104046778</id>
+      <title>Australia / Yellow</title>
+      <s:price currency="USD">29.20</s:price>
+      <s:sku>47146979-australia-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

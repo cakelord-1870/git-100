@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://babylonic.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://babylonic.myshopify.com/collections/baby-accessories.atom"/>
+  <title>BabyLonic</title>
+  <updated>2021-09-07T09:41:11+05:00</updated>
+  <author>
+    <name>BabyLonic</name>
+  </author>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6844923936954</id>
+    <published>2021-09-07T09:41:11+05:00</published>
+    <updated>2021-09-07T09:41:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/heat-sell-baby-headband"/>
+    <title>Heat Sell Baby Headband</title>
+    <s:type>Baby Headband</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/5pcs-Pack-15cm-20cm-25cm-Lavender-Purple-Tissue-Paper-Pom-Poms-For-Baby-Birthday-Party-Wedding.jpg?v=1630990463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Baby Headband<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Chiffon<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Pattern Type:</strong> Floral<br><strong>Department Name:</strong> Baby<br><strong>Type:</strong> Headbands</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Headband</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Yellow / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>White / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>White / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Green / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-green-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Black / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Orange / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-orange-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Orange / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-orange-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Hot Pink / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-hot-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Hot Pink / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-hot-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Purple / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Purple / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Sky Blue / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-sky-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Sky Blue / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Red / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844923936954</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44513825-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6844922364090</id>
+    <published>2021-09-07T09:40:06+05:00</published>
+    <updated>2021-09-07T09:40:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/baby-props-with-headband"/>
+    <title>Baby Props With Headband</title>
+    <s:type>Baby Props With Headband</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1821174548.jpg?v=1630989610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Baby Props With Headband<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Unisex<br><strong>Material:</strong> COTTON<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Props With Headband</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Beige / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-beige-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Black / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Beige / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-beige-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Blue / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>purple / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Red / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-red-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>purple / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-purple-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>white / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Yellow / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-yellow-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>white / China</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6844922364090</id>
+      <title>Yellow / United States</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>46891895-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843761852602</id>
+    <published>2021-09-06T16:33:39+05:00</published>
+    <updated>2021-09-06T16:33:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/soft-silicone-teething-toy"/>
+    <title>Soft Silicone Teething Toy</title>
+    <s:type>Teething Toy</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1708434514.jpg?v=1630990191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Teething Toy<br>
+        <strong>Price: </strong>
+            10.00 - 16.00
+            <a href="https://babylonic.myshopify.com/products/soft-silicone-teething-toy">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Packing:</strong> Single loaded<br><strong>Material:</strong> Silicone<br><strong>Function:</strong> Teether<br><strong>Material Feature:</strong> PVC Free<br><strong>Shape:</strong> cartoon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Teething Toy</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / B</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / B</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>44078254-china-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / A</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / A</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>44078254-china-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / D</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / D</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>44078254-china-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / C</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / C</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>44078254-china-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / F</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / F</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>44078254-china-f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / E</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / E</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>44078254-china-e</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>United States / G</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>44078254-united-states-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843761852602</id>
+      <title>China / G</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>44078254-china-g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843756904634</id>
+    <published>2021-09-06T16:30:11+05:00</published>
+    <updated>2021-09-06T16:30:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/1pc-cute-ice-cream-squishy-toy"/>
+    <title>1pc Cute Ice-Cream Squishy Toy</title>
+    <s:type>Squishy Toy</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1729658462.jpg?v=1630927817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Squishy Toy<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Recommend Age:</strong> 0-6m<br><strong>Recommend Age:</strong> 7-12m<br><strong>Recommend Age:</strong> 13-24m<br><strong>Recommend Age:</strong> 25-36m<br><strong>Theme:</strong> Animals &amp; Nature</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squishy Toy</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843756904634</id>
+      <title>Random Color / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44652311-random-color-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843756904634</id>
+      <title>Random Color / United States</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44652311-random-color-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843752972474</id>
+    <published>2021-09-06T16:27:54+05:00</published>
+    <updated>2021-09-06T16:27:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/baby-feeding-apron"/>
+    <title>Baby Feeding Apron</title>
+    <s:type>Feeding Apron</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1708435024.jpg?v=1630990138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Feeding Apron<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Fashion<br><strong>Pattern Type:</strong> Cartoon<br><strong>Gender:</strong> Unisex<br><strong>Age Range:</strong> 0-3M<br><strong>Age Range:</strong> 4-6M<br><strong>Age Range:</strong> 7-9M<br><strong>Age Range:</strong> 10-12M<br><strong>Age Range:</strong> 13-18M<br><strong>Age Range:</strong> 19-24M<br><strong>Material:</strong> EVA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feeding Apron</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>L / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>K / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-k-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>M / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>L / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>J / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-j-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>I / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-i-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>K / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-k-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>J / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-j-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>N / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-n-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>M / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>N / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-n-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>D / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>E / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>D / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>B / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>B / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>H / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>G / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>I / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-i-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>H / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>F / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>E / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>G / China</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-g-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843752972474</id>
+      <title>F / United States</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>44078265-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babylonic.myshopify.com/products/6843742388410</id>
+    <published>2021-09-06T16:21:29+05:00</published>
+    <updated>2021-09-06T16:21:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babylonic.myshopify.com/products/newborn-baby-cap"/>
+    <title>Newborn Baby Cap</title>
+    <s:type>Newborn Baby Cap</s:type>
+    <s:vendor>BabyLonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/3162/3610/products/product-image-1718812483.jpg?v=1630927292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BabyLonic<br>
+        <strong>Type: </strong>Newborn Baby Cap<br>
+        <strong>Price: </strong>
+            10.99 - 12.00
+            <a href="https://babylonic.myshopify.com/products/newborn-baby-cap">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Material:</strong> COTTON<br><strong>Strap Type:</strong> Adjustable<br><strong>Gender:</strong> Unisex<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby<br><strong>Baby Age:</strong> 0-3 months<br><strong>Baby Age:</strong> 4-6 months<br><strong>Baby Age:</strong> 7-9 months<br><strong>Baby Age:</strong> 10-12 months</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Newborn Baby Cap</s:tag>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843742388410</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>44372534-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843742388410</id>
+      <title>Pink / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44372534-pink-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843742388410</id>
+      <title>White / United States</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>44372534-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babylonic.myshopify.com/products/6843742388410</id>
+      <title>White / China</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>44372534-white-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

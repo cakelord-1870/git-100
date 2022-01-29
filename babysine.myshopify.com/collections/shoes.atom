@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://babysine.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://babysine.myshopify.com/collections/shoes.atom"/>
+  <title>Babysine</title>
+  <updated>2021-09-01T12:46:15+05:00</updated>
+  <author>
+    <name>Babysine</name>
+  </author>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7083108171925</id>
+    <published>2021-09-01T12:46:15+05:00</published>
+    <updated>2021-09-01T12:46:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/newborn-baby-sneaker"/>
+    <title>Newborn Baby Sneaker</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1713229352-removebg-preview.png?v=1631941388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.26 - 17.19
+            <a href="https://babysine.myshopify.com/products/newborn-baby-sneaker">(39 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Upper Material:</strong> Cotton Fabric</span><br><span><strong>Fashion Element:</strong> Cross-tied</span><br><span><strong>Season:</strong> All seasons</span><br><span><strong>Closure Type:</strong> Lace-up</span><br><span><strong>Pattern Type:</strong> Solid</span><br><span><strong>Gender:</strong> Unisex</span><br><span><strong>Outsole Material:</strong> Rubber</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>A / 13-18 Months / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>34055161-a-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>A / 13-18 Months / China</title>
+      <s:price currency="USD">17.19</s:price>
+      <s:sku>34055161-a-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>A / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-a-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>A / 7-12 Months / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>34055161-a-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>A / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-a-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>A / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-a-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>G / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-g-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>G / 7-12 Months / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>34055161-g-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>E / 13-18 Months / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>34055161-e-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>E / 13-18 Months / China</title>
+      <s:price currency="USD">17.19</s:price>
+      <s:sku>34055161-e-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>E / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-e-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>E / 7-12 Months / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>34055161-e-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>E / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-e-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>E / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-e-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>D / 13-18 Months / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>34055161-d-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>D / 13-18 Months / China</title>
+      <s:price currency="USD">17.19</s:price>
+      <s:sku>34055161-d-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>G / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-g-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>G / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-g-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>F / 13-18 Months / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>34055161-f-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>F / 13-18 Months / China</title>
+      <s:price currency="USD">17.19</s:price>
+      <s:sku>34055161-f-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>F / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-f-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>F / 7-12 Months / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>34055161-f-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>F / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-f-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>F / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-f-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>C / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-c-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>C / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-c-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>34055161-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>B / 13-18 Months / China</title>
+      <s:price currency="USD">17.19</s:price>
+      <s:sku>34055161-b-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>B / 7-12 Months / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>34055161-b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>B / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>D / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-d-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>D / 0-6 Months / United States</title>
+      <s:price currency="USD">10.26</s:price>
+      <s:sku>34055161-d-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>D / 0-6 Months / China</title>
+      <s:price currency="USD">15.45</s:price>
+      <s:sku>34055161-d-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>C / 13-18 Months / United States</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>34055161-c-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>C / 13-18 Months / China</title>
+      <s:price currency="USD">17.19</s:price>
+      <s:sku>34055161-c-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>C / 7-12 Months / United States</title>
+      <s:price currency="USD">11.61</s:price>
+      <s:sku>34055161-c-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7083108171925</id>
+      <title>C / 7-12 Months / China</title>
+      <s:price currency="USD">16.32</s:price>
+      <s:sku>34055161-c-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7082801365141</id>
+    <published>2021-09-01T11:10:12+05:00</published>
+    <updated>2021-09-01T11:10:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/kids-children-soft-sole-toddler-shoes"/>
+    <title>Kids Children Soft Sole Toddler Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1619971732.jpg?v=1630478544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> All seasons<br><strong>Item Type:</strong> casual shoes<br><strong>Outsole Material:</strong> Rubber<br><strong>Fashion Element:</strong> Shallow<br><strong>Upper Material:</strong> Canvas<br><strong>Closure Type:</strong> Lace-up<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>A / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-a-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>A / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-a-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>B / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-b-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>D / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-d-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>D / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-d-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>E / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-e-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>E / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-e-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>F / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-f-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>A / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-a-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>F / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-f-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>G / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-g-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>A / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-a-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>G / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-g-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>A / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-a-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>H / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-h-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>H / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-h-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>I / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-i-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>I / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-i-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>J / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-j-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>J / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-j-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>E / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-e-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>D / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-d-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>E / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-e-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>E / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-e-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>D / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-d-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>C / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-c-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>D / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-d-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>D / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-d-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>C / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-c-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>C / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-c-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>C / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-c-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>B / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-b-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>A / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-a-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>B / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-b-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>I / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-i-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>H / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-h-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>I / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-i-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>I / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-i-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>H / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-h-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>G / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-g-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>H / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-h-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>H / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-h-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>G / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-g-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>F / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-f-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>G / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-g-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>G / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-g-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>F / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-f-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>E / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-e-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>F / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-f-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>F / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-f-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>J / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-j-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>I / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-i-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082801365141</id>
+      <title>J / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>41647368-j-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7082788880533</id>
+    <published>2021-09-01T11:06:24+05:00</published>
+    <updated>2021-09-01T11:06:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/fashion-baby-casual-shoes"/>
+    <title>Fashion Baby  Casual Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1484869322.jpg?v=1630478617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Four Seasons<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Item Type:</strong> casual shoes<br><strong>Outsole Material:</strong> Rubber<br><strong>Fashion Element:</strong> Fringe<br><strong>Upper Material:</strong> Canvas<br><strong>Closure Type:</strong> Buckle Strap<br><strong>Pattern Type:</strong> Solid<br><strong>Department Name:</strong> Baby</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>GRAY / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-gray-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>GRAY / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-gray-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>GRAY / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-gray-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>GRAY / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-gray-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>GRAY / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-gray-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Brown / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-brown-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Brown / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-brown-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Brown / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-brown-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Pink / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-pink-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Red / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-red-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Red / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-red-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Red / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-red-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Red / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-red-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Red / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-red-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Red / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-red-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>GRAY / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-gray-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>green / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-green-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>green / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-green-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>green / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-green-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Pink / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-pink-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Pink / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-pink-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Pink / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-pink-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Pink / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-pink-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Pink / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-pink-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>green / 13-18 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-green-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>green / 13-18 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-green-13-18-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>green / 7-12 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-green-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Brown / 7-12 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-brown-7-12-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Brown / 0-6 Months / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-brown-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082788880533</id>
+      <title>Brown / 0-6 Months / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>38948638-brown-0-6-months-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://babysine.myshopify.com/products/7082784817301</id>
+    <published>2021-09-01T11:04:53+05:00</published>
+    <updated>2021-09-01T11:04:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://babysine.myshopify.com/products/summer-baby-flower-sneaker-shoes"/>
+    <title>Summer Baby Flower Sneaker Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Babysine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/2806/9781/products/product-image-1718413821.jpg?v=1631943113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babysine<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Spring &amp; Autumn<br><strong>Gender:</strong> Baby Girls<br><strong>Age Range:</strong> 13-24m<br><strong>Upper Material:</strong> Canvas<br><strong>Fashion Element:</strong> Flower<br><strong>Closure Type:</strong> Slip-On<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Item Type:</strong> First Walkers<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>A / 13-18 Months / CN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-a-13-18-months-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>A / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-a-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>A / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-a-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>B / 0-6 Months / CN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-b-0-6-months-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>B / 7-12 Months / CN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-b-7-12-months-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>B / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-b-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>B / 13-18 Months / CN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-b-13-18-months-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>B / 7-12 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-b-7-12-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>A / 0-6 Months / CN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-a-0-6-months-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>B / 13-18 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-b-13-18-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>A / 7-12 Months / CN</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-a-7-12-months-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://babysine.myshopify.com/products/7082784817301</id>
+      <title>A / 0-6 Months / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>44361167-a-0-6-months-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

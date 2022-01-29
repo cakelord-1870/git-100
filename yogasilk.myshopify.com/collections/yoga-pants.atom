@@ -1,0 +1,3445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yogasilk.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yogasilk.myshopify.com/collections/yoga-pants.atom"/>
+  <title>YogaSilk</title>
+  <updated>2021-09-29T14:41:37+05:00</updated>
+  <author>
+    <name>YogaSilk</name>
+  </author>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+    <published>2021-09-29T14:41:37+05:00</published>
+    <updated>2021-09-29T14:41:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/women-seamless-yoga-pants"/>
+    <title>Women Seamless Yoga Pants</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1594957754.jpg?v=1632910307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            13.70 - 29.16
+            <a href="https://yogasilk.myshopify.com/products/women-seamless-yoga-pants">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Nylon90%, Spandex10%<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Light Purple / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-light-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Light Purple / S / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-light-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Light Purple / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-light-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Light Purple / M / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-light-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Light Purple / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-light-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Light Purple / L / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-light-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow / L / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Green / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Green / M / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Green / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Green / L / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow / S / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow / M / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Green / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Green / S / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Bean paste color / M / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-bean-paste-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Bean paste color / M / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-bean-paste-color-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Bean paste color / L / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-bean-paste-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Bean paste color / L / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-bean-paste-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Navy blue / S / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-navy-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Navy blue / S / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-navy-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Navy blue / M / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-navy-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Navy blue / M / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-navy-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Royal Blue / S / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-royal-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Royal Blue / S / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-royal-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Royal Blue / M / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-royal-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Royal Blue / M / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-royal-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Royal Blue / L / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-royal-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Royal Blue / L / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-royal-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Bean paste color / S / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-bean-paste-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Bean paste color / S / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-bean-paste-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray 2 / S / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-gray-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray 2 / S / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-gray-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray 2 / M / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-gray-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray 2 / M / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-gray-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray 2 / L / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-gray-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Gray 2 / L / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-gray-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>41144378-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">17.40</s:price>
+      <s:sku>41144378-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Navy blue / L / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-navy-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Navy blue / L / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-navy-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow 2 / S / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-yellow-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow 2 / S / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-yellow-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow 2 / M / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-yellow-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow 2 / M / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-yellow-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow 2 / L / United States</title>
+      <s:price currency="USD">26.62</s:price>
+      <s:sku>41144378-yellow-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297154351267</id>
+      <title>Yellow 2 / L / China</title>
+      <s:price currency="USD">13.70</s:price>
+      <s:sku>41144378-yellow-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+    <published>2021-09-29T14:38:16+05:00</published>
+    <updated>2021-09-29T14:38:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/high-waist-yoga-pants-1"/>
+    <title>High Waist Yoga Pants</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1500408343.jpg?v=1632910326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            18.72 - 21.54
+            <a href="https://yogasilk.myshopify.com/products/high-waist-yoga-pants-1">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Polyester92%, Spandex8%</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>39390669-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>39390669-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>39390669-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>39390669-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>39390669-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>39390669-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">19.58</s:price>
+      <s:sku>39390669-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297146454179</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>39390669-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+    <published>2021-09-29T14:34:19+05:00</published>
+    <updated>2021-09-29T14:34:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/push-up-leggings"/>
+    <title>Push Up Leggings</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1644864712.jpg?v=1632908095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            8.38 - 27.20
+            <a href="https://yogasilk.myshopify.com/products/push-up-leggings">(88 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Polyester92%, Spandex8%<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-black-with-pockets-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-black-with-pockets-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-black-with-pockets-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-black-with-pockets-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-black-with-pockets-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-black-with-pockets-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-black-with-pockets-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black-with pockets / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-black-with-pockets-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-red-with-pockets-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-red-with-pockets-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-red-with-pockets-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-red-with-pockets-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-red-with-pockets-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-red-with-pockets-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-red-with-pockets-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red-with pockets / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-red-with-pockets-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-blue-with-pockets-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-blue-with-pockets-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-blue-with-pockets-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-blue-with-pockets-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-blue-with-pockets-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-blue-with-pockets-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-blue-with-pockets-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue-with pockets / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-blue-with-pockets-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-gray-with-pockets-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-gray-with-pockets-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-gray-with-pockets-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-gray-with-pockets-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-gray-with-pockets-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-gray-with-pockets-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-gray-with-pockets-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray-with pockets / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-gray-with-pockets-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">8.38</s:price>
+      <s:sku>42316507-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">8.38</s:price>
+      <s:sku>42316507-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">8.38</s:price>
+      <s:sku>42316507-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">8.38</s:price>
+      <s:sku>42316507-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-navy-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-navy-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-navy-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-navy-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-navy-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-navy-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-navy-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Navy Blue / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-navy-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42316507-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / XL / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>42316507-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">21.54</s:price>
+      <s:sku>42316507-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / XL / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-with-pockets-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-pink-with-pockets-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / L / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-with-pockets-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-pink-with-pockets-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / M / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-with-pockets-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-pink-with-pockets-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / S / China</title>
+      <s:price currency="USD">15.44</s:price>
+      <s:sku>42316507-pink-with-pockets-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297135870115</id>
+      <title>Pink-with pockets / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42316507-pink-with-pockets-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+    <published>2021-09-29T14:31:10+05:00</published>
+    <updated>2021-09-29T14:31:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/rushed-butt-lifting-yoga-pants"/>
+    <title>Rushed Butt Lifting Yoga Pants</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1637285467.jpg?v=1632910349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            21.32 - 27.20
+            <a href="https://yogasilk.myshopify.com/products/rushed-butt-lifting-yoga-pants">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Polyester92%, Spandex8%<br><strong>Type:</strong> Yoga Leggings, Leggings Sport Women Fitness</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">21.32</s:price>
+      <s:sku>42112477-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>42112477-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297125744803</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112477-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+    <published>2021-09-29T14:27:57+05:00</published>
+    <updated>2021-09-29T14:27:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/women-yoga-pants"/>
+    <title>Women Yoga Pants</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1637302735.jpg?v=1632907682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            15.22 - 27.20
+            <a href="https://yogasilk.myshopify.com/products/women-yoga-pants">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Polyester92%, Spandex8%<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">27.20</s:price>
+      <s:sku>42112865-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297115259043</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">15.22</s:price>
+      <s:sku>42112865-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+    <published>2021-09-29T14:24:22+05:00</published>
+    <updated>2021-09-29T14:24:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/women-high-waisted-yoga-pants"/>
+    <title>Women High Waisted Yoga Pants</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1752778446.jpg?v=1632910506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            14.36 - 29.16
+            <a href="https://yogasilk.myshopify.com/products/women-high-waisted-yoga-pants">(96 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Polyester92%, Elastan8%<br><strong>Type:</strong> Yoga Leggings, Leggings Sport Women Fitness<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-pink-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-pink-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-pink-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-pink-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-pink-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-pink-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-blue-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-pink-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink 2 / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-pink-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-blue-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-blue-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-blue-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-blue-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-white-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / L / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-white-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-white-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / XL / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-white-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-white-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / S / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-white-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / M / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-white-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>White Gray / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-white-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / S / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / M / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-black-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-black-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-black-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-black-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-black-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-black-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / XL / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-black-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Black 2 / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-black-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / L / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / M / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / XL / China</title>
+      <s:price currency="USD">14.36</s:price>
+      <s:sku>45066835-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green / L / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>45066835-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-navy-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-rose-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-navy-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-navy-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-rose-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-rose-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-rose-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-rose-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-rose-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-rose-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Rose Red / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-rose-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-blue-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-green-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-blue-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Blue 2 / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-blue-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-green-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-green-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-green-2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-green-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / S / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-green-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / XL / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-navy-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / M / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-green-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Green 2 / S / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-green-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / L / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-navy-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / M / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-navy-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / XL / China</title>
+      <s:price currency="USD">17.62</s:price>
+      <s:sku>45066835-navy-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297104609443</id>
+      <title>Navy Blue / L / United States</title>
+      <s:price currency="USD">29.16</s:price>
+      <s:sku>45066835-navy-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+    <published>2021-09-29T14:17:57+05:00</published>
+    <updated>2021-09-29T14:17:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/women-tummy-control-yoga-pants"/>
+    <title>Women Tummy Control Yoga Pants</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1676846442.jpg?v=1632910531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            19.39 - 24.48
+            <a href="https://yogasilk.myshopify.com/products/women-tummy-control-yoga-pants">(31 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Gender:</strong> WOMEN<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Polyester92%, Spandex8%<br><strong>Type:</strong> Yoga Leggings, Leggings Sport Women Fitness<br><strong>Features:</strong> Anti-pilling, Elastic, Breathable, Slim, no fade, Soft, Skin-friendly</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tummy Control</s:tag>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">19.39</s:price>
+      <s:sku>42168398-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / S / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / XL / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Gray / XL / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / XL / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / L / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / M / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / XL / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">24.48</s:price>
+      <s:sku>42168398-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297085145251</id>
+      <title>Black / XL / China</title>
+      <s:price currency="USD">22.72</s:price>
+      <s:sku>42168398-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+    <published>2021-09-29T14:13:12+05:00</published>
+    <updated>2021-09-29T14:13:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogasilk.myshopify.com/products/yoga-pants-for-women"/>
+    <title>Yoga Pants For Women</title>
+    <s:type>Yoga Pants</s:type>
+    <s:vendor>YogaSilk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/6138/4867/products/product-image-1719009699.jpg?v=1632910554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>YogaSilk<br>
+        <strong>Type: </strong>Yoga Pants<br>
+        <strong>Price: </strong>
+            14.69 - 21.87
+            <a href="https://yogasilk.myshopify.com/products/yoga-pants-for-women">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Closure Type:</strong> Elastic Waist<br><strong>Material:</strong> Polyester<br><strong>Gender:</strong> WOMEN<br><strong>Sport Type:</strong> Yoga<br><strong>Pant Length:</strong> Full Length<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Item Type:</strong> Full Length<br><strong>Material:</strong> Nylon90%, Spandex10%</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Pants</s:tag>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow 2 / M / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-yellow-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow 2 / S / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-yellow-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow 2 / L / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-yellow-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow 2 / M / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-yellow-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow 2 / L / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-yellow-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Navy blue / S / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-navy-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Bean paste color / L / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-bean-paste-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Navy blue / M / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-navy-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Navy blue / S / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-navy-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Navy blue / L / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-navy-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Navy blue / M / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-navy-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow 2 / S / China</title>
+      <s:price currency="USD">14.69</s:price>
+      <s:sku>38739872-yellow-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Navy blue / L / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-navy-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Royal Blue / L / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-royal-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Royal Blue / M / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-royal-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Bean paste color / S / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-bean-paste-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Royal Blue / L / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-royal-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Bean paste color / M / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-bean-paste-color-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Bean paste color / S / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-bean-paste-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Bean paste color / L / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-bean-paste-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Bean paste color / M / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-bean-paste-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray 2 / M / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-gray-2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray 2 / S / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-gray-2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray 2 / L / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-gray-2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray 2 / M / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-gray-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Royal Blue / S / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-royal-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray 2 / L / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-gray-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Royal Blue / M / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-royal-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Royal Blue / S / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-royal-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Black / S / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Black / M / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Black / L / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray 2 / S / China</title>
+      <s:price currency="USD">17.46</s:price>
+      <s:sku>38739872-gray-2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">19.97</s:price>
+      <s:sku>38739872-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Light Purple / L / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-light-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Light Purple / M / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-light-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Blue / S / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Light Purple / L / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-light-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Blue / M / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Blue / L / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Red / M / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Red / L / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Light Purple / S / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-light-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Light Purple / M / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-light-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Light Purple / S / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-light-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow / S / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-yellow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Green / L / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow / M / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-yellow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow / L / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-yellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Red / S / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray / L / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray / M / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Green / S / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray / L / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Green / M / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Green / S / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Green / L / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Green / M / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray / S / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray / M / China</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>38739872-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogasilk.myshopify.com/products/7297069973667</id>
+      <title>Gray / S / United States</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>38739872-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

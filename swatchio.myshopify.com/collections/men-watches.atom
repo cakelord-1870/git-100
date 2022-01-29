@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://swatchio.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://swatchio.myshopify.com/collections/men-watches.atom"/>
+  <title>Swatchio</title>
+  <updated>2021-08-12T14:48:51+05:00</updated>
+  <author>
+    <name>Swatchio</name>
+  </author>
+  <entry>
+    <id>https://swatchio.myshopify.com/products/6897645093049</id>
+    <published>2021-08-12T14:48:51+05:00</published>
+    <updated>2021-08-12T14:48:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/products/fashion-mens-watches"/>
+    <title>Fashion Mens Watches</title>
+    <s:type></s:type>
+    <s:vendor>Swatchio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1660/8953/products/product-image-1650443086.jpg?v=1628762919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swatchio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Band Length:</strong> 24.5cmcm<br><strong>Style:</strong> Fashion &amp; Casual<br><strong>Movement:</strong> QUARTZ<br><strong>Certification:</strong> NONE<br><strong>Clasp Type:</strong> Buckle<br><strong>Case Material:</strong> Alloy<br><strong>Case Thickness:</strong> 8mmmm<br><strong>Case Shape:</strong> Round<br><strong>Feature:</strong> Water Resistant<br><strong>Feature:</strong> None</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>H / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-h-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>E / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>E / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>A / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>G / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-g-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>C / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>C / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>H / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>D / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>F / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>F / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>G / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>B / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>I / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-i-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>I / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-i-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>D / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>B / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897645093049</id>
+      <title>A / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42462111-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://swatchio.myshopify.com/products/6897642897593</id>
+    <published>2021-08-12T14:47:16+05:00</published>
+    <updated>2021-08-12T14:47:16+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/products/quartz-men-watches-stainless-steel"/>
+    <title>Quartz Men Watches Stainless Steel</title>
+    <s:type></s:type>
+    <s:vendor>Swatchio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1660/8953/products/product-image-1692011588.jpg?v=1628761743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swatchio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Band Length:</strong> 23.5cm<br><strong>Style:</strong> Fashion &amp; Casual<br><strong>Movement:</strong> QUARTZ<br><strong>Certification:</strong> NONE<br><strong>Clasp Type:</strong> Leather Deployment Bucket<br><strong>Case Material:</strong> Alloy<br><strong>Case Thickness:</strong> 8mm<br><strong>Band Material Type:</strong> Leather<br><strong>Dial Diameter:</strong> 38.5mm<br><strong>Case Shape:</strong> Round<br><strong>Feature:</strong> None</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>F / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>F / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>E / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-e-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>E / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>D / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-d-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>D / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>C / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>C / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>B / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>B / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>A / China</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897642897593</id>
+      <title>A / United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43642748-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://swatchio.myshopify.com/products/6897639325881</id>
+    <published>2021-08-12T14:43:42+05:00</published>
+    <updated>2021-08-12T14:43:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/products/comfort-belt-quartz-watch"/>
+    <title>Comfort Belt Quartz Watch</title>
+    <s:type></s:type>
+    <s:vendor>Swatchio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1660/8953/products/product-image-1679747654.jpg?v=1628761427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swatchio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br><strong>Band Length:</strong> 23cmcm<br><strong>Style:</strong> Business<br><strong>Movement:</strong> QUARTZ<br><strong>Certification:</strong> NONE<br><strong>Clasp Type:</strong> Buckle<br><strong>Case Material:</strong> Alloy<br><strong>Case Thickness:</strong> 10mmmm<br><strong>Dial Diameter:</strong> 42mmmm<br><strong>Band Width:</strong> 20mmmm<br><strong>Case Shape:</strong> Round<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>GN / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-gn-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>GN / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-gn-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>RD / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-rd-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>RD / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-rd-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>BU / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-bu-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>BU / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-bu-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>WT / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-wt-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>WT / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-wt-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>YL / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-yl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897639325881</id>
+      <title>YL / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43287093-yl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://swatchio.myshopify.com/products/6897637785785</id>
+    <published>2021-08-12T14:42:22+05:00</published>
+    <updated>2021-08-12T14:42:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/products/luxury-watch-men-leather-watch"/>
+    <title>Luxury Watch Men Leather Watch</title>
+    <s:type></s:type>
+    <s:vendor>Swatchio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1660/8953/products/product-image-1639341154.jpg?v=1628761346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swatchio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Band Length:</strong> 23cmcm<br><strong>Style:</strong> Fashion &amp; Casual<br><strong>Movement:</strong> QUARTZ<br><strong>Certification:</strong> NONE<br><strong>Clasp Type:</strong> Bracelet Clasp<br><strong>Case Material:</strong> Alloy<br><strong>Case Thickness:</strong> 6mmmm<br><strong>Band Material Type:</strong> PU<br><strong>Band Width:</strong> 20mmmm<br><strong>Case Shape:</strong> Round<br><strong>Feature:</strong> None</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897637785785</id>
+      <title>C / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42169836-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897637785785</id>
+      <title>C / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42169836-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897637785785</id>
+      <title>B / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42169836-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897637785785</id>
+      <title>B / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42169836-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897637785785</id>
+      <title>A / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42169836-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897637785785</id>
+      <title>A / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42169836-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://swatchio.myshopify.com/products/6897635098809</id>
+    <published>2021-08-12T14:39:45+05:00</published>
+    <updated>2021-08-12T14:39:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/products/luxury-men-watch"/>
+    <title>Luxury Men Watch</title>
+    <s:type></s:type>
+    <s:vendor>Swatchio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1660/8953/products/product-image-1681558688.jpg?v=1628763411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swatchio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Band Length:</strong> 26.5cmcm<br><strong>Style:</strong> Fashion &amp; Casual<br><strong>Movement:</strong> QUARTZ<br><strong>Certification:</strong> NONE<br><strong>Case Material:</strong> Alloy<br><strong>Case Thickness:</strong> 7mmmm<br><strong>Dial Diameter:</strong> 45mmmm<br><strong>Band Width:</strong> 20mmmm<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897635098809</id>
+      <title>Black / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43339693-black-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897635098809</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43339693-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897635098809</id>
+      <title>Coffee / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43339693-coffee-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897635098809</id>
+      <title>Brown / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43339693-brown-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897635098809</id>
+      <title>Brown / United States</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43339693-brown-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897635098809</id>
+      <title>Coffee / China</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>43339693-coffee-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://swatchio.myshopify.com/products/6897629593785</id>
+    <published>2021-08-12T14:34:55+05:00</published>
+    <updated>2021-08-12T14:34:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://swatchio.myshopify.com/products/men-watches-luxury-leather-strap"/>
+    <title>Men Watches Luxury Leather Strap</title>
+    <s:type></s:type>
+    <s:vendor>Swatchio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1660/8953/products/product-image-1669580357.jpg?v=1628763341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swatchio<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Band Length:</strong> 25.3cmcm<br><strong>Style:</strong> Fashion &amp; Casual<br><strong>Movement:</strong> QUARTZ<br><strong>Certification:</strong> NONE<br><strong>Water Resistance Depth:</strong> No waterproof<br><strong>Clasp Type:</strong> Buckle<br><strong>Case Material:</strong> Alloy<br><strong>Case Thickness:</strong> 9mmmm<br><strong>Dial Window Material Type:</strong> Glass<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897629593785</id>
+      <title>C / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43004055-c-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897629593785</id>
+      <title>A / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43004055-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897629593785</id>
+      <title>A / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43004055-a-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://swatchio.myshopify.com/products/6897629593785</id>
+      <title>C / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>43004055-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

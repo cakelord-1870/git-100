@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yogatasticco.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yogatasticco.myshopify.com/collections/yoga-bras.atom"/>
+  <title>Yogatasticco</title>
+  <updated>2021-06-01T12:44:48+05:00</updated>
+  <author>
+    <name>Yogatasticco</name>
+  </author>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+    <published>2021-06-01T12:44:48+05:00</published>
+    <updated>2021-06-01T12:44:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/leopard-printed-yoga-bra"/>
+    <title>Leopard printed yoga bra</title>
+    <s:type>Bra</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1643118687.jpg?v=1622534252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Bra<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Yoga<br><strong>Closure Type:</strong> YES<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> nylon<br><strong>feature:</strong> quick dry<br><strong>material:</strong> polyester/spandex/cotton<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>sport type:</strong> yoga bra/sports bra<br><strong>color:</strong> black/pink/blue/white/green/wine red<br><strong>size:</strong> 85B-100C</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga bra</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 44 100C</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 44 100B</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 42 95C</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-42-95c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 42 95B    XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 40 90C    L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 38 85C   S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-38-85c-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 2 / 38 85B  XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-2-united-states-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 44 100C</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-44-100c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 44 100B</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-44-100b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 42 95B    XL</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-42-95b-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 40 90C    L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-40-90c-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813159063705</id>
+      <title>leopard 1 / 38 85B  XS</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>42269124-leopard-1-united-states-38-85b-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+    <published>2021-06-01T12:43:25+05:00</published>
+    <updated>2021-06-01T12:43:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/top-fashion-yoga-bra"/>
+    <title>Top Fashion Yoga Bra</title>
+    <s:type>Bra</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1712192954.jpg?v=1622534345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Bra<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sports Type:</strong> Fitness<br><strong>Closure Type:</strong> no<br><strong>Feature:</strong> Breathable<br><strong>Material:</strong> polyster<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga bra</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style D black / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-d-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C beige / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-beige-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C greypurple / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-greypurple-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C black / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-black-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>KHAKI / Asian size 2XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-khaki-united-states-asian-size-2xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>Style C yellow / Asian size M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-style-c-yellow-united-states-asian-size-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813155197081</id>
+      <title>KHAKI / Asian size XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>42282683-khaki-united-states-asian-size-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+    <published>2021-06-01T12:31:30+05:00</published>
+    <updated>2021-06-01T12:31:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yogatasticco.myshopify.com/products/fitness-sports-yoga-suits"/>
+    <title>Fitness Sports yoga Suits</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Yogatasticco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0570/9132/6105/products/product-image-1501955933.jpg?v=1622539819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yogatasticco<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Gender:</strong> WOMEN<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Anti-Pilling<br><strong>Feature:</strong> Anti-Shrink<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Compressed<br><strong>Feature:</strong> Quick Dry<br><strong>Color:</strong> Blue, Purple, White, Gray, Pink, WineRed, Khaki<br><strong>Yoga Set:</strong> Leggings and bra top 2pcs yoga clothing<br><strong>Sport Suit Women:</strong> Seamless leggings + Yoga bra sport wear<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga suits</s:tag>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Purple / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Purple / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Gray / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Gray / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Gray / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-gray-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>White / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>White / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>White / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-white-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Purple / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-purple-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Blue / L (Waist 68-74 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-l-waist-68-74-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Blue / S (Waist 60-66 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-s-waist-60-66-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yogatasticco.myshopify.com/products/6813129506969</id>
+      <title>Blue / M (Waist 64-70 cm)</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>39435585-blue-m-waist-64-70-cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

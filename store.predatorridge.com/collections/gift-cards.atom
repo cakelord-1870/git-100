@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://store.predatorridge.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://store.predatorridge.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://store.predatorridge.com/collections/gift-cards.atom"/>
+  <title>The Predator Ridge Shop Online</title>
+  <updated>2020-01-31T16:32:03-08:00</updated>
+  <author>
+    <name>The Predator Ridge Shop Online</name>
+  </author>
+  <entry>
+    <id>https://store.predatorridge.com/products/3559865476</id>
+    <published>2020-01-31T16:32:03-08:00</published>
+    <updated>2020-01-31T16:32:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://store.predatorridge.com/products/predator-ridge-resort-gift-card"/>
+    <title>Predator Ridge Resort Gift Card</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Predator Ridge Resort</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0214/1698/products/Gift_Cards.jpg?v=1610035252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Predator Ridge Resort<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            50.00 - 1000.00
+            <a href="https://store.predatorridge.com/products/predator-ridge-resort-gift-card">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Select from a variety of denominations.</span></p>
+<p><span>The perfect gift for every golfer, give the gift of a Predator Ridge gift card.  Good for use at any of our onsite amenities including golf green fees, dining at either of our restaurants, accommodation bookings, shopping in The Shop or at <meta charset="utf-8">Commonage Market and more. Available in a variety of denominations to make the perfect gift. <br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift</s:tag>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$50</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$100</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$150</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$200</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$250</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$300</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$400</title>
+      <s:price currency="CAD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$500</title>
+      <s:price currency="CAD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$750</title>
+      <s:price currency="CAD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://store.predatorridge.com/products/3559865476</id>
+      <title>$1000</title>
+      <s:price currency="CAD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

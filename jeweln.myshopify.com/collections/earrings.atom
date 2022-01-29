@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://jeweln.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://jeweln.myshopify.com/collections/earrings.atom"/>
+  <title>Jeweln</title>
+  <updated>2021-09-01T11:39:43+05:00</updated>
+  <author>
+    <name>Jeweln</name>
+  </author>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838957113524</id>
+    <published>2021-09-01T11:39:43+05:00</published>
+    <updated>2021-09-01T11:39:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/c-shape-twist-croissant-earrings"/>
+    <title>C Shape Twist Croissant Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1640700802.jpg?v=1630478413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.50 - 13.00
+            <a href="https://jeweln.myshopify.com/products/c-shape-twist-croissant-earrings">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Size (Length * Width):</strong> 20mm * 15mm<br><strong>Earring Type:</strong> Hoop Earrings<br><strong>Style:</strong> TRENDY<br><strong>Item Type:</strong> Earrings<br><strong>Shape\pattern:</strong> Round<br><strong>Material:</strong> Metal<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>Round-silver / China</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>42207203-round-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>Round-silver / United States</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>42207203-round-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>DoubleC-gold / China</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>42207203-doublec-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>DoubleC-gold / United States</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>42207203-doublec-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>C shape-gold / China</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>42207203-c-shape-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>C shape-gold / United States</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>42207203-c-shape-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>C shape-silver / China</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>42207203-c-shape-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>C shape-silver / United States</title>
+      <s:price currency="USD">11.25</s:price>
+      <s:sku>42207203-c-shape-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>Round-gold / China</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>42207203-round-gold-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838957113524</id>
+      <title>Round-gold / United States</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>42207203-round-gold-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838946496692</id>
+    <published>2021-09-01T11:29:35+05:00</published>
+    <updated>2021-09-01T11:29:35+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/korean-style-large-hoop-earrings"/>
+    <title>Korean Style Large Hoop Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1632634779.jpg?v=1630477778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Gender:</strong> Women<br><strong>Size (Length * Width):</strong> 72mm * 45mm<br><strong>Earring Type:</strong> Hoop Earrings<br><strong>Style:</strong> TRENDY<br><strong>Item Type:</strong> Earrings<br><strong>Shape\pattern:</strong> Round<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Type:</strong> Hoop Earrings<br><strong>Style:</strong> Big Circle Earrings</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838946496692</id>
+      <title>Small / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41979054-small-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838946496692</id>
+      <title>Big / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41979054-big-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838946496692</id>
+      <title>Small / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41979054-small-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838946496692</id>
+      <title>Big / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>41979054-big-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838945644724</id>
+    <published>2021-09-01T11:28:37+05:00</published>
+    <updated>2021-09-01T11:28:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/minimalist-women-earrings"/>
+    <title>Minimalist Women Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1631739331.jpg?v=1630477720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Gender:</strong> Women<br><strong>Size (Length * Width):</strong> 25mm*18mm<br><strong>Earring Type:</strong> Hoop Earrings<br><strong>Style:</strong> Classic<br><strong>Item Type:</strong> Earrings<br><strong>Shape\pattern:</strong> Round<br><strong>Material:</strong> Metal<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Color:</strong> Gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838945644724</id>
+      <title>Gold Plated / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41954603-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838945644724</id>
+      <title>Gold Plated / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41954603-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838945644724</id>
+      <title>Silver Plated / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41954603-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838945644724</id>
+      <title>Silver Plated / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>41954603-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838943514804</id>
+    <published>2021-09-01T11:27:18+05:00</published>
+    <updated>2021-09-01T11:27:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/women-round-hoop-earrings"/>
+    <title>Women Round Hoop Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1815099490.jpg?v=1630477641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Zinc Alloy<br><strong>Gender:</strong> Women<br><strong>Size (Length * Width):</strong> 27mm * 20mm<br><strong>Earring Type:</strong> Hoop Earrings<br><strong>Style:</strong> TRENDY<br><strong>Shape\pattern:</strong> PLANT<br><strong>Material:</strong> Metal<br><strong>Fine or Fashion:</strong> Fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838943514804</id>
+      <title>As the picture / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>46731463-as-the-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838943514804</id>
+      <title>As the picture / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>46731463-as-the-picture-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838940991668</id>
+    <published>2021-09-01T11:25:40+05:00</published>
+    <updated>2021-09-01T11:25:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/simplicity-round-stainless-steel-earrings"/>
+    <title>Simplicity Round Stainless Steel Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1664907171.jpg?v=1630478168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Style:</strong> Classic<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Item Type:</strong> Earrings<br><strong>Earring Type:</strong> Drop Earrings<br><strong>Shape\pattern:</strong> Round<br><strong>Material:</strong> Metal<br><strong>Gender:</strong> Women<br><strong>Color:</strong> Gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940991668</id>
+      <title>Silver Plated / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41304600-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940991668</id>
+      <title>Silver Plated / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41304600-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940991668</id>
+      <title>Gold Plated / China</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41304600-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940991668</id>
+      <title>Gold Plated / United States</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>41304600-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838940270772</id>
+    <published>2021-09-01T11:24:27+05:00</published>
+    <updated>2021-09-01T11:24:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/lotus-vintage-earrings"/>
+    <title>Lotus Vintage Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1771114745.jpg?v=1630477470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Copper<br><strong>Earring Type:</strong> Stud Earrings<br><strong>Item Type:</strong> Earrings<br><strong>Shape\pattern:</strong> PLANT<br><strong>Gender:</strong> Women<br><strong>Style:</strong> TRENDY<br><strong>Material:</strong> Metal<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Back Finding:</strong> Push-back<br><strong>Color:</strong> Gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940270772</id>
+      <title>Silver Plated / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45560403-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940270772</id>
+      <title>Silver Plated / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45560403-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940270772</id>
+      <title>Gold Plated / United States</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45560403-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838940270772</id>
+      <title>Gold Plated / China</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>45560403-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838939353268</id>
+    <published>2021-09-01T11:23:04+05:00</published>
+    <updated>2021-09-01T11:23:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/heart-hoop-earrings"/>
+    <title>Heart Hoop Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1665815150.jpg?v=1630477387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Gender:</strong> Women<br><strong>Size (Length * Width):</strong> 20mm * 15mm<br><strong>Earring Type:</strong> Hoop Earrings<br><strong>Style:</strong> Classic<br><strong>Item Type:</strong> Earrings<br><strong>Shape\pattern:</strong> Heart<br><strong>Material:</strong> Metal<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Color:</strong> Gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838939353268</id>
+      <title>Gold Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42899025-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838939353268</id>
+      <title>Gold Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42899025-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838939353268</id>
+      <title>Silver Plated / United Kingdom</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42899025-silver-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838939353268</id>
+      <title>Silver Plated / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42899025-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838939353268</id>
+      <title>Silver Plated / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>42899025-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://jeweln.myshopify.com/products/6838938599604</id>
+    <published>2021-09-01T11:21:38+05:00</published>
+    <updated>2021-09-01T11:21:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://jeweln.myshopify.com/products/stainless-steel-hook-earrings"/>
+    <title>Stainless Steel Hook Earrings</title>
+    <s:type></s:type>
+    <s:vendor>Jeweln</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0594/1152/9908/products/product-image-1687875362.jpg?v=1630477303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jeweln<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Metals Type:</strong> Stainless Steel<br><strong>Earring Type:</strong> Stud Earrings<br><strong>Item Type:</strong> Earrings<br><strong>Shape\pattern:</strong> Irregular<br><strong>Gender:</strong> Women<br><strong>Style:</strong> TRENDY<br><strong>Material:</strong> Metal<br><strong>Fine or Fashion:</strong> Fashion<br><strong>Back Finding:</strong> Push-back<br><strong>Color:</strong> Gold,Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838938599604</id>
+      <title>Silver Plated / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43528508-silver-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838938599604</id>
+      <title>Silver Plated / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43528508-silver-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838938599604</id>
+      <title>Silver Plated / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43528508-silver-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838938599604</id>
+      <title>Gold Plated / United Kingdom</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43528508-gold-plated-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838938599604</id>
+      <title>Gold Plated / United States</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43528508-gold-plated-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://jeweln.myshopify.com/products/6838938599604</id>
+      <title>Gold Plated / China</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>43528508-gold-plated-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

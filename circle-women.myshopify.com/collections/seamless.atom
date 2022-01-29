@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://circle-women.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://circle-women.myshopify.com/collections/seamless.atom"/>
+  <title>Circle Women</title>
+  <updated>2020-07-29T02:54:38-04:00</updated>
+  <author>
+    <name>Circle Women</name>
+  </author>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495839228068</id>
+    <published>2020-07-29T02:54:38-04:00</published>
+    <updated>2020-07-29T02:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/high-waist-workout-shorts-vital-seamless"/>
+    <title>High Waist Workout Shorts Vital Seamless</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1434810620.jpg?v=1596005686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> WOMEN<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Item Type:</strong> Shorts<br><strong>Sport Type:</strong> Yoga<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pattern Type:</strong> DOT<br><strong>Color:</strong> Black, Purple, Pink, Gray blue,sky blue, wine red,khaki , coral red<br><strong>Size:</strong> S, M, L<br><strong>Yoga Shorts:</strong> Seamless Sports shorts<br><strong>Seamless shorts:</strong> High Waist workout shorts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>purple / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-purple-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>purple / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-purple-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>purple / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-purple-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>pink / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>pink / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>pink / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>blue gray / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-blue-gray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>blue gray / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-blue-gray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>blue gray / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-blue-gray-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>black / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>black / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>black / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>sky blue / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-sky-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>wine red / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-wine-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>sky blue / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-sky-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>sky blue / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-sky-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>wine red / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-wine-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>wine red / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-wine-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>light green / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-light-green-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>light green / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-light-green-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>light green / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-light-green-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>khaki green / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-khaki-green-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>khaki green / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-khaki-green-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>khaki green / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-khaki-green-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>coral red / S</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-coral-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>coral red / M</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-coral-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495839228068</id>
+      <title>coral red / L</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>33607700-coral-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495835394212</id>
+    <published>2020-07-29T02:53:55-04:00</published>
+    <updated>2020-07-29T02:53:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/women-safety-shorts-pants-seamless"/>
+    <title>Women Safety Shorts Pants Seamless</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1435042234.jpg?v=1596005642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Nylon<br><strong>Material:</strong> Spandex<br><strong>Feature:</strong> Seamless<br><strong>Feature:</strong> Plus Size<br><strong>Feature:</strong> Breathable<br><strong>Feature:</strong> Slimming<br><strong>Item Type:</strong> Safety Short Pants<br><strong>Gender:</strong> WOMEN<br><strong>Obscene Picture:</strong> No<br><strong>Sexually Suggestive:</strong> No<br><strong>Size:</strong> M , L , XL<br><strong>Color:</strong> Skin , Black , White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Black / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Black / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Black / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Skin / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520skin-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Skin / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520skin-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Skin / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520skin-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520White / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520White / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520White / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Black / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520White / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1520Skin / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1520skin-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Skin / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361skin-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Skin / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361skin-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Skin / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361skin-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Skin / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361skin-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Black / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Black / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Black / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Black / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Gray / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361gray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Gray / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361gray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Gray / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361gray-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1361Gray / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1361gray-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Gray / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362gray-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Gray / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362gray-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Gray / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362gray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Gray / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362gray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Skin / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362skin-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Skin / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362skin-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Skin / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362skin-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Skin / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362skin-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Black / XL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Black / XXL</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Black / M</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495835394212</id>
+      <title>1362Black / L</title>
+      <s:price currency="USD">12.58</s:price>
+      <s:sku>20555351-1362black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://circle-women.myshopify.com/products/5495831232676</id>
+    <published>2020-07-29T02:53:12-04:00</published>
+    <updated>2020-07-29T02:53:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://circle-women.myshopify.com/products/women-yoga-shorts-sports-running"/>
+    <title>Women Yoga Shorts Sports Running</title>
+    <s:type></s:type>
+    <s:vendor>Circle Women</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0440/3691/5364/products/product-image-1424927344.jpg?v=1596005597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Circle Women<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Gender:</strong> WOMEN</span><br><span><strong>Material:</strong> Nylon</span><br><span><strong>Material:</strong> Spandex</span><br><span><strong>Item Type:</strong> Shorts</span><br><span><strong>Sport Type:</strong> Yoga</span><br><span><strong>Fit:</strong> Fits true to size, take your normal size</span><br><span><strong>Fabric Type:</strong> Broadcloth</span><br><span><strong>Pattern Type:</strong> Solid</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Black / S</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-gray-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Green / S</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-green-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Green / M</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-green-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Green / L</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-green-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Black / M</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Black / L</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-gray-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-gray-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Purple / M</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-purple-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Purple / L</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-purple-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-pink-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-pink-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-pink-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://circle-women.myshopify.com/products/5495831232676</id>
+      <title>Purple / S</title>
+      <s:price currency="USD">16.80</s:price>
+      <s:sku>31750887-purple-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

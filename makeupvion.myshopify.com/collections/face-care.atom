@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makeupvion.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makeupvion.myshopify.com/collections/face-care.atom"/>
+  <title>Makeupvion</title>
+  <updated>2021-09-13T14:33:51+05:00</updated>
+  <author>
+    <name>Makeupvion</name>
+  </author>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855297040570</id>
+    <published>2021-09-13T14:33:51+05:00</published>
+    <updated>2021-09-13T14:33:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/green-tea-clean-ice-muscle-mud-mask"/>
+    <title>Green Tea Clean Ice Muscle Mud Mask</title>
+    <s:type>Mud Mask</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1705461965.jpg?v=1631525632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Mud Mask<br>
+        <strong>Price: </strong>
+            7.99 - 12.99
+            <a href="https://makeupvion.myshopify.com/products/green-tea-clean-ice-muscle-mud-mask">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Washable Mask<br><strong>Use:</strong> Whole Face<br><strong>Gender:</strong> Unisex<br><strong>Number of Pieces:</strong> One Unit<br><strong>Formulation:</strong> MUD<br><strong>Feature:</strong> Whitening<br><strong>Feature:</strong> Acne Treatment<br><strong>Feature:</strong> Oil-control<br><strong>Item Type:</strong> Treatment &amp; Mask<br><strong>NET WT:</strong> 100g<br><strong>Ingredient:</strong> Blackhead Green Tea Mask<br><strong>Item Name:</strong> Green Tea Mask<br><strong>Type:</strong> Blackhead Mask<br><strong>Feature1:</strong> Pore Clean Masks<br><strong>Feature2:</strong> Nose Blackhead Removal<br><strong>Usage:</strong> Pore Masks<br><strong>Function:</strong> Facial Deep Cleansing<br><strong>Suitable for:</strong> T Area Skin Care<br><strong>Application:</strong> Pore Shrink Strip<br><strong>Occasion1:</strong> Remove Blackhead<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mud Mask</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855297040570</id>
+      <title>China</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>43999496-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855297040570</id>
+      <title>United States</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>43999496-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+    <published>2021-09-13T14:30:25+05:00</published>
+    <updated>2021-09-13T14:30:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/deep-clean-green-tea-face-mask"/>
+    <title>Deep Clean Green Tea Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1659744263.jpg?v=1631534361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            9.32 - 17.98
+            <a href="https://makeupvion.myshopify.com/products/deep-clean-green-tea-face-mask">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Washable Mask<br><strong>Use:</strong> Whole Face<br><strong>Number of Pieces:</strong> One Unit<br><strong>Formulation:</strong> MUD<br><strong>Feature:</strong> Whitening<br><strong>Feature:</strong> Acne Treatment<br><strong>Feature:</strong> Oil-control<br><strong>Item Type:</strong> Treatment &amp; Mask<br><strong>NET WT:</strong> 90g<br><strong>Ingredient:</strong> Blackhead Green Tea Mask<br><strong>Item Name:</strong> Green Tea Mask<br><strong>Type:</strong> Blackhead Mask<br><strong>Usage:</strong> Pore Masks<br><strong>Function:</strong> Facial Deep Cleansing<br><strong>Suitable for:</strong> T Area Skin Care<br><strong>Application:</strong> Pore Shrink Strip<br><strong>Occasion1:</strong> Remove Blackhead<br><strong>Occasion2:</strong> Comedone Absorption</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>China / Green</title>
+      <s:price currency="USD">9.32</s:price>
+      <s:sku>42723638-china-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United States / Green</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>42723638-united-states-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>China / Purple</title>
+      <s:price currency="USD">9.32</s:price>
+      <s:sku>42723638-china-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United States / Purple</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>42723638-united-states-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United Kingdom / Green</title>
+      <s:price currency="USD">17.10</s:price>
+      <s:sku>42723638-united-kingdom-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United Kingdom / Purple</title>
+      <s:price currency="USD">17.10</s:price>
+      <s:sku>42723638-united-kingdom-purple</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>China / Bamboo Charcoal</title>
+      <s:price currency="USD">9.98</s:price>
+      <s:sku>42723638-china-bamboo-charcoal</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United States / Bamboo Charcoal</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>42723638-united-states-bamboo-charcoal</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United Kingdom / Bamboo Charcoal</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>42723638-united-kingdom-bamboo-charcoal</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United Kingdom / Vitamin C</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>42723638-united-kingdom-vitamin-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>China / Vitamin C</title>
+      <s:price currency="USD">9.98</s:price>
+      <s:sku>42723638-china-vitamin-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855292059834</id>
+      <title>United States / Vitamin C</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>42723638-united-states-vitamin-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855279968442</id>
+    <published>2021-09-13T14:24:57+05:00</published>
+    <updated>2021-09-13T14:24:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/whitening-moisturizing-day-cream"/>
+    <title>Whitening Moisturizing Day Cream</title>
+    <s:type>Day Cream</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1778187901.jpg?v=1631534387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Day Cream<br>
+        <strong>Price: </strong>
+            15.38 - 18.68
+            <a href="https://makeupvion.myshopify.com/products/whitening-moisturizing-day-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Unisex<br><strong>Number of Pieces:</strong> One Unit<br><strong>NET WT:</strong> 40g<br><strong>Item Type:</strong> Cream<br><strong>Use:</strong> Face<br><strong>Feature:</strong> Whitening</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Day Cream</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855279968442</id>
+      <title>China</title>
+      <s:price currency="USD">15.38</s:price>
+      <s:sku>45744631-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855279968442</id>
+      <title>United States</title>
+      <s:price currency="USD">18.68</s:price>
+      <s:sku>45744631-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855271841978</id>
+    <published>2021-09-13T14:21:37+05:00</published>
+    <updated>2021-09-13T14:21:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/40g-green-tea-peeling-tearing-face-mask"/>
+    <title>40g Green Tea Peeling Tearing Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1734592956.jpg?v=1631534395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            13.18 - 13.56
+            <a href="https://makeupvion.myshopify.com/products/40g-green-tea-peeling-tearing-face-mask">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Peel Mask<br><strong>Use:</strong> Whole Face<br><strong>Number of Pieces:</strong> One Unit<br><strong>Formulation:</strong> Gel<br><strong>Item Type:</strong> Treatment &amp; Mask<br><strong>NET WT:</strong> 40g<br><strong>Function:</strong> Deep Cleansing, Moisturizing<br><strong>type:</strong> Green Tea Cleansing mask<br><strong>style:</strong> peeling blackhead mask<br><strong>feature:</strong> remove blackhead</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855271841978</id>
+      <title>China</title>
+      <s:price currency="USD">13.56</s:price>
+      <s:sku>39412777-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855271841978</id>
+      <title>United States</title>
+      <s:price currency="USD">13.18</s:price>
+      <s:sku>39412777-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855271841978</id>
+      <title>United Kingdom</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>39412777-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+    <published>2021-09-13T14:18:51+05:00</published>
+    <updated>2021-09-13T14:18:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/peel-off-24k-gold-face-mask"/>
+    <title>Peel Off 24K Gold Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/product-image-1501428452.jpg?v=1631534445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            12.99 - 26.98
+            <a href="https://makeupvion.myshopify.com/products/peel-off-24k-gold-face-mask">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Peel Mask<br><strong>Use:</strong> Whole Face<br><strong>Gender:</strong> Unisex<br><strong>Formulation:</strong> Gel<br><strong>Feature:</strong> Acne Treatment<br><strong>Feature:</strong> Anti-Aging<br><strong>Feature:</strong> Moisturizing<br><strong>Feature:</strong> Oil-control<br><strong>Feature:</strong> Pigmentation Corrector<br><strong>Feature:</strong> Whitening<br><strong>Feature:</strong> Depth Replenishment<br><strong>Item Type:</strong> Treatment &amp; Mask<br><strong>NET WT:</strong> 60g<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Mask</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>United States / A1</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>39419989-united-states-a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>China / A1</title>
+      <s:price currency="USD">13.98</s:price>
+      <s:sku>39419989-china-a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>United States / A3</title>
+      <s:price currency="USD">26.98</s:price>
+      <s:sku>39419989-united-states-a3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>China / A3</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>39419989-china-a3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>United Kingdom / A1</title>
+      <s:price currency="USD">13.42</s:price>
+      <s:sku>39419989-united-kingdom-a1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>United States / A2</title>
+      <s:price currency="USD">19.04</s:price>
+      <s:sku>39419989-united-states-a2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>China / A2</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>39419989-china-a2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>United Kingdom / A2</title>
+      <s:price currency="USD">15.98</s:price>
+      <s:sku>39419989-united-kingdom-a2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855266369722</id>
+      <title>United Kingdom / A3</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>39419989-united-kingdom-a3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makeupvion.myshopify.com/products/6855255523514</id>
+    <published>2021-09-13T14:13:34+05:00</published>
+    <updated>2021-09-13T14:13:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makeupvion.myshopify.com/products/blackhead-removal-peel-off-mask"/>
+    <title>Blackhead Removal Peel Off Mask</title>
+    <s:type>Mask</s:type>
+    <s:vendor>Makeupvion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0600/4660/6522/products/3.jpg?v=1631534677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Makeupvion<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Peel Mask<br><strong>Use:</strong> T Zone<br><strong>Gender:</strong> Female<br><strong>Number of Pieces:</strong> One Unit<br><strong>Formulation:</strong> MUD<br><strong>Feature:</strong> Whitening<br><strong>Feature:</strong> Acne Treatment<br><strong>Feature:</strong> Oil-control<br><strong>Item Type:</strong> Treatment &amp; Mask<br><strong>NET WT:</strong> 30g<br><strong>Ingredient:</strong> Blackhead Mask<br><strong>Item Name:</strong> Nose Mask Paste<br><strong>Type:</strong> Blackhead Mask<br><strong>Usage:</strong> Pore Masks<br><strong>Function:</strong> Facial Deep Cleansing<br><strong>Suitable for:</strong> T Area Skin Care<br><strong>Application:</strong> Pore Shrink Strip</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blackhead Removal</s:tag>
+    <s:tag>Mask</s:tag>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855255523514</id>
+      <title>United States</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>41482291-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855255523514</id>
+      <title>China</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>41482291-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makeupvion.myshopify.com/products/6855255523514</id>
+      <title>United Kingdom</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>41482291-united-kingdom</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

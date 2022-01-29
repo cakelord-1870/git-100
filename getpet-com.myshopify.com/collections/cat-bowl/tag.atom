@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://getpet-com.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://getpet-com.myshopify.com/collections/cat-bowl.atom"/>
+  <title>Getpet.com</title>
+  <updated>2021-04-30T10:59:45+05:00</updated>
+  <author>
+    <name>Getpet.com</name>
+  </author>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+    <published>2021-04-30T10:59:45+05:00</published>
+    <updated>2021-04-30T10:59:45+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/safeguard-feeding-bowl"/>
+    <title>Safeguard Feeding Bowl</title>
+    <s:type>Bowl</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1698115128.jpg?v=1619762426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Bowl<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> cats<br><strong>Type:</strong> Single<br><strong>Material:</strong> Stainless Steel<br><strong>heightening:</strong> cat eating<br><strong>color:</strong> white/blue/pink/black/green<br><strong>durable:</strong> Rubber strips<br><strong>Travel Bowl:</strong> Water Bow</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bowl</s:tag>
+    <s:tag>Cat Bowl</s:tag>
+    <s:tag>Pet Bowl</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>pink / 400ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-pink-400ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>pink / 200ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-pink-200ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>white / 800ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-white-800ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>white / 400ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-white-400ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>white / 200ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-white-200ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>green / 800ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-green-800ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>green / 400ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-green-400ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>green / 200ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-green-200ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>blue / 800ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-blue-800ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>blue / 400ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-blue-400ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>blue / 200ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-blue-200ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>black / 800ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-black-800ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>black / 400ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-black-400ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>black / 200ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-black-200ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550546127</id>
+      <title>pink / 800ML</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38884069-pink-800ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548957757647</id>
+    <published>2021-03-15T16:24:50+05:00</published>
+    <updated>2021-03-15T16:24:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/mascotas-cat-bowl-water-and-food-dish"/>
+    <title>Mascotas Cat Bowl Water and Food Dish</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1438570507.jpg?v=1619763548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548957757647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37702523-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+    <published>2021-03-15T15:06:33+05:00</published>
+    <updated>2021-03-15T15:06:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/feeder-and-water-dispenser-for-pet"/>
+    <title>Feeder and Water Dispenser for Pet</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1641132084_17ac8bfd-bf45-46bc-b49c-029c7cd75421.jpg?v=1617877876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.32 - 37.99
+            <a href="https://getpet-com.myshopify.com/products/feeder-and-water-dispenser-for-pet">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Max Output:</strong> 300g<br><strong>Material:</strong> Plastic<br><strong>Min Output:</strong> 100g<br><strong>Power Source:</strong> Gravity<br><strong>Volume:</strong> 3.8L<br><strong>Item Type:</strong> Food Storage<br><strong>Volume:</strong> 3.8L<br><strong>Type:</strong> Dogs<br><strong>Key Word:</strong> Dog Cat Drinking Bowl<br><strong>Suit:</strong> cat,dog</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Pink Water Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-pink-water-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Blue Water Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-blue-water-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Marble Gray Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-marble-gray-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Green Food Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-green-food-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Black Water Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-black-water-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Creamy-white Water / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-creamy-white-water-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Marble Gray Water / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-marble-gray-water-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Blue Food Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-blue-food-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Creamy-white Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-creamy-white-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Pink Food Feeder / United States</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>42218749-pink-food-feeder-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548893139151</id>
+      <title>Style2 water feed / United States</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>42218749-style2-water-feed-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548892647631</id>
+    <published>2021-03-15T14:59:53+05:00</published>
+    <updated>2021-03-15T14:59:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/food-scale-cup-feeding-bowl-with-led-display"/>
+    <title>LED Display Feeding Bowl</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1631001595.jpg?v=1617878744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Food Scale Cup<br><strong>Volume:</strong> 800g<br><strong>Volume:</strong> 250ml<br><strong>Material:</strong> Plastic<br><strong>Item Type:</strong> Food Measuring Spoon<br><strong>Name:</strong> Pet Food Scale Cup<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548892647631</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>38725231-light-yellow-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

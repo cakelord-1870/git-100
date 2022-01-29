@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://clothingcaster.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://clothingcaster.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://clothingcaster.myshopify.com/collections/glasses.atom"/>
+  <title>ClothingCaster </title>
+  <updated>2021-03-11T16:32:07+05:00</updated>
+  <author>
+    <name>ClothingCaster </name>
+  </author>
+  <entry>
+    <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+    <published>2021-03-11T16:32:07+05:00</published>
+    <updated>2021-03-11T16:32:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://clothingcaster.myshopify.com/products/polarized-mens-sun-glasses"/>
+    <title>Polarized Men&apos;s Sun Glasses</title>
+    <s:type></s:type>
+    <s:vendor>ClothingCaster </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0552/4697/9246/products/product-image-1614284102.jpg?v=1615462454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ClothingCaster <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> MEN<br><strong>Style:</strong> Pilot<br><strong>Department Name:</strong> Adult<br><strong>Frame Material:</strong> Plastic Titanium<br><strong>Lenses Optical Attribute:</strong> Mirror<br><strong>Lenses Optical Attribute:</strong> UV400<br><strong>Lenses Optical Attribute:</strong> Anti-reflective<br><strong>Lenses Optical Attribute:</strong> Polarized<br><strong>Lenses Optical Attribute:</strong> Gradient<br><strong>Eyewear Type:</strong> Sunglasses<br><strong>Lens Height:</strong> 51mm<br><strong>Lenses Material:</strong> TAC<br><strong>Item Type:</strong> Eyewear<br><strong>Lens Width:</strong> 60mm<br><strong>Lens:</strong> Gradient Polarized Lens<br><strong>UV:</strong> UV400 Protection<br><strong>Mirror:</strong> Blue Silver<br><strong>Custom Optical:</strong> Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Black Gradient Gray / Russian Federation</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-black-gradient-gray-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Black Gradient Gray / China</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-black-gradient-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Gradient Gray / Russian Federation</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-gradient-gray-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Gradient Gray / China</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-gradient-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Blue / Russian Federation</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-blue-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Blue / China</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-blue-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Tea / Russian Federation</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-tea-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Tea / China</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-tea-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Silver / China</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-silver-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Gray / China</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-gray-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Blue / United States</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Blue / SPAIN</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-blue-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Gray / United States</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Gray / SPAIN</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-gray-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Silver / Belgium</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-silver-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Silver / United States</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-silver-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Silver / SPAIN</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-silver-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Tea / United States</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-tea-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Tea / SPAIN</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-tea-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gold Gradient Gray / Belgium</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gold-gradient-gray-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Black Gradient Gray / Belgium</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-black-gradient-gray-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Black Gradient Gray / United States</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-black-gradient-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Black Gradient Gray / SPAIN</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-black-gradient-gray-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Blue / Belgium</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-blue-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Gradient Gray / Belgium</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-gradient-gray-belgium</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Gradient Gray / United States</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-gradient-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Gradient Gray / SPAIN</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-gradient-gray-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649914542</id>
+      <title>Gun Gradient Gray / Poland</title>
+      <s:price currency="USD">20.98</s:price>
+      <s:sku>16464185-gun-gradient-gray-poland</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+    <published>2021-03-11T16:32:06+05:00</published>
+    <updated>2021-03-11T16:32:06+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://clothingcaster.myshopify.com/products/barcur-hot-black-goggle-male-round-sunglasses-luxury-brand-men-glasses-retro-vintage-women-sun-glasses-uv400-eyewear"/>
+    <title>Round Shaped Goggle</title>
+    <s:type></s:type>
+    <s:vendor>ClothingCaster </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0552/4697/9246/products/product-image-1602136626.jpg?v=1615462509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ClothingCaster <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Gender:</strong> MEN</span><br><span><strong>Style:</strong> ROUND</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Frame Material:</strong> Aluminium Magnesium</span><br><span><strong>Lenses Optical Attribute:</strong> UV400</span><br><span><strong>Lenses Optical Attribute:</strong> Anti-reflective</span><br><span><strong>Lenses Optical Attribute:</strong> Polarized</span><br><span><strong>Eyewear Type:</strong> Sunglasses</span><br><span><strong>Lens Height:</strong> 50mm</span><br><span><strong>Lenses Material:</strong> Polaroid</span><br><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Lens Width:</strong> 55mm</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+      <title>Coffee</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>6968363-coffee-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+      <title>Black</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>6968363-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+      <title>Black 1</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>6968363-black-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+      <title>Gun</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>6968363-gun-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+      <title>Gun 1</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>6968363-gun-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649881774</id>
+      <title>Coffee 1</title>
+      <s:price currency="USD">23.04</s:price>
+      <s:sku>6968363-coffee-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+    <published>2021-03-11T16:32:05+05:00</published>
+    <updated>2021-03-11T16:32:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://clothingcaster.myshopify.com/products/kdeam-revamp-of-sport-men-sunglasses-polarized-shockingly-colors-sun-glasses-outdoor-driving-photochromic-sunglass-with-box"/>
+    <title>Men Polarized Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>ClothingCaster </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0552/4697/9246/products/product-image-1434330247.jpg?v=1615462871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ClothingCaster <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.82 - 17.58
+            <a href="https://clothingcaster.myshopify.com/products/kdeam-revamp-of-sport-men-sunglasses-polarized-shockingly-colors-sun-glasses-outdoor-driving-photochromic-sunglass-with-box">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Gender:</strong> MEN</span><br><span><strong>Style:</strong> Square</span><br><span><strong>Department Name:</strong> Adult</span><br><span><strong>Frame Material:</strong> Acetate</span><br><span><strong>Lenses Optical Attribute:</strong> UV400</span><br><span><strong>Lenses Optical Attribute:</strong> Anti-reflective</span><br><span><strong>Lenses Optical Attribute:</strong> Polarized</span><br><span><strong>Eyewear Type:</strong> Sunglasses</span><br><span><strong>Lens Height:</strong> 4.2cm</span><br><span><strong>Lenses Material:</strong> Polycarbonate</span><br><span><strong>Item Type:</strong> Eyewear</span><br><span><strong>Lens Width:</strong> 5.8cm</span><br><span><strong>Bridge Width:</strong> 1.5cm</span><br><span><strong>Temple Length:</strong> 13.7cm</span><br><span><strong>Total Width:</strong> 14.5cm</span><br><span><strong>Suitable for face:</strong> Round face, Oval face, Squared face, Long face</span><br><span><strong>Package include:</strong> Recycled Box, Soft Pouch, Clean Cloth, Polarized test card</span><br><span><strong>Apply To:</strong> Surfing-Riding-Driving-Sports-Shopping-Daily</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C15</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c15-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C11</title>
+      <s:price currency="USD">17.58</s:price>
+      <s:sku>17627589-c11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C12</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C17</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c17-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C18</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C16</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c16-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C14</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c14-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C19</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C22</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c22-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C23</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c23-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C2</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C3</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C1</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C28</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c28-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C6</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C4</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C9</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C10</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556649849006</id>
+      <title>C7</title>
+      <s:price currency="USD">15.82</s:price>
+      <s:sku>17627589-c7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+    <published>2021-03-11T16:05:03+05:00</published>
+    <updated>2021-03-11T16:05:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://clothingcaster.myshopify.com/products/retro-round-frame-glasses"/>
+    <title>Retro Round Frame Glasses</title>
+    <s:type></s:type>
+    <s:vendor>ClothingCaster </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0552/4697/9246/products/product-image-1689003952.png?v=1615460709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ClothingCaster <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.90 - 22.70
+            <a href="https://clothingcaster.myshopify.com/products/retro-round-frame-glasses">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lenses Material:</strong> Polycarbonate<br><strong>Gender:</strong> Male<br><strong>Lens Width:</strong> 2mm<br><strong>Lens Height:</strong> 5cm<br><strong>Frame Material:</strong> ALLOY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Ordinary lens bronze</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>41068326-united-states-ordinary-lens-bronze</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Ordinary lens bronze</title>
+      <s:price currency="USD">14.90</s:price>
+      <s:sku>41068326-united-kingdom-ordinary-lens-bronze</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Antiblue light black</title>
+      <s:price currency="USD">16.60</s:price>
+      <s:sku>41068326-united-kingdom-antiblue-light-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Antiblue light black</title>
+      <s:price currency="USD">22.70</s:price>
+      <s:sku>41068326-united-states-antiblue-light-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Anti-blue light gold</title>
+      <s:price currency="USD">16.60</s:price>
+      <s:sku>41068326-united-kingdom-anti-blue-light-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Ordinary lens gold</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>41068326-united-states-ordinary-lens-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Ordinary lens gray</title>
+      <s:price currency="USD">14.90</s:price>
+      <s:sku>41068326-united-kingdom-ordinary-lens-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Ordinary lens gray</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>41068326-united-states-ordinary-lens-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Ordinary lens black</title>
+      <s:price currency="USD">14.90</s:price>
+      <s:sku>41068326-united-kingdom-ordinary-lens-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Ordinary lens black</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>41068326-united-states-ordinary-lens-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Ordinary lens gold</title>
+      <s:price currency="USD">14.90</s:price>
+      <s:sku>41068326-united-kingdom-ordinary-lens-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Antiblue lightsilver</title>
+      <s:price currency="USD">16.60</s:price>
+      <s:sku>41068326-united-kingdom-antiblue-lightsilver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Antiblue lightsilver</title>
+      <s:price currency="USD">22.70</s:price>
+      <s:sku>41068326-united-states-antiblue-lightsilver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Anti-blue light gold</title>
+      <s:price currency="USD">22.70</s:price>
+      <s:sku>41068326-united-states-anti-blue-light-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United Kingdom / Anti-blue light gray</title>
+      <s:price currency="USD">16.60</s:price>
+      <s:sku>41068326-united-kingdom-anti-blue-light-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://clothingcaster.myshopify.com/products/6556635529390</id>
+      <title>United States / Anti-blue light gray</title>
+      <s:price currency="USD">22.70</s:price>
+      <s:sku>41068326-united-states-anti-blue-light-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

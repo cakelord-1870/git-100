@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://uptown-babies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://uptown-babies.myshopify.com/collections/clothes.atom"/>
+  <title>UpTown Babies</title>
+  <updated>2021-09-04T16:33:24+05:00</updated>
+  <author>
+    <name>UpTown Babies</name>
+  </author>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+    <published>2021-09-04T16:33:24+05:00</published>
+    <updated>2021-09-04T16:33:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/simple-style-short-sleeve-jumpsuit"/>
+    <title>Simple Style Short Sleeve Jumpsuit</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1637320439.jpg?v=1630755290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Gender:</strong> Male<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> Turn-down Collar<br><strong>Closure Type:</strong> Single Breasted<br><strong>Item Type:</strong> Rompers<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Material Composition:</strong> Cotton Blend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>6M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>18M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>12M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>24M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883872211123</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+    <published>2021-09-04T16:29:19+05:00</published>
+    <updated>2021-09-04T16:29:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/kids-flower-striped-long-sleeves-romper"/>
+    <title>Kids Flower Striped Long Sleeves Romper</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1630147990.jpg?v=1630755339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Pattern Type:</strong> Floral<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Item Type:</strong> Rompers<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Material Composition:</strong> cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>12M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>3M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>3M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>6M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>9M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883866017971</id>
+      <title>9M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>41910920-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+    <published>2021-09-04T16:27:53+05:00</published>
+    <updated>2021-09-04T16:27:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/3pcs-infant-girls-outfit"/>
+    <title>3Pcs Infant Girls Outfit</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1669889317.jpg?v=1630755502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Pullover<br><strong>Model Number:</strong> Set<br><strong>Material:</strong> COTTON<br><strong>Gender:</strong> Girls<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Sleeve Style:</strong> Regular<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Outerwear Type:</strong> Coat<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Children</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883863920819</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">13.45</s:price>
+      <s:sku>43013484-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+    <published>2021-09-04T16:25:28+05:00</published>
+    <updated>2021-09-04T16:25:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/newborn-sleeveless-rompers"/>
+    <title>Newborn Sleeveless Rompers</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1637199431.jpg?v=1630755511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Item Type:</strong> Rompers<br><strong>Sleeve Length(cm):</strong> Sleeveless<br><strong>Model Number:</strong> single<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Material Composition:</strong> Cotton Blend</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 3M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 3M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 3M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 3M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 18M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 24M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 6M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 12M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 12M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 18M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 3M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 6M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 3M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 6M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 24M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 3M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 12M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>C / 18M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-c-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 24M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 3M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 12M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 18M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 18M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 24M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 6M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 12M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 6M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 12M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 24M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 3M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 3M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>E / 6M / China</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-e-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 18M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883861070003</id>
+      <title>D / 24M / United States</title>
+      <s:price currency="USD">12.88</s:price>
+      <s:sku>42109854-d-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+    <published>2021-09-04T16:23:33+05:00</published>
+    <updated>2021-09-04T16:23:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/newborn-baby-girls-clothes"/>
+    <title>Newborn Baby Girls Clothes</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1637193212.jpg?v=1630755515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.32 - 86.07
+            <a href="https://uptown-babies.myshopify.com/products/newborn-baby-girls-clothes">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Unisex<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Pullover<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>24M / China</title>
+      <s:price currency="USD">86.07</s:price>
+      <s:sku>42109691-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">83.91</s:price>
+      <s:sku>42109691-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">86.07</s:price>
+      <s:sku>42109691-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>6M / China</title>
+      <s:price currency="USD">79.32</s:price>
+      <s:sku>42109691-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>12M / China</title>
+      <s:price currency="USD">81.61</s:price>
+      <s:sku>42109691-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">79.32</s:price>
+      <s:sku>42109691-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>18M / China</title>
+      <s:price currency="USD">83.91</s:price>
+      <s:sku>42109691-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883858710707</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">81.61</s:price>
+      <s:sku>42109691-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+    <published>2021-09-04T16:22:03+05:00</published>
+    <updated>2021-09-04T16:22:03+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uptown-babies.myshopify.com/products/infant-baby-boy-girl-clothes"/>
+    <title>Infant Baby / Boy Girl Clothes</title>
+    <s:type></s:type>
+    <s:vendor>UpTown Babies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0599/7700/7283/products/product-image-1621030389.jpg?v=1630755519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UpTown Babies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Unisex<br><strong>Age Range:</strong> 0-6m<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Item Type:</strong> Rompers<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Fit:</strong> Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>Newborn / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-newborn-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>Newborn / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-newborn-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>3M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>12M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>18M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>3M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uptown-babies.myshopify.com/products/6883856515251</id>
+      <title>6M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

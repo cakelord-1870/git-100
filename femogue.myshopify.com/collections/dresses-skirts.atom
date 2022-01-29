@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://femogue.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://femogue.myshopify.com/collections/dresses-skirts.atom"/>
+  <title>Femogue</title>
+  <updated>2021-09-20T15:47:46+05:00</updated>
+  <author>
+    <name>Femogue</name>
+  </author>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682665710</id>
+    <published>2021-09-20T15:47:46+05:00</published>
+    <updated>2021-09-20T15:47:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/black-lace-high-waist-skirts"/>
+    <title>Black Lace High Waist Skirts</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1840160912.jpg?v=1632134874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50 - 40.05
+            <a href="https://femogue.myshopify.com/products/black-lace-high-waist-skirts">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silhouette:</strong> A-LINE<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Decoration:</strong> Lace<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Elegant fashion<br><strong>Elegant Fashion:</strong> Office Lady</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">29.97</s:price>
+      <s:sku>42503062-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">18.93</s:price>
+      <s:sku>42503062-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">29.58</s:price>
+      <s:sku>42503062-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">17.73</s:price>
+      <s:sku>42503062-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">29.19</s:price>
+      <s:sku>42503062-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>42503062-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">40.05</s:price>
+      <s:sku>42503062-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">26.70</s:price>
+      <s:sku>42503062-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">26.70</s:price>
+      <s:sku>42503062-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">40.05</s:price>
+      <s:sku>42503062-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">26.70</s:price>
+      <s:sku>42503062-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682665710</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">40.05</s:price>
+      <s:sku>42503062-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682632942</id>
+    <published>2021-09-20T15:46:21+05:00</published>
+    <updated>2021-09-20T15:46:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/high-waist-pleated-girls-clothing"/>
+    <title>High Waist Pleated Girls Clothing</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1652661300.jpg?v=1632134788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.92 - 51.80
+            <a href="https://femogue.myshopify.com/products/high-waist-pleated-girls-clothing">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silhouette:</strong> Pleated<br><strong>Material:</strong> Polyester<br><strong>Decoration:</strong> NONE<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Elegant fashion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">30.35</s:price>
+      <s:sku>42524454-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>42524454-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">30.52</s:price>
+      <s:sku>42524454-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">14.32</s:price>
+      <s:sku>42524454-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / XL / China</title>
+      <s:price currency="USD">30.73</s:price>
+      <s:sku>42524454-b-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">15.02</s:price>
+      <s:sku>42524454-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / XL / United States</title>
+      <s:price currency="USD">15.72</s:price>
+      <s:sku>42524454-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">30.52</s:price>
+      <s:sku>42524454-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">14.32</s:price>
+      <s:sku>42524454-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">30.73</s:price>
+      <s:sku>42524454-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">15.02</s:price>
+      <s:sku>42524454-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / XS / China</title>
+      <s:price currency="USD">29.93</s:price>
+      <s:sku>42524454-b-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">15.72</s:price>
+      <s:sku>42524454-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">30.14</s:price>
+      <s:sku>42524454-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>B / XS / United States</title>
+      <s:price currency="USD">12.92</s:price>
+      <s:sku>42524454-b-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / XS / China</title>
+      <s:price currency="USD">29.93</s:price>
+      <s:sku>42524454-a-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">30.14</s:price>
+      <s:sku>42524454-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / XS / United States</title>
+      <s:price currency="USD">12.92</s:price>
+      <s:sku>42524454-a-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">30.35</s:price>
+      <s:sku>42524454-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">13.58</s:price>
+      <s:sku>42524454-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / XL / China</title>
+      <s:price currency="USD">51.80</s:price>
+      <s:sku>42524454-c-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / XL / United States</title>
+      <s:price currency="USD">27.09</s:price>
+      <s:sku>42524454-c-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / L / China</title>
+      <s:price currency="USD">51.80</s:price>
+      <s:sku>42524454-c-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / L / United States</title>
+      <s:price currency="USD">27.09</s:price>
+      <s:sku>42524454-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / M / China</title>
+      <s:price currency="USD">51.80</s:price>
+      <s:sku>42524454-c-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / M / United States</title>
+      <s:price currency="USD">27.09</s:price>
+      <s:sku>42524454-c-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / S / China</title>
+      <s:price currency="USD">51.80</s:price>
+      <s:sku>42524454-c-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / S / United States</title>
+      <s:price currency="USD">27.09</s:price>
+      <s:sku>42524454-c-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / XS / China</title>
+      <s:price currency="USD">51.80</s:price>
+      <s:sku>42524454-c-xs-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682632942</id>
+      <title>C / XS / United States</title>
+      <s:price currency="USD">27.09</s:price>
+      <s:sku>42524454-c-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682600174</id>
+    <published>2021-09-20T15:45:17+05:00</published>
+    <updated>2021-09-20T15:45:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/women-hight-waisted-skirt"/>
+    <title>Women Hight Waisted Skirt</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1673855959.jpg?v=1632135075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.07 - 29.07
+            <a href="https://femogue.myshopify.com/products/women-hight-waisted-skirt">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Silhouette:</strong> Pencil<br><strong>Decoration:</strong> Lace<br><strong>Gender:</strong> WOMEN<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Style:</strong> Elegant fashion<br><strong>Dresses Length:</strong> Above Knee, Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">28.56</s:price>
+      <s:sku>43121375-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">14.07</s:price>
+      <s:sku>43121375-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">28.32</s:price>
+      <s:sku>43121375-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">19.41</s:price>
+      <s:sku>43121375-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">16.98</s:price>
+      <s:sku>43121375-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">28.35</s:price>
+      <s:sku>43121375-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">28.08</s:price>
+      <s:sku>43121375-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / XL / United States</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>43121375-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">18.60</s:price>
+      <s:sku>43121375-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / XL / China</title>
+      <s:price currency="USD">29.07</s:price>
+      <s:sku>43121375-b-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">28.83</s:price>
+      <s:sku>43121375-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">15.69</s:price>
+      <s:sku>43121375-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">17.79</s:price>
+      <s:sku>43121375-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">28.83</s:price>
+      <s:sku>43121375-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">28.59</s:price>
+      <s:sku>43121375-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682600174</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">14.88</s:price>
+      <s:sku>43121375-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682567406</id>
+    <published>2021-09-20T15:43:36+05:00</published>
+    <updated>2021-09-20T15:43:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/elegant-women-fashion-skirt"/>
+    <title>Elegant Women Fashion Skirt</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1849376497.jpg?v=1632135089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.82 - 36.54
+            <a href="https://femogue.myshopify.com/products/elegant-women-fashion-skirt">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silhouette:</strong> Pencil<br><strong>Material:</strong> Polyester<br><strong>Decoration:</strong> Sequined<br><strong>Origin:</strong> CN(Origin)<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Dresses Length:</strong> Above Knee, Mini<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Elegant fashion<br><strong>Elegant Fashion:</strong> Office Lady</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">20.22</s:price>
+      <s:sku>42387139-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">33.45</s:price>
+      <s:sku>42387139-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">21.03</s:price>
+      <s:sku>42387139-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">33.75</s:price>
+      <s:sku>42387139-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">21.84</s:price>
+      <s:sku>42387139-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">34.05</s:price>
+      <s:sku>42387139-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">19.41</s:price>
+      <s:sku>42387139-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">33.15</s:price>
+      <s:sku>42387139-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">20.22</s:price>
+      <s:sku>42387139-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">33.45</s:price>
+      <s:sku>42387139-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">21.03</s:price>
+      <s:sku>42387139-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">33.75</s:price>
+      <s:sku>42387139-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">19.41</s:price>
+      <s:sku>42387139-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">33.15</s:price>
+      <s:sku>42387139-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / XL / United States</title>
+      <s:price currency="USD">21.84</s:price>
+      <s:sku>42387139-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B / XL / China</title>
+      <s:price currency="USD">34.05</s:price>
+      <s:sku>42387139-b-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A1 / S / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-a1-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A1 / S / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-a1-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A1 / M / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-a1-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / S / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-a5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / S / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-a5-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / S / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-c5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / S / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-c5-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / XL / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-b5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / XL / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-b5-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / L / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-b5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / L / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-b5-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / M / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-b5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / M / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-b5-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / S / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-b5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B5 / S / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-b5-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / XL / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-a5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / XL / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-a5-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / L / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-a5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / L / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-a5-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / M / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-a5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A5 / M / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-a5-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / XL / China</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>42387139-a2-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / L / United States</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>42387139-a2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / XL / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-d5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / XL / United States</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>42387139-a2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / XL / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-d5-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / M / China</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>42387139-a2-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / L / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-d5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / S / United States</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>42387139-a2-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / L / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-d5-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / L / China</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>42387139-a2-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / M / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-d5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / M / United States</title>
+      <s:price currency="USD">20.40</s:price>
+      <s:sku>42387139-a2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / M / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-d5-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / S / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-d5-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D5 / S / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-d5-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / XL / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-c5-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / XL / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-c5-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / L / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-c5-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / L / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-c5-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / M / United States</title>
+      <s:price currency="USD">23.31</s:price>
+      <s:sku>42387139-c5-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C5 / M / China</title>
+      <s:price currency="USD">36.54</s:price>
+      <s:sku>42387139-c5-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A2 / S / China</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>42387139-a2-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / XL / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-e1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / L / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-e1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / XL / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-e1-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / M / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-e1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / L / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-e1-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / S / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-d1-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / M / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-d1-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C1 / XL / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-c1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / S / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-d1-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C1 / L / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-c1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C1 / XL / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-c1-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C1 / M / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-c1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>C1 / L / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-c1-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / S / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-e1-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / M / United States</title>
+      <s:price currency="USD">18.66</s:price>
+      <s:sku>42387139-a4-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / M / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-e1-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / M / China</title>
+      <s:price currency="USD">26.28</s:price>
+      <s:sku>42387139-a4-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / XL / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-d1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / S / United States</title>
+      <s:price currency="USD">18.66</s:price>
+      <s:sku>42387139-a4-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>E1 / S / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-e1-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / S / China</title>
+      <s:price currency="USD">26.28</s:price>
+      <s:sku>42387139-a4-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / L / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-d1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / XL / United States</title>
+      <s:price currency="USD">18.66</s:price>
+      <s:sku>42387139-a4-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / XL / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-d1-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / XL / China</title>
+      <s:price currency="USD">26.28</s:price>
+      <s:sku>42387139-a4-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / M / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-d1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / L / United States</title>
+      <s:price currency="USD">18.66</s:price>
+      <s:sku>42387139-a4-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>D1 / L / China</title>
+      <s:price currency="USD">30.78</s:price>
+      <s:sku>42387139-d1-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A4 / L / China</title>
+      <s:price currency="USD">26.28</s:price>
+      <s:sku>42387139-a4-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / M / United States</title>
+      <s:price currency="USD">14.82</s:price>
+      <s:sku>42387139-b3-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / M / China</title>
+      <s:price currency="USD">24.51</s:price>
+      <s:sku>42387139-b3-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / S / United States</title>
+      <s:price currency="USD">14.82</s:price>
+      <s:sku>42387139-b3-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / S / China</title>
+      <s:price currency="USD">24.51</s:price>
+      <s:sku>42387139-b3-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / XL / United States</title>
+      <s:price currency="USD">14.82</s:price>
+      <s:sku>42387139-b3-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / XL / China</title>
+      <s:price currency="USD">24.51</s:price>
+      <s:sku>42387139-b3-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / L / United States</title>
+      <s:price currency="USD">14.82</s:price>
+      <s:sku>42387139-b3-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>B3 / L / China</title>
+      <s:price currency="USD">24.51</s:price>
+      <s:sku>42387139-b3-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A1 / M / United States</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>42387139-a1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A3 / M / United States</title>
+      <s:price currency="USD">14.82</s:price>
+      <s:sku>42387139-a3-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A3 / M / China</title>
+      <s:price currency="USD">24.51</s:price>
+      <s:sku>42387139-a3-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682567406</id>
+      <title>A3 / S / United States</title>
+      <s:price currency="USD">14.82</s:price>
+      <s:sku>42387139-a3-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682534638</id>
+    <published>2021-09-20T15:41:54+05:00</published>
+    <updated>2021-09-20T15:41:54+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/v-neck-solid-color-elegant-clothing"/>
+    <title>V-Neck Solid Color Elegant Clothing</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1660562536.jpg?v=1632135111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.45 - 35.16
+            <a href="https://femogue.myshopify.com/products/v-neck-solid-color-elegant-clothing">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Silhouette:</strong> Sheath<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Neckline:</strong> V-Neck<br><strong>Sleeve Length(cm):</strong> half<br><strong>Sleeve Style:</strong> Regular<br><strong>Decoration:</strong> Sashes<br><strong>Style:</strong> Elegant fashion<br><strong>Waistline:</strong> empire<br><strong>Pattern Type:</strong> Solid<br><strong>Dresses Length:</strong> Above Knee, Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / XXL / United States</title>
+      <s:price currency="USD">20.88</s:price>
+      <s:sku>42747743-c-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / XXL / China</title>
+      <s:price currency="USD">35.16</s:price>
+      <s:sku>42747743-c-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">18.45</s:price>
+      <s:sku>42747743-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>42747743-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">19.05</s:price>
+      <s:sku>42747743-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">34.47</s:price>
+      <s:sku>42747743-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / XXL / United States</title>
+      <s:price currency="USD">20.88</s:price>
+      <s:sku>42747743-a-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / XXL / China</title>
+      <s:price currency="USD">35.16</s:price>
+      <s:sku>42747743-a-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">18.45</s:price>
+      <s:sku>42747743-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>42747743-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">19.65</s:price>
+      <s:sku>42747743-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">34.68</s:price>
+      <s:sku>42747743-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>42747743-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>42747743-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / XL / United States</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>42747743-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / XL / China</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>42747743-b-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / XXL / United States</title>
+      <s:price currency="USD">20.88</s:price>
+      <s:sku>42747743-b-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / XXL / China</title>
+      <s:price currency="USD">35.16</s:price>
+      <s:sku>42747743-b-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">19.05</s:price>
+      <s:sku>42747743-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">34.47</s:price>
+      <s:sku>42747743-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">19.65</s:price>
+      <s:sku>42747743-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">34.68</s:price>
+      <s:sku>42747743-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / L / United States</title>
+      <s:price currency="USD">19.65</s:price>
+      <s:sku>42747743-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / L / China</title>
+      <s:price currency="USD">34.68</s:price>
+      <s:sku>42747743-c-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / XL / United States</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>42747743-c-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / XL / China</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>42747743-c-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / S / United States</title>
+      <s:price currency="USD">18.45</s:price>
+      <s:sku>42747743-c-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / S / China</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>42747743-c-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / M / United States</title>
+      <s:price currency="USD">19.05</s:price>
+      <s:sku>42747743-c-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682534638</id>
+      <title>C / M / China</title>
+      <s:price currency="USD">34.47</s:price>
+      <s:sku>42747743-c-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682501870</id>
+    <published>2021-09-20T15:40:57+05:00</published>
+    <updated>2021-09-20T15:40:57+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/women-denim-long-sleeve-clothing"/>
+    <title>Women Denim Long Sleeve Clothing</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1656453709.jpg?v=1632134467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.15 - 29.34
+            <a href="https://femogue.myshopify.com/products/women-denim-long-sleeve-clothing">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Spring/Autumn<br><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Silhouette:</strong> LOOSE<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Neckline:</strong> Turn-down Collar<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Decoration:</strong> Button<br><strong>Style:</strong> Elegant fashion<br><strong>Waistline:</strong> Natural Factors<br><strong>Pattern Type:</strong> Solid<br><strong>Dresses Length:</strong> Above Knee, Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / XXL / United States</title>
+      <s:price currency="USD">17.61</s:price>
+      <s:sku>42631710-a-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / XXL / China</title>
+      <s:price currency="USD">29.34</s:price>
+      <s:sku>42631710-a-xxl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">16.38</s:price>
+      <s:sku>42631710-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">28.92</s:price>
+      <s:sku>42631710-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">16.98</s:price>
+      <s:sku>42631710-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">29.13</s:price>
+      <s:sku>42631710-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">15.15</s:price>
+      <s:sku>42631710-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">28.56</s:price>
+      <s:sku>42631710-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">15.78</s:price>
+      <s:sku>42631710-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682501870</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">28.74</s:price>
+      <s:sku>42631710-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682469102</id>
+    <published>2021-09-20T15:40:08+05:00</published>
+    <updated>2021-09-20T15:40:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/women-long-sleeve-casual-dress"/>
+    <title>Women Long Sleeve Casual Dress</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1634600068.jpg?v=1632134413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.47 - 24.75
+            <a href="https://femogue.myshopify.com/products/women-long-sleeve-casual-dress">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Spring/Autumn<br><strong>Material:</strong> Chiffon<br><strong>Silhouette:</strong> Asymmetrical<br><strong>Age:</strong> Ages 18-35 Years Old<br><strong>Neckline:</strong> V-Neck<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Decoration:</strong> Button<br><strong>Style:</strong> Elegant fashion<br><strong>Waistline:</strong> Natural Factors<br><strong>Pattern Type:</strong> Solid<br><strong>Dresses Length:</strong> Above Knee, Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / L / United States</title>
+      <s:price currency="USD">15.30</s:price>
+      <s:sku>42033613-b-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / XL / China</title>
+      <s:price currency="USD">24.75</s:price>
+      <s:sku>42033613-b-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>42033613-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / L / China</title>
+      <s:price currency="USD">24.54</s:price>
+      <s:sku>42033613-b-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">13.68</s:price>
+      <s:sku>42033613-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">24.33</s:price>
+      <s:sku>42033613-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / XL / United States</title>
+      <s:price currency="USD">16.11</s:price>
+      <s:sku>42033613-a-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">24.09</s:price>
+      <s:sku>42033613-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / L / United States</title>
+      <s:price currency="USD">15.30</s:price>
+      <s:sku>42033613-a-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / XL / China</title>
+      <s:price currency="USD">24.75</s:price>
+      <s:sku>42033613-a-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / M / United States</title>
+      <s:price currency="USD">14.49</s:price>
+      <s:sku>42033613-a-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / L / China</title>
+      <s:price currency="USD">24.54</s:price>
+      <s:sku>42033613-a-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / S / United States</title>
+      <s:price currency="USD">13.68</s:price>
+      <s:sku>42033613-a-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / M / China</title>
+      <s:price currency="USD">24.33</s:price>
+      <s:sku>42033613-a-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>A / S / China</title>
+      <s:price currency="USD">24.09</s:price>
+      <s:sku>42033613-a-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / XL / United States</title>
+      <s:price currency="USD">15.90</s:price>
+      <s:sku>42033613-c-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / L / United States</title>
+      <s:price currency="USD">15.09</s:price>
+      <s:sku>42033613-c-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / XL / China</title>
+      <s:price currency="USD">24.12</s:price>
+      <s:sku>42033613-c-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / M / United States</title>
+      <s:price currency="USD">14.28</s:price>
+      <s:sku>42033613-c-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / L / China</title>
+      <s:price currency="USD">23.91</s:price>
+      <s:sku>42033613-c-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / S / United States</title>
+      <s:price currency="USD">13.47</s:price>
+      <s:sku>42033613-c-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / M / China</title>
+      <s:price currency="USD">23.70</s:price>
+      <s:sku>42033613-c-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>B / XL / United States</title>
+      <s:price currency="USD">16.11</s:price>
+      <s:sku>42033613-b-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682469102</id>
+      <title>C / S / China</title>
+      <s:price currency="USD">23.49</s:price>
+      <s:sku>42033613-c-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://femogue.myshopify.com/products/6633682436334</id>
+    <published>2021-09-20T15:39:07+05:00</published>
+    <updated>2021-09-20T15:39:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://femogue.myshopify.com/products/women-v-neck-summer-dress"/>
+    <title>Women V-Neck Summer Dress</title>
+    <s:type></s:type>
+    <s:vendor>Femogue</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0548/9220/0174/products/product-image-1653034197.jpg?v=1632134350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Femogue<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.41 - 36.96
+            <a href="https://femogue.myshopify.com/products/women-v-neck-summer-dress">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Season:</strong> Summer<br><strong>Material:</strong> Polyester<br><strong>Silhouette:</strong> A-LINE<br><strong>Style:</strong> Bohemian<br><strong>Waistline:</strong> Natural Factors<br><strong>Pattern Type:</strong> Floral<br><strong>Dresses Length:</strong> Above Knee, Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682436334</id>
+      <title>B / S / China</title>
+      <s:price currency="USD">36.69</s:price>
+      <s:sku>42534749-b-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682436334</id>
+      <title>B / M / United States</title>
+      <s:price currency="USD">20.01</s:price>
+      <s:sku>42534749-b-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682436334</id>
+      <title>B / S / United States</title>
+      <s:price currency="USD">19.41</s:price>
+      <s:sku>42534749-b-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://femogue.myshopify.com/products/6633682436334</id>
+      <title>B / M / China</title>
+      <s:price currency="USD">36.96</s:price>
+      <s:sku>42534749-b-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

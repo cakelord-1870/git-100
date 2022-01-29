@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://the-smartgadgets.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://the-smartgadgets.myshopify.com/collections/mobile-gadget.atom"/>
+  <title>the SmartGadgets</title>
+  <updated>2021-02-02T09:38:36+05:00</updated>
+  <author>
+    <name>the SmartGadgets</name>
+  </author>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248434466983</id>
+    <published>2021-02-02T09:38:36+05:00</published>
+    <updated>2021-02-02T09:38:36+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/type-c-mobile-phone-accessories-dust"/>
+    <title>Type C Mobile Phone Accessories Dust</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1657914994.jpg?v=1612240742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Type:</strong> Charge Port For Type C<br><strong>Earphone Jack Diameter:</strong> 3.5mm<br><strong>Compatible for:</strong> For type-c Android Phones<br><strong>Please note that:</strong> it is type c, no micro USB.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248434466983</id>
+      <title>Silvery</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>29431209-silvery</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248434466983</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>29431209-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248434466983</id>
+      <title>Golden</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>29431209-golden</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248434466983</id>
+      <title>Black</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>29431209-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+    <published>2021-02-02T09:38:09+05:00</published>
+    <updated>2021-02-02T09:38:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/mini-portable-cool-micro-usb-fan"/>
+    <title>Mini Portable Cool Micro USB Fan</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1373476734.jpg?v=1612247565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> USB Fan<br><strong>Package:</strong> Yes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+      <title>Black</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5325608-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+      <title>White</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5325608-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+      <title>Blue</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5325608-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+      <title>Green</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5325608-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+      <title>Orange</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5325608-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248433057959</id>
+      <title>Pink</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>5325608-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248431845543</id>
+    <published>2021-02-02T09:37:39+05:00</published>
+    <updated>2021-02-02T09:37:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/anti-non-slip-gadget-mobile-phone"/>
+    <title>Anti Non Slip Gadget Mobile Phone</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1659714549.jpg?v=1612240662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Origin:</strong> CN(Origin)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248431845543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>42722762</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+    <published>2021-02-02T09:37:04+05:00</published>
+    <updated>2021-02-02T09:37:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-phone-holder-360-degree-rotatable"/>
+    <title>Car Phone Holder 360 Degree Rotatable</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1380214408.jpg?v=1612246860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material Type:</strong> Silica Gel<br><strong>Product version:</strong> 2019 2018<br><strong>Feature 1:</strong> Car phone holder<br><strong>Feature 2:</strong> GPS Navigation<br><strong>Package:</strong> 1pc/order</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+      <title>New Red 1pc</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>28386540-new-red-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+      <title>Pink 1pc</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>28386540-pink-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+      <title>Red 1pc</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>28386540-red-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+      <title>New Black 1pc</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>28386540-new-black-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+      <title>New Grey 1pc</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>28386540-new-grey-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248430436519</id>
+      <title>Black 1pc</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>28386540-black-1pc</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+    <published>2021-02-02T09:36:34+05:00</published>
+    <updated>2021-02-02T09:36:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/universal-car-phone-holder-dashboard"/>
+    <title>Universal Car Phone Holder Dashboard</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1494901343.jpg?v=1612247448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.90 - 31.80
+            <a href="https://the-smartgadgets.myshopify.com/products/universal-car-phone-holder-dashboard">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Colour Name:</strong> Black<br><strong>Material:</strong> ABS<br><strong>Product name:</strong> Car phone holder<br><strong>Feature:</strong> The angle can be adjusted at will<br><strong>Suitable for:</strong> 3-7inch phone, GPS, Pad<br><strong>Placement:</strong> Car dashboard, Rear mirror, Sun visor<br><strong>Package:</strong> 1/2packs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+      <title>China / 1pc phone holder</title>
+      <s:price currency="USD">19.88</s:price>
+      <s:sku>39232391-china-1pc-phone-holder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+      <title>China / 2pcs phone holder</title>
+      <s:price currency="USD">31.80</s:price>
+      <s:sku>39232391-china-2pcs-phone-holder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+      <title>Spain / 1pc phone holder</title>
+      <s:price currency="USD">15.90</s:price>
+      <s:sku>39232391-spain-1pc-phone-holder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+      <title>Russian Federation / 1pc phone holder</title>
+      <s:price currency="USD">15.90</s:price>
+      <s:sku>39232391-russian-federation-1pc-phone-holder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+      <title>Spain / 2pcs phone holder</title>
+      <s:price currency="USD">25.44</s:price>
+      <s:sku>39232391-spain-2pcs-phone-holder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429748391</id>
+      <title>Russian Federation / 2pcs phone holder</title>
+      <s:price currency="USD">25.44</s:price>
+      <s:sku>39232391-russian-federation-2pcs-phone-holder</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248429191335</id>
+    <published>2021-02-02T09:36:07+05:00</published>
+    <updated>2021-02-02T09:36:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/mini-tripod-flexible-sponge-phone-holder"/>
+    <title>Mini Tripod Flexible Sponge Phone Holder</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1634565769.jpg?v=1612240573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.54 - 6.98
+            <a href="https://the-smartgadgets.myshopify.com/products/mini-tripod-flexible-sponge-phone-holder">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Charger:</strong> No<br><strong>Features:</strong> No Features<br><strong>Origin:</strong> CN(Origin)<br><strong>Compatible Brand:</strong> Universal<br><strong>Has Speaker:</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429191335</id>
+      <title>United States / 01</title>
+      <s:price currency="USD">6.98</s:price>
+      <s:sku>42032548-united-states-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429191335</id>
+      <title>France / 01</title>
+      <s:price currency="USD">6.98</s:price>
+      <s:sku>42032548-france-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429191335</id>
+      <title>China / 01</title>
+      <s:price currency="USD">6.04</s:price>
+      <s:sku>42032548-china-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429191335</id>
+      <title>Russian Federation / 01</title>
+      <s:price currency="USD">1.54</s:price>
+      <s:sku>42032548-russian-federation-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248429191335</id>
+      <title>Spain / 01</title>
+      <s:price currency="USD">5.24</s:price>
+      <s:sku>42032548-spain-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248428470439</id>
+    <published>2021-02-02T09:35:42+05:00</published>
+    <updated>2021-02-02T09:35:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/mobile-phone-accessories-dust-plug-metal"/>
+    <title>Mobile Phone Accessories Dust Plug Metal</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1667347085.jpg?v=1612240548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Type:</strong> Charge Port Plug For iphone<br><strong>For iPhone 5 5s 5c 6 6S:</strong> Not suitable to take slim card, can be used for charging port<br><strong>For iPhone X XR XS Max 8 7 Plus:</strong> suitable to take slim card, can be used for charging port</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248428470439</id>
+      <title>Rose gold</title>
+      <s:price currency="USD">4.12</s:price>
+      <s:sku>42942298-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248428470439</id>
+      <title>Black</title>
+      <s:price currency="USD">4.12</s:price>
+      <s:sku>42942298-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248428470439</id>
+      <title>Red</title>
+      <s:price currency="USD">4.12</s:price>
+      <s:sku>42942298-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248428470439</id>
+      <title>Gold</title>
+      <s:price currency="USD">4.12</s:price>
+      <s:sku>42942298-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248428470439</id>
+      <title>Silvery</title>
+      <s:price currency="USD">4.12</s:price>
+      <s:sku>42942298-silvery</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248427716775</id>
+    <published>2021-02-02T09:35:17+05:00</published>
+    <updated>2021-02-02T09:35:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/mobile-phone-jail-cell-prison-lock-up"/>
+    <title>Mobile Phone Jail Cell Prison Lock Up</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1427876151.jpg?v=1612240522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.88 - 28.16
+            <a href="https://the-smartgadgets.myshopify.com/products/mobile-phone-jail-cell-prison-lock-up">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Charger:</strong> No<br><strong>Magnetic:</strong> No<br><strong>Material:</strong> Plastic<br><strong>Use:</strong> Desk<br><strong>Has Speaker:</strong> No<br><strong>Product:</strong> Jewelry Box<br><strong>Type:</strong> Storage Boxes &amp; Bins<br><strong>Style:</strong> Modern</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427716775</id>
+      <title>China</title>
+      <s:price currency="USD">6.88</s:price>
+      <s:sku>32158498-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427716775</id>
+      <title>Russian Federation</title>
+      <s:price currency="USD">13.78</s:price>
+      <s:sku>32158498-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427716775</id>
+      <title>United States</title>
+      <s:price currency="USD">28.16</s:price>
+      <s:sku>32158498-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427716775</id>
+      <title>Spain</title>
+      <s:price currency="USD">23.06</s:price>
+      <s:sku>32158498-spain</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+    <published>2021-02-02T09:34:55+05:00</published>
+    <updated>2021-02-02T09:34:55+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/car-phone-holder-gear-snaps-multiple"/>
+    <title>Car Phone Holder Gear Snaps Multiple</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1641819610.jpg?v=1612240505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Origin:</strong> CN(Origin)<br><strong>Material:</strong> Zinc alloy<br><strong>Colour:</strong> Black, Red, Blue, Gold, Silver<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Russian Federation / red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-russian-federation-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Spain / red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-spain-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>United States / red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-united-states-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>France / red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-france-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Spain / gold</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-spain-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>United States / gold</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-united-states-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>France / gold</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-france-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>China / red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-china-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>United States / blue</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>France / blue</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-france-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>China / gold</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-china-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Russian Federation / gold</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-russian-federation-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>France / sliver</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-france-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>China / blue</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-china-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Russian Federation / blue</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-russian-federation-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Spain / blue</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-spain-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>China / sliver</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-china-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Russian Federation / sliver</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-russian-federation-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Spain / sliver</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-spain-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>United States / sliver</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-united-states-sliver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Russian Federation / black</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-russian-federation-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>Spain / black</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-spain-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>United States / black</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>France / black</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-france-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248427225255</id>
+      <title>China / black</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>31764580-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://the-smartgadgets.myshopify.com/products/6248425193639</id>
+    <published>2021-02-02T09:33:33+05:00</published>
+    <updated>2021-02-02T09:33:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://the-smartgadgets.myshopify.com/products/phone-holder-car-gadget-auto"/>
+    <title>Phone Holder Car Gadget Auto</title>
+    <s:type></s:type>
+    <s:vendor>the SmartGadgets</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0528/6910/3783/products/product-image-1206482337.jpg?v=1612247563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the SmartGadgets<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> ABS<br><strong>Colour:</strong> Black Red Gray<br><strong>instal:</strong> for Car Dashboard<br><strong>Car Model:</strong> Universal for lots of cars For Audi Ford Kia Nissan etc<br><strong>suitable:</strong> clips adjustable (suitable for Phone size 3.5inch~6.2inch)<br><strong>note:</strong> silicone protective pad, avoid scratch the phone<br><strong>Package:</strong> 1pc<br><strong>Feature 1:</strong> Car Holder Phone<br><strong>Features 2:</strong> Phone Car Holder<br><strong>Features 3:</strong> car phone holder dashboard<br><strong>Features 4:</strong> car holder for smartphone</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248425193639</id>
+      <title>Red</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>32358006-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248425193639</id>
+      <title>Gray</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>32358006-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://the-smartgadgets.myshopify.com/products/6248425193639</id>
+      <title>Black</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>32358006-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

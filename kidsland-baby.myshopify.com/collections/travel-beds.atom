@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kidsland-baby.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kidsland-baby.myshopify.com/collections/travel-beds.atom"/>
+  <title>KidsLand Baby</title>
+  <updated>2021-03-31T10:20:07+05:00</updated>
+  <author>
+    <name>KidsLand Baby</name>
+  </author>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6597257298110</id>
+    <published>2021-03-31T10:20:07+05:00</published>
+    <updated>2021-03-31T10:20:07+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/portable-foldable-baby-bed"/>
+    <title>Portable Foldable Baby Bed</title>
+    <s:type>Travel Bed</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1647433627.jpg?v=1617168010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Travel Bed<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Material:</strong> Fabric<br><strong>Dimension:</strong> 65*120CM<br><strong>Feature:</strong> Foldable<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Backpack<br><strong>Feature 1:</strong> Baby Diaper Bag<br><strong>Style:</strong> diaper bag backpack<br><strong>Feature 2:</strong> baby changing bag<br><strong>Feature 3:</strong> Maternity backpack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Travel Bed</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597257298110</id>
+      <title>A / United States</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>39276719-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597257298110</id>
+      <title>B / United States</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>39276719-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6597255233726</id>
+    <published>2021-03-31T10:16:17+05:00</published>
+    <updated>2021-03-31T10:16:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/portable-newborn-baby-cot"/>
+    <title>Portable Newborn Baby Cot</title>
+    <s:type>Travel Bed</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1637772980.jpg?v=1617168107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Travel Bed<br>
+        <strong>Price: </strong>
+            112.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Material:</strong> Polyester / Cotton<br><strong>Dimension:</strong> 84*53CM<br><strong>Feature:</strong> Portable<br><strong>CE:</strong> Type<br><strong>Pattern Type:</strong> Cartoon<br><strong>Feature:</strong> Portable Baby Nest Bed<br><strong>Feature 1:</strong> Washable Bassinet<br><strong>Feature 2:</strong> Baby Protector</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portable Bed</s:tag>
+    <s:tag>Travel Bed</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597255233726</id>
+      <title>2 / United States</title>
+      <s:price currency="USD">112.50</s:price>
+      <s:sku>42125607-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597255233726</id>
+      <title>3 / United States</title>
+      <s:price currency="USD">112.50</s:price>
+      <s:sku>42125607-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597255233726</id>
+      <title>1 / United States</title>
+      <s:price currency="USD">112.50</s:price>
+      <s:sku>42125607-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6597249630398</id>
+    <published>2021-03-31T10:09:37+05:00</published>
+    <updated>2021-03-31T10:09:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/mosquito-net-with-portable-backpack-bed"/>
+    <title>Mosquito Net With Portable Backpack Bed</title>
+    <s:type>Travel Bed</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1629408337.jpg?v=1617167379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Travel Bed<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 7-12m<br><strong>Material:</strong> Plastic<br><strong>Dimension:</strong> 85*45CM<br><strong>Feature:</strong> Foldable<br><strong>CE:</strong> Type<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> baby bed folding<br><strong>Feature 1:</strong> baby bed nest<br><strong>Feature 2:</strong> portable baby bed for travel<br><strong>Feature 3:</strong> baby bed with mosquito net</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Travel Bed</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597249630398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>41890864-gray-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kidsland-baby.myshopify.com/products/6597246517438</id>
+    <published>2021-03-31T10:05:10+05:00</published>
+    <updated>2021-03-31T10:05:10+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://kidsland-baby.myshopify.com/products/baby-backpack-bed"/>
+    <title>Baby Backpack Bed</title>
+    <s:type>Travel Bed</s:type>
+    <s:vendor>KidsLand Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/7431/4686/products/product-image-1497558749.jpg?v=1617168148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KidsLand Baby<br>
+        <strong>Type: </strong>Travel Bed<br>
+        <strong>Price: </strong>
+            89.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Backpack<br><strong>Main Material:</strong> Nylon<br><strong>Closure Type:</strong> zipper<br><strong>Size:</strong> (30cm<br><strong>Item Width:</strong> 23cm<br><strong>Item Length:</strong> 32cm<br><strong>Item Weight:</strong> 1.35kg<br><strong>Item Height:</strong> 42cm<br><strong>Pattern Type:</strong> Solid<br><strong>Feature:</strong> Backpack<br><strong>Feature 1:</strong> Baby Diaper Bag<br><strong>Size:</strong> 42 x 23 x 32 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Travel Bed</s:tag>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597246517438</id>
+      <title>B / United States</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>39306964-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://kidsland-baby.myshopify.com/products/6597246517438</id>
+      <title>A / United States</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>39306964-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

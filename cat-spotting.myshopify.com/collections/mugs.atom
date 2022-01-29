@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cat-spotting.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cat-spotting.myshopify.com/collections/mugs.atom"/>
+  <title>Cat Spotting</title>
+  <updated>2021-05-08T12:30:49+05:00</updated>
+  <author>
+    <name>Cat Spotting</name>
+  </author>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+    <published>2021-05-08T12:30:49+05:00</published>
+    <updated>2021-05-08T12:30:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/anti-bite-cat-feeding-bowl"/>
+    <title>Anti-Bite cat Feeding Bowl</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1668231410.jpg?v=1620459153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> cats<br><strong>Type:</strong> Single<br><strong>Material:</strong> Stainless Steel<br><strong>Color:</strong> Orange Pink Blue Green Red<br><strong>Pet Supplies:</strong> Pet Dog Bowl<br><strong>Pet Accessories:</strong> Food Water Cat Dish<br><strong>Suit:</strong> For Small Medium Dogs Cats</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Orange / 5.3x21.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-orange-5-3x21-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Green / 3.4x9.6cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-green-3-4x9-6cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Orange / 4x13cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-orange-4x13cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Orange / 4.9x17cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-orange-4-9x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Green / 4.9x17cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-green-4-9x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Green / 5.3x21.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-green-5-3x21-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Green / 4.1x11.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-green-4-1x11-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Green / 4x13cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-green-4x13cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Red / 4.1x11.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-red-4-1x11-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Red / 4x13cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-red-4x13cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Blue / 5.3x21.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-blue-5-3x21-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Red / 3.4x9.6cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-red-3-4x9-6cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Orange / 3.4x9.6cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-orange-3-4x9-6cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Orange / 4.1x11.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-orange-4-1x11-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Red / 4.9x17cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-red-4-9x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Red / 5.3x21.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-red-5-3x21-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Pink / 4.9x17cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-pink-4-9x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Pink / 5.3x21.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-pink-5-3x21-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Pink / 4.1x11.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-pink-4-1x11-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Pink / 4x13cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-pink-4x13cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Blue / 4x13cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-blue-4x13cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Blue / 4.9x17cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-blue-4-9x17cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Blue / 3.4x9.6cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-blue-3-4x9-6cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Blue / 4.1x11.2cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-blue-4-1x11-2cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605837041873</id>
+      <title>Pink / 3.4x9.6cm</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>42966629-pink-3-4x9-6cm-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605836091601</id>
+    <published>2021-05-08T12:29:44+05:00</published>
+    <updated>2021-05-08T12:29:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/bowls-neck-protection-feeder"/>
+    <title>Bowls Neck Protection Feeder</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1702062303.jpg?v=1620459292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Quadrate<br><strong>Type:</strong> cats<br><strong>Type:</strong> With Water Dispenser<br><strong>Material:</strong> Plastic<br><strong>Color:</strong> White Transparent<br><strong>Pet Products:</strong> Automatic Cat Water Dispenser<br><strong>Pets Supplies:</strong> 15 Degrees Tilted Dog Bowls<br><strong>Cats Bowl:</strong> Neck Protection Feeder</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605836091601</id>
+      <title>Transparent L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43903553-transparent-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605836091601</id>
+      <title>White L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43903553-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605836091601</id>
+      <title>Transparent S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43903553-transparent-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605836091601</id>
+      <title>White S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>43903553-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605833568465</id>
+    <published>2021-05-08T12:27:56+05:00</published>
+    <updated>2021-05-08T12:27:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/cat-protection-cervical-bowls"/>
+    <title>Cat Protection Cervical Bowls</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1609640466.jpg?v=1620459232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Time Setting:</strong> No<br><strong>Max Output:</strong> 500ml<br><strong>With Water Dispenser:</strong> Yes<br><strong>Power Source:</strong> Automatic<br><strong>Min Output:</strong> 50g<br><strong>Material:</strong> Plastic<br><strong>LCD Display:</strong> No<br><strong>Is Smart Device:</strong> NO</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605833568465</id>
+      <title>a / 500ml</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39362310-a-500ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605833568465</id>
+      <title>d / 500ml</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39362310-d-500ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605833568465</id>
+      <title>c / 500ml</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39362310-c-500ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605833568465</id>
+      <title>b / 500ml</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>39362310-b-500ml-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+    <published>2021-05-08T12:22:20+05:00</published>
+    <updated>2021-05-08T12:22:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/food-feeder-water-bowls"/>
+    <title>Food Feeder Water Bowls</title>
+    <s:type>bwol</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1518143137.jpg?v=1620458549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>bwol<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Material:</strong> Stainless Steel<br><strong>Pet Stainless Steel Bowl:</strong> Dog Feeder Bowl Tool Cat Bowl</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>XL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>XS</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>S</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>XXXL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-xxxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>White 9.5cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-white-9-5cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Green 12.5cm</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-green-12-5cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>XXL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Foot print XS</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-foot-print-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Foot print M</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-foot-print-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Foot print S</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-foot-print-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Foot print XL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-foot-print-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Foot print L</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-foot-print-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605828948177</id>
+      <title>Foot print XXL</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>39906395-foot-print-xxl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+    <published>2021-05-08T12:20:11+05:00</published>
+    <updated>2021-05-08T12:20:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/feeding-cat-bowl"/>
+    <title>Feeding Cat Bowl</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1499447110.jpg?v=1620458416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Rounded<br><strong>Type:</strong> cats<br><strong>Type:</strong> Double<br><strong>Material:</strong> Stainless Steel<br><strong>Shape:</strong> Cartoon Frog<br><strong>Feature:</strong> Pet Dog Dish Feeder Tableware<br><strong>Feature 1:</strong> for Cats Dogs<br><strong>Feature 2:</strong> Double Not Wet Mouth Water Bowl<br><strong>Double Pet Bowls:</strong> Dog Food Water Feeder<br><strong>Dog Drinking Dish Feeder:</strong> Cat Puppy Feeding Supplies</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+      <title>Nordic blue / 27.5x4cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39362321-nordic-blue-27-5x4cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+      <title>Pink / 27.5x4cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39362321-pink-27-5x4cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+      <title>Nordic pink / 27.5x4cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39362321-nordic-pink-27-5x4cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+      <title>Nordic green / 27.5x4cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39362321-nordic-green-27-5x4cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+      <title>Blue / 27.5x4cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39362321-blue-27-5x4cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605826949329</id>
+      <title>Green / 27.5x4cm</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>39362321-green-27-5x4cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+    <published>2021-05-08T12:18:44+05:00</published>
+    <updated>2021-05-08T12:18:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/creative-cat-bowls"/>
+    <title>Creative Cat Bowls</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1499447255.jpg?v=1620458332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Shape:</strong> Cat-Shaped<br><strong>Type:</strong> cats<br><strong>Type:</strong> Single<br><strong>Material:</strong> Melamine</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Black / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-black-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Yellow / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-yellow-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Blue / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-blue-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Orange / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-orange-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Deep red / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-deep-red-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Green / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-green-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Gray / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-gray-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>White / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-white-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605825835217</id>
+      <title>Red / 14.5x6.3cm</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>39362327-red-14-5x6-3cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+    <published>2021-05-08T12:16:44+05:00</published>
+    <updated>2021-05-08T12:16:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/anti-fall-cat-feeding-bowls"/>
+    <title>Anti-fall Cat Feeding Bowls</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1661948658.jpg?v=1620458208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            15.48 - 27.74
+            <a href="https://cat-spotting.myshopify.com/products/anti-fall-cat-feeding-bowls">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Material:</strong> Stainless Steel<br><strong>Pet Products:</strong> Pet Dog Bowl<br><strong>Pet Accessories:</strong> Dogs Feeding Bowls<br><strong>Pet Supplies:</strong> Dogs Cats Placemat Feeder</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>White</title>
+      <s:price currency="USD">15.48</s:price>
+      <s:sku>42786964-white-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>XL(30cm)</title>
+      <s:price currency="USD">27.74</s:price>
+      <s:sku>42786964-xl-30cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>Orange</title>
+      <s:price currency="USD">15.48</s:price>
+      <s:sku>42786964-orange-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>M(22cm)</title>
+      <s:price currency="USD">22.32</s:price>
+      <s:sku>42786964-m-22cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>M(26cm)</title>
+      <s:price currency="USD">23.26</s:price>
+      <s:sku>42786964-m-26cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>XS(15cm)</title>
+      <s:price currency="USD">15.50</s:price>
+      <s:sku>42786964-xs-15cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605824098513</id>
+      <title>S(18cm)</title>
+      <s:price currency="USD">19.10</s:price>
+      <s:sku>42786964-s-18cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+    <published>2021-05-08T12:15:37+05:00</published>
+    <updated>2021-05-08T12:15:37+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cat-spotting.myshopify.com/products/cat-feeding-stainless-steel-dish"/>
+    <title>Cat Feeding Stainless Steel Dish</title>
+    <s:type>Bowls</s:type>
+    <s:vendor>Cat Spotting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0569/3800/4689/products/product-image-1648175198.jpg?v=1620459423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cat Spotting<br>
+        <strong>Type: </strong>Bowls<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Bowls<br><strong>Applicable Dog Breed:</strong> Universal<br><strong>Material:</strong> Stainless Steel<br><strong>Size:</strong> S,M,L<br><strong>Color:</strong> Black<br><strong>Pet Products:</strong> Antislip Double Dog Bowl<br><strong>Pet Supplies:</strong> Stainless Steel Water Food Feeder</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cat Bowls</s:tag>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray1 / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray1-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray1 / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray1-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray1 / 20.5x13.5inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray1-20-5x13-5inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray1 / 14x9.6inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray1-14x9-6inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black1 / 20.5x13.5inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black1-20-5x13-5inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black1 / 14x9.6inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black1-14x9-6inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray1 / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray1-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray1 / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray1-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black1 / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black1-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black1 / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black1-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black1 / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black1-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black1 / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black1-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black / 20.5x13.5inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black-20-5x13-5inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Black / 14x9.6inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-black-14x9-6inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray / 20.5x13.5inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray-20-5x13-5inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>Gray / 14x9.6inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-gray-14x9-6inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>23x7.7cm / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-23x7-7cm-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>23x7.7cm / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-23x7-7cm-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>23x7.7cm / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-23x7-7cm-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>23x7.7cm / 20.5x13.5inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-23x7-7cm-20-5x13-5inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>38.2x7.7cm / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-38-2x7-7cm-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>23x7.7cm / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-23x7-7cm-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>23x7.7cm / 14x9.6inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-23x7-7cm-14x9-6inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>38.2x7.7cm / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-38-2x7-7cm-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>38.2x7.7cm / 14x9.6inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-38-2x7-7cm-14x9-6inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>38.2x7.7cm / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-38-2x7-7cm-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>38.2x7.7cm / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-38-2x7-7cm-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cat-spotting.myshopify.com/products/6605822918865</id>
+      <title>38.2x7.7cm / 20.5x13.5inch</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40579804-38-2x7-7cm-20-5x13-5inch-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

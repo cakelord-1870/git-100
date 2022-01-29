@@ -1,0 +1,2447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://gownwomen.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://gownwomen.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://gownwomen.myshopify.com/collections/leggings.atom"/>
+  <title>Gownwomen</title>
+  <updated>2021-09-03T16:41:34+05:00</updated>
+  <author>
+    <name>Gownwomen</name>
+  </author>
+  <entry>
+    <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+    <published>2021-09-03T16:41:34+05:00</published>
+    <updated>2021-09-03T16:41:34+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gownwomen.myshopify.com/products/fitness-leggings-booty-workout"/>
+    <title>Fitness Leggings  Booty Workout</title>
+    <s:type></s:type>
+    <s:vendor>Gownwomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/5369/4361/products/product-image-1735797383_61a6de2c-747c-4a02-9f48-ac49a327994a.jpg?v=1630669521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gownwomen<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.86 - 20.76
+            <a href="https://gownwomen.myshopify.com/products/fitness-leggings-booty-workout">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Waist Type:</strong> HIGH<br><strong>Seam:</strong> Seamless<br><strong>Item Type:</strong> Leggings<br><strong>Thickness:</strong> STANDARD<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Model Number:</strong> 15<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Casual<br><strong>Material:</strong> Polyester<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Red / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Purple / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Grey / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Mint / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Blue / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Green / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Green / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Green / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Dark Green / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Pink / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / L / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / L / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / M / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / S / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / XL / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Rain bow / XL / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Pink / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Pink / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Pink / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Pink / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / L / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / L / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / M / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / S / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / XL / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Ink Color / XL / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Black / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / M / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-yellow-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / L / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-yellow-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / L / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / XL / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-yellow-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Yellow Black / XL / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue Pink / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-blue-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Long Blue Pink / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-blue-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Green / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Green / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Green / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Green / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Dark Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Black / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Black / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Black / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030764830873</id>
+      <title>Capri Black / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+    <published>2021-09-03T15:54:42+05:00</published>
+    <updated>2021-09-03T15:54:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gownwomen.myshopify.com/products/women-elastic-high-waist-lehggins"/>
+    <title>Women Elastic High Waist Lehggins</title>
+    <s:type></s:type>
+    <s:vendor>Gownwomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/5369/4361/products/product-image-1695362972.jpg?v=1630754883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gownwomen<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Length:</strong> Ankle-Length<br><strong>Hip-Style:</strong> Booty Lifting<br><strong>Waist Type:</strong> HIGH<br><strong>Seam:</strong> SEAM<br><strong>Item Type:</strong> Leggings<br><strong>Thickness:</strong> STANDARD<br><strong>Style:</strong> Casual<br><strong>Material:</strong> Faux Leather<br><strong>Pattern Type:</strong> Leopard<br><strong>Type:</strong> Women's Leggings<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>leopard / S / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-leopard-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>wine red / L / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-wine-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black / M / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black / L / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black / L / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>wine red / S / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-wine-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>wine red / S / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-wine-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>wine red / M / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-wine-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>wine red / M / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-wine-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>wine red / L / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-wine-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>matte black / S / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-matte-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>matte black / M / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-matte-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>matte black / M / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-matte-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>matte black / L / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-matte-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>matte black / L / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-matte-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black / S / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black / S / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black / M / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>matte black / S / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-matte-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black leopard / S / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-leopard-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black leopard / M / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-leopard-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black leopard / S / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-leopard-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black leopard / L / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-leopard-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black leopard / M / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-leopard-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black snake / S / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-snake-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black leopard / L / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-leopard-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black snake / M / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-snake-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black snake / S / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-snake-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black snake / L / China</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-snake-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black snake / M / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-snake-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030683730073</id>
+      <title>black snake / L / United States</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>33307464-black-snake-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+    <published>2021-09-03T15:52:08+05:00</published>
+    <updated>2021-09-03T15:52:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gownwomen.myshopify.com/products/women-ruched-lifting-leggings"/>
+    <title>Women Ruched Lifting Leggings</title>
+    <s:type></s:type>
+    <s:vendor>Gownwomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/5369/4361/products/product-image-1790628414.jpg?v=1630740432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gownwomen<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.98 - 29.98
+            <a href="https://gownwomen.myshopify.com/products/women-ruched-lifting-leggings">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Length:</strong> Mid-Calf<br><strong>Hip-Style:</strong> Booty Lifting<br><strong>Waist Type:</strong> HIGH<br><strong>Seam:</strong> SEAM<br><strong>Item Type:</strong> Leggings<br><strong>Style:</strong> Casual<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Pattern Type:</strong> Solid<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackBlue / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackblue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackBlue / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackblue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-blackrose-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackBlue / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackblue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-blackrose-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackrose-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-blackrose-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackrose-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackrose-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackRose / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackrose-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-yellowblack-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-yellowblack-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-yellowblack-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-yellowblack-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-yellowblack-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackPink / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackpink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackPink / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackpink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackPink / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackpink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackPink / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackpink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlackBlue / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-blackblue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / M / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-skyblue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-skyblue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-ink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / XL / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-skyblue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-ink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-ink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-ink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-ink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-ink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-ink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-rainbow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Ink / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-ink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-rainbow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-rainbow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris LightYellow / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-lightyellow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris LightYellow / M / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-lightyellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris LightYellow / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-lightyellow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris LightYellow / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-lightyellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-darkgreen-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris LightYellow / XL / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-lightyellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-darkgreen-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / S / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-darkgreen-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-darkgreen-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / M / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-darkgreen-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-darkgreen-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-darkgreen-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkGreen / XL / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-darkgreen-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Skyblue / S / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-skyblue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluepink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluepink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluepink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluepink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluewhite-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluepink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluewhite-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluewhite-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluewhite-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluewhite-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluewhite-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluewhite-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-yellowblack-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BlueWhite / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluewhite-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-yellowblack-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris YellowBlack / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-yellowblack-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-rainbow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-rainbow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-rainbow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-rainbow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Rainbow / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-rainbow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-skyblue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / M / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-skyblue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-skyblue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / L / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-skyblue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluepink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris SkyBlue / XL / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-skyblue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-bluepink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris BluePink / S / United States</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>43364575-capris-bluepink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Gray / L / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-gray-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Gray / M / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Gray / XL / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-gray-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Gray / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Red / S / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Gray / XL / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Red / M / China</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>43364575-capris-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Black / S / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Black / M / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Black / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Black / XL / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris DarkBlue / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-darkblue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Blue / S / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Blue / M / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Blue / L / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030676848793</id>
+      <title>Capris Blue / XL / United States</title>
+      <s:price currency="USD">27.98</s:price>
+      <s:sku>43364575-capris-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+    <published>2021-09-03T15:48:29+05:00</published>
+    <updated>2021-09-03T15:48:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://gownwomen.myshopify.com/products/back-fitness-workout-leggins"/>
+    <title>Back Fitness Workout Leggins</title>
+    <s:type></s:type>
+    <s:vendor>Gownwomen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0593/5369/4361/products/product-image-1804917809.jpg?v=1630669456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gownwomen<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.86 - 20.76
+            <a href="https://gownwomen.myshopify.com/products/back-fitness-workout-leggins">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Length:</strong> Ankle-Length<br><strong>Hip-Style:</strong> Booty Lifting<br><strong>Waist Type:</strong> HIGH<br><strong>Seam:</strong> Seamless<br><strong>Item Type:</strong> Leggings<br><strong>Gender:</strong> WOMEN<br><strong>Style:</strong> Casu<br><strong>Sizes:</strong> S M L XL<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-red-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Red / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-purple-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Purple / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-grey-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Grey / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-grey-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-mint-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Mint / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-mint-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-blue-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-blue-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-blue-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-blue-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-green-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-green-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-green-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-dark-green-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Dark Green / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-dark-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / L / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / M / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / XL / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-pink-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Pink / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-long-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / L / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / L / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / M / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / S / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / XL / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-rain-bow-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Rain bow / XL / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-rain-bow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Pink / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Pink / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Pink / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Pink / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / L / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / L / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / M / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / S / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / XL / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-ink-color-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Ink Color / XL / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-ink-color-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Black / S / China</title>
+      <s:price currency="USD">15.86</s:price>
+      <s:sku>21911716-long-black-s-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / M / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-yellow-black-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / L / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-yellow-black-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / L / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / XL / China</title>
+      <s:price currency="USD">17.64</s:price>
+      <s:sku>21911716-long-yellow-black-xl-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Yellow Black / XL / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-yellow-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue Pink / S / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-blue-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Long Blue Pink / M / United States</title>
+      <s:price currency="USD">20.76</s:price>
+      <s:sku>21911716-long-blue-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Blue / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Blue / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Blue / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Blue / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Black / XL / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Black / S / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Black / L / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://gownwomen.myshopify.com/products/7030664233113</id>
+      <title>Capri Black / M / United States</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>21911716-capri-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

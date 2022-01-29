@@ -1,0 +1,3774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://my-fishing-accessories.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://my-fishing-accessories.myshopify.com/collections/fishing-lines.atom"/>
+  <title>My Fishing Accessories </title>
+  <updated>2021-02-19T09:23:19+05:00</updated>
+  <author>
+    <name>My Fishing Accessories </name>
+  </author>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+    <published>2021-02-19T09:23:19+05:00</published>
+    <updated>2021-02-19T09:23:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/super-strong-fishing-line"/>
+    <title>Super Strong Fishing Line</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1384841530.jpg?v=1613708615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.24 - 21.56
+            <a href="https://my-fishing-accessories.myshopify.com/products/super-strong-fishing-line">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Nylon<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Shape:</strong> Level<br><strong>Buoyancy Characteristic:</strong> Floating Line<br><strong>Meters:</strong> 500m</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 0.4</title>
+      <s:price currency="USD">16.22</s:price>
+      <s:sku>14252322-green-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-green-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-green-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 1.0</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>14252322-green-1-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 1.2</title>
+      <s:price currency="USD">17.58</s:price>
+      <s:sku>14252322-green-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 1.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-green-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 2.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-green-2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 2.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-green-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 3.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-green-3-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 3.5</title>
+      <s:price currency="USD">18.18</s:price>
+      <s:sku>14252322-green-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 4.0</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>14252322-green-4-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 4.5</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>14252322-green-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 5.0</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>14252322-green-5-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 6.0</title>
+      <s:price currency="USD">19.88</s:price>
+      <s:sku>14252322-green-6-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 7.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-green-7-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Green / 8.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-green-8-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 0.4</title>
+      <s:price currency="USD">16.22</s:price>
+      <s:sku>14252322-orange-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-orange-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-orange-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 1.0</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>14252322-orange-1-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 1.2</title>
+      <s:price currency="USD">16.98</s:price>
+      <s:sku>14252322-orange-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 1.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-orange-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 2.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-orange-2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 2.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-orange-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 3.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-orange-3-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 3.5</title>
+      <s:price currency="USD">18.18</s:price>
+      <s:sku>14252322-orange-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 4.0</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>14252322-orange-4-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 4.5</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>14252322-orange-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 5.0</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>14252322-orange-5-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 6.0</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>14252322-orange-6-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 7.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-orange-7-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Orange / 8.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-orange-8-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 0.4</title>
+      <s:price currency="USD">16.22</s:price>
+      <s:sku>14252322-red-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-red-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-red-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 1.0</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>14252322-red-1-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 1.2</title>
+      <s:price currency="USD">17.58</s:price>
+      <s:sku>14252322-red-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 1.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-red-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 2.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-red-2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 2.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-red-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 3.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-red-3-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 3.5</title>
+      <s:price currency="USD">18.18</s:price>
+      <s:sku>14252322-red-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 4.0</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>14252322-red-4-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 4.5</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>14252322-red-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 5.0</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>14252322-red-5-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 6.0</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>14252322-red-6-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 7.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-red-7-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Red / 8.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-red-8-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 0.4</title>
+      <s:price currency="USD">15.24</s:price>
+      <s:sku>14252322-white-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-white-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-white-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 1.0</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>14252322-white-1-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 1.2</title>
+      <s:price currency="USD">17.84</s:price>
+      <s:sku>14252322-white-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 1.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-white-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 2.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-white-2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 2.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-white-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 3.0</title>
+      <s:price currency="USD">16.98</s:price>
+      <s:sku>14252322-white-3-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 3.5</title>
+      <s:price currency="USD">18.18</s:price>
+      <s:sku>14252322-white-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 4.0</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>14252322-white-4-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 4.5</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>14252322-white-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 5.0</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>14252322-white-5-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 6.0</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>14252322-white-6-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 7.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-white-7-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>White / 8.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-white-8-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 0.4</title>
+      <s:price currency="USD">15.24</s:price>
+      <s:sku>14252322-yellow-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-yellow-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-yellow-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 1.0</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>14252322-yellow-1-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 1.2</title>
+      <s:price currency="USD">17.58</s:price>
+      <s:sku>14252322-yellow-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 1.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-yellow-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 2.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-yellow-2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 2.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-yellow-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 3.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-yellow-3-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 3.5</title>
+      <s:price currency="USD">18.18</s:price>
+      <s:sku>14252322-yellow-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 4.0</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>14252322-yellow-4-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 4.5</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>14252322-yellow-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 5.0</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>14252322-yellow-5-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 6.0</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>14252322-yellow-6-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 7.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-yellow-7-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Yellow / 8.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-yellow-8-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 0.4</title>
+      <s:price currency="USD">16.22</s:price>
+      <s:sku>14252322-blue-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-blue-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-blue-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 1.0</title>
+      <s:price currency="USD">17.28</s:price>
+      <s:sku>14252322-blue-1-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 1.2</title>
+      <s:price currency="USD">17.58</s:price>
+      <s:sku>14252322-blue-1-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 1.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-blue-1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 2.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-blue-2-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 2.5</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-blue-2-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 3.0</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>14252322-blue-3-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 3.5</title>
+      <s:price currency="USD">18.18</s:price>
+      <s:sku>14252322-blue-3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 4.0</title>
+      <s:price currency="USD">18.44</s:price>
+      <s:sku>14252322-blue-4-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 4.5</title>
+      <s:price currency="USD">18.98</s:price>
+      <s:sku>14252322-blue-4-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 5.0</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>14252322-blue-5-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 6.0</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>14252322-blue-6-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 7.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-blue-7-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 8.0</title>
+      <s:price currency="USD">20.28</s:price>
+      <s:sku>14252322-blue-8-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Pink / 0.4</title>
+      <s:price currency="USD">15.24</s:price>
+      <s:sku>14252322-pink-0-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Blue / 10.0</title>
+      <s:price currency="USD">21.56</s:price>
+      <s:sku>14252322-blue-10-0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Pink / 0.8</title>
+      <s:price currency="USD">17.04</s:price>
+      <s:sku>14252322-pink-0-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343892688</id>
+      <title>Pink / 0.6</title>
+      <s:price currency="USD">16.88</s:price>
+      <s:sku>14252322-pink-0-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+    <published>2021-02-19T09:20:48+05:00</published>
+    <updated>2021-02-19T09:20:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/multicolor-pe-braided-fishing-line"/>
+    <title>Multicolor PE Braided Fishing Line</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1589567955.jpg?v=1613708719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.60 - 36.60
+            <a href="https://my-fishing-accessories.myshopify.com/products/multicolor-pe-braided-fishing-line">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Braided Wire<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> Lake<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Shape:</strong> Level<br><strong>Buoyancy Characteristic:</strong> Floating Line<br><strong>Meters:</strong> 300m<br><strong>Weaves:</strong> 4 Threads / 8 Threads<br><strong>PE Fishing Line:</strong> Yes<br><strong>Braided Fishing Line:</strong> Yes<br><strong>Multifilament Fishing Line:</strong> Yes<br><strong>Multifilament Braided Fishing Line:</strong> Yes<br><strong>4 Threads Fishing Line:</strong> Yes<br><strong>Strong Fishing Line:</strong> Yes<br><strong>Meters:</strong> 100M / 300M / 500M (Optional)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-black-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-blue-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-multicolor-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-green-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-grey-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-orange-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X4 500M 28LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>23788477-yellow-x4-500m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-black-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-blue-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-multicolor-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-green-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-grey-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-orange-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X4 500M 40LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-yellow-x4-500m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-black-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-blue-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-multicolor-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-green-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-grey-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-orange-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X4 500M 60LB</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>23788477-yellow-x4-500m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-black-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-blue-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-multicolor-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-green-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-grey-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-orange-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 300M 18LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-yellow-x8-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-black-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-blue-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-multicolor-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-green-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-grey-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-orange-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 300M 31LB</title>
+      <s:price currency="USD">23.60</s:price>
+      <s:sku>23788477-yellow-x8-300m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-black-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-blue-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-multicolor-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-green-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-grey-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-orange-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 300M 61LB</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>23788477-yellow-x8-300m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 22LB</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>23788477-green-x8-500m-22lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 31LB</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>23788477-green-x8-500m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 39LB</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>23788477-green-x8-500m-39lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-green-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-green-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-green-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-green-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 300M 78LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-blue-x8-300m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 500M 31LB</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>23788477-yellow-x8-500m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 500M 39LB</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>23788477-yellow-x8-500m-39lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-yellow-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-yellow-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-yellow-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Yellow / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-yellow-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 300M 78LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-green-x8-300m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Green / X8 500M 18LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-green-x8-500m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 300M 78LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-black-x8-300m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 18LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-black-x8-500m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 22LB</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>23788477-black-x8-500m-22lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 31LB</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>23788477-black-x8-500m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 39LB</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>23788477-black-x8-500m-39lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-black-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-black-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-black-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 18LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-blue-x8-500m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 22LB</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>23788477-blue-x8-500m-22lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 31LB</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>23788477-blue-x8-500m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 39LB</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>23788477-blue-x8-500m-39lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-blue-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-blue-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-blue-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>blue / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-blue-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-orange-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-orange-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 300M 78LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-multicolor-x8-300m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 18LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-multicolor-x8-500m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 22LB</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>23788477-multicolor-x8-500m-22lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 31LB</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>23788477-multicolor-x8-500m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 39LB</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>23788477-multicolor-x8-500m-39lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-multicolor-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Black / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-black-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 300M 78LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-orange-x8-300m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 18LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-orange-x8-500m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 22LB</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>23788477-orange-x8-500m-22lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 31LB</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>23788477-orange-x8-500m-31lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 39LB</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>23788477-orange-x8-500m-39lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-orange-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Orange / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-orange-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 500M 43LB</title>
+      <s:price currency="USD">34.80</s:price>
+      <s:sku>23788477-grey-x8-500m-43lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-grey-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-grey-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-grey-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 52LB</title>
+      <s:price currency="USD">35.40</s:price>
+      <s:sku>23788477-multicolor-x8-500m-52lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 61LB</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>23788477-multicolor-x8-500m-61lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Multicolor / X8 500M 78LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-multicolor-x8-500m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 300M 78LB</title>
+      <s:price currency="USD">26.40</s:price>
+      <s:sku>23788477-grey-x8-300m-78lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 500M 18LB</title>
+      <s:price currency="USD">36.60</s:price>
+      <s:sku>23788477-grey-x8-500m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051343794384</id>
+      <title>Grey / X8 500M 22LB</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>23788477-grey-x8-500m-22lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+    <published>2021-02-18T16:26:25+05:00</published>
+    <updated>2021-02-18T16:26:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/anti-bite-steel-fishing-line"/>
+    <title>Anti Bite Steel Fishing Wire</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1436026135.jpg?v=1613647589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Steel Wire<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Shape:</strong> Rocket Tip<br><strong>Buoyancy Characteristic:</strong> Sink Tip Floating Line<br><strong>Type:</strong> Anti-bite Fishing Wire<br><strong>Material:</strong> steel wire<br><strong>Color:</strong> Green, Black<br><strong>Size:</strong> 15cm,20cm,25cm,30cm<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Weight:</strong> 0.7g-0.8g /pcs<br><strong>MOQ:</strong> 1set=20pcs<br><strong>50CMMOQ:</strong> 1set=5pcs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Green-20  20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-green-20-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Black-30   20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-black-30-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Green-24  20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-green-24-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Silver-15   20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-silver-15-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Green-15  20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-green-15-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Silver-20   20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-silver-20-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Black-15   20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-black-15-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Silver-24   20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-silver-24-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Black-20  20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-black-20-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Silver-30   20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-silver-30-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Green-30  20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-green-30-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145777360</id>
+      <title>Black-24  20pcs</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>29338190-black-24-20pcs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+    <published>2021-02-18T16:18:19+05:00</published>
+    <updated>2021-02-18T16:18:19+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/smooth-multifilament-fishing-line"/>
+    <title>Smooth Multifilament Fishing Line</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1432933848.jpg?v=1613708884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.30 - 53.03
+            <a href="https://my-fishing-accessories.myshopify.com/products/smooth-multifilament-fishing-line">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Braided Wire<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Shape:</strong> Level<br><strong>Buoyancy Characteristic:</strong> Floating Line<br><strong>Meters:</strong> 300M 500M 1000M<br><strong>Weaves:</strong> 4 Strands (3 strands for 8LB)<br><strong>Strength Test Range(LB):</strong> 8 10 15 20 25 30 35 40 50 60 70 80LB<br><strong>Strength Test Range(KG):</strong> 3.6-36.3KG<br><strong>Diameter Range(mm):</strong> 0.10-0.50mm<br><strong>7 Colors:</strong> Red,Yellow,Blue,Green,Black,White,Gray<br><strong>Water Absorption:</strong> No<br><strong>Abrasion Resistance:</strong> Strong PE, Japan Material, tough and durable<br><strong>Memory:</strong> Extremely Low<br><strong>Coating Layer:</strong> Smoother<br><strong>Suitable:</strong> Saltwater/Freshwater</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-black-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-black-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-black-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-black-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-black-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-black-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-black-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-black-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-black-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-blue-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-blue-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-blue-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-blue-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-blue-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-blue-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-blue-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-blue-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-blue-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-gray-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-gray-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-gray-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-gray-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-gray-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-gray-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-gray-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-gray-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-gray-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-green-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-green-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-green-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-green-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-green-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-green-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-green-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-green-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-green-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-red-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-red-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-red-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-red-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-red-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-red-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-red-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-red-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Red / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-red-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-white-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-white-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-white-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-white-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-white-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-white-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-white-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-white-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>White / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-white-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 15LB</title>
+      <s:price currency="USD">37.16</s:price>
+      <s:sku>28378-yellow-1000m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 20LB</title>
+      <s:price currency="USD">38.03</s:price>
+      <s:sku>28378-yellow-1000m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 25LB</title>
+      <s:price currency="USD">39.47</s:price>
+      <s:sku>28378-yellow-1000m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 30LB</title>
+      <s:price currency="USD">40.62</s:price>
+      <s:sku>28378-yellow-1000m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 35LB</title>
+      <s:price currency="USD">42.93</s:price>
+      <s:sku>28378-yellow-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 40LB</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>28378-yellow-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 50LB</title>
+      <s:price currency="USD">47.84</s:price>
+      <s:sku>28378-yellow-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 60LB</title>
+      <s:price currency="USD">52.16</s:price>
+      <s:sku>28378-yellow-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Yellow / 1000M 80LB</title>
+      <s:price currency="USD">53.03</s:price>
+      <s:sku>28378-yellow-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 8LB</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>28378-black-300m-8lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 10LB</title>
+      <s:price currency="USD">22.34</s:price>
+      <s:sku>28378-black-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 15LB</title>
+      <s:price currency="USD">22.62</s:price>
+      <s:sku>28378-black-300m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 20LB</title>
+      <s:price currency="USD">22.68</s:price>
+      <s:sku>28378-black-300m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 25LB</title>
+      <s:price currency="USD">22.11</s:price>
+      <s:sku>28378-black-300m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 30LB</title>
+      <s:price currency="USD">21.81</s:price>
+      <s:sku>28378-black-300m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 35LB</title>
+      <s:price currency="USD">21.59</s:price>
+      <s:sku>28378-black-300m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 40LB</title>
+      <s:price currency="USD">21.30</s:price>
+      <s:sku>28378-black-300m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 50LB</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>28378-black-300m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 60LB</title>
+      <s:price currency="USD">22.46</s:price>
+      <s:sku>28378-black-300m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 70LB</title>
+      <s:price currency="USD">23.03</s:price>
+      <s:sku>28378-black-300m-70lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Black / 300M 80LB</title>
+      <s:price currency="USD">23.03</s:price>
+      <s:sku>28378-black-300m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 8LB</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>28378-blue-300m-8lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 10LB</title>
+      <s:price currency="USD">22.34</s:price>
+      <s:sku>28378-blue-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 15LB</title>
+      <s:price currency="USD">22.62</s:price>
+      <s:sku>28378-blue-300m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 20LB</title>
+      <s:price currency="USD">22.68</s:price>
+      <s:sku>28378-blue-300m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 25LB</title>
+      <s:price currency="USD">22.11</s:price>
+      <s:sku>28378-blue-300m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 30LB</title>
+      <s:price currency="USD">21.81</s:price>
+      <s:sku>28378-blue-300m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 35LB</title>
+      <s:price currency="USD">21.59</s:price>
+      <s:sku>28378-blue-300m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 40LB</title>
+      <s:price currency="USD">21.30</s:price>
+      <s:sku>28378-blue-300m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 50LB</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>28378-blue-300m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 60LB</title>
+      <s:price currency="USD">22.46</s:price>
+      <s:sku>28378-blue-300m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 70LB</title>
+      <s:price currency="USD">23.03</s:price>
+      <s:sku>28378-blue-300m-70lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Blue / 300M 80LB</title>
+      <s:price currency="USD">23.03</s:price>
+      <s:sku>28378-blue-300m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 8LB</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>28378-green-300m-8lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 10LB</title>
+      <s:price currency="USD">22.34</s:price>
+      <s:sku>28378-green-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 15LB</title>
+      <s:price currency="USD">22.62</s:price>
+      <s:sku>28378-green-300m-15lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 20LB</title>
+      <s:price currency="USD">22.68</s:price>
+      <s:sku>28378-green-300m-20lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 25LB</title>
+      <s:price currency="USD">22.11</s:price>
+      <s:sku>28378-green-300m-25lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 30LB</title>
+      <s:price currency="USD">21.81</s:price>
+      <s:sku>28378-green-300m-30lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 35LB</title>
+      <s:price currency="USD">21.59</s:price>
+      <s:sku>28378-green-300m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 40LB</title>
+      <s:price currency="USD">21.30</s:price>
+      <s:sku>28378-green-300m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 50LB</title>
+      <s:price currency="USD">21.87</s:price>
+      <s:sku>28378-green-300m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 60LB</title>
+      <s:price currency="USD">22.46</s:price>
+      <s:sku>28378-green-300m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 70LB</title>
+      <s:price currency="USD">23.03</s:price>
+      <s:sku>28378-green-300m-70lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Green / 300M 80LB</title>
+      <s:price currency="USD">23.03</s:price>
+      <s:sku>28378-green-300m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051145416912</id>
+      <title>Gray / 300M 8LB</title>
+      <s:price currency="USD">22.13</s:price>
+      <s:sku>28378-gray-300m-8lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+    <published>2021-02-18T16:11:42+05:00</published>
+    <updated>2021-02-18T16:11:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/nylon-fishing-line"/>
+    <title>Nylon Fishing Line</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1676216045.jpg?v=1613646722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.63 - 18.72
+            <a href="https://my-fishing-accessories.myshopify.com/products/nylon-fishing-line">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>With Ruler or Not:</strong> No<br><strong>Material:</strong> Nylon<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> River<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> stream<br><strong>Shape:</strong> Level<br><strong>Buoyancy Characteristic:</strong> Sink Line<br><strong>Meters:</strong> 500m<br><strong>Model Number:</strong> Fishing Nylon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-red-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-red-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-red-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-red-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-red-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-red-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-red-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-red-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-red-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-red-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-red-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-red-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-red-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Red  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-red-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-blue-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-blue-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-blue-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-blue-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-blue-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-blue-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-blue-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-blue-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-blue-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-blue-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-blue-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-blue-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-blue-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blue  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-blue-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-green-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-green-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-green-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-green-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-green-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-green-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-green-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-green-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-green-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-green-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-green-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-green-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-green-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Green  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-green-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-white-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-white-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-white-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-white-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-white-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-white-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-white-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-white-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-white-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-white-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-white-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-white-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-white-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>White  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-white-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-black-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-black-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-black-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-black-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-black-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-black-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-black-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-black-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-black-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-black-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-black-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-black-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-black-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Black  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-black-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-pink-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-pink-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-pink-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-pink-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-pink-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-pink-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-pink-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-pink-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-pink-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-pink-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-pink-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-pink-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-pink-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Pink  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-pink-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 0.4 (0.104mm)</title>
+      <s:price currency="USD">12.63</s:price>
+      <s:sku>5841837-yellow-500m-number-0-4-0-104mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-yellow-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-yellow-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 1.0 (0.165mm)</title>
+      <s:price currency="USD">12.96</s:price>
+      <s:sku>5841837-yellow-500m-number-1-0-0-165mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 1.5 (0.205mm)</title>
+      <s:price currency="USD">13.23</s:price>
+      <s:sku>5841837-yellow-500m-number-1-5-0-205mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 2.0 (0.235mm)</title>
+      <s:price currency="USD">13.50</s:price>
+      <s:sku>5841837-yellow-500m-number-2-0-0-235mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 2.5 (0.260mm)</title>
+      <s:price currency="USD">13.86</s:price>
+      <s:sku>5841837-yellow-500m-number-2-5-0-260mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 3.0 (0.285mm)</title>
+      <s:price currency="USD">14.04</s:price>
+      <s:sku>5841837-yellow-500m-number-3-0-0-285mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 3.5 (0.300mm)</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>5841837-yellow-500m-number-3-5-0-300mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 4.0 (0.330mm)</title>
+      <s:price currency="USD">14.64</s:price>
+      <s:sku>5841837-yellow-500m-number-4-0-0-330mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 5.0 (0.370mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-yellow-500m-number-5-0-0-370mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 6.0 (0.405mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-yellow-500m-number-6-0-0-405mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 7.0 (0.435mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-yellow-500m-number-7-0-0-435mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Yellow  500M / Number 8.0 (0.470mm)</title>
+      <s:price currency="USD">18.72</s:price>
+      <s:sku>5841837-yellow-500m-number-8-0-0-470mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blackish green 500M / Number 0.6 (0.128mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-blackish-green-500m-number-0-6-0-128mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143909584</id>
+      <title>Blackish green 500M / Number 0.8 (0.148mm)</title>
+      <s:price currency="USD">12.78</s:price>
+      <s:sku>5841837-blackish-green-500m-number-0-8-0-148mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+    <published>2021-02-18T16:09:28+05:00</published>
+    <updated>2021-02-18T16:09:28+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://my-fishing-accessories.myshopify.com/products/braid-fishing-line"/>
+    <title>Braid Fishing line</title>
+    <s:type></s:type>
+    <s:vendor>My Fishing Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0507/7483/5408/products/product-image-1412539254.jpg?v=1613708955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Fishing Accessories <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 58.50
+            <a href="https://my-fishing-accessories.myshopify.com/products/braid-fishing-line">(100 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Braided Wire<br><strong>Position:</strong> River<br><strong>Position:</strong> stream<br><strong>Position:</strong> Ocean Rock Fishing<br><strong>Position:</strong> LAKE<br><strong>Position:</strong> Reservoir Pond<br><strong>Position:</strong> Ocean Beach Fishing<br><strong>Position:</strong> Ocean Boat Fishing<br><strong>With Scale or Not:</strong> No<br><strong>Shape:</strong> Level<br><strong>Buoyancy Characteristic:</strong> Floating Line<br><strong>Meters:</strong> 300m 500m 1000m<br><strong>Weaves:</strong> 4 strands<br><strong>Color:</strong> Multicolor, Yellow, Green, Grey, Blue,Black, Orange<br><strong>LB TEST:</strong> 10-120LB<br><strong>Diameter:</strong> 0.11mm-0.70mm<br><strong>Suitable:</strong> Freshwater/Saltwater<br><strong>10LB-0.11MM:</strong> Line Number 0.4#<br><strong>12LB-0.13MM:</strong> Line Number 0.6#<br><strong>18LB-0.16MM:</strong> Line Number 1.0#<br><strong>28LB-0.23MM:</strong> Line Number 2.0#<br><strong>35LB-0.28MM:</strong> Line Number 3.0#<br><strong>40LB-0.32MM:</strong> Line Number 4.0#<br><strong>50LB-0.37MM:</strong> Line Number 5.0#<br><strong>60LB-0.40MM:</strong> Line Number 6.0#<br><strong>80LB-0.50MM:</strong> Line Number 8.0#<br><strong>100LB-0.57MM:</strong> Line Number 10.0#<br><strong>120LB-0.70MM:</strong> Line Number 12.0#</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-black-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-blue-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-multicolor-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-green-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-grey-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-orange-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-10LB</title>
+      <s:price currency="USD">44.46</s:price>
+      <s:sku>25031851-yellow-1000m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-black-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-blue-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-multicolor-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-green-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-grey-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-orange-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-12LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-yellow-1000m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-black-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-blue-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-multicolor-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-green-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-grey-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-orange-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-18LB</title>
+      <s:price currency="USD">41.93</s:price>
+      <s:sku>25031851-yellow-1000m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-black-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-blue-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-multicolor-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-green-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-grey-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-orange-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-100LB</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku>25031851-yellow-1000m-100lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-black-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-blue-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-multicolor-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-green-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-grey-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-orange-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-28LB</title>
+      <s:price currency="USD">46.80</s:price>
+      <s:sku>25031851-yellow-1000m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-black-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-blue-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-multicolor-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-green-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-grey-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-orange-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-35LB</title>
+      <s:price currency="USD">49.73</s:price>
+      <s:sku>25031851-yellow-1000m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-black-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-blue-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-multicolor-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-green-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-grey-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-orange-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-40LB</title>
+      <s:price currency="USD">51.68</s:price>
+      <s:sku>25031851-yellow-1000m-40lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-black-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-blue-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-multicolor-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-green-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-grey-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-orange-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-50LB</title>
+      <s:price currency="USD">53.63</s:price>
+      <s:sku>25031851-yellow-1000m-50lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-black-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-blue-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-multicolor-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-green-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-grey-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-orange-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-60LB</title>
+      <s:price currency="USD">55.58</s:price>
+      <s:sku>25031851-yellow-1000m-60lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-black-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-blue-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-multicolor-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-green-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-grey-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-orange-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 1000M-80LB</title>
+      <s:price currency="USD">56.55</s:price>
+      <s:sku>25031851-yellow-1000m-80lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-black-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-blue-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-multicolor-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-green-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-grey-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-orange-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 300M-10LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-yellow-300m-10lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-black-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-blue-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-multicolor-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-green-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-grey-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-orange-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 300M-12LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-yellow-300m-12lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 300M-18LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-black-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 300M-18LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-blue-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 300M-18LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-multicolor-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 300M-18LB</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>25031851-green-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 300M-18LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-grey-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 300M-18LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-orange-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 300M-18LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-yellow-300m-18lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-black-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-blue-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Multicolor / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-multicolor-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Green / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-green-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Grey / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-grey-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Orange / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-orange-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Yellow / 300M-28LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-yellow-300m-28lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Black / 300M-35LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-black-300m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://my-fishing-accessories.myshopify.com/products/6051143844048</id>
+      <title>Blue / 300M-35LB</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>25031851-blue-300m-35lb</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

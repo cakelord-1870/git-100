@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://silkybabies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://silkybabies.myshopify.com/collections/baby-clothes.atom"/>
+  <title>Silkybabies</title>
+  <updated>2021-09-11T11:54:14+05:00</updated>
+  <author>
+    <name>Silkybabies</name>
+  </author>
+  <entry>
+    <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+    <published>2021-09-11T11:54:14+05:00</published>
+    <updated>2021-09-11T11:54:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/products/baby-solid-color-clothes-set"/>
+    <title>Baby Solid Color Clothes Set</title>
+    <s:type></s:type>
+    <s:vendor>Silkybabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0601/8944/2233/products/product-image-1588071578.jpg?v=1631352044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silkybabies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.92 - 26.04
+            <a href="https://silkybabies.myshopify.com/products/baby-solid-color-clothes-set">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Unisex<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 24M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-c-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 18M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-c-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 18M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-c-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 12M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-c-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 12M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-d-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 6M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-d-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 6M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-d-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 24M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-c-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 12M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-c-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 6M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-c-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>C / 6M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-c-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 24M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-d-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 18M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-d-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 18M / China</title>
+      <s:price currency="USD">26.04</s:price>
+      <s:sku>40985588-d-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 12M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-d-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958408171705</id>
+      <title>D / 24M / United States</title>
+      <s:price currency="USD">19.92</s:price>
+      <s:sku>40985588-d-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+    <published>2021-09-11T11:51:49+05:00</published>
+    <updated>2021-09-11T11:51:49+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/products/baby-fall-clothes-long-sleeve"/>
+    <title>Baby Fall Clothes Long Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>Silkybabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0601/8944/2233/products/product-image-1614397059.jpg?v=1631343113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silkybabies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.18 - 28.00
+            <a href="https://silkybabies.myshopify.com/products/baby-fall-clothes-long-sleeve">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Gender:</strong> Female<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Covered Button<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 18M / United States</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>41541683-long-sleeve-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 12M / United States</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>41541683-long-sleeve-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 6M / China</title>
+      <s:price currency="USD">24.05</s:price>
+      <s:sku>41541683-short-sleeve-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 24M / United States</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>41541683-long-sleeve-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 18M / China</title>
+      <s:price currency="USD">24.05</s:price>
+      <s:sku>41541683-short-sleeve-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 12M / China</title>
+      <s:price currency="USD">24.05</s:price>
+      <s:sku>41541683-short-sleeve-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 6M / United States</title>
+      <s:price currency="USD">19.18</s:price>
+      <s:sku>41541683-short-sleeve-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 24M / China</title>
+      <s:price currency="USD">24.05</s:price>
+      <s:sku>41541683-short-sleeve-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 18M / United States</title>
+      <s:price currency="USD">19.18</s:price>
+      <s:sku>41541683-short-sleeve-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 12M / United States</title>
+      <s:price currency="USD">19.18</s:price>
+      <s:sku>41541683-short-sleeve-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Short sleeve / 24M / United States</title>
+      <s:price currency="USD">19.18</s:price>
+      <s:sku>41541683-short-sleeve-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 6M / China</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>41541683-long-sleeve-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 18M / China</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>41541683-long-sleeve-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 12M / China</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>41541683-long-sleeve-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 6M / United States</title>
+      <s:price currency="USD">21.06</s:price>
+      <s:sku>41541683-long-sleeve-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958407909561</id>
+      <title>Long sleeve / 24M / China</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>41541683-long-sleeve-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+    <published>2021-09-11T11:49:08+05:00</published>
+    <updated>2021-09-11T11:49:08+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/products/baby-casual-suit-clothing-round-neck"/>
+    <title>Baby Casual Suit Clothing Round Neck</title>
+    <s:type></s:type>
+    <s:vendor>Silkybabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0601/8944/2233/products/product-image-1651799327.jpg?v=1631351815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silkybabies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.88 - 23.58
+            <a href="https://silkybabies.myshopify.com/products/baby-casual-suit-clothing-round-neck">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pattern Type:</strong> striped</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 3M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-b-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 3M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-b-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 3M / China</title>
+      <s:price currency="USD">23.58</s:price>
+      <s:sku>42499807-a-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958406435001</id>
+      <title>A / 3M / United States</title>
+      <s:price currency="USD">15.88</s:price>
+      <s:sku>42499807-a-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+    <published>2021-09-11T11:47:33+05:00</published>
+    <updated>2021-09-11T11:47:33+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/products/newborn-infant-baby-autumn-clothing-se"/>
+    <title>Newborn Infant Baby Autumn Clothing Se</title>
+    <s:type></s:type>
+    <s:vendor>Silkybabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0601/8944/2233/products/product-image-1513288680.jpg?v=1631352637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silkybabies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.06 - 22.92
+            <a href="https://silkybabies.myshopify.com/products/newborn-infant-baby-autumn-clothing-se">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Material:</strong> COTTON</span><br><span><strong>Material:</strong> Polyester</span><br><span><strong>Style:</strong> Fashion</span><br><span><strong>Collar:</strong> O-Neck</span><br><span><strong>Closure Type:</strong> Pullover</span><br><span><strong>Sleeve Length(cm):</strong> Full</span><br><span><strong>Sleeve Style:</strong> Regular</span><br><span><strong>Fabric Type:</strong> Broadcloth</span><br><span><strong>Material Composition:</strong> Cotton\\\\\\\/Polyester</span><br><span><strong>Pattern Type:</strong> Floral</span><br><span><strong>Gender:</strong> Baby Girls</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 12M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-c-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 12M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-c-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 6M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-c-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 6M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-c-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 24M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-c-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 24M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-c-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 18M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-c-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>C / 18M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-c-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">18.06</s:price>
+      <s:sku>39759306-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958405648569</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">22.92</s:price>
+      <s:sku>39759306-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+    <published>2021-09-11T11:43:47+05:00</published>
+    <updated>2021-09-11T11:43:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/products/newborn-infant-baby-girls-letter-clothes"/>
+    <title>Newborn Infant Baby Girls Letter Clothes</title>
+    <s:type></s:type>
+    <s:vendor>Silkybabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0601/8944/2233/products/product-image-1245648309.jpg?v=1631342629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silkybabies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.12 - 24.75
+            <a href="https://silkybabies.myshopify.com/products/newborn-infant-baby-girls-letter-clothes">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Pullover<br><strong>Material Composition:</strong> Cotton<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Pattern Type:</strong> Letter<br><strong>Sleeve Style:</strong> Regular<br><strong>Gender:</strong> Baby Girls<br><strong>Fabric Type:</strong> Broadcloth</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 24M / United States</title>
+      <s:price currency="USD">18.31</s:price>
+      <s:sku>33434750-yellow-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 18M / United States</title>
+      <s:price currency="USD">17.22</s:price>
+      <s:sku>33434750-yellow-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 24M / China</title>
+      <s:price currency="USD">24.75</s:price>
+      <s:sku>33434750-yellow-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 12M / United States</title>
+      <s:price currency="USD">16.21</s:price>
+      <s:sku>33434750-yellow-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 18M / China</title>
+      <s:price currency="USD">23.94</s:price>
+      <s:sku>33434750-yellow-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 6M / United States</title>
+      <s:price currency="USD">15.12</s:price>
+      <s:sku>33434750-yellow-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 12M / China</title>
+      <s:price currency="USD">23.14</s:price>
+      <s:sku>33434750-yellow-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958402994361</id>
+      <title>yellow / 6M / China</title>
+      <s:price currency="USD">22.30</s:price>
+      <s:sku>33434750-yellow-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+    <published>2021-09-11T11:41:38+05:00</published>
+    <updated>2021-09-11T11:41:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://silkybabies.myshopify.com/products/newborn-infant-baby-girl-clothing-set"/>
+    <title>Newborn Infant Baby Girl Clothing Set</title>
+    <s:type></s:type>
+    <s:vendor>Silkybabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0601/8944/2233/products/product-image-1688920860.jpg?v=1631342501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silkybabies<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.34 - 20.37
+            <a href="https://silkybabies.myshopify.com/products/newborn-infant-baby-girl-clothing-set">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 7-12m<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> Short<br><strong>Sleeve Style:</strong> Regular<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Outerwear Type:</strong> Coat<br><strong>Material Composition:</strong> Cotton Blend<br><strong>Pattern Type:</strong> Floral<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">17.34</s:price>
+      <s:sku>43558133-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">17.34</s:price>
+      <s:sku>43558133-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>24M / China</title>
+      <s:price currency="USD">20.37</s:price>
+      <s:sku>43558133-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">17.34</s:price>
+      <s:sku>43558133-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>12M / China</title>
+      <s:price currency="USD">20.37</s:price>
+      <s:sku>43558133-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>3M / United States</title>
+      <s:price currency="USD">17.34</s:price>
+      <s:sku>43558133-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>6M / China</title>
+      <s:price currency="USD">20.37</s:price>
+      <s:sku>43558133-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://silkybabies.myshopify.com/products/6958401781945</id>
+      <title>3M / China</title>
+      <s:price currency="USD">20.37</s:price>
+      <s:sku>43558133-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

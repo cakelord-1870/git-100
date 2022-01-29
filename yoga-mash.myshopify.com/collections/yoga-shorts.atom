@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://yoga-mash.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://yoga-mash.myshopify.com/collections/yoga-shorts.atom"/>
+  <title>Yoga Mash</title>
+  <updated>2021-06-08T14:11:14+05:00</updated>
+  <author>
+    <name>Yoga Mash</name>
+  </author>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+    <published>2021-06-08T14:11:14+05:00</published>
+    <updated>2021-06-08T14:11:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/sports-wear-fitness-short"/>
+    <title>Sports Wear Fitness Short</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1226036977.jpg?v=1623143887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Shorts<br><strong>Sport Type:</strong> Yoga<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Canvas<br><strong>Pattern Type:</strong> Solid<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>size:</strong> s/m/l/xl<br><strong>item type:</strong> yoga shorts<br><strong>material:</strong> polyester/spandex<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Shorts</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>black / L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>black / M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>black / S / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>black / XL / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>light grey / L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-light-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>light grey / M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-light-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>light grey / S / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-light-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>light grey / XL / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-light-grey-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>army Green / L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-army-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>army Green / M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-army-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>army Green / S / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-army-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>army Green / XL / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-army-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>wine red / L / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-wine-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>wine red / M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-wine-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>wine red / S / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-wine-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946192294062</id>
+      <title>wine red / XL / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>25439950-wine-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+    <published>2021-06-08T14:10:14+05:00</published>
+    <updated>2021-06-08T14:10:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/workout-training-yoga-shorts"/>
+    <title>Workout Training yoga Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1682035802.jpg?v=1623143695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Item Type:</strong> Shorts<br><strong>Sport Type:</strong> Yoga<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pattern Type:</strong> Print<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>size:</strong> S M L XL<br><strong>item type:</strong> yoga shorts<br><strong>sport type:</strong> high waist shorts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Shorts</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Blue yoga shorts / L / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-blue-yoga-shorts-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Blue yoga shorts / M / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-blue-yoga-shorts-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Blue yoga shorts / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-blue-yoga-shorts-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Blue yoga shorts / XL / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-blue-yoga-shorts-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Red yoga shorts / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-red-yoga-shorts-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Red yoga shorts / L / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-red-yoga-shorts-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Red yoga shorts / M / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-red-yoga-shorts-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Red yoga shorts / XL / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-red-yoga-shorts-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1975 / L / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1975-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1975 / XL / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1975-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1975 / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1975-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1975 / M / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1975-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Leopard shorts / L / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-leopard-shorts-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1973 / L / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1973-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Leopard shorts / XL / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-leopard-shorts-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1973 / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1973-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Leopard shorts / M / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-leopard-shorts-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Rose red yoga shorts / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-rose-red-yoga-shorts-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Rose red yoga shorts / M / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-rose-red-yoga-shorts-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1972 / L / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1972-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1972 / XL / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1972-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Printed shorts 1972 / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-printed-shorts-1972-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946180300974</id>
+      <title>Black shorts 1730 / S / United States</title>
+      <s:price currency="USD">19.50</s:price>
+      <s:sku>25753227-black-shorts-1730-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+    <published>2021-06-08T14:09:02+05:00</published>
+    <updated>2021-06-08T14:09:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/running-women-gym-shorts"/>
+    <title>Running Women Gym shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1722198110.jpg?v=1623143632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            18.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> WOMEN<br><strong>Material:</strong> Polyester<br><strong>Material:</strong> Spandex<br><strong>Item Type:</strong> Shorts<br><strong>Sport Type:</strong> Yoga<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Pattern Type:</strong> Solid<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>size:</strong> S,M, L, XL<br><strong>item type:</strong> yoga shorts<br><strong>material:</strong> 76% polyamid+14% polyester+10%spandex<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Shorts</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts sky blue / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts sky blue / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-sky-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray Blue / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray Blue / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray Blue / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Gray Blue / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-gray-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts purple / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts purple / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts purple / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts purple / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts dark blue / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts dark blue / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-dark-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts dark blue / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-dark-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts dark blue / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts yellow / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts yellow / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts yellow / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts yellow / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts sky blue / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-sky-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts sky blue / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-sky-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Sky Blue / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Sky Blue / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-sky-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Sky Blue / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-sky-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Sky Blue / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-sky-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Black / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Black / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Black / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Black / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts black / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts black / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts black / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts black / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Maroon / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-maroon-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Maroon / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-maroon-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Maroon / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-maroon-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>01 shorts Maroon / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-01-shorts-maroon-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts blue / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts blue / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts blue / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts blue / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts red / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts red / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts red / S / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts red / M / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts gray / L / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946167324846</id>
+      <title>02 shorts gray / XL / United States</title>
+      <s:price currency="USD">18.24</s:price>
+      <s:sku>40976924-02-shorts-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+    <published>2021-06-08T14:07:39+05:00</published>
+    <updated>2021-06-08T14:07:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://yoga-mash.myshopify.com/products/high-waist-elastic-sports-shorts"/>
+    <title>High Waist Elastic Sports Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Yoga Mash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2399/3006/products/product-image-1605839384.jpg?v=1623143283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yoga Mash<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Polyester<br><strong>Material:</strong> Nylon<br><strong>Material:</strong> Spandex<br><strong>Item Type:</strong> Shorts<br><strong>Sport Type:</strong> Yoga<br><strong>Fit:</strong> Fits true to size, take your normal size<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pattern Type:</strong> Solid<br><strong>fit:</strong> fits true to size, take your normal size<br><strong>size:</strong> S,M, L, XL<br><strong>item type:</strong> yoga shorts<br><strong>material:</strong> 72%POLYESTER +18%NYLON +10%SPANDEX<br><strong>Pattern Type:</strong> Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yoga Shorts</s:tag>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Black / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Black / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Black / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Pink / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Pink / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Pink / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Pink / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Black / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Maroon / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-maroon-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Maroon / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-maroon-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Maroon / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-maroon-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Maroon / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-maroon-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray Blue / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray Blue / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray Blue / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Gray Blue / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-gray-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Sky Blue / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-sky-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Sky Blue / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-sky-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Sky Blue / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-sky-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Black / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Black / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Black / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Purple / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-purple-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Purple / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-purple-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Purple / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-purple-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>02 shorts Purple / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-02-shorts-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Gray / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Gray / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Gray / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Gray / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Green / XL / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Green / L / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Green / M / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://yoga-mash.myshopify.com/products/6946151137454</id>
+      <title>01 shorts Green / S / United States</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>41413041-01-shorts-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

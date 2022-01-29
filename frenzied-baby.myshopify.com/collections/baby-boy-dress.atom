@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frenzied-baby.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frenzied-baby.myshopify.com/collections/baby-boy-dress.atom"/>
+  <title>frenzied baby</title>
+  <updated>2021-09-29T15:26:48+05:00</updated>
+  <author>
+    <name>frenzied baby</name>
+  </author>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+    <published>2021-09-29T15:26:48+05:00</published>
+    <updated>2021-09-29T15:26:48+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/summer-cotton-infant-baby-boy"/>
+    <title>Summer Cotton Infant Baby Boy</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1217389513.jpg?v=1633412455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> Sleeveless</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 6M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 6M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 12M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 12M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 18M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 18M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 24M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>A / 24M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-a-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 6M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 6M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 12M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 12M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 18M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 18M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 24M / United States</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992325279914</id>
+      <title>B / 24M / China</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>4136188-b-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+    <published>2021-09-29T15:25:04+05:00</published>
+    <updated>2021-09-29T15:25:04+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/baby-boys-outfit-set-long-sleeve"/>
+    <title>Baby Boys  Outfit Set Long Sleeve</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1663255376.jpg?v=1633412335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Pattern Type:</strong> Print</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>6M / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>12M / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>18M / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992322396330</id>
+      <title>24M / China</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>42825275-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+    <published>2021-09-29T15:23:09+05:00</published>
+    <updated>2021-09-29T15:23:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/baby-boy-girl-clothes-set"/>
+    <title>Baby Boy Girl Clothes Set</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1168393043.jpg?v=1633412363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Covered Button<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pattern Type:</strong> Cartoon<br><strong>Department Name:</strong> Baby</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>6M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>12M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>18M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992318857386</id>
+      <title>24M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>31003791-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+    <published>2021-09-29T15:21:14+05:00</published>
+    <updated>2021-09-29T15:21:14+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/baby-boy-clothes-stripe-t-shirt"/>
+    <title>Baby Boy Clothes Stripe T-shirt</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1542942757.jpg?v=1633412241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Covered Button<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Material Composition:</strong> cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>Newborn / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-newborn-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>Newborn / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-newborn-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>3M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>3M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-3m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>6M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>12M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992314138794</id>
+      <title>18M / China</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>31993067-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+    <published>2021-09-29T15:19:32+05:00</published>
+    <updated>2021-09-29T15:19:32+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/dress-retro-buttons-long-sleeve"/>
+    <title>Dress Retro Buttons Long Sleeve</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1636487470.jpg?v=1633412147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            18.85 - 21.35
+            <a href="https://frenzied-baby.myshopify.com/products/dress-retro-buttons-long-sleeve">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gender:</strong> Male<br><strong>Style:</strong> Fashion<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Pullover<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Material Composition:</strong> cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">19.90</s:price>
+      <s:sku>42089270-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>6M / China</title>
+      <s:price currency="USD">18.85</s:price>
+      <s:sku>42089270-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>9M / United States</title>
+      <s:price currency="USD">20.73</s:price>
+      <s:sku>42089270-9m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>9M / China</title>
+      <s:price currency="USD">19.70</s:price>
+      <s:sku>42089270-9m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">21.35</s:price>
+      <s:sku>42089270-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>12M / China</title>
+      <s:price currency="USD">20.33</s:price>
+      <s:sku>42089270-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">18.85</s:price>
+      <s:sku>42089270-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992311124138</id>
+      <title>18M / China</title>
+      <s:price currency="USD">20.93</s:price>
+      <s:sku>42089270-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992304373930</id>
+    <published>2021-09-29T15:16:18+05:00</published>
+    <updated>2021-09-29T15:16:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/spring-baby-boys-clothes-set"/>
+    <title>Spring Baby Boys Clothes Set</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1637204911.jpg?v=1633412161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Closure Type:</strong> Triple Breasted<br><strong>Sleeve Length(cm):</strong> Full<br><strong>Fabric Type:</strong> Broadcloth<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992304373930</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42110043-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992304373930</id>
+      <title>6M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42110043-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992304373930</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42110043-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992304373930</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42110043-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992304373930</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42110043-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+    <published>2021-09-29T15:09:58+05:00</published>
+    <updated>2021-09-29T15:09:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/summer-clothing-baby-boys"/>
+    <title>Summer Clothing Baby Boys</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1637320439.jpg?v=1633412069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> COTTON<br><strong>Gender:</strong> Male<br><strong>Pattern Type:</strong> Print<br><strong>Department Name:</strong> Baby<br><strong>Collar:</strong> Turn-down Collar<br><strong>Sleeve Length(cm):</strong> Short</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>6M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>18M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>12M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992291233962</id>
+      <title>24M / China</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>42113410-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+    <published>2021-09-29T15:08:13+05:00</published>
+    <updated>2021-09-29T15:08:13+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://frenzied-baby.myshopify.com/products/kids-baby-boy-top-t-shirt-long"/>
+    <title>Kids Baby Boy Top T-shirt Long</title>
+    <s:type>Dress</s:type>
+    <s:vendor>frenzied baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0602/5766/5194/products/product-image-1738122283.jpg?v=1633412011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>frenzied baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style:</strong> Casual<br><strong>Collar:</strong> O-Neck<br><strong>Item Type:</strong> Sets<br><strong>Closure Type:</strong> Pullover<br><strong>Fabric Type:</strong> Broadcloth<br><strong>Pattern Type:</strong> Star</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>6M / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-6m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>6M / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-6m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>12M / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-12m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>12M / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-12m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>18M / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-18m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>18M / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-18m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>24M / United States</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-24m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://frenzied-baby.myshopify.com/products/6992286810282</id>
+      <title>24M / China</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>32161969-24m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

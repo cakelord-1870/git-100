@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://instant-rice.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://instant-rice.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://instant-rice.myshopify.com/collections/all.atom"/>
+  <title>Instant Rice</title>
+  <updated>2021-04-06T15:48:12+05:00</updated>
+  <author>
+    <name>Instant Rice</name>
+  </author>
+  <entry>
+    <id>https://instant-rice.myshopify.com/products/6634653581476</id>
+    <published>2021-04-06T15:48:12+05:00</published>
+    <updated>2021-04-06T15:48:12+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://instant-rice.myshopify.com/products/mini-electric-rice-cooker-food-container"/>
+    <title>Mini Electric Rice Cooker Food Container</title>
+    <s:type></s:type>
+    <s:vendor>Instant Rice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2425/5140/products/product-image-1717831913.jpg?v=1617706095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Instant Rice<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.90 - 25.84
+            <a href="https://instant-rice.myshopify.com/products/mini-electric-rice-cooker-food-container">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Power (W):</strong> 200w<br><strong>Function:</strong> Heating Lunch Box<br><strong>Capacity:</strong> 2L<br><strong>Certification:</strong> CE<br><strong>Heating Method:</strong> Heating Lunch Box<br><strong>Controlling Mode:</strong> Digital Timer Control<br><strong>Model Number:</strong> Heating Lunch Box<br><strong>Material:</strong> Alloy<br><strong>Energy Label:</strong> Grade 1<br><strong>Shape:</strong> Square<br><strong>LCD:</strong> No</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6634653581476</id>
+      <title>Double layer-Brown / United States</title>
+      <s:price currency="USD">18.90</s:price>
+      <s:sku>44344208-double-layer-brown-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6634653581476</id>
+      <title>Three Layers-Purple / United States</title>
+      <s:price currency="USD">25.84</s:price>
+      <s:sku>44344208-three-layers-purple-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://instant-rice.myshopify.com/products/6634532176036</id>
+    <published>2021-04-06T14:08:47+05:00</published>
+    <updated>2021-04-06T14:08:47+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://instant-rice.myshopify.com/products/multifunction-stainless-steel-electric-cooker-1"/>
+    <title>Multifunction Stainless Steel  Electric Cooker</title>
+    <s:type>Rice Cooker</s:type>
+    <s:vendor>Instant Rice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2425/5140/products/product-image-1665577650.jpg?v=1617700129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Instant Rice<br>
+        <strong>Type: </strong>Rice Cooker<br>
+        <strong>Price: </strong>
+            45.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> CE / EU<br><strong>Function:</strong> Lifting Heating Element<br><strong>Pot Bottom Material:</strong> Single Bottom<br><strong>Power:</strong> Other<br><strong>Voltage:</strong> 220V<br><strong>Material:</strong> Stainless Steel<br><strong>Function:</strong> :Hot Pot, Noodles Pots, Rice Cooker, Steamed Eggs, Soup Pots<br><strong>Capacity:</strong> :1.8L<br><strong>Size:</strong> :16*15*19cm<br><strong>Rated voltage:</strong> :220V-50Hz<br><strong>Plug type:</strong> :AU<br><strong>Color:</strong> :pink, sky blue, green</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>instant rice</s:tag>
+    <s:tag>rice</s:tag>
+    <s:tag>rice cooker</s:tag>
+    <s:tag>rice making</s:tag>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6634532176036</id>
+      <title>Red / United States</title>
+      <s:price currency="USD">45.76</s:price>
+      <s:sku>42892151-red-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6634532176036</id>
+      <title>green / United States</title>
+      <s:price currency="USD">45.76</s:price>
+      <s:sku>42892151-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://instant-rice.myshopify.com/products/6632995094692</id>
+    <published>2021-04-05T16:47:56+05:00</published>
+    <updated>2021-04-05T16:47:56+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://instant-rice.myshopify.com/products/multifunction-stainless-steel-electric-cooker"/>
+    <title>Multifunction Stainless Steel Electric Cooker</title>
+    <s:type>Rice Cooker</s:type>
+    <s:vendor>Instant Rice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2425/5140/products/product-image-1665577752.jpg?v=1617623279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Instant Rice<br>
+        <strong>Type: </strong>Rice Cooker<br>
+        <strong>Price: </strong>
+            37.70 - 37.84
+            <a href="https://instant-rice.myshopify.com/products/multifunction-stainless-steel-electric-cooker">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> CE / EU<br><strong>Function:</strong> STEAM<br><strong>Pot Bottom Material:</strong> Compound Bottom<br><strong>Power:</strong> Other<br><strong>Voltage:</strong> 220V<br><strong>Material:</strong> Stainless Steel<br><strong>Function:</strong> Hot Pot, Noodles Pots, Rice Cooker, Steamed Eggs, Soup Pots<br><strong>Color:</strong> pink, sky blue, green<br><strong>Rated voltage:</strong> 220V-50Hz<br><strong>Plug type:</strong> US<br><strong>Inside layer Material:</strong> stainless steel<br><strong>Shell material:</strong> PP</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>instant rice</s:tag>
+    <s:tag>rice</s:tag>
+    <s:tag>rice cooker</s:tag>
+    <s:tag>rice making</s:tag>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632995094692</id>
+      <title>pink / United States</title>
+      <s:price currency="USD">37.84</s:price>
+      <s:sku>35268400-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632995094692</id>
+      <title>Light Green / United States</title>
+      <s:price currency="USD">37.70</s:price>
+      <s:sku>35268400-light-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://instant-rice.myshopify.com/products/6632989884580</id>
+    <published>2021-04-05T16:45:41+05:00</published>
+    <updated>2021-04-05T16:45:41+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://instant-rice.myshopify.com/products/small-electric-rice-cooker-kitchen-appliance"/>
+    <title>Small Electric Rice Cooker Kitchen Appliance</title>
+    <s:type>Rice Cooker</s:type>
+    <s:vendor>Instant Rice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2425/5140/products/product-image-1713441717.jpg?v=1617623144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Instant Rice<br>
+        <strong>Type: </strong>Rice Cooker<br>
+        <strong>Price: </strong>
+            89.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Power (W):</strong> 200w<br><strong>Functions:</strong></p>
+<ul>
+<li>Non-Stick Coating Inner Pot</li>
+<li>Rice Cooking</li>
+<li>Rice Cooking &amp; Porridge Cooking &amp; Soup Stewing</li>
+<li> Porridge/Soup</li>
+<li>Quick Boiling</li>
+<li>Stewing</li>
+</ul>
+<p><strong>Capacity:</strong> 1.2L<br><strong>Certification:</strong> CCC<br><strong>Heating Method:</strong> IH Electromagnetic Heating<br><strong>Supports Appointment Timing:</strong> No<br><strong>Controlling Mode:</strong> Mechanical Timer Control<br><strong>Accessories:</strong> Measuring Cup<br><strong>Accessories:</strong> Paddle<br><strong>Application:</strong> 1-2 people</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>instant rice</s:tag>
+    <s:tag>rice</s:tag>
+    <s:tag>rice cooker</s:tag>
+    <s:tag>rice making</s:tag>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632989884580</id>
+      <title>Brown / United States / 220-240V, S, CN</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>44216927-brown-united-states-220-240v-s-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632989884580</id>
+      <title>Pink / United States / 220-240V, S, CN</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>44216927-pink-united-states-220-240v-s-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632989884580</id>
+      <title>White / United States / 220-240V, S, CN</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>44216927-white-united-states-220-240v-s-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632989884580</id>
+      <title>Red / United States / 220-240V, S, CN</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>44216927-red-united-states-220-240v-s-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632989884580</id>
+      <title>green / United States / 220-240V, S, CN</title>
+      <s:price currency="USD">89.76</s:price>
+      <s:sku>44216927-green-united-states-220-240v-s-cn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://instant-rice.myshopify.com/products/6632981627044</id>
+    <published>2021-04-05T16:42:05+05:00</published>
+    <updated>2021-04-05T16:42:05+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://instant-rice.myshopify.com/products/electric-cooker-with-steamer-hot-pot"/>
+    <title>Electric Cooker with Steamer Hot Pot</title>
+    <s:type>Rice Cooker</s:type>
+    <s:vendor>Instant Rice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/2425/5140/products/product-image-1665578012.jpg?v=1617622931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Instant Rice<br>
+        <strong>Type: </strong>Rice Cooker<br>
+        <strong>Price: </strong>
+            49.68 - 53.52
+            <a href="https://instant-rice.myshopify.com/products/electric-cooker-with-steamer-hot-pot">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Certification:</strong> CE / EU<br><strong>Function:</strong> STEAM<br><strong>Pot Bottom Material:</strong> Compound Bottom<br><strong>Power:</strong> 450W<br><strong>Voltage:</strong> 220V<br><strong>Material:</strong> Stainless Steel<br><strong>Function:</strong> Hot Pot, Noodles Pots, Rice Cooker, Steamed Eggs, Soup Pots<br><strong>Color:</strong> pink, sky blue, green<br><strong>Rated voltage:</strong> 220V-50Hz<br><strong>Plug type:</strong> AU<br><strong>Inside layer Material:</strong> stainless steel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>instant rice</s:tag>
+    <s:tag>rice</s:tag>
+    <s:tag>rice cooker</s:tag>
+    <s:tag>rice making</s:tag>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632981627044</id>
+      <title>Light Green / United States</title>
+      <s:price currency="USD">49.68</s:price>
+      <s:sku>42892158-light-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632981627044</id>
+      <title>pink / United States</title>
+      <s:price currency="USD">51.92</s:price>
+      <s:sku>42892158-pink-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://instant-rice.myshopify.com/products/6632981627044</id>
+      <title>Sky Blue / United States</title>
+      <s:price currency="USD">53.52</s:price>
+      <s:sku>42892158-sky-blue-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

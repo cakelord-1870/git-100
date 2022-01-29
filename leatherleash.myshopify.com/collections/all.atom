@@ -1,0 +1,2764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leatherleash.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leatherleash.myshopify.com/collections/all.atom"/>
+  <title>LeatherLeash</title>
+  <updated>2021-03-08T15:14:25+05:00</updated>
+  <author>
+    <name>LeatherLeash</name>
+  </author>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+    <published>2021-03-08T15:14:25+05:00</published>
+    <updated>2021-03-08T15:14:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/dog-harness-with-leash-reflective-breathable-adjustable-pet-harness"/>
+    <title>Dog Harness With Leash</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1682221568.jpg?v=1619757772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.52 - 13.38
+            <a href="https://leatherleash.myshopify.com/products/dog-harness-with-leash-reflective-breathable-adjustable-pet-harness">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Harnesses<br><strong>Dog Harness Type:</strong> Vest Harnesses<br><strong>Material:</strong> Leather<br><strong>Is Smart Device:</strong> no<br><strong>is_customized:</strong> YES<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong></p>
+<ul>
+<li>Breakaway</li>
+<li>Padded</li>
+<li>Personalized</li>
+<li>Reflective</li>
+</ul>
+<p><strong>Material:</strong></p>
+<ul>
+<li>buckskin</li>
+<li>Polyester</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>green / L / United States</title>
+      <s:price currency="USD">11.96</s:price>
+      <s:sku>41963379-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>green / XL / United States</title>
+      <s:price currency="USD">13.06</s:price>
+      <s:sku>41963379-green-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Yellow / XS / United States</title>
+      <s:price currency="USD">8.46</s:price>
+      <s:sku>41963379-yellow-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">9.34</s:price>
+      <s:sku>41963379-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">11.36</s:price>
+      <s:sku>41963379-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">12.14</s:price>
+      <s:sku>41963379-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Yellow / XL / United States</title>
+      <s:price currency="USD">12.94</s:price>
+      <s:sku>41963379-yellow-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Red / XS / United States</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>41963379-red-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>green / XS / United States</title>
+      <s:price currency="USD">8.74</s:price>
+      <s:sku>41963379-green-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>green / S / United States</title>
+      <s:price currency="USD">10.70</s:price>
+      <s:sku>41963379-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>green / M / United States</title>
+      <s:price currency="USD">11.32</s:price>
+      <s:sku>41963379-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Navy Blue / XL / United States</title>
+      <s:price currency="USD">12.94</s:price>
+      <s:sku>41963379-navy-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Pink / XS / United States</title>
+      <s:price currency="USD">8.46</s:price>
+      <s:sku>41963379-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">10.94</s:price>
+      <s:sku>41963379-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">11.38</s:price>
+      <s:sku>41963379-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">11.74</s:price>
+      <s:sku>41963379-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">13.08</s:price>
+      <s:sku>41963379-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">11.44</s:price>
+      <s:sku>41963379-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">11.80</s:price>
+      <s:sku>41963379-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">12.34</s:price>
+      <s:sku>41963379-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">13.38</s:price>
+      <s:sku>41963379-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Navy Blue / XS / United States</title>
+      <s:price currency="USD">9.10</s:price>
+      <s:sku>41963379-navy-blue-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Navy Blue / S / United States</title>
+      <s:price currency="USD">10.94</s:price>
+      <s:sku>41963379-navy-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Navy Blue / M / United States</title>
+      <s:price currency="USD">11.68</s:price>
+      <s:sku>41963379-navy-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>Navy Blue / L / United States</title>
+      <s:price currency="USD">11.92</s:price>
+      <s:sku>41963379-navy-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>red / XS / United States</title>
+      <s:price currency="USD">6.68</s:price>
+      <s:sku>41963379-red-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>blue / XL / United States</title>
+      <s:price currency="USD">8.78</s:price>
+      <s:sku>41963379-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>blue / L / United States</title>
+      <s:price currency="USD">7.34</s:price>
+      <s:sku>41963379-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>blue / M / United States</title>
+      <s:price currency="USD">7.14</s:price>
+      <s:sku>41963379-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>red / XL / United States</title>
+      <s:price currency="USD">8.06</s:price>
+      <s:sku>41963379-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>red / L / United States</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>41963379-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>red / M / United States</title>
+      <s:price currency="USD">7.28</s:price>
+      <s:sku>41963379-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>red / S / United States</title>
+      <s:price currency="USD">6.86</s:price>
+      <s:sku>41963379-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>gray / M / United States</title>
+      <s:price currency="USD">7.20</s:price>
+      <s:sku>41963379-gray-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>gray / S / United States</title>
+      <s:price currency="USD">6.84</s:price>
+      <s:sku>41963379-gray-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>gray / XS / United States</title>
+      <s:price currency="USD">6.52</s:price>
+      <s:sku>41963379-gray-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>black / XL / United States</title>
+      <s:price currency="USD">7.58</s:price>
+      <s:sku>41963379-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>blue / S / United States</title>
+      <s:price currency="USD">6.92</s:price>
+      <s:sku>41963379-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>blue / XS / United States</title>
+      <s:price currency="USD">6.64</s:price>
+      <s:sku>41963379-blue-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>gray / XL / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>41963379-gray-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>gray / L / United States</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>41963379-gray-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>black / L / United States</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>41963379-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>black / M / United States</title>
+      <s:price currency="USD">7.34</s:price>
+      <s:sku>41963379-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>black / S / United States</title>
+      <s:price currency="USD">6.72</s:price>
+      <s:sku>41963379-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542753169616</id>
+      <title>black / XS / United States</title>
+      <s:price currency="USD">6.56</s:price>
+      <s:sku>41963379-black-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+    <published>2021-03-08T15:09:58+05:00</published>
+    <updated>2021-03-08T15:09:58+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/adjustable-dog-seat-belt-dog-car-seatbelt"/>
+    <title>Adjustable Dog Seat Belt</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1484630289.jpg?v=1619757680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.44 - 7.06
+            <a href="https://leatherleash.myshopify.com/products/adjustable-dog-seat-belt-dog-car-seatbelt">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Material:</strong> Nylon<br><strong>Is Smart Device:</strong> no<br><strong>is_customized:</strong> No<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Breakaway</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>B / United States</title>
+      <s:price currency="USD">7.06</s:price>
+      <s:sku>38942595-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>E / United States</title>
+      <s:price currency="USD">6.10</s:price>
+      <s:sku>38942595-e-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>A / United States</title>
+      <s:price currency="USD">6.10</s:price>
+      <s:sku>38942595-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>D / United States</title>
+      <s:price currency="USD">6.10</s:price>
+      <s:sku>38942595-d-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>F / United States</title>
+      <s:price currency="USD">6.46</s:price>
+      <s:sku>38942595-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>C / United States</title>
+      <s:price currency="USD">6.10</s:price>
+      <s:sku>38942595-c-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G6 / United States</title>
+      <s:price currency="USD">3.82</s:price>
+      <s:sku>38942595-g6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G7 / United States</title>
+      <s:price currency="USD">3.82</s:price>
+      <s:sku>38942595-g7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G4 / United States</title>
+      <s:price currency="USD">3.44</s:price>
+      <s:sku>38942595-g4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G5 / United States</title>
+      <s:price currency="USD">3.58</s:price>
+      <s:sku>38942595-g5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G2 / United States</title>
+      <s:price currency="USD">3.84</s:price>
+      <s:sku>38942595-g2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G3 / United States</title>
+      <s:price currency="USD">3.82</s:price>
+      <s:sku>38942595-g3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G1 / United States</title>
+      <s:price currency="USD">3.78</s:price>
+      <s:sku>38942595-g1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G12 / United States</title>
+      <s:price currency="USD">3.72</s:price>
+      <s:sku>38942595-g12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G10 / United States</title>
+      <s:price currency="USD">3.86</s:price>
+      <s:sku>38942595-g10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G11 / United States</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>38942595-g11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G8 / United States</title>
+      <s:price currency="USD">3.58</s:price>
+      <s:sku>38942595-g8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751957200</id>
+      <title>G9 / United States</title>
+      <s:price currency="USD">3.82</s:price>
+      <s:sku>38942595-g9-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+    <published>2021-03-08T15:08:30+05:00</published>
+    <updated>2021-03-08T15:08:30+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/3m-5m-dog-leash-automatic-retractable-traction"/>
+    <title>3M/5M Dog Leash</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1613567028.jpg?v=1615198113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.64 - 11.98
+            <a href="https://leatherleash.myshopify.com/products/3m-5m-dog-leash-automatic-retractable-traction">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Retractable Leashes<br><strong>Is Smart Device:</strong> no<br><strong>is_customized:</strong> No<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Breakaway<br><strong>Color:</strong></p>
+<ul>
+<li>Romantic Pink</li>
+<li>Light Bean Green</li>
+<li>Ocean Blue</li>
+<li>Premium Gray</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>Gray / 3M / United States</title>
+      <s:price currency="USD">9.64</s:price>
+      <s:sku>41520096-gray-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>green / 5M / United States</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>41520096-green-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>green / 3M / United States</title>
+      <s:price currency="USD">9.64</s:price>
+      <s:sku>41520096-green-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>Pink / 3M / United States</title>
+      <s:price currency="USD">9.64</s:price>
+      <s:sku>41520096-pink-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>Blue / 5M / United States</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>41520096-blue-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>Blue / 3M / United States</title>
+      <s:price currency="USD">9.64</s:price>
+      <s:sku>41520096-blue-3m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>Gray / 5M / United States</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>41520096-gray-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542751400144</id>
+      <title>Pink / 5M / United States</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>41520096-pink-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+    <published>2021-03-08T15:06:42+05:00</published>
+    <updated>2021-03-08T15:06:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/retractable-flexible-puppy-dog-cat-leash"/>
+    <title>Retractable &amp; Flexible Leash</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1656137822.jpg?v=1619758704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.38 - 6.72
+            <a href="https://leatherleash.myshopify.com/products/retractable-flexible-puppy-dog-cat-leash">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Retractable Leashes<br><strong>Material:</strong> Plastic<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Features:</strong></p>
+<ul>
+<li>Quick Release</li>
+<li>Dog Leash</li>
+<li>Dog Chest Strap Leads</li>
+<li>Adjustable Padded</li>
+<li>Retractable dog leash</li>
+<li>Dog Leash and collar set</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>21 / United States</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>39792692-21-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>19 / United States</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>39792692-19-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>18 / United States</title>
+      <s:price currency="USD">6.72</s:price>
+      <s:sku>39792692-18-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>17 / United States</title>
+      <s:price currency="USD">6.02</s:price>
+      <s:sku>39792692-17-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>16 / United States</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>39792692-16-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>15 / United States</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>39792692-15-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>13 / United States</title>
+      <s:price currency="USD">5.92</s:price>
+      <s:sku>39792692-13-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>12 / United States</title>
+      <s:price currency="USD">4.42</s:price>
+      <s:sku>39792692-12-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>11 / United States</title>
+      <s:price currency="USD">6.06</s:price>
+      <s:sku>39792692-11-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>10 / United States</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>39792692-10-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>8 / United States</title>
+      <s:price currency="USD">5.88</s:price>
+      <s:sku>39792692-8-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>7 / United States</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>39792692-7-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>6 / United States</title>
+      <s:price currency="USD">5.92</s:price>
+      <s:sku>39792692-6-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>5 / United States</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>39792692-5-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>4 / United States</title>
+      <s:price currency="USD">5.88</s:price>
+      <s:sku>39792692-4-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>3 / United States</title>
+      <s:price currency="USD">4.38</s:price>
+      <s:sku>39792692-3-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>2 / United States</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>39792692-2-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542750548176</id>
+      <title>1 / United States</title>
+      <s:price currency="USD">4.44</s:price>
+      <s:sku>39792692-1-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542749401296</id>
+    <published>2021-03-08T15:03:29+05:00</published>
+    <updated>2021-03-08T15:03:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/reflective-adjustable-dog-seat-belt-pets-safety-leashes"/>
+    <title>Reflective Adjustable Dog Leashes</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1411677240.jpg?v=1615197812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.94 - 6.66
+            <a href="https://leatherleash.myshopify.com/products/reflective-adjustable-dog-seat-belt-pets-safety-leashes">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Seat Belts<br><strong>Material:</strong> Polyester Blends<br><strong>Is Smart Device:</strong> no<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Features:</strong></p>
+<ul>
+<li>Quick Release</li>
+<li>Reflective</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749401296</id>
+      <title>H / United States</title>
+      <s:price currency="USD">5.28</s:price>
+      <s:sku>37074704-h-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749401296</id>
+      <title>G / United States</title>
+      <s:price currency="USD">6.30</s:price>
+      <s:sku>37074704-g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749401296</id>
+      <title>P / United States</title>
+      <s:price currency="USD">6.58</s:price>
+      <s:sku>37074704-p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749401296</id>
+      <title>B / United States</title>
+      <s:price currency="USD">4.94</s:price>
+      <s:sku>37074704-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749401296</id>
+      <title>L / United States</title>
+      <s:price currency="USD">6.66</s:price>
+      <s:sku>37074704-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542749073616</id>
+    <published>2021-03-08T15:02:17+05:00</published>
+    <updated>2021-03-08T15:02:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/4-5m-led-pet-dog-leash-lead-with-garbage-bag"/>
+    <title>Pet Dog Leash with Garbage Bag</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1467122049.jpg?v=1619758524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Retractable Leashes<br><strong>Material:</strong> Plastic<br><strong>is_customized:</strong> No<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong></p>
+<ul>
+<li>Breakaway</li>
+<li>4.5M </li>
+<li>Personalized</li>
+<li>LED </li>
+<li>Quick Release</li>
+<li>Reflective</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749073616</id>
+      <title>blue / 4.5M / United States</title>
+      <s:price currency="USD">12.12</s:price>
+      <s:sku>38487104-blue-4-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749073616</id>
+      <title>red / 4.5M / United States</title>
+      <s:price currency="USD">12.12</s:price>
+      <s:sku>38487104-red-4-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749073616</id>
+      <title>yellow / 4.5M / United States</title>
+      <s:price currency="USD">12.12</s:price>
+      <s:sku>38487104-yellow-4-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542749073616</id>
+      <title>black / 4.5M / United States</title>
+      <s:price currency="USD">12.12</s:price>
+      <s:sku>38487104-black-4-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+    <published>2021-03-08T15:00:53+05:00</published>
+    <updated>2021-03-08T15:00:53+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/pet-waterproof-usb-rechargeable-led-dog-collar"/>
+    <title>Waterproof &amp; USB Rechargeable LED Collar</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1394196258.jpg?v=1619759153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Collar Type:</strong> Basic Collars<br><strong>Is Smart Device:</strong> no<br><strong>is_customized:</strong> YES<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Color:</strong></p>
+<ul>
+<li>White</li>
+<li>Yellow</li>
+<li>Blue</li>
+<li>Green</li>
+<li>Red</li>
+<li>Light Red</li>
+</ul>
+<p><strong>Target Audience:</strong> Dogs<br><strong>Power:</strong> USB<br><strong>Length:</strong> S:35cm/13.78",M:50cm/19.69",L"70cm/27.56"<br><strong>Diameter(tube):</strong> 1cm/0.39"<br><strong>Flash Mode:</strong> Flash, Slow Flash, Long Bright.<br><strong>Type:</strong> Pet Products<br><strong>Quanlity(lights):</strong> S:6,M:8,L:12<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>White / S / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-white-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>White / L / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-white-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>White / M / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-white-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>green / M / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-green-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>green / S / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>green / L / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-green-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Yellow / S / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Yellow / L / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-yellow-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Yellow / M / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-yellow-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748745936</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">9.60</s:price>
+      <s:sku>23492791-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+    <published>2021-03-08T14:58:20+05:00</published>
+    <updated>2021-03-08T14:58:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/strong-dog-leashes-reflective-durable-dog-leads-rope-with-soft-padded-handle"/>
+    <title>Strong Leashes with Soft Padded handle</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1645382918.jpg?v=1615197507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.12 - 13.94
+            <a href="https://leatherleash.myshopify.com/products/strong-dog-leashes-reflective-durable-dog-leads-rope-with-soft-padded-handle">(14 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Basic Leashes<br><strong>Material:</strong> Polyester<br><strong>is_customized:</strong> No<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong></p>
+<ul>
+<li>Reflective</li>
+<li>Breakaway</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M pink / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>22851495-1-5m-pink-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M red / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>22851495-1-5m-red-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M blue / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>22851495-1-5m-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M black / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>22851495-1-5m-black-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M green / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>22851495-1-5m-green-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M Orange / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-1-5m-orange-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M black / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-black-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M Orange / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-orange-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M green / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-green-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M Red / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-red-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M Sky Blue / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-sky-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M blue / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>0.5M pink / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>22851495-0-5m-pink-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542748025040</id>
+      <title>1.5M Sky Blue / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>22851495-1-5m-sky-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+    <published>2021-03-08T14:53:38+05:00</published>
+    <updated>2021-03-08T14:53:38+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/small-animal-pet-mesh-leash-harnesses"/>
+    <title>Pet Mesh Leash Harnesses</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1453699020.jpg?v=1619758556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.36 - 4.16
+            <a href="https://leatherleash.myshopify.com/products/small-animal-pet-mesh-leash-harnesses">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Material:</strong> Mesh<br><strong>Model Number:</strong> Pet Mesh Leash<br><strong>Feature:</strong> Personalized<br><strong>is_customized:</strong> YES<br><strong>Size:</strong> S,M,L<br><strong>Color:</strong></p>
+<ul>
+<li>Blue</li>
+<li>Red</li>
+<li>Black</li>
+<li>Pink</li>
+</ul>
+<p><strong>Type:</strong> Rabbit Collar</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">4.16</s:price>
+      <s:sku>38151811-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">3.94</s:price>
+      <s:sku>38151811-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">3.36</s:price>
+      <s:sku>38151811-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">4.14</s:price>
+      <s:sku>38151811-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">3.94</s:price>
+      <s:sku>38151811-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">3.42</s:price>
+      <s:sku>38151811-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">4.16</s:price>
+      <s:sku>38151811-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">3.94</s:price>
+      <s:sku>38151811-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>38151811-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">4.16</s:price>
+      <s:sku>38151811-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>38151811-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542746386640</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">3.42</s:price>
+      <s:sku>38151811-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+    <published>2021-03-08T14:51:42+05:00</published>
+    <updated>2021-03-08T14:51:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/tactical-dog-harness-and-leash-set-with-metal-buckle"/>
+    <title>Tactical Harness &amp; Leash Set</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1633051895.jpg?v=1619759655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.76 - 58.74
+            <a href="https://leatherleash.myshopify.com/products/tactical-dog-harness-and-leash-set-with-metal-buckle">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Harnesses<br><strong>Dog Harness Type:</strong> Vest Harnesses<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Padded<br><strong>is_customized:</strong> No<br><strong>Season:</strong> All seasons<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Polyester Blends<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Black set / L / United States</title>
+      <s:price currency="USD">57.70</s:price>
+      <s:sku>38244190-black-set-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Black set / M / United States</title>
+      <s:price currency="USD">55.62</s:price>
+      <s:sku>38244190-black-set-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Brown set / M / United States</title>
+      <s:price currency="USD">55.62</s:price>
+      <s:sku>38244190-brown-set-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Black set / XL / United States</title>
+      <s:price currency="USD">58.74</s:price>
+      <s:sku>38244190-black-set-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Black harness / M / United States</title>
+      <s:price currency="USD">45.76</s:price>
+      <s:sku>38244190-black-harness-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Black harness / XL / United States</title>
+      <s:price currency="USD">48.76</s:price>
+      <s:sku>38244190-black-harness-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Black harness / L / United States</title>
+      <s:price currency="USD">47.76</s:price>
+      <s:sku>38244190-black-harness-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Brown harness / XL / United States</title>
+      <s:price currency="USD">48.76</s:price>
+      <s:sku>38244190-brown-harness-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Brown set / XL / United States</title>
+      <s:price currency="USD">58.74</s:price>
+      <s:sku>38244190-brown-set-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Brown set / L / United States</title>
+      <s:price currency="USD">57.70</s:price>
+      <s:sku>38244190-brown-set-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Brown harness / L / United States</title>
+      <s:price currency="USD">47.76</s:price>
+      <s:sku>38244190-brown-harness-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542745665744</id>
+      <title>Brown harness / M / United States</title>
+      <s:price currency="USD">45.76</s:price>
+      <s:sku>38244190-brown-harness-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+    <published>2021-03-08T14:49:44+05:00</published>
+    <updated>2021-03-08T14:49:44+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/dog-harness-breathable-mesh-vest-adjustable"/>
+    <title>Dog Harness Mesh Vest</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1317316029.jpg?v=1619757719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.40 - 9.20
+            <a href="https://leatherleash.myshopify.com/products/dog-harness-breathable-mesh-vest-adjustable">(45 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Sets<br><strong>Material:</strong> Nylon<br><strong>Is Smart Device:</strong> no<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Features:</strong></p>
+<ul>
+<li>Plaid</li>
+<li>Breakaway</li>
+<li>Padded</li>
+<li>Quick Release</li>
+<li>Reflective</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Khaki / XL / United States</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>30726242-khaki-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Khaki / M / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-khaki-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Khaki / L / United States</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>30726242-khaki-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Khaki / XS / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-khaki-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Khaki / S / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-khaki-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>30726242-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>30726242-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Grey / XL / United States</title>
+      <s:price currency="USD">9.20</s:price>
+      <s:sku>30726242-grey-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Pink / XS / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Grey / M / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-grey-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Grey / L / United States</title>
+      <s:price currency="USD">8.40</s:price>
+      <s:sku>30726242-grey-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Grey / XS / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-grey-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Grey / S / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-grey-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Red / L / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-type-2-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Red / XL / United States</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>30726242-type-2-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Red / S / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-type-2-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Red / M / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-type-2-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Black / M / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-type-2-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Black / L / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-type-2-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Black / XS / United States</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>30726242-type-2-black-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Black / S / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-type-2-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Blue / XS / United States</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>30726242-type-2-blue-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Blue / S / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-type-2-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Orange / L / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-type-2-orange-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Orange / XL / United States</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>30726242-type-2-orange-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Blue / XL / United States</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>30726242-type-2-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Red / XS / United States</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>30726242-type-2-red-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Blue / M / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-type-2-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Blue / L / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-type-2-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Dark Blue / S / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-type-2-dark-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Dark Blue / M / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-type-2-dark-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Black / XL / United States</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>30726242-type-2-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Dark Blue / XS / United States</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>30726242-type-2-dark-blue-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Dark Blue / L / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-type-2-dark-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Dark Blue / XL / United States</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>30726242-type-2-dark-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Pink / M / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-type-2-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Pink / L / United States</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>30726242-type-2-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Pink / XS / United States</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>30726242-type-2-pink-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Pink / S / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-type-2-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Orange / S / United States</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>30726242-type-2-orange-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Orange / M / United States</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>30726242-type-2-orange-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Pink / XL / United States</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>30726242-type-2-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542744518864</id>
+      <title>Type 2 Orange / XS / United States</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>30726242-type-2-orange-xs-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+    <published>2021-03-08T14:44:23+05:00</published>
+    <updated>2021-03-08T14:44:23+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/military-tactical-dog-harness-front-clip-law-enforcement-durable-vest"/>
+    <title>Front Clip Law Enforcement Durable Vest</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1403098033.jpg?v=1619759697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.78 - 50.90
+            <a href="https://leatherleash.myshopify.com/products/military-tactical-dog-harness-front-clip-law-enforcement-durable-vest">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Harnesses<br><strong>Material:</strong> Nylon<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Padded</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>army green harness / XL / United States</title>
+      <s:price currency="USD">36.32</s:price>
+      <s:sku>31659010-army-green-harness-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash / M / United States</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>31659010-harness-and-leash-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>army green harness / M / United States</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>31659010-army-green-harness-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>army green harness / L / United States</title>
+      <s:price currency="USD">34.22</s:price>
+      <s:sku>31659010-army-green-harness-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 1 / M / United States</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>31659010-harness-and-leash-1-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash / L / United States</title>
+      <s:price currency="USD">46.76</s:price>
+      <s:sku>31659010-harness-and-leash-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 1 / L / United States</title>
+      <s:price currency="USD">46.76</s:price>
+      <s:sku>31659010-harness-and-leash-1-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash / XL / United States</title>
+      <s:price currency="USD">50.90</s:price>
+      <s:sku>31659010-harness-and-leash-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>brown harness / L / United States</title>
+      <s:price currency="USD">34.22</s:price>
+      <s:sku>31659010-brown-harness-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>brown harness / XL / United States</title>
+      <s:price currency="USD">36.32</s:price>
+      <s:sku>31659010-brown-harness-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>black harness / M / China</title>
+      <s:price currency="USD">32.78</s:price>
+      <s:sku>31659010-black-harness-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 1 / XL / United States</title>
+      <s:price currency="USD">50.90</s:price>
+      <s:sku>31659010-harness-and-leash-1-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>brown harness / M / United States</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>31659010-brown-harness-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>black harness / XL / United States</title>
+      <s:price currency="USD">36.32</s:price>
+      <s:sku>31659010-black-harness-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 2 / M / United States</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>31659010-harness-and-leash-2-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>black harness / M / United States</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>31659010-black-harness-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>black harness / L / United States</title>
+      <s:price currency="USD">34.22</s:price>
+      <s:sku>31659010-black-harness-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 3 / M / United States</title>
+      <s:price currency="USD">44.66</s:price>
+      <s:sku>31659010-harness-and-leash-3-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 2 / L / United States</title>
+      <s:price currency="USD">46.76</s:price>
+      <s:sku>31659010-harness-and-leash-2-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 3 / L / United States</title>
+      <s:price currency="USD">46.76</s:price>
+      <s:sku>31659010-harness-and-leash-3-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 2 / XL / United States</title>
+      <s:price currency="USD">50.90</s:price>
+      <s:sku>31659010-harness-and-leash-2-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>harness and leash 3 / XL / United States</title>
+      <s:price currency="USD">50.90</s:price>
+      <s:sku>31659010-harness-and-leash-3-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>camouflage harness / L / United States</title>
+      <s:price currency="USD">34.22</s:price>
+      <s:sku>31659010-camouflage-harness-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>camouflage harness / XL / United States</title>
+      <s:price currency="USD">36.32</s:price>
+      <s:sku>31659010-camouflage-harness-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>camouflage harness / M / China</title>
+      <s:price currency="USD">32.78</s:price>
+      <s:sku>31659010-camouflage-harness-m-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>camouflage harness / M / United States</title>
+      <s:price currency="USD">32.82</s:price>
+      <s:sku>31659010-camouflage-harness-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542742126800</id>
+      <title>camouflage harness / L / China</title>
+      <s:price currency="USD">34.92</s:price>
+      <s:sku>31659010-camouflage-harness-l-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+    <published>2021-03-08T14:41:29+05:00</published>
+    <updated>2021-03-08T14:41:29+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/polyester-puppy-high-quality-pets-collars"/>
+    <title>Polyester Puppy High Quality Collars</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1596370146.jpg?v=1619758611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.54 - 0.82
+            <a href="https://leatherleash.myshopify.com/products/polyester-puppy-high-quality-pets-collars">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Collars<br><strong>Collar Type:</strong> Basic Collars<br><strong>Material:</strong> Nylon<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Print<br><strong>Feature:</strong> Bells</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>1 Green / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-1-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>1 Blue / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-1-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>1 Purple / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-1-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>2 Pink / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-2-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>1 Pink / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-1-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>1 Red / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-1-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>1 Yellow / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-1-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>3 Yellow / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-3-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>3 Green / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-3-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>3 Black / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-3-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>4 Pink / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-4-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>2 Yellow / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-2-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>2 Green / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-2-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>2 Purple / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-2-purple-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>3 Pink / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-3-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>4 Black / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-4-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>4 Red / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-4-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>4 Yellow / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-4-yellow-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>4 Green / S / United States</title>
+      <s:price currency="USD">0.54</s:price>
+      <s:sku>41180294-4-green-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542740488400</id>
+      <title>4 Blue / S / United States</title>
+      <s:price currency="USD">0.82</s:price>
+      <s:sku>41180294-4-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+    <published>2021-03-08T14:37:09+05:00</published>
+    <updated>2021-03-08T14:37:09+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/adjustable-military-tactical-pets-dog-collars-leash"/>
+    <title>Military Dog Collar Leash</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1467359252.jpg?v=1619759764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.24 - 46.10
+            <a href="https://leatherleash.myshopify.com/products/adjustable-military-tactical-pets-dog-collars-leash">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Collars<br><strong>Collar Type:</strong> Basic Collars<br><strong>Material:</strong> Nylon<br><strong>is_customized:</strong> YES<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Features:</strong></p>
+<ul>
+<li>Breakaway</li>
+<li>Padded</li>
+</ul>
+<p><strong>Weight:</strong> 120-140g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Black Collar / M (34-42cm) / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>29789052-black-collar-m-34-42cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Brown Collar / L (43-50cm) / United States</title>
+      <s:price currency="USD">25.96</s:price>
+      <s:sku>29789052-brown-collar-l-43-50cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Brown Collar / XL (51-61cm) / United States</title>
+      <s:price currency="USD">26.52</s:price>
+      <s:sku>29789052-brown-collar-xl-51-61cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Green Collar / XL (51-61cm) / United States</title>
+      <s:price currency="USD">26.52</s:price>
+      <s:sku>29789052-green-collar-xl-51-61cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Brown Collar / M (34-42cm) / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>29789052-brown-collar-m-34-42cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Green Collar / M (34-42cm) / United States</title>
+      <s:price currency="USD">25.24</s:price>
+      <s:sku>29789052-green-collar-m-34-42cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Green Collar / L (43-50cm) / United States</title>
+      <s:price currency="USD">25.96</s:price>
+      <s:sku>29789052-green-collar-l-43-50cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Black Collar / L (43-50cm) / United States</title>
+      <s:price currency="USD">25.96</s:price>
+      <s:sku>29789052-black-collar-l-43-50cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Black Collar / XL (51-61cm) / United States</title>
+      <s:price currency="USD">26.52</s:price>
+      <s:sku>29789052-black-collar-xl-51-61cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Brown Set / L (43-50cm) / United States</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>29789052-brown-set-l-43-50cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Brown Set / XL (51-61cm) / United States</title>
+      <s:price currency="USD">46.10</s:price>
+      <s:sku>29789052-brown-set-xl-51-61cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Green Set / XL (51-61cm) / United States</title>
+      <s:price currency="USD">46.10</s:price>
+      <s:sku>29789052-green-set-xl-51-61cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Brown Set / M (34-42cm) / United States</title>
+      <s:price currency="USD">43.96</s:price>
+      <s:sku>29789052-brown-set-m-34-42cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Green Set / M (34-42cm) / United States</title>
+      <s:price currency="USD">43.96</s:price>
+      <s:sku>29789052-green-set-m-34-42cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Green Set / L (43-50cm) / United States</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>29789052-green-set-l-43-50cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Black Set / L (43-50cm) / United States</title>
+      <s:price currency="USD">45.30</s:price>
+      <s:sku>29789052-black-set-l-43-50cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Black Set / XL (51-61cm) / United States</title>
+      <s:price currency="USD">46.10</s:price>
+      <s:sku>29789052-black-set-xl-51-61cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542738784464</id>
+      <title>Black Set / M (34-42cm) / United States</title>
+      <s:price currency="USD">43.96</s:price>
+      <s:sku>29789052-black-set-m-34-42cm-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+    <published>2021-03-08T14:32:43+05:00</published>
+    <updated>2021-03-08T14:32:43+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/tactical-bungee-dog-leash-2-handle-quick-release"/>
+    <title>Tactical Bungee Dog Leash</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1422519270.jpg?v=1615195966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Retractable Leashes<br><strong>Material:</strong> Nylon<br><strong>is_customized:</strong> YES<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Features:</strong></p>
+<ul>
+<li>Breakaway</li>
+<li>Quick Release</li>
+</ul>
+<p> </p>
+<p><strong>Leash Weight:</strong> 180g<br><strong>Leash Size:</strong> Elastic 97-150cm Length, Width 2.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+      <title>MCP / United States</title>
+      <s:price currency="USD">25.98</s:price>
+      <s:sku>37241567-mcp-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+      <title>DDC / United States</title>
+      <s:price currency="USD">25.98</s:price>
+      <s:sku>37241567-ddc-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+      <title>ACU / United States</title>
+      <s:price currency="USD">25.98</s:price>
+      <s:sku>37241567-acu-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+      <title>Black / United States</title>
+      <s:price currency="USD">25.98</s:price>
+      <s:sku>37241567-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+      <title>Green / United States</title>
+      <s:price currency="USD">25.98</s:price>
+      <s:sku>37241567-green-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542737047760</id>
+      <title>Brown / United States</title>
+      <s:price currency="USD">25.98</s:price>
+      <s:sku>37241567-brown-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+    <published>2021-03-08T14:31:18+05:00</published>
+    <updated>2021-03-08T14:31:18+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/dog-soft-adjustable-harness"/>
+    <title>Dog Soft Adjustable Harness</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1431856817.jpg?v=1615195885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.98 - 17.08
+            <a href="https://leatherleash.myshopify.com/products/dog-soft-adjustable-harness">(24 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Basic Leashes<br><strong>Material:</strong> cotton blend<br><strong>is_customized:</strong> YES<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Feature:</strong> Personalized</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Black / L / United States</title>
+      <s:price currency="USD">12.06</s:price>
+      <s:sku>20441087-black-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Black / M / United States</title>
+      <s:price currency="USD">12.06</s:price>
+      <s:sku>20441087-black-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Black / S / United States</title>
+      <s:price currency="USD">10.04</s:price>
+      <s:sku>20441087-black-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Black / XL / United States</title>
+      <s:price currency="USD">15.18</s:price>
+      <s:sku>20441087-black-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Camouflage / L / United States</title>
+      <s:price currency="USD">10.40</s:price>
+      <s:sku>20441087-camouflage-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Camouflage / M / United States</title>
+      <s:price currency="USD">10.08</s:price>
+      <s:sku>20441087-camouflage-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Camouflage / S / United States</title>
+      <s:price currency="USD">9.40</s:price>
+      <s:sku>20441087-camouflage-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Camouflage / XL / United States</title>
+      <s:price currency="USD">14.40</s:price>
+      <s:sku>20441087-camouflage-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Leopard / L / United States</title>
+      <s:price currency="USD">11.70</s:price>
+      <s:sku>20441087-leopard-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Leopard / M / United States</title>
+      <s:price currency="USD">10.44</s:price>
+      <s:sku>20441087-leopard-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Leopard / S / United States</title>
+      <s:price currency="USD">10.24</s:price>
+      <s:sku>20441087-leopard-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Leopard / XL / United States</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>20441087-leopard-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Red / L / United States</title>
+      <s:price currency="USD">12.44</s:price>
+      <s:sku>20441087-red-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Red / M / United States</title>
+      <s:price currency="USD">12.62</s:price>
+      <s:sku>20441087-red-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Red / S / United States</title>
+      <s:price currency="USD">8.98</s:price>
+      <s:sku>20441087-red-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Red / XL / United States</title>
+      <s:price currency="USD">13.40</s:price>
+      <s:sku>20441087-red-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Pink / M / United States</title>
+      <s:price currency="USD">10.62</s:price>
+      <s:sku>20441087-pink-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Pink / L / United States</title>
+      <s:price currency="USD">13.52</s:price>
+      <s:sku>20441087-pink-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Pink / S / United States</title>
+      <s:price currency="USD">17.08</s:price>
+      <s:sku>20441087-pink-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Blue / XL / United States</title>
+      <s:price currency="USD">11.14</s:price>
+      <s:sku>20441087-blue-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Blue / M / United States</title>
+      <s:price currency="USD">11.38</s:price>
+      <s:sku>20441087-blue-m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Blue / L / United States</title>
+      <s:price currency="USD">11.08</s:price>
+      <s:sku>20441087-blue-l-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Pink / XL / United States</title>
+      <s:price currency="USD">13.88</s:price>
+      <s:sku>20441087-pink-xl-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736785616</id>
+      <title>Blue / S / United States</title>
+      <s:price currency="USD">9.98</s:price>
+      <s:sku>20441087-blue-s-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+    <published>2021-03-08T14:29:27+05:00</published>
+    <updated>2021-03-08T14:29:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://leatherleash.myshopify.com/products/pet-leash-reflective-strong-dog-leash-1-5m-long-with-comfortable-padded-handle"/>
+    <title>Padded Dog Leash with Handle</title>
+    <s:type></s:type>
+    <s:vendor>LeatherLeash</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0550/5869/4352/products/product-image-1459010247.jpg?v=1619757806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LeatherLeash<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.12 - 13.94
+            <a href="https://leatherleash.myshopify.com/products/pet-leash-reflective-strong-dog-leash-1-5m-long-with-comfortable-padded-handle">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Leashes<br><strong>Dog Leash Type:</strong> Basic Leashes<br><strong>Type:</strong> Dogs<br><strong>Season:</strong> All seasons<br><strong>Pattern:</strong> Solid<br><strong>Features:</strong></p>
+<ul>
+<li>Reflective</li>
+<li>Breakaway</li>
+<li>Quick Release</li>
+<li>Personalized</li>
+<li>Dog Leads</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M Sky Blue / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-sky-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M black / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-black-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M red / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-red-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M green / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-green-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M blue / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M  purple / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-purple-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M Orange / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-orange-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>1.5M pink / Reference picture / United States</title>
+      <s:price currency="USD">13.94</s:price>
+      <s:sku>26618554-1-5m-pink-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M black / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-black-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M blue / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M pink / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-pink-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M Red / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-red-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M green / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-green-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M Orange / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-orange-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://leatherleash.myshopify.com/products/6542736097488</id>
+      <title>0.5M Sky Blue / Reference picture / United States</title>
+      <s:price currency="USD">11.12</s:price>
+      <s:sku>26618554-0-5m-sky-blue-reference-picture-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

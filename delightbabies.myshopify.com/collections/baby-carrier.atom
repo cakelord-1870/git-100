@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://delightbabies.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://delightbabies.myshopify.com/collections/baby-carrier.atom"/>
+  <title>delightbabies</title>
+  <updated>2021-06-02T15:51:42+05:00</updated>
+  <author>
+    <name>delightbabies</name>
+  </author>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741070577839</id>
+    <published>2021-06-02T15:51:42+05:00</published>
+    <updated>2021-06-02T15:51:42+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/soft-cotton-carrier"/>
+    <title>Soft Cotton carrier</title>
+    <s:type>Carrier</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1716706788.jpg?v=1622634707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Carrier<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 7-12m<br><strong>Origin:</strong> CN(Origin)<br><strong>Load Bearing:</strong> 20kg<br><strong>Material:</strong> COTTON<br><strong>Carriers Type:</strong> Front Carry<br><strong>Carriers Type:</strong> Back Carry<br><strong>Type:</strong> Backpacks &amp; Carriers</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Carrier</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741070577839</id>
+      <title>Pink</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44309910-pink-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741070577839</id>
+      <title>Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44309910-gray-germany</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741056684207</id>
+    <published>2021-06-02T15:47:24+05:00</published>
+    <updated>2021-06-02T15:47:24+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/ergonomic-baby-carrier"/>
+    <title>Ergonomic Baby Carrier</title>
+    <s:type>Carrier</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1706101129.jpg?v=1622634688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Carrier<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Age Range:</strong> 0-6m<br><strong>Age Range:</strong> 7-12m<br><strong>Age Range:</strong> 13-24m<br><strong>Load Bearing:</strong> 9kg<br><strong>Carriers Type:</strong> Front Facing<br><strong>Carriers Type:</strong> Face-to-Face<br><strong>Carriers Type:</strong> Front Carry<br><strong>Type:</strong> Backpacks &amp; Carriers<br><strong>Pattern Type:</strong> striped<br><strong>Using for:</strong> 3-24months baby<br><strong>color:</strong> grey ,blue ,pink<br><strong>weight:</strong> 0.3kg<br><strong>material:</strong> cotton baby sling<br><strong>type:</strong> front carrier ,face to face carrier</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Carrier</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741056684207</id>
+      <title>Classic gray / United States</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>11180171-classic-gray-united-states-onesize</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741056684207</id>
+      <title>Pink / United States</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>11180171-pink-united-states-onesize</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741056684207</id>
+      <title>Blue / United States</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>11180171-blue-united-states-onesize</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+    <published>2021-06-02T15:45:50+05:00</published>
+    <updated>2021-06-02T15:45:50+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://delightbabies.myshopify.com/products/portabebe-baby-carrier"/>
+    <title>Portabebe Baby Carrier</title>
+    <s:type>Carrier</s:type>
+    <s:vendor>delightbabies</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0545/7654/5967/products/product-image-1719133070.jpg?v=1622634659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>delightbabies<br>
+        <strong>Type: </strong>Carrier<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Load Bearing:</strong> 20kg<br><strong>Material:</strong> COTTON<br><strong>Material:</strong> Polyester<br><strong>Age Range:</strong> 4-6 months<br><strong>Age Range:</strong> 13-18 months<br><strong>Age Range:</strong> &lt; 3 years old<br><strong>Carriers Type:</strong> Front Carry<br><strong>Carriers Type:</strong> Horizontal<br><strong>Carriers Type:</strong> Front Facing<br><strong>Carriers Type:</strong> Face-to-Face<br><strong>Carriers Type:</strong> Back Carry<br><strong>Carriers Type:</strong> Side Carry<br><strong>Pattern Type:</strong> Patchwork<br><strong>Type:</strong> Backpacks &amp; Carriers<br><strong>Feature 1:</strong> Geometric baby carrier<br><strong>Feature 2:</strong> Sling for newborns<br><strong>Feature 3:</strong> Baby kangaroo back carry<br><strong>Feature 4:</strong> Hipseat carrier infant<br><strong>Feature 5:</strong> Hipsit for children<br><strong>feature 6:</strong> ergorazakzak</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Carrier</s:tag>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 3 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-3-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 2 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-2-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 7 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-7-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 6 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-6-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 5 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-5-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 4 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-4-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 9 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-9-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Waist stool 2 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-waist-stool-2-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Waist stool / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-waist-stool-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://delightbabies.myshopify.com/products/6741051736239</id>
+      <title>Baby carrier 8 / United States</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>28514708-baby-carrier-8-australia</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

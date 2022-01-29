@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://getpet-com.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://getpet-com.myshopify.com/collections/dog-glasses.atom"/>
+  <title>Getpet.com</title>
+  <updated>2021-04-30T11:07:21+05:00</updated>
+  <author>
+    <name>Getpet.com</name>
+  </author>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+    <published>2021-04-30T11:07:21+05:00</published>
+    <updated>2021-04-30T11:07:21+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/eyewear-foldable-sun-glasses"/>
+    <title>Eyewear Foldable Sun Glasses</title>
+    <s:type>Glasses</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1115939034.jpg?v=1619762871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Glasses<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Sunglasses<br><strong>Type:</strong> Dogs<br><strong>Material:</strong> Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dog Glasses</s:tag>
+    <s:tag>Pet Glasses</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>A</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-a-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>9G</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-9g-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>8B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-8b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>8R</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-8r-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>8P</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-8p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>8Y</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-8y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>3Y</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-3y-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>3R</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-3r-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>3P</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-3p-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>8W</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-8w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>9B</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-9b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>3BE</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-3be-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>BK</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-bk-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550775503</id>
+      <title>3W</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>27902856-3w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6671550709967</id>
+    <published>2021-04-30T11:05:22+05:00</published>
+    <updated>2021-04-30T11:05:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/windproof-dog-sunglasses"/>
+    <title>Windproof Dog Sunglasses</title>
+    <s:type>Glasses</s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1386232517.jpg?v=1619762725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong>Glasses<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Type:</strong> Dogs<br><strong>Item Type:</strong> SunGlasses<br><strong>Material:</strong> Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dog Sun Glasses</s:tag>
+    <s:tag>Pet Sun Glasses</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6671550709967</id>
+      <title>Black</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>21555478-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6548906574031</id>
+    <published>2021-03-15T15:32:15+05:00</published>
+    <updated>2021-03-15T15:32:15+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/dog-glasses-uv-protection"/>
+    <title>Dog Glasses UV Protection</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1702666162.jpg?v=1615804337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.20 - 25.42
+            <a href="https://getpet-com.myshopify.com/products/dog-glasses-uv-protection">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> SunGlasses<br><strong>Type:</strong> Dogs<br><strong>Color:</strong> black<br><strong>Feature</strong> Dog Goggles<br><strong>Feature</strong> Dog glasses<br><strong>Feature</strong> Goods for pets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548906574031</id>
+      <title>black / United States</title>
+      <s:price currency="USD">25.42</s:price>
+      <s:sku>43921185-black-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6548906574031</id>
+      <title>black / Russian Federation</title>
+      <s:price currency="USD">18.20</s:price>
+      <s:sku>43921185-black-russian-federation</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+    <published>2021-03-11T14:29:46+05:00</published>
+    <updated>2021-03-11T14:29:46+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://getpet-com.myshopify.com/products/foldable-dog-uv-protection-sunglasses"/>
+    <title>UV Protection Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Getpet.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/9150/3055/products/product-image-1417993495.jpg?v=1619766088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Getpet.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> SunGlasses<br><strong>Set Type:</strong> no<br><strong>Material:</strong> Plastic<br><strong>Name:</strong> Pet glasses<br><strong>Color:</strong> Blue, black, white, yellow, red, pink<br><strong>Size:</strong> One size fits all<br><strong>Applicable gende:</strong> be in common use<br><strong>Material:</strong> plastics<br><strong>Weight:</strong> 35g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35514362-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+      <title>White</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35514362-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+      <title>Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35514362-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+      <title>Red</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35514362-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+      <title>Yellow</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35514362-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://getpet-com.myshopify.com/products/6545603166415</id>
+      <title>Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>35514362-pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ovarie.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ovarie.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ovarie.myshopify.com/collections/bra-accessories.atom"/>
+  <title>Ovarie</title>
+  <updated>2021-08-02T12:51:25+05:00</updated>
+  <author>
+    <name>Ovarie</name>
+  </author>
+  <entry>
+    <id>https://ovarie.myshopify.com/products/6711667228880</id>
+    <published>2021-08-02T12:51:25+05:00</published>
+    <updated>2021-08-02T12:51:25+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ovarie.myshopify.com/products/strapless-push-up-bra"/>
+    <title>Strapless Push Up Bra</title>
+    <s:type>Strapless Bra</s:type>
+    <s:vendor>Ovarie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0589/5946/2608/products/product-image-1813720214.jpg?v=1627890692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ovarie<br>
+        <strong>Type: </strong>Strapless Bra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Color Style:</strong> Natural Color<br><strong>Intimates Accessories Type:</strong> Breast Petals<br><strong>Item Type:</strong> Intimates Accessories<br><strong>Material:</strong> Silicone<br><strong>Gender:</strong> WOMEN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Strapless Bra</s:tag>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / United States / Cup C</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-united-states-cup-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / United States / Cup D</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-united-states-cup-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / United States / Cup A</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-united-states-cup-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / United States / Cup B</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-united-states-cup-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / China / Cup C</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-china-cup-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / China / Cup D</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-china-cup-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / China / Cup A</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-china-cup-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>F / China / Cup B</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-f-china-cup-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>B / United States / Cup D</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-b-united-states-cup-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>B / United States / Cup A</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-b-united-states-cup-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>B / United States / Cup B</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-b-united-states-cup-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>B / China / Cup D</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-b-china-cup-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>B / China / Cup A</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-b-china-cup-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711667228880</id>
+      <title>B / China / Cup B</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46694399-b-china-cup-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ovarie.myshopify.com/products/6711665623248</id>
+    <published>2021-08-02T12:50:02+05:00</published>
+    <updated>2021-08-02T12:50:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ovarie.myshopify.com/products/adhesive-invisible-push-up-bra"/>
+    <title>Adhesive Invisible Push Up Bra</title>
+    <s:type>Bra</s:type>
+    <s:vendor>Ovarie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0589/5946/2608/products/product-image-1813720261.jpg?v=1627894955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ovarie<br>
+        <strong>Type: </strong>Bra<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Color Style:</strong> Natural Color<br><strong>Intimates Accessories Type:</strong> Breast Petals<br><strong>Item Type:</strong> Intimates Accessories<br><strong>Material:</strong> Viscose<br><strong>Gender:</strong> WOMEN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bra</s:tag>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>M / China / A</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-m-china-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>M / China / B</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-m-china-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>M / China / C</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-m-china-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>B / United States / C</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-b-united-states-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>B / United States / D</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-b-united-states-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>B / China / C</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-b-china-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>B / China / D</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-b-china-d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>M / United States / A</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-m-united-states-a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>M / United States / B</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-m-united-states-b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711665623248</id>
+      <title>M / United States / C</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>46694400-m-united-states-c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ovarie.myshopify.com/products/6711662510288</id>
+    <published>2021-08-02T12:47:20+05:00</published>
+    <updated>2021-08-02T12:47:20+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ovarie.myshopify.com/products/silicone-breast-petals-chest-stickers"/>
+    <title>Silicone Breast Petals Chest Stickers</title>
+    <s:type>Silicone Breast Petals</s:type>
+    <s:vendor>Ovarie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0589/5946/2608/products/product-image-1813720326.jpg?v=1627890444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ovarie<br>
+        <strong>Type: </strong>Silicone Breast Petals<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Intimates Accessories Type:</strong> Breast Petals<br><strong>Color Style:</strong> Natural Color<br><strong>Item Type:</strong> Intimates Accessories<br><strong>Material:</strong> Silicone<br><strong>Gender:</strong> WOMEN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silicone Breast Petals</s:tag>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 70C</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-70c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 70C</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-70c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 80B</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-80b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 80B</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-80b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 80C</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-80c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 80C</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-80c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 85A</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-85a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 85A</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-85a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 85B</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-85b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 85B</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-85b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 70D</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-70d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 70D</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-70d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 75B</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-75b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 75B</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-75b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 75C</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-75c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 75C</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-75c</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>United States / 80A</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-united-states-80a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662510288</id>
+      <title>China / 80A</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>46694402-china-80a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ovarie.myshopify.com/products/6711662051536</id>
+    <published>2021-08-02T12:47:02+05:00</published>
+    <updated>2021-08-02T12:47:02+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://ovarie.myshopify.com/products/3-rows-2-hooks-bra-extender"/>
+    <title>3 Rows 2 Hooks Bra Extender</title>
+    <s:type>Bra Extender</s:type>
+    <s:vendor>Ovarie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0589/5946/2608/products/product-image-1813720263.jpg?v=1627890425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ovarie<br>
+        <strong>Type: </strong>Bra Extender<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Intimates Accessories Type:</strong> Bra Extenders<br><strong>Color Style:</strong> Natural Color<br><strong>Item Type:</strong> Intimates Accessories<br><strong>Material:</strong> COTTON<br><strong>Gender:</strong> WOMEN</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bra Extender</s:tag>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>R / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-r-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>B / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-b-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>B / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-b-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>X / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-x-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>X / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-x-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>W / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-w-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>W / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-w-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>F / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-f-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>F / China</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-f-china</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ovarie.myshopify.com/products/6711662051536</id>
+      <title>R / United States</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>46694401-r-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

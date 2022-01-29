@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://iconicdigital.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://iconicdigital.myshopify.com/collections/mini-speakers.atom"/>
+  <title>IconicDigital</title>
+  <updated>2021-05-07T12:37:52+05:00</updated>
+  <author>
+    <name>IconicDigital</name>
+  </author>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+    <published>2021-05-07T12:37:52+05:00</published>
+    <updated>2021-05-07T12:37:52+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/portable-bluetooth-speaker"/>
+    <title>Portable Bluetooth Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1708481034.jpg?v=1620373078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            19.72 - 31.76
+            <a href="https://iconicdigital.myshopify.com/products/portable-bluetooth-speaker">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> NONE<br><strong>Output Power:</strong> Other<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> Radio<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> Other<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 10W<br><strong>Support APP:</strong> No<br><strong>Impedance:</strong> 4-6 Ohm<br><strong>Feature:</strong> Play Video<br><strong>Frequency Range:</strong> 100Hz-20KHz<br><strong>Bluetooth version:</strong> V5.0<br><strong>Wireless transmission range:</strong> 10M<br><strong>Normal volume playback:</strong> 8-10H<br><strong>Support 1:</strong> Support Bluetooth, L2CAP / A2DP (AVDTP / AVRCP), HAP / HFP<br><strong>Support 2:</strong> Support FM radio, TF card, U disk, LINE IN audio input</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>TF 32GB card</title>
+      <s:price currency="USD">19.72</s:price>
+      <s:sku>44079466-tf-32gb-card</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-red-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red B 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-red-b-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>blue 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-blue-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>green 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-green-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>sky blue 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-sky-blue-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>black 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-black-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>green 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-green-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>blue 800mAh</title>
+      <s:price currency="USD">28.48</s:price>
+      <s:sku>44079466-blue-800mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red B 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-red-b-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>black 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-black-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>sky blue 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-sky-blue-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6977081704617</id>
+      <title>red 1200mAh</title>
+      <s:price currency="USD">31.76</s:price>
+      <s:sku>44079466-red-1200mah</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+    <published>2021-05-06T13:45:40+05:00</published>
+    <updated>2021-05-06T13:45:40+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/voice-assistant-deep-bass-speaker"/>
+    <title>Voice Assistant Deep Bass Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1623534510.jpg?v=1620363707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 3 (2.1)<br><strong>Input Power(W):</strong> 50-99 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 60W<br><strong>Tweeter material:</strong> Other<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Other<br><strong>Acoustic enclosure:</strong> Other<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> Yes<br><strong>Sabwoofer cabinet material:</strong> Plastic<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Sensivity:</strong> 90dB<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Mid-range material:</strong> Other<br><strong>Built-in Microphone:</strong> Yes<br><strong>Support APP:</strong> Yes<br><strong>Impedance:</strong> Other<br><strong>Feature:</strong> None<br><strong>Tweeter type:</strong> HORN<br><strong>Frequency Range:</strong> 100Hz-20KHz<br><strong>Color:</strong> Blue/Red/Black<br><strong>Size:</strong> 220*95*72(mm)<br><strong>Weight:</strong> 860g<br><strong>Occassion:</strong> Work/Party/Picnic/Daliy life/Festival<br><strong>Materials:</strong> Plastic<br><strong>Function1:</strong> IPX5 wireless bluetooth speaker<br><strong>Function2:</strong> Waterproof bluetooth speaker<br><strong>Function3:</strong> caixa de som<br><strong>Function4:</strong> portable speaker<br><strong>Function5:</strong> caixa de som bluetooth<br><strong>Function6:</strong> Portable speakers<br><strong>Function7:</strong> music Center<br><strong>Function8:</strong> Deep Bass Soundbar<br><strong>Function9:</strong> Bass Soundbar<br><strong>Function10:</strong> Home Theater System<br><strong>Function11:</strong> Christmas gift<br><strong>Function12:</strong> Thanksgiving gift</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+      <title>Red</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>38184622-spain-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+      <title>Black</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>38184622-spain-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975638470825</id>
+      <title>Blue</title>
+      <s:price currency="USD">77.99</s:price>
+      <s:sku>38184622-spain-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975636078761</id>
+    <published>2021-05-06T13:43:11+05:00</published>
+    <updated>2021-05-06T13:43:11+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/output-power-bluetooth-speaker"/>
+    <title>Output Power Bluetooth Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1621785288.jpg?v=1620363722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> AUX<br><strong>Communication:</strong> USB<br><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Certification:</strong> RoHS<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> 25-49 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 40W<br><strong>Tweeter material:</strong> Polymer<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Other<br><strong>Acoustic enclosure:</strong> Other<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> FLAC<br><strong>Playback Function:</strong> APE<br><strong>Playback Function:</strong> Other<br><strong>Playback Function:</strong> ALAC<br><strong>Playback Function:</strong> WAV<br><strong>Display Screen:</strong> Yes<br><strong>Voice Control:</strong> Yes<br><strong>Sabwoofer cabinet material:</strong> Metal<br><strong>Total Harmonic Distortion:</strong> 6%<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 80W<br><strong>Control:</strong> Volume control<br><strong>Support APP:</strong> No<br><strong>Feature:</strong> Phone Function<br><strong>Feature:</strong> Play Video<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975636078761</id>
+      <title>Black</title>
+      <s:price currency="USD">79.99</s:price>
+      <s:sku>41674074-china-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+    <published>2021-05-06T13:40:51+05:00</published>
+    <updated>2021-05-06T13:40:51+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/speakers-bass-with-subwoofer"/>
+    <title>Speakers Bass with Subwoofer</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1725390109.jpg?v=1620363755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Certification:</strong> CE<br><strong>Cabinet Material:</strong> Plastic<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> 50-99 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 60W<br><strong>Tweeter material:</strong> Metal<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Metal<br><strong>Acoustic enclosure:</strong> Sealed<br><strong>Remote Control:</strong> No<br><strong>Codecs:</strong> sbc<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> FLAC<br><strong>Playback Function:</strong> APE<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> Yes<br><strong>Sabwoofer cabinet material:</strong> Metal<br><strong>Total Harmonic Distortion:</strong> 1%<br><strong>Material:</strong> Plastic<br><strong>Support Apt-x:</strong> No<br><strong>Wi-Fi Music:</strong> Apple Music<br><strong>Sensivity:</strong> 90dB<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Mid-range material:</strong> Metal<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 60W<br><strong>Control:</strong> Volume control<br><strong>Support APP:</strong> Yes<br><strong>Impedance:</strong> 4-6 Ohm<br><strong>Feature:</strong> Phone Function<br><strong>Tweeter type:</strong> HORN<br><strong>Frequency Range:</strong> 100Hz-20KHz<br><strong>Color:</strong> Red / Black / Blue<br><strong>Size:</strong> 220*95*72(mm)<br><strong>Weight:</strong> 860g<br><strong>Occassion:</strong> Party/ Work/ Picnic/ Outing/ Daily life<br><strong>Function1:</strong> IPX5 Waterproof Bluetooth Speaker<br><strong>Function2:</strong> bluetooth speakers with subwoofer<br><strong>Function3:</strong> Portable bluetooth speaker<br><strong>Function4:</strong> Voice Assistant Extra bass<br><strong>Function5:</strong> 8-15 hours playing time speaker<br><strong>Playtime:</strong> up to 12 hours(varies by volume level and audio content)<br><strong>Function6:</strong> Christmas gift<br><strong>Function7:</strong> Thanksgiving gift</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+      <title>Black</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>36488936-united-states-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+      <title>Red</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>36488936-united-states-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975633817769</id>
+      <title>Blue</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>36488936-united-states-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+    <published>2021-05-06T13:38:39+05:00</published>
+    <updated>2021-05-06T13:38:39+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/loudspeaker-sound-system"/>
+    <title>Loudspeaker Sound System</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1434255760.jpg?v=1620290338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> AUX<br><strong>Communication:</strong> Bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Number of Loudspeaker Enclosure:</strong> 1<br><strong>Certification:</strong> FCC<br><strong>Certification:</strong> RoHS<br><strong>Cabinet Material:</strong> Metal<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 2 (2.0)<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> None<br><strong>Output Power:</strong> 10W<br><strong>Tweeter material:</strong> Polymer<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Active Noise-Cancellation:</strong> Active<br><strong>Woofer/Widerange material:</strong> Polymer<br><strong>Acoustic enclosure:</strong> Sealed<br><strong>Remote Control:</strong> No<br><strong>Codecs:</strong> sbc<br><strong>Codecs:</strong> AAC<br><strong>Support Memory Card:</strong> Yes<br><strong>Playback Function:</strong> APE<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> Other<br><strong>Playback Function:</strong> FLAC<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Sabwoofer cabinet material:</strong> Metal<br><strong>Total Harmonic Distortion:</strong> 3%<br><strong>Material:</strong> Metal<br><strong>Support Apt-x:</strong> No<br><strong>Sensivity:</strong> 90dB<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Mid-range material:</strong> Polymer<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 30W<br><strong>Control:</strong> Volume control<br><strong>Control:</strong> Playback<br><strong>Control:</strong> Input selector<br><strong>Support APP:</strong> No<br><strong>Impedance:</strong> 4 Ohm<br><strong>Feature:</strong> Phone Function<br><strong>Tweeter type:</strong> planar-magnetic<br><strong>Frequency Range:</strong> 50Hz-20KHz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Camouflage</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-camouflage</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Red-Graffiti</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-red-graffiti</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Black-Graffiti</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-black-graffiti</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Red</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975631622313</id>
+      <title>Black</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>10023815-indonesia-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+    <published>2021-05-06T13:37:17+05:00</published>
+    <updated>2021-05-06T13:37:17+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/wireless-stereo-speaker"/>
+    <title>Wireless Stereo Speaker</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1630676558.jpg?v=1620363813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> AUX<br><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Cabinet Material:</strong> Metal<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 1<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 5W<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> Yes<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Material:</strong> Metal<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> No<br><strong>Built-in Microphone:</strong> Yes<br><strong>PMPO:</strong> 8W<br><strong>Support APP:</strong> No<br><strong>Feature:</strong> None<br><strong>Frequency Range:</strong> 100Hz-20KHz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-rose-gold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>SILVER</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Blue</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975630147753</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>36323172-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975629033641</id>
+    <published>2021-05-06T13:36:22+05:00</published>
+    <updated>2021-05-06T13:36:22+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/portable-protective-speakers-case"/>
+    <title>Portable Protective speakers case</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1578249136.jpg?v=1620363817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Item Type:</strong> Speaker Cases<br><strong>Package:</strong> Yes<br><strong>Material:</strong> TPU+Plastic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975629033641</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>27867329-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+    <published>2021-05-06T13:33:27+05:00</published>
+    <updated>2021-05-06T13:33:27+05:00</updated>
+    <link rel="alternate" type="text/html" href="https://iconicdigital.myshopify.com/products/waterproof-mini-bluetooth-speakers"/>
+    <title>Waterproof Mini Bluetooth Speakers</title>
+    <s:type>speaker</s:type>
+    <s:vendor>IconicDigital</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0567/8884/4713/products/product-image-1726971106.jpg?v=1620363875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IconicDigital<br>
+        <strong>Type: </strong>speaker<br>
+        <strong>Price: </strong>
+            29.04 - 32.24
+            <a href="https://iconicdigital.myshopify.com/products/waterproof-mini-bluetooth-speakers">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Communication:</strong> bluetooth<br><strong>Battery:</strong> Yes<br><strong>Speaker Type:</strong> Portable<br><strong>Power Source:</strong> Battery<br><strong>Cabinet Material:</strong> Metal<br><strong>Audio Crossover:</strong> Full-Range<br><strong>Channels:</strong> 1<br><strong>Input Power(W):</strong> &lt;25 W<br><strong>Intelligent Personal Assistant:</strong> none<br><strong>Output Power:</strong> 3W<br><strong>Bluetooth Version:</strong> 5.0<br><strong>Remote Control:</strong> No<br><strong>Support Memory Card:</strong> No<br><strong>Playback Function:</strong> mp3<br><strong>Playback Function:</strong> Other<br><strong>Display Screen:</strong> No<br><strong>Voice Control:</strong> No<br><strong>Material:</strong> Metal<br><strong>Support Apt-x:</strong> No<br><strong>Display Screen:</strong> No<br><strong>Waterproof:</strong> Yes<br><strong>Built-in Microphone:</strong> No<br><strong>PMPO:</strong> 5W<br><strong>Support APP:</strong> No<br><strong>Feature:</strong> None<br><strong>Frequency Range:</strong> 60Hz-23KHz<br><strong>Color:</strong> Silver Back Gray Red Rosegold<br><strong>Key words:</strong> MINI Waterproof portable Wireless Bluetooth Speaker Box<br><strong>Name:</strong> EWA Bluetooth Speaker<br><strong>Size:</strong> 4.8 cm* 3.9 cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth speaker</s:tag>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Red</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Rosegold</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Silver</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A103-Gray</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a103-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A109mini-Silver</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a109mini-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A109mini-Gray</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a109mini-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A107s-Silver</title>
+      <s:price currency="USD">32.24</s:price>
+      <s:sku>25515724-belgium-a107s-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A107s-Gray</title>
+      <s:price currency="USD">32.24</s:price>
+      <s:sku>25515724-belgium-a107s-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A106pro-Rosegold</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a106pro-rosegold</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A106pro-Silver</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a106pro-silver</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://iconicdigital.myshopify.com/products/6975626674345</id>
+      <title>A106pro-Black</title>
+      <s:price currency="USD">29.04</s:price>
+      <s:sku>25515724-belgium-a106pro-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
